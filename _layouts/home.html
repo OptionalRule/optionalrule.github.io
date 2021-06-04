@@ -1,0 +1,27 @@
+---
+layout: default
+title: Optional Rule
+pagination:
+  enabled: true
+---
+<div class="row">
+    <div class="col">
+      <!-- This loops through the paginated posts -->
+        {% for post in paginator.posts %}
+        {% include post_preview.html %}
+        {% endfor %}
+
+        <!-- Pagination links -->
+
+        {% if paginator.total_pages > 1 %}
+
+        {% include page_controls.html %}
+
+        {% endif %}
+    </div>
+    <div class="col col-lg-2">
+      sidebar
+      {% include video/youtube.html id="69Uy2l0gflY" %}
+    </div>
+  </div>
+

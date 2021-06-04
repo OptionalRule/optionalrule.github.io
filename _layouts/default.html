@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+
+    <!-- favicon stuff-->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Page Metadata -->
+    <title>{{ page.title }}</title>
+</head>
+<body>
+
+<div class="parallax-window" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg">
+    <div class="header-logo text-center">
+        <h1>
+            <a href="/" class="site-title">Optional Rule</a>
+        </h1>
+        <p class="site-description"></p>
+    </div>
+</div>
+{% include navbar2.html %}
+
+<div class="container">{{ content }}</div>
+
+<footer class="footer mt-5 py-3 bg-light">
+    <div class="container">
+        <ul class="list-unstyled small text-muted">
+            <li class="mb-2">Website by <a href="https://www.tech-tavern.com" target="_blank">Tech Tavern</a>.</li>
+            <li class="mb-2">Copyright &copy; 2020-2021 Optional Rule Games.</li>
+            <li class="mb-2">Header Photo by <a href="https://unsplash.com/@dariuszsankowski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Dariusz Sankowsk</a></li>
+          </ul>
+    </div>
+    <div class="footer">
+        <ul class="social-network social-circle">
+          <li><a class="icoTwitter" href="https://twitter.com/optionalrule" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+          <li><a class="icoQuora" href="https://www.twitch.tv/optionalrule" title="Twitch"><i class="fab fa-twitch"></i></a></li>
+          <li><a class="icoFacebook" href="https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw" title="Facebook"><i class="fab fa-youtube"></i></a></li>
+          <li><a class="icoInstagram" href="https://www.instagram.com/optionalrule/" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+      </div>
+</footer>
+<!-- Footer JavaScript -->
+{% include footer_scripts.html %}
+</body>
+</html>

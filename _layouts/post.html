@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article id="{{ page.slug }}">
+    <header class="post-header">
+
+        <div class="post-categories text-center mb-1"><a href="https://optionalrule.com/category/rpg-resources/" rel="category tag">RPG Resources</a> </div>
+        <h1 class="post-title text-center mb-2">{{ page.title }}</h1>
+
+        <div class="post-meta clear-fix text-center fst-italic mb-3">
+            <span class="post-date">
+                {% assign d = page.date | date: "%-d" %}
+                {{ page.date | date: "%B" }}
+                {% case d %}{% when "1" or "21" or "31" %}{{ d }}st{% when "2" or "22" %}{{ d }}nd{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
+                {{ page.date | date: "%Y" }}
+            </span>
+            {% if page.author %}
+                , by <span class="post-author">{{ page.author }}</span>
+            {% endif %}
+        </div>
+        <div class="post-content">
+            {{ content }}
+        </div>
+    </header>
+</article>
+

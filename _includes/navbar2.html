@@ -1,0 +1,28 @@
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-light navbar-expand-md bg-light justify-content-center sticky-top">
+        <div class="container">
+            <a href="#" class="navbar-brand d-flex w-50 me-auto">
+                <img src="/assets/brand/OptionalRuleIcon50x50XparentBG.png" height="40" alt="Optional Rule Logo, A dark hex with rainbow d20 in the center.">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsingNavbar3">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse w-100" id="collapsingNavbar3">
+                <ul class="navbar-nav w-100 justify-content-center">
+                    {% for item in site.data.navbar %}
+                        <li class="nav-item">
+                            <a class="nav-link{% if page.url == item.link %} active{% endif %}" aria-current="page" href="{{ item.link }}">{{ item.name }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+                <ul class="nav navbar-nav ms-auto w-100 justify-content-end">
+                    {% for social in site.data.socials%}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ social.link}}"><i class="fab fa-{{ social.name }}"></i></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </nav>

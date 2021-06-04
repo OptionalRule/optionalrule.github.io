@@ -1,0 +1,23 @@
+[07/Dec/2020:03:08:12] (I): WordPress Instance Info:
+[07/Dec/2020:03:08:12] (I): Home URL : https://optionalrule.com
+[07/Dec/2020:03:08:12] (I): Site URL : https://optionalrule.com
+[07/Dec/2020:03:08:12] (I): WordPress Version : 5.5.3
+[07/Dec/2020:03:08:12] (I): Onboarding Version : 1.1.0
+[07/Dec/2020:03:08:12] (I): Multisite : No
+[07/Dec/2020:03:08:12] (I): Server Info : Apache
+[07/Dec/2020:03:08:12] (I): PHP Version : 7.4.13
+[07/Dec/2020:03:08:12] (I): HTTPS : Yes
+[07/Dec/2020:03:08:12] (I): PHP Max Execution Time : 30
+[07/Dec/2020:03:08:12] (I): PHP Max Input Vars : 1000
+[07/Dec/2020:03:08:12] (I): Max Upload Size : 268435456
+[07/Dec/2020:03:08:12] (I): Plugins:
+[07/Dec/2020:03:08:12] (I): [PLUGIN] Bluehost : v2.4.0 (Bluehost)
+[07/Dec/2020:03:08:12] (I): [PLUGIN] Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd : v6.0.9.0 (SeedProd)
+[07/Dec/2020:03:08:12] (I): [PLUGIN] Elementor : v3.0.14 (Elementor.com)
+[07/Dec/2020:03:08:12] (I): [PLUGIN] EmbedPress : v2.6.2 (WPDeveloper)
+[07/Dec/2020:03:08:12] (I): [PLUGIN] Google Analytics for WordPress by MonsterInsights : v7.13.2 (MonsterInsights)
+[07/Dec/2020:03:08:12] (I): [PLUGIN] Jetpack by WordPress.com : v9.2 (Automattic)
+[07/Dec/2020:03:08:12] (I): [PLUGIN] Neve Pro Addon : v1.3.0 (ThemeIsle)
+[07/Dec/2020:03:08:12] (I): [PLUGIN] Social Icons Widget &amp; Block by WPZOOM : v4.0.5 (WPZOOM)
+[07/Dec/2020:03:08:12] (I): [PLUGIN] Templates Patterns Collection : v1.1.0 (ThemeIsle)
+[07/Dec/2020:03:08:12] (I): [PLUGIN] WPForms Lite : v1.6.3.1 (WPForms)

@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /about
+- name: Feed
+  link: /feed
+- name: Contact
+  link: /contact
+- name: Posts
+  link: /blog.html
