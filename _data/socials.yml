@@ -1,8 +1,12 @@
 - name: twitter
   link: https://www.twitter.com/optionalrule
+  title: Twitter
 - name: twitch
-  link: https://www.twitch.tv/otionalrule
+  link: https://www.twitch.tv/optionalrule
+  title: Twitch
 - name: youtube
   link: https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw
+  title: YouTube
 - name: instagram
   link: https://www.instagram.com/optionalrule/
+  title: Instagram

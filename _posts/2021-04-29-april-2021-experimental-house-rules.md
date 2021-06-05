@@ -6,7 +6,7 @@ date: 2021-04-29T14:05:37+00:00
 permalink: /2021/04/29/april-2021-experimental-house-rules/
 categories:
   - RPG Resources
-
+  - Rules
 ---
 Like most 5th edition Dungeons & Dragons DMs, I&#8217;m constantly tinkering with the rules in hopes of improving the experience at the table. But it takes a bit of time and testing before I consider an idea worthy of officially adding to my game. As such, I&#8217;ve been testing out some ideas on <a href="https://www.twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">Twitter </a>for feedback. These are the various rules I&#8217;ve thrown out for feedback during up through the end of April 2021. After a time, if they seem worthwhile I&#8217;ll officially add them to <a href="https://optionalrule.com/2021/02/10/my-current-5e-house-rules/" target="_blank" rel="noreferrer noopener">my own house rules</a> list.
 

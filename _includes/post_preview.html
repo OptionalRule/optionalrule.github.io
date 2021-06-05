@@ -1,5 +1,13 @@
-<article class="mb-2 pb-4 border-bottom">
+<article class="my-2 py-3 border-bottom shadow-sm">
     <header class="post-header text-center">
+        <!-- 
+        <div class="post-categories text-center mb-1 fs-6 fw-bold">
+            {% for category in post.categories %}
+                <a href="{{site.baseurl}}/categories/{{ category | slugize }}" rel="category tag">{{ category }}</a>
+                {% unless forloop.last %} &middot; {% endunless %}
+            {% endfor %}
+        </div>
+        -->
         <h2 class="post-title mb-0"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <div class="post-meta clear-fix mt-1 mb-2">
             <span class="post-date">
@@ -11,5 +19,5 @@
         </div>
     </header>
     <div class="post-excerpt">{{ post.excerpt | strip_html }}</div>
-    <div class="justify-content-center text-center"><button type="button" class="btn btn-outline-primary">Read More</button></div>
+    <div class="justify-content-center text-center mt-3"><a href="{{ post.url }}" type="button" class="btn btn-outline-primary">Read More</a></div>
 </article>

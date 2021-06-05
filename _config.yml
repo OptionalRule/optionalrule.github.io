@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Optional Rule Games is a small independent Tabletop Roleplaying Game publisher.
   We focus on advice, resources, and community building with a focus on games at play
   and enabling gamers to run their best games.
-baseurl: /" # the subpath of your site, e.g. /blog
-url: "https://www.optionalrule.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://optionalrule.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: optionalrule
 github_username:  streamweaver
 

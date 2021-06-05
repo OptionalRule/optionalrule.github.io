@@ -1,25 +1,8 @@
 ---
 title: Progressive Failures and Rising Tension in 5th Edition
 author: Scott
-type: post
+layout: post
 date: 2021-01-03T18:26:35+00:00
-url: /2021/01/03/progressive-failures-and-rising-tension-in-5th-edition/
-nb_of_words:
-  - 685
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
   - RPG Resources
 
@@ -60,9 +43,6 @@ Obviously, these are fuzzy situations, as with most rulings in 5th edition, the 
 
 **Update 1/6/2021**
 
-Several folks have linked Matt Colville&#8217;s video &#8220;Many Fail States&#8221; which compliments this as well. Thank you so much for the folks that reached out to send me this link. Adding the video here and recommend you check it out for additional thoughts on the topic. <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Several folks have linked Matt Colville&#8217;s video &#8220;Many Fail States&#8221; which compliments this as well. Thank you so much for the folks that reached out to send me this link. Adding the video here and recommend you check it out for additional thoughts on the topic. 
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
-
- [1]: http://Resolution and Consequences
+{% include video/youtube.html id="l1zaNJrXi5Y" %}
