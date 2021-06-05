@@ -1,7 +1,7 @@
 ---
 title: Rime of the Frostmaiden Remixes
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-12-09T15:24:36+00:00
 url: /2020/12/09/rime-of-the-frostmaiden-remixes/
 nb_of_words:

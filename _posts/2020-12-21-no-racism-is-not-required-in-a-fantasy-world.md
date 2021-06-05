@@ -1,7 +1,7 @@
 ---
 title: No, racism is not required in a fantasy world
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-12-21T20:16:03+00:00
 url: /2020/12/21/no-racism-is-not-required-in-a-fantasy-world/
 nb_of_words:

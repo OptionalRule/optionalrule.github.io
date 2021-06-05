@@ -1,7 +1,7 @@
 ---
 title: 'Imagery & Art Resources for RPG Creators'
-author: OptinalRuleAdmin
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-03-10T14:52:42+00:00
 url: /2021/03/10/imagery-art-resources-for-rpg-creators/
 select_gallery_type:

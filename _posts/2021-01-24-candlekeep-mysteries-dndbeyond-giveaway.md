@@ -1,7 +1,7 @@
 ---
 title: Candlekeep Mysteries DnDBeyond Giveaway
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-24T22:45:36+00:00
 url: /2021/01/24/candlekeep-mysteries-dndbeyond-giveaway/
 select_gallery_type:

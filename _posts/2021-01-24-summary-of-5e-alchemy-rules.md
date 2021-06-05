@@ -1,7 +1,7 @@
 ---
 title: Summary of 5e Alchemy Rules
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-24T05:26:46+00:00
 url: /2021/01/24/summary-of-5e-alchemy-rules/
 select_gallery_type:

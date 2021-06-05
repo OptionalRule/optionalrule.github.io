@@ -1,7 +1,7 @@
 ---
 title: '5e Spell Save & Damage Breakdown'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-04-15T16:01:05+00:00
 url: /2021/04/15/5e-spell-save-damage-breakdown/
 select_gallery_type:

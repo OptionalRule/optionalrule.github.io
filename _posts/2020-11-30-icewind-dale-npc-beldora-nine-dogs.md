@@ -1,7 +1,7 @@
 ---
 title: 'Icewind Dale NPC: Beldora Nine-Dogs'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-11-30T15:52:00+00:00
 url: /2020/11/30/icewind-dale-npc-beldora-nine-dogs/
 nb_of_words:

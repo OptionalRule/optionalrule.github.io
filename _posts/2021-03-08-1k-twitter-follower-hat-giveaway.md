@@ -1,7 +1,7 @@
 ---
 title: 1k Twitter Follower Hat Giveaway!
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-03-08T12:01:00+00:00
 url: /2021/03/08/1k-twitter-follower-hat-giveaway/
 select_gallery_type:

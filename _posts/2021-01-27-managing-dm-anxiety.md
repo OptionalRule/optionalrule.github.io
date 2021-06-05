@@ -1,7 +1,7 @@
 ---
 title: Managing DM Anxiety
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-27T16:11:39+00:00
 url: /2021/01/27/managing-dm-anxiety/
 select_gallery_type:

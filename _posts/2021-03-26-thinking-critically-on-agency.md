@@ -1,7 +1,7 @@
 ---
 title: Thinking Critically on Agency
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-03-26T16:57:24+00:00
 url: /2021/03/26/thinking-critically-on-agency/
 categories:

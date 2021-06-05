@@ -1,7 +1,7 @@
 ---
 title: 'Simulating Sadness: Great Weapon Fighter Damage'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-07T15:52:51+00:00
 url: /2021/01/07/simulating-great-weapon-fighter-damage/
 select_gallery_type:

@@ -1,7 +1,7 @@
 ---
 title: Level Up Your Game with these RPGs
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-19T14:20:00+00:00
 url: /2021/01/19/level-up-your-game-with-these-rpgs/
 select_gallery_type:

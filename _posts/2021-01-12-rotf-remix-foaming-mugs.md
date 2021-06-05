@@ -1,7 +1,7 @@
 ---
 title: 'RotF Remix: Foaming Mugs'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-12T11:31:50+00:00
 url: /2021/01/12/rotf-remix-foaming-mugs/
 select_gallery_type:

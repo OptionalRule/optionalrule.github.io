@@ -1,7 +1,7 @@
 ---
 title: 'RotF Remix: The Far North & Ten-Towns'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-04T14:58:28+00:00
 url: /2021/01/04/rotf-remix-the-far-north-ten-towns/
 nb_of_words:

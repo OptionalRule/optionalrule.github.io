@@ -1,7 +1,7 @@
 ---
 title: The Zen of Awarding Experience for Roleplaying
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-02-25T20:06:41+00:00
 url: /2021/02/25/the-zen-of-awarding-experience-for-roleplaying/
 select_gallery_type:

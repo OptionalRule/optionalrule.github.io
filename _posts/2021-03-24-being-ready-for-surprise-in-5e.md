@@ -1,6 +1,6 @@
 ---
 title: Being Ready for Surprise in 5e
-author: Scott Turnbull
+author: Scott Turnbull Turnbull
 layout: post
 date: 2021-03-24T14:10:16+00:00
 

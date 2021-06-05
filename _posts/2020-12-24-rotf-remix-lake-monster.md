@@ -1,7 +1,7 @@
 ---
 title: 'RotF Remix: Lake Monster'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-12-24T18:09:01+00:00
 url: /2020/12/24/rotf-remix-lake-monster/
 nb_of_words:

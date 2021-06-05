@@ -1,7 +1,7 @@
 ---
 title: 'Thrilling Heroics Rules for D&D 5e'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-12-22T00:05:06+00:00
 url: /2020/12/22/thrilling-heroics-rules-for-dd-5e/
 nb_of_words:

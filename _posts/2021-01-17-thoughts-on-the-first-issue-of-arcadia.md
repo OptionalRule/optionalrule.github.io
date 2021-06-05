@@ -1,7 +1,7 @@
 ---
 title: Thoughts on the First Issue of Arcadia
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-17T17:42:13+00:00
 url: /2021/01/17/thoughts-on-the-first-issue-of-arcadia/
 select_gallery_type:

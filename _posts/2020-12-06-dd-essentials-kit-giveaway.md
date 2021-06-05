@@ -1,7 +1,7 @@
 ---
 title: 'D&D Essentials Kit Giveaway!'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-12-06T22:39:50+00:00
 url: /2020/12/06/dd-essentials-kit-giveaway/
 nb_of_words:

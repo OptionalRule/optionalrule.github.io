@@ -1,7 +1,7 @@
 ---
 title: Engaging Players with Magic Item Creation
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-02-17T21:53:23+00:00
 url: /2021/02/17/engaging-players-with-magic-item-creation/
 select_gallery_type:

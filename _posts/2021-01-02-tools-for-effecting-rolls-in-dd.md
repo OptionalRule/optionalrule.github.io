@@ -1,7 +1,7 @@
 ---
 title: 'Tools to Affect Rolls in D&D'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-02T16:57:52+00:00
 url: /2021/01/02/tools-for-effecting-rolls-in-dd/
 nb_of_words:

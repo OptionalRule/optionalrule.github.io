@@ -1,7 +1,7 @@
 ---
 title: Create Captivating Traps
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-21T15:34:00+00:00
 url: /2021/01/21/create-captivating-traps/
 select_gallery_type:

@@ -1,7 +1,7 @@
 ---
 title: Mounted Combat in 5e
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-03-08T13:47:04+00:00
 url: /2021/03/08/mounted-combat-in-5e/
 select_gallery_type:

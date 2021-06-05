@@ -1,7 +1,7 @@
 ---
 title: My Current 5e House Rules
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-02-10T14:40:17+00:00
 url: /2021/02/10/my-current-5e-house-rules/
 select_gallery_type:

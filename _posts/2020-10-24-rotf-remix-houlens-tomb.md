@@ -1,7 +1,7 @@
 ---
 title: 'RotF Remix: Houlen’s Tomb'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-10-24T03:16:00+00:00
 url: /2020/10/24/rotf-remix-houlens-tomb/
 select_gallery_type:

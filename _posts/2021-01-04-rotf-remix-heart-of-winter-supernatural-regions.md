@@ -1,7 +1,7 @@
 ---
 title: 'RotF Remix: Heart of Winter Supernatural Regions'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-04T23:05:48+00:00
 url: /2021/01/04/rotf-remix-heart-of-winter-supernatural-regions/
 nb_of_words:

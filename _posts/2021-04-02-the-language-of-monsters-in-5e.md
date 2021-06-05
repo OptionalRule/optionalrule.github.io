@@ -1,7 +1,7 @@
 ---
 title: The Language of Monsters in 5e
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-04-03T01:20:52+00:00
 url: /2021/04/02/the-language-of-monsters-in-5e/
 select_gallery_type:

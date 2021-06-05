@@ -1,7 +1,7 @@
 ---
 title: 'RotF Remix:  The Inkwell Taphouse, Termalaine'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-11-21T03:10:00+00:00
 url: /2020/11/21/rotf-remix-the-inkwell-taphouse-termalaine/
 select_gallery_type:

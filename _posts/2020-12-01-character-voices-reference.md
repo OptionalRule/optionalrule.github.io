@@ -1,7 +1,7 @@
 ---
 title: Character Voices Reference
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-12-01T04:37:06+00:00
 url: /2020/12/01/character-voices-reference/
 nb_of_words:

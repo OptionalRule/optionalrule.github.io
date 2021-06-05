@@ -1,7 +1,7 @@
 ---
 title: 'Icewind Dale NPC: Arnold Beitz'
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-11T16:33:00+00:00
 url: /2021/01/11/icewind-dale-npc-arnold-beitz/
 select_gallery_type:

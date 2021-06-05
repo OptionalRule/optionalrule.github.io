@@ -1,26 +1,10 @@
 ---
 title: Winter Camp Map
-author: OptinalRuleAdmin
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-11-28T03:08:00+00:00
-url: /2020/11/28/winter-camp-map/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
   - Maps
-
 ---
 I created this map for a camp based random encounter from my Rime of the Frostmaiden campaign using <a href="https://dungeondraft.net/" target="_blank" rel="noreferrer noopener">DungeonDraft</a>.
 

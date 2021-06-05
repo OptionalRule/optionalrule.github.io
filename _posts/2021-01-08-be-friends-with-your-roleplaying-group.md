@@ -1,7 +1,7 @@
 ---
 title: Be Friends with your Roleplaying Group
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-01-08T20:54:44+00:00
 url: /2021/01/08/be-friends-with-your-roleplaying-group/
 select_gallery_type:

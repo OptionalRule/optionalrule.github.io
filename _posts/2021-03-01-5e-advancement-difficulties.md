@@ -1,7 +1,7 @@
 ---
 title: 5e Advancement Difficulties
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-03-01T20:23:08+00:00
 url: /2021/03/01/5e-advancement-difficulties/
 select_gallery_type:

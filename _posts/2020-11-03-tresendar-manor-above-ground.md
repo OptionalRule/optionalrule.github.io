@@ -1,7 +1,7 @@
 ---
 title: Tresendar Manor Above Ground
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2020-11-03T03:01:00+00:00
 url: /2020/11/03/tresendar-manor-above-ground/
 select_gallery_type:

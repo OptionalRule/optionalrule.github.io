@@ -1,7 +1,7 @@
 ---
 title: Cavern Elevator Trap
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-02-05T17:40:00+00:00
 url: /2021/02/05/cavern-elevator-trap/
 select_gallery_type:

@@ -1,7 +1,7 @@
 ---
 title: Monster Resistance Totals in 5e
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-04-07T14:31:07+00:00
 url: /2021/04/07/monster-resistance-totals-in-5e/
 select_gallery_type:

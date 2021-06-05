@@ -1,6 +1,6 @@
 ---
 title: Progressive Failures and Rising Tension in 5th Edition
-author: Scott
+author: Scott Turnbull
 layout: post
 date: 2021-01-03T18:26:35+00:00
 categories:
