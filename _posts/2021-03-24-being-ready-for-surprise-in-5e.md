@@ -1,25 +1,9 @@
 ---
 title: Being Ready for Surprise in 5e
-author: Scott
-type: post
+author: Scott Turnbull
+layout: post
 date: 2021-03-24T14:10:16+00:00
-url: /2021/03/24/being-ready-for-surprise-in-5e/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
-categories:
-  - RPG Resources
+
 
 ---
 <div class="wp-block-image">
