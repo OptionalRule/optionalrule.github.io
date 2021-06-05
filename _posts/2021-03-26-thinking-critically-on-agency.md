@@ -4,20 +4,6 @@ author: Scott
 type: post
 date: 2021-03-26T16:57:24+00:00
 url: /2021/03/26/thinking-critically-on-agency/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
   - Misc
 
