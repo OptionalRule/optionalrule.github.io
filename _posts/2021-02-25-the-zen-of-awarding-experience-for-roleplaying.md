@@ -4,41 +4,31 @@ author: Scott Turnbull
 layout: post
 date: 2021-02-25T20:06:41+00:00
 url: /2021/02/25/the-zen-of-awarding-experience-for-roleplaying/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
   - RPG Resources
 
 ---
 It&#8217;s a weakness of experience based advancement in 5e D&D that it directly addresses only one of the three pillars of play, combat. This forces DMs to either ignore advancement through social interaction and exploration, or create some way to include it. Ignoring it seems a bad option for a &#8216;pillar&#8217; of play and creates a sense of wasted time. Likewise, a poorly crafted experience system for these pillars messes with pacing and play balance. Therefore, **_a simple, clear, and consistent method for including all pillars helps diversify play_** without sacrificing progress. In this post, I&#8217;m going to talk about how I do that with the social interaction pillar. So this is how I award experience for roleplaying in my campaigns.
 
-## Encountering Difficulties {#h-encountering-difficulties}
+## Encountering Difficulties
 
 For the purposes of assigning a difficulty to roleplaying encounters, the <a href="http://dndbeyond.com/sources/basic-rules/building-combat-encounters#EvaluatingEncounterDifficulty" target="_blank" rel="noreferrer noopener">Encounter Difficulty</a> system works well enough. Of course for these encounters, we don&#8217;t have to worry about number of foes or individual party thresholds. So we just need a method to assess the significance of a roleplaying event, the social equivalent of difficulty. To do that we need a simple statement about assessing difficulty. In terms of roleplaying, that statement is **_&#8220;what is at stake, and how much am I changing the world?&#8221;_**
 
-## Difficulties of Stakes & Change  {#h-difficulties-of-stakes-change}
+## Difficulties of Stakes & Change 
 
 For roleplaying to be a learning experience, it has to produce some **_gail or loss (stakes) and change the situation_** in some meaningful way. Additionally, just as combat is a series of rolls, maneuvers, and choices, so is a roleplaying encounter. Therefore it requires a complex series of interactions that result in a gain or loss that changes the world. With this as a basis, we can begin to classify the roleplaying encounter in terms of Encounter Difficulty. Those difficulties for roleplaying encounters being **_Easy, Medium, Hard, and Profound (i.e. Deadly)_**.
 
 Rating the difficulty of a roleplaying encounter usually comes afterwards, once everyone has set the stakes and sees the result of the change. Both stakes and change can be quickly rated as minor or major. A minor stake or change is an incremental shift in a relationship, access, or safety. A major stake or change puts something valuable to the players in significant danger, and causes some big shift in the way the world works. Of course it should be noted, that **_what is considered major or minor shift as the players increase in power_**. Therefore what is a major world change at 3rd level, might be insignificant to a 16th level group. It&#8217;s all relative to the expected influence the party has on the world.
 
-### Assigning Experience Point Values {#h-assigning-experience-point-values}
+### Assigning Experience Point Values
 
-<div class="wp-block-image">
-  <figure class="alignright size-large"><img loading="lazy" width="480" height="319" src="https://optionalrule.com/wp-content/uploads/2021/02/RPDifficulties.jpg" alt="A table showing the cross reference between minor and manor stakes and changes." class="wp-image-626" srcset="https://optionalrule.com/wp-content/uploads/2021/02/RPDifficulties.jpg 480w, https://optionalrule.com/wp-content/uploads/2021/02/RPDifficulties-300x199.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /><figcaption>Guide for Determining Difficulty</figcaption></figure>
-</div>
+{% include imageframe.html
+  figure_class="float-end ms-4"
+  src="/assets/img/RPDifficulties-480x319.jpg"
+  alt="Comparative chart showing relationship betwen change and stakes."
+  height="330" width="480"
+  caption="Guide for determining difficulty"
+ %}
 
 What we want out of all of this is to assign an experience point value for a set of roleplaying encounters. So taking the method above we determine if the difficulty of the roleplaying challenge as Easy, Medium, Hard, or Profound (i.e. Deadly). 
 
@@ -58,7 +48,7 @@ Once you have a Difficulty, just Assign an experience value to it based on the e
 
 Therefore, a Hard roleplaying encounter for a party of 4 level 2 characters would be worth (450xp * 4 characters) 1800 xp. Some DMs are tempted to award roleplaying experience to individual characters and my advice is not to. The adventuring group in an RPG is connected to one another for good or bad. This means individual experience awards creates a scenario where the character talking gets all the reward, but the whole party deals with the fallout. So be sure to **avoid situations of individual reward and shared risks**. Additionally, individual rewards needlessly penalize players with a more quiet or passive playstyle.
 
-## Conclusion {#h-conclusion}
+## Conclusion
 
 Overall, this method is more simple than it might sound from reading this article. Just quickly determine the overall value of what was at stake and how much the world changed. Then give that an equivalent CR value, multiply it by the number of players in the party and award the experience. This can be useful in rewarding proactive play and ideas that don&#8217;t involve combat, while still focusing the party on moving forward. Additionally, systematically thinking in this way may help DMs develop roleplaying encounters with stakes and change in mind. Thus enhancing their overall game.
 

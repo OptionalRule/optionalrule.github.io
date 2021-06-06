@@ -77,3 +77,13 @@ a.site-title, .post-title a {
     width: 100%;
     height: 100%;
 }
+
+.data-table tbody tr td,
+.data-table thead tr th {
+    text-align: center;
+}
+
+thead tr th:first-child,
+tbody tr td:first-child {
+  text-align: left;
+}

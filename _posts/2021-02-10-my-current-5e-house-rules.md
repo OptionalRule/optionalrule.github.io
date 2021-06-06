@@ -2,22 +2,6 @@
 title: My Current 5e House Rules
 author: Scott Turnbull
 layout: post
-date: 2021-02-10T14:40:17+00:00
-url: /2021/02/10/my-current-5e-house-rules/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
   - RPG Resources
 
@@ -26,7 +10,7 @@ I get questions frequently about what house rules I&#8217;m using in my own 5th 
   
 By and large, I stay fairly houserule light. This is because I don&#8217;t think most house rules add anything to a game. More often than not, people are compensating for some cognitive disconnect but it doesn&#8217;t bring much to a group at play. So more or less, I use rules as is with the exception of the one&#8217;s I&#8217;ve listed below.
 
-## House Rules {#h-house-rules}
+## House Rules
 
 House rules are additions or modifications to the mechanics of a game. This means they modify or add to a rule in place. 
 
@@ -44,13 +28,13 @@ House rules are additions or modifications to the mechanics of a game. This mean
 
 **Blocked by Enemies:** You cannot move through an enemy square normally. You may attempt an Dexterity (Acrobatics) check opposed by the enemies Strength or Dexterity check. Success means you are able to move through their square as if it were difficult terrian. 
 
-**Mounted Combat:** Players interested may use the <a href="https://optionalrule.com/2021/03/08/mounted-combat-in-5e/" target="_blank" rel="noreferrer noopener">mounted combat rules</a> I developed. 
+**Mounted Combat:** Players interested may use the [mounted combat rules]({% link _posts/2021-03-08-mounted-combat-in-5e.md %}) I developed. 
 
-### **Spells** {#h-spells}
+### **Spells**
 
   * **Mage Armor** uses the higher of the targets Dex modifier, or casters primary spell ability modifier.
 
-## Table Rules {#h-table-rules}
+## Table Rules
 
 Table rules are conventions or social norms that use an established rule in a different way. This means it doesn&#8217;t modify or add to an existing rule, but uses that rule in a different way.
 
@@ -73,9 +57,6 @@ These are just social contract elements of my sessions I&#8217;d ask you to keep
   * **Be on time and communicate.** If the group sets up a time and place, it&#8217;s respectful of everyone else to be on time and prepared.
   * **Don&#8217;t Roll Unless Asked:** &#8217;nuff said.
   * Lean into some of the ideas I put out there on my blog, bring your own creativity into the game but remember it&#8217;s a shared space.
-      * [Thrilling Heroics][1] (especially this one)
-      * [Skill Challenges in 5E][2]
-      * <a href="https://optionalrule.com/2021/01/03/progressive-failures-and-rising-tension-in-5th-edition/" target="_blank" rel="noreferrer noopener">Progressive Failures and Rising Tension</a>
-
- [1]: https://optionalrule.com/2020/12/22/thrilling-heroics-rules-for-dd-5e/
- [2]: https://optionalrule.com/2021/02/09/skill-challenges-in-5e/
+      * [Thrilling Heroics]({% link _posts/2020-12-22-thrilling-heroics-rules-for-dd-5e.md %}) (especially this one)
+      * [Skill Challenges in 5E]({% link _posts/2021-02-09-skill-challenges-in-5e.md %})
+      * [Progressive Failures and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %})

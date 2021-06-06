@@ -29,7 +29,7 @@ url: "https://optionalrule.github.io" # the base hostname & protocol for your si
 twitter_username: optionalrule
 github_username:  streamweaver
 
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 
 # Build settings
 theme: minima
@@ -88,7 +88,7 @@ pagination:
   enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
-  debug: true 
+  debug: false
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
   collection: 'posts'

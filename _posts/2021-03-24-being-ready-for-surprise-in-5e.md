@@ -6,11 +6,15 @@ date: 2021-03-24T14:10:16+00:00
 
 
 ---
-<div class="wp-block-image">
-  <figure class="alignright size-large"><img loading="lazy" width="480" height="360" src="https://optionalrule.com/wp-content/uploads/2021/03/kenku-ambush480x360.jpg" alt="Two adventurers entering a room, a kenku thief waits in ambush with a dagger." class="wp-image-1048" srcset="https://optionalrule.com/wp-content/uploads/2021/03/kenku-ambush480x360.jpg 480w, https://optionalrule.com/wp-content/uploads/2021/03/kenku-ambush480x360-300x225.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /><figcaption>Image credit Wizards of the Coast</figcaption></figure>
-</div>
-
 Surprise is one of the most consistently asked about elements of 5e Dungeons & Dragons, and a source of constant confusion. This is partially because surprise ran differently in previous editions of the game. But also, the narrow examples and explanation make it unclear when surprised would be a factor. Lastly, the way surprise works with the imitative system can seem odd and counter-intuitive to many players. The solution is to break down surprise for what it is, and step away from the individual rolls to understand encounters holistically instead of procedurally. 
+
+{% include imageframe.html
+  figure_class="float-end ms-4"
+  src="/assets/img/kenku-ambush480x360-480x330.jpg"
+  alt="A rogue waiting in ambush with a dagger as a group enters the room."
+  height="360" width="480"
+  caption="Image credit Wizards of the Coast"
+ %}
 
 ## There Is No Surprise Round {#h-there-is-no-surprise-round}
 

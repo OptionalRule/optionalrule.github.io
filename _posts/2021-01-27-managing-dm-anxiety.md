@@ -2,45 +2,36 @@
 title: Managing DM Anxiety
 author: Scott Turnbull
 layout: post
-date: 2021-01-27T16:11:39+00:00
-url: /2021/01/27/managing-dm-anxiety/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
   - Misc
 
 ---
-<div class="wp-block-image">
-  <figure class="alignright is-resized"><img loading="lazy" src="https://optionalrule.com/wp-content/uploads/2021/01/gecae8b3d7ae437aa95a7da6fe705c53601d7cc21830aa5ac2fa8568c9abd34a741a3a34d8e8724d18127182f5fd26cc2_640_anxiety.jpg" alt="A woman alone colored blue, standing in a crowd of faded people." width="320" height="213" title="Photo by Graehawk" /><figcaption>photo by <a href="https://pixabay.com/users/graehawk-4550074/" target="_blank" rel="noreferrer noopener">graehawk</a></figcaption></figure>
-</div>
+
+
 
 How to manage anxiety as a Dungeon Master (DM) in Dungeons and Dragons has got to be the most common question I see right after, &#8220;first time DM, any advice&#8221;. Naturally this makes sense, as being a DM sits at an intersection of a number of high anxiety pursuits. That is, it combines the difficulties of managing social groups, event planning, writing, as well as improvisation and performance. Additionally, you represent every enemy, obstacle, and challenge to a group of people who themselves may be feeling similar anxiety. Given this, it&#8217;s no wonder DMs ask for advice and find anxiety to be one of the major roadblocks to running a game.
 
 Anxiety isn&#8217;t one thing, and it has a wide variety of sources and expressions. I&#8217;ve had my own lifelong struggle with anxiety, and developing a management strategy has enabled me to enjoy games more. Regardless of the source and expression of your own anxiety, finding an effective strategy that works for you might free you to enjoy DMing too. Therefore, I thought to share some of what is effective for me and hope you find something useful to inspire you to get out and run more games. 
 
-## Marathon Training {#h-marathon-training}
+## Marathon Training
+
+{% include imageframe.html
+  figure_class="float-end mx-4"
+  src="/assets/img/dm_anxiety-480x320.jpg"
+  alt="A woman highlighted but alone in a crowd."
+  height="320" width="480"
+  caption="photo by graehawk"
+ %}
 
 I&#8217;ll start out by saying the obvious, **_I think the best strategy is to seek professional help._** Here in the US, we incorrectly think of emotional health like a trip to the emergency room. In reality, **_a good mental health professional is more like a personal trainer than an emergency room doctor._** Firstly, you are not broken and you do not need to be fixed. Secondly, life is one big marathon of anxiety, and if you&#8217;re going to run a marathon, you should have a trainer. Lastly, bringing in an outside perspective is going to give you tools you may not have developed on your own.
 
 So, take my advice, get a professional involved and go out and run some great games. With this said, let me tell you some specific things I do that make my anxiety manageable and help me enjoy running more.
 
-## Change the Tape in your Head {#h-change-the-tape-in-your-head}
+## Change the Tape in your Head
 
 For me, anxiety will play on an endless loop in my head, regardless of what I do. This can be a negative verbal dialog, imagery, or just a vague emotion at the edge of my thoughts. Of course, I&#8217;ve tried to silence it, but turning it off just isn&#8217;t an option for me. Instead, I realize it didn&#8217;t have to be the only loop in my head and set about creating a positive dialog with myself. As a result, **_I learned to create a conversation with my anxiety, I learned I could reason with it._**
 
-### Be your own Friend {#h-be-your-own-friend}
+### Be your own Friend
 
 If I found myself with undermining thoughts, I stop and ask myself a question. **_Is this true, and how do you know it&#8217;s true?_** That question alone can shift focus or bring my emotional state down. For example, some of the anxiety driven questions and responses I might develop by asking this could be:
 
@@ -53,19 +44,19 @@ If I found myself with undermining thoughts, I stop and ask myself a question. *
 
 When trying to develop a dialog with yourself, my biggest advice is this. **_Think about what you would say to a friend with the same questions. Then, say that to yourself._**
 
-### Write down your thoughts {#h-write-down-your-thoughts}
+### Write down your thoughts
 
 Naming your emotions can be one of the most powerful tools in managing them. That is to say, drag those monsters out of the closet and into the light. Likely you will discover they are not so ominous and frightening. Sometimes this can be as simple as naming an emotion and saying it out loud. Likewise, writing it down can be even more powerful to realize anxiety for what it is. Specifically, that **_anxiety is a state of emotion, not a state of being._** You feel happy, you feel sad, you feel excited, you feel anxious, but it doesn&#8217;t mean you ARE any of those things. **_Write it down and externalize it to see it for what it is._**
 
 So, grab a pen and paper and just write down any emotion you can identify. Then take a moment to look what you&#8217;ve written, and see if it doesn&#8217;t feel less intense or urgent.
 
-### Shift your Emotional Focus {#h-shift-your-emotional-focus}
+### Shift your Emotional Focus
 
 Nobody feels just one thing, but the strength of an emotion like anxiety can make us forget that. So, take some time and **_ask yourself what else you are feeling and name or write that down_**. For example, you might be feeling excited for an upcoming encounter or plot reveal. Alternatively, you might be curious to see how players are going to engage with some lore or roleplay with your NPCs. Despite how large it seems; anxiety can&#8217;t be the only emotion you feel about an upcoming session. Therefore, be purposeful about spending time with those other emotions by naming them and giving them more attention.
 
 Doing this might help you realize that, **_although your anxiety is part of you, you are not your anxiety._**
 
-## Get Physical {#h-get-physical}
+## Get Physical
 
 Our physical reality strongly influences our emotional reality and vice versa. Therefore, take some time to pay attention to your body as part of your anxiety management strategy. This isn&#8217;t going to be rocket science, and we all know these things for the most part. However, the challenge is developing a routine to actually do some of them. Think about using your anxiety as a tool to remind yourself to move your body and consider any of the following.
 
@@ -76,7 +67,7 @@ Our physical reality strongly influences our emotional reality and vice versa. T
   * **Ten minutes of yoga or stretches.** You don&#8217;t need a half hour session, just take five or ten minutes of something to loosen you up. I find hip openers and shoulder stretches to be particularly effective before a game.
   * **Posture.** Stand tall, spread your arms and expand your chest. Rotate your hips forward and breath before or during a game.
 
-## Use your DM Toolbox {#h-use-your-dm-toolbox}
+## Use your DM Toolbox
 
 RPG communities are full of helpful frameworks, tools and techniques to streamline how you can run a game. In fact, there are so many options that they can be sources of anxiety themselves. The right framework lets you focus on the most important aspects of your game and cut down on confusion and can be very effective in bringing your anxiety down. So, don&#8217;t let yourself get overwhelmed and take these for what they are, a buffet of tools you can pick from when you&#8217;re ready. 
 
@@ -85,7 +76,7 @@ RPG communities are full of helpful frameworks, tools and techniques to streamli
   * <a href="https://slyflourish.com/rotldm_template.html" target="_blank" rel="noreferrer noopener">Lazy DM Prep</a>, from Return of the Lazy Dungeon Master by Sly Flourish.
   * <a href="https://www.dungeonworldsrd.com/gamemastering/fronts/" target="_blank" rel="noreferrer noopener">The Fronts System</a>, I know it from Dungeon World by I think it predates that.
   * <a href="https://1d4chan.org/wiki/Five_Room_Dungeon" target="_blank" rel="noreferrer noopener">Five Room Dungeon</a> encounter design. 
-  * Tap communities on twitter, reddit, and follow some [great blogs][1] for advice and more.
+  * Tap communities on twitter, reddit, and follow some [great blogs](/) for advice and more.
   * Follow your favorite RPG advice <a href="https://www.twitch.tv/optionalrule" target="_blank" rel="noreferrer noopener">Twitch</a> and <a href="https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw" target="_blank" rel="noreferrer noopener">YouTube</a> discussions and join in that conversation.
   * Listen to Matt <a href="https://www.youtube.com/user/mcolville" target="_blank" rel="noreferrer noopener">Colville</a>, like a lot of Matt.
 
@@ -105,5 +96,3 @@ I hope you found something in this post to help you manage your own anxiety bett
   * <a href="https://www.amazon.com/gp/product/B004HD61H2/ref=dbs_a_def_rwt_bibl_vppi_i5" target="_blank" rel="noreferrer noopener">Peace is Every Breath</a> by Thich Nhat Hanh.
   * <a href="https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020" target="_blank" rel="noreferrer noopener">The Happiness Hypothesis</a> by Jonathan Haidt.
   * <a href="https://www.amazon.com/Hardcore-Self-Help-Robert-Duff-ebook/dp/B00NDO429U" target="_blank" rel="noreferrer noopener">Hardcore Self Help: F**K Anxiety</a> by Robert Duff
-
- [1]: https://optionalrule.com/category/rpg-resources/

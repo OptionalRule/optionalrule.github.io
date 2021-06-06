@@ -2,66 +2,17 @@
 title: 'Imagery & Art Resources for RPG Creators'
 author: Scott Turnbull
 layout: post
-date: 2021-03-10T14:52:42+00:00
-url: /2021/03/10/imagery-art-resources-for-rpg-creators/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
   - Misc
 
 ---
-<div class="wp-block-getwid-table-of-contents alignright is-style-default">
-  <ul class="wp-block-getwid-table-of-contents__list">
-    <li>
-      <a href="#h-understanding-use">Understanding Use</a>
-    </li>
-    <li>
-      <a href="#h-guides">Guides</a>
-    </li>
-    <li>
-      <a href="#h-resources">Resources</a><ul>
-        <li>
-          <a href="#h-official-5e-sources">Official 5e Sources</a>
-        </li>
-        <li>
-          <a href="#h-stock-art-imagery-services">Stock Art & Imagery Services</a>
-        </li>
-        <li>
-          <a href="#h-artist-portfolio-portals">Artist Portfolio Portals</a>
-        </li>
-        <li>
-          <a href="#h-free-art-and-imagery-repositories">Free Art and Imagery Repositories</a>
-        </li>
-        <li>
-          <a href="#h-other-online-art-sources">Other Online Art Sources</a>
-        </li>
-        <li>
-          <a href="#h-open-art-archives">Open Art Archives</a>
-        </li>
-      </ul>
-    </li>
-  </ul>
-</div>
-
 Evocative artwork and imagery is a great add to any 5e fan resource, but finding usable images can be a challenge. I aggregated this list of resources for myself to help navigate the the different resources for potentially usable artwork in RPGs. I also asked some followers on twitter for their recommendations and aggregate all of those together here. I hope you&#8217;ll find something useful to help you create more works and **_honor the artists who put so much work into their own creations_**.
 
 As with any guide to using images, I need to remind everyone this is **_not a legal guide to IP_**. When using anything, keep the published policies in mind and always follow the artists guidance on terms of use, typically supplied at the resource. Also, remember to credit and link the artist if you can.
 
 A few of these policies or resources or 5e specific because that is the most common system by far. Also, it should be noted, WotC has done a lot of work to make material available for fans, particularly for free fan material.
 
-## Understanding Use {#h-understanding-use}
+## Understanding Use
 
 These are just a few links that can help you understand a few important context to using images related to RPGs. It is NOT legal advice and always check the original artists copyright statement for acceptable use.
 
@@ -70,25 +21,25 @@ These are just a few links that can help you understand a few important context 
   * <a href="https://dnd.wizards.com/articles/features/systems-reference-document-srd" target="_blank" rel="noreferrer noopener">Open Gaming License</a> &#8211; There has been a lot of drift over time with this. The original OGL was published as part of 3rd Edition but has undergone some revisions since. In 5e terms this details what you can use for your own published works, otherwise you&#8217;ll have to publish under a resource like DMs Guild.
   * <a href="https://creativecommons.org/use-remix/" target="_blank" rel="noreferrer noopener">Creative Commons</a> &#8211; This is by far the most common license granted by artists for use. There are some variations that determine how to properly use it and it&#8217;s worth knowing CC terms.
 
-## Guides {#h-guides}
+## Guides
 
 There are a few guides on how to use art and imagery I found particularly useful and I wanted to link those as well. Again, these are not legal advice.
 
   * <a href="https://worldbuilderblog.me/2017/09/28/art-resources-for-rpg-publishers/" target="_blank" rel="noreferrer noopener">Art Resources for RPG Publishers</a> by James Intercoso.
   * <a href="https://www.reddit.com/r/UnearthedArcana/comments/8p0vnl/cite_the_art_you_use_the_why_and_how_highly/" target="_blank" rel="noreferrer noopener">Reddit Guide on Using and Citing Art</a>
 
-## Resources {#h-resources}
+## Resources
 
 What follows here are libraries, repositories, and other services I usually look across for usable art when putting together content. If you have any suggestions for good art resources with allowable use policies, drop me a DM on <a href="https://www.twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">twitte</a>r and I&#8217;ll try to add it. 
 
-### Official 5e Sources {#h-official-5e-sources}
+### Official 5e Sources
 
 These are a few official sources of art and media from Wizards of the Coast.
 
   * <a href="https://www.dmsguild.com/browse.php?keywords=%22DMs+Guild+Creator+Resource%22" target="_blank" rel="noreferrer noopener">DMs Guild List of Official Creator Resources</a> &#8211; Lots of stock art for use from WotC. In most cases these are allowable in DMs Guild products only, check the terms of use.
   * <a href="https://dnd.wizards.com/articles/media-resources/" target="_blank" rel="noreferrer noopener">WotC&#8217;s list of Media Resource</a> &#8211; Free art, wallpapers and more.
 
-### Stock Art & Imagery Services {#h-stock-art-imagery-services}
+### Stock Art & Imagery Services
 
 Various stock art option exists and are commonly used by a lot of fan creators, so you&#8217;ll likely see some familiar images. Be sure to check out the terms of use for the artwork. Some allow only some types of publications, some have different prices for online media versus print quality images, etc.
 
@@ -99,7 +50,7 @@ Various stock art option exists and are commonly used by a lot of fan creators, 
   * <a href="https://stock.adobe.com/search?k=fantasy" target="_blank" rel="noreferrer noopener">Adobe Stock</a>
   * <a href="https://www.dreamstime.com/" target="_blank" rel="noreferrer noopener">Dreamstime</a>
 
-### Artist Portfolio Portals {#h-artist-portfolio-portals}
+### Artist Portfolio Portals
 
 A few online services offer artists a place to feature their work and share their portfolio. This is a great source of inspiration but it&#8217;s important to understand this is not there for us to use any way we want. Much of the art is under artist copyright, some is there under CC terms but you&#8217;ll have to check the source. My tip here is to look for something using &#8220;creative commons&#8221; as a search term.
 
@@ -115,7 +66,7 @@ A few sites specialize in royalty free or fair use artwork. Don&#8217;t just ass
   * <a href="https://www.pexels.com/" target="_blank" rel="noreferrer noopener">Pexels</a> &#8211; More Free stock art and videos.
   * <a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank" rel="noreferrer noopener">Wikimedia Commons</a> &#8211; Lots of Creative Commons and open art via the folks from Wikimedia.
 
-### Other Online Art Sources {#h-other-online-art-sources}
+### Other Online Art Sources
 
 A number sites have free images or bundles of stock art you can buy, typically for video games. However, this may provide good art for tabletop games as well. From icons to page boarders, this is a bit of a catch all category.
 
@@ -125,7 +76,7 @@ A number sites have free images or bundles of stock art you can buy, typically f
   * <a href="http://itch.io" target="_blank" rel="noreferrer noopener">Itch.io</a> &#8211; A very cheap resource, similar to humble it&#8217;s not just for games. They also sell things like art packs etc.
   * <a href="https://www.fontsquirrel.com/" target="_blank" rel="noreferrer noopener">FontSquirrel</a> is a repository of all kinds of font to us.
 
-### Open Art Archives {#h-open-art-archives}
+### Open Art Archives
 
 Many museums and galleries have digital archives with some works in the public domain.
 
