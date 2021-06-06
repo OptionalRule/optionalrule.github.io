@@ -3,9 +3,7 @@ title: 'RotF Remix: Foaming Mugs'
 author: Scott Turnbull
 layout: post
 categories:
-  - Encounter
-
-
+  - Encounters
 ---
 This is my remix of the Foaming Mugs quest from the 5th edition Dungeons and Dragons module, <a href="https://dnd.wizards.com/products/tabletop-games/rpg-products/icewind-dale-rime-frostmaiden" target="_blank" rel="noreferrer noopener">Icewind Dale: Rime of the Frostmaiden</a>. You can use this to spice up your encounter with a bit more intrigue, potential negotiation and roleplay. It also ties back to The Chardalyn Syndicate, a faction that is part of the [Far North & Ten-Towns][1] remix posted here previously. Check out the [RotF][2] and Remix tags on this site for more remixes.
 

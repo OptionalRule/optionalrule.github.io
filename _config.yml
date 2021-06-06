@@ -20,14 +20,23 @@
 
 title: Optional Rule
 email: scott@optionalrule.com
+tagline: "Fun and useful insight for 5E and TTRPGs in play."
 description: >- # this means to ignore newlines until "baseurl:"
-  Optional Rule Games is a small independent Tabletop Roleplaying Game publisher.
-  We focus on advice, resources, and community building with a focus on games at play
-  and enabling gamers to run their best games.
+  Optional Rule is a blog for DMs and Players alike of 5e and any tabletop 
+  roleplaying game. It offers rules, insight, analysis, and resources that help
+  pepole run games and enhance their play.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://optionalrule.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: optionalrule
 github_username:  streamweaver
+logo: /assets//brand/OptionalRuleIcon50x50XparentBG.png
+social: 
+  name: OptionalRule
+  links:
+    - https://www.twitter.com/optionalrule
+    - https://www.twitch.tv/optionalrule
+    - https://www.instagram.com/optionalrule
+    - https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw
 
 permalink: /:year/:month/:day/:title/
 
@@ -62,22 +71,6 @@ plugins:
 # SASS File locations
 # sass:
 #  sass_dir: assets/css
-
-# Pagination v1 pagination code
-# paginate: 5
-# paginate_path: "/page/:num/"
-
-# Social Media
-social_links:
-  twitter: optionalrule
-  instagram: optionalrule
-  youtube_channel: UCi7AoQ6KbaZQqhdO7heKPqw
-  youtube_channel_name: Optional Ruile
-  twitch: otionalrule
-  # keybase: jekyll
-  # github:  jekyll
-  # linkedin: jekyll
-  # youtube: jekyll
 
   ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem

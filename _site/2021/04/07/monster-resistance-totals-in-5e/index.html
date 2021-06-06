@@ -1,0 +1,984 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+    <!-- Atom Feed -->
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for petefreitag.com" href="/feed.xml" />
+
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/assets/css/styles.css">
+
+    <!-- favicon stuff-->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Page Metadata -->
+    <title>Monster Resistance Totals in 5e</title>
+
+    <!-- SEO Plugin Stuff -->
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Monster Resistance Totals in 5e | Optional Rule</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Monster Resistance Totals in 5e" />
+<meta name="author" content="Scott Turnbull" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Taking down monsters in 5th Edition Dungeons &amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (W), Resistances (R), or Immunities (I). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM." />
+<meta property="og:description" content="Taking down monsters in 5th Edition Dungeons &amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (W), Resistances (R), or Immunities (I). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM." />
+<link rel="canonical" href="https://optionalrule.github.io/2021/04/07/monster-resistance-totals-in-5e/" />
+<meta property="og:url" content="https://optionalrule.github.io/2021/04/07/monster-resistance-totals-in-5e/" />
+<meta property="og:site_name" content="Optional Rule" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-04-07T10:31:07-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Monster Resistance Totals in 5e" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Scott Turnbull"},"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://optionalrule.github.io/2021/04/07/monster-resistance-totals-in-5e/"},"url":"https://optionalrule.github.io/2021/04/07/monster-resistance-totals-in-5e/","headline":"Monster Resistance Totals in 5e","dateModified":"2021-04-07T10:31:07-04:00","datePublished":"2021-04-07T10:31:07-04:00","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://optionalrule.github.io/assets//brand/OptionalRuleIcon50x50XparentBG.png"},"name":"Scott Turnbull"},"description":"Taking down monsters in 5th Edition Dungeons &amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (W), Resistances (R), or Immunities (I). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta itemprop="description" name="description" content="Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepol..." />
+</head>
+<body>
+
+<div class="parallax-window overflow-hidden" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg">
+    <div class="header-logo text-center">
+        <h1>
+            <a href="/" class="site-title">Optional Rule</a>
+        </h1>
+        <p class="site-description"></p>
+    </div>
+</div>
+<!-- Navigation -->
+
+<div class="sticky-top bg-light shadow-sm border-top border-dark">
+    <nav class="navbar navbar-light navbar-expand-md bg-light justify-content-center sticky-top container">
+        <a href="" class="navbar-brand d-flex w-50 me-auto">
+            <img src="/assets/brand/OptionalRuleIcon50x50XparentBG.png" height="40"
+                alt="Optional Rule Logo, A dark hex with rainbow d20 in the center.">
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerMain"
+            aria-controls="navbarTogglerMain" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="navbar-collapse collapse w-100" id="navbarTogglerMain">
+            <ul class="navbar-nav w-100 justify-content-center">
+                
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page"
+                        href="/">Home</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page"
+                        href="/about/">About</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page"
+                        href="/feed.xml">Feed</a>
+                </li>
+                
+            </ul>
+            <ul class="nav navbar-nav ms-auto w-100 justify-content-end">
+                <li class="nav-item">
+                
+                    <a class="nav-link d-inline" href="https://www.twitter.com/optionalrule"><i class="fab fa-twitter"></i></a>
+                
+                    <a class="nav-link d-inline" href="https://www.twitch.tv/optionalrule"><i class="fab fa-twitch"></i></a>
+                
+                    <a class="nav-link d-inline" href="https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw"><i class="fab fa-youtube"></i></a>
+                
+                    <a class="nav-link d-inline" href="https://www.instagram.com/optionalrule/"><i class="fab fa-instagram"></i></a>
+                
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+
+<div class="container"><article id="monster-resistance-totals-in-5e">
+    <header class="post-header">
+
+            <div class="post-categories text-center mb-1">
+                
+                    <a href="/category/analysis" rel="category tag">Analysis</a>
+                    
+                
+            </div>
+
+        <h1 class="post-title text-center mb-2">Monster Resistance Totals in 5e</h1>
+
+        <div class="post-meta clear-fix text-center fst-italic mb-3">
+            <span class="post-date">
+                
+                April
+                7th,
+                2021
+            </span>
+            
+                , by <span class="post-author">Scott Turnbull</span>
+            
+        </div>
+        <div class="post-content">
+            <p>Taking down monsters in 5th Edition Dungeons &amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (<strong>W</strong>), Resistances (<strong>R</strong>), or Immunities (<strong>I</strong>). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM.</p>
+
+<h2 id="the-reoccuring-context">The Reoccuring Context</h2>
+
+<p>Two topics that come up often online are:</p>
+
+<ul>
+  <li>Do resistances matter and how much?</li>
+  <li>Does it matter if a DM lets players reskin spells to any damage or save type?</li>
+</ul>
+
+<p>My instinctive answer to these questions has always been ‘absolutely’, but getting numbers is the only real way to answer. So I set about doing just that.</p>
+
+<h2 id="getting-data-to-parse">Getting Data to Parse</h2>
+
+<p>Reliable structured data is difficult to get for many things in 5e. This is something that I urge WotC to do something about, but that’s a discussion for another day.</p>
+
+<p>I ran across <a href="https://www.reddit.com/r/UnearthedArcana/comments/8zvr6s/the_great_dd5e_monster_spreadsheet/" target="_blank" rel="noreferrer noopener">The Great D&amp;D5e Monster Spreadsheet</a> thread on reddit. This is a great fan effort of manually entered data for 799 monsters from various core books, as well as many Homebrew monster. I choose to focus only on monster stat blocks from official sources and <a href="https://docs.google.com/spreadsheets/d/1sx7Cc94yHu3UPjHf0uv1mHA8IoVyTxB4UWqGyLmUm6g/edit?usp=sharing" target="_blank" rel="noreferrer noopener">copied my own version of the spreadsheet</a> to clean up a bit. The numbers and analytics you see here are from that data. If you run across an error or have a comment about it, just drop me a <a href="https://www.twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">line on twitter</a>.</p>
+
+<p>I make some light observations about the data but there are other creators more adept than I about obptimization. My goal here is to get the numbers.</p>
+
+<h2 id="monster-stat-block-totals-grouped-by-cr">Monster Stat Block Totals Grouped by CR</h2>
+
+<p>I’ve shared a <a href="https://docs.google.com/spreadsheets/d/1O2dyuRcBcMojO7cCwT5kHKRAK0AMenAQpCmazgCEn38/edit?usp=sharing" target="_blank" rel="noreferrer noopener">spreadsheet of this chart</a> for anyone to view, but had to use the image below because my poor website didn’t handle the table very well. This includes both damage types and conditions and some numbers appear large because of multiple versions of a similar monster. Still, some of the results surprised me. In no particular order:</p>
+
+<ul>
+  <li>The number of resistances sub CR 5 surprised me. PCs generally don’t have access to magic weapons in that range so this makes combat harder and more varied. I have to wonder if this is a factor in why the game seems to work so much better in tier 1 and 2.</li>
+  <li>Cold resistance was higher than I expected, which is odd given how few cold damage spells there are. For reference there are only 5 spells that do cold damage in the PHB.</li>
+  <li>Poison and Poisoned resistance was very high. Again, the number of spells and abilities that do poison damage are very few. Only 3 spells in the PHB do poison damage.</li>
+  <li>Many people on twitter commented on the relatively few weaknesses. I like this however as monsters are difficult to keep around for more than a few rounds already. If weakness was common, too many Boss fights would be one round combats.</li>
+</ul>
+
+<table class="table table-hover table-striped data-table">
+   <thead>
+   <tr>
+      <th>&nbsp;</th>
+      <th colspan="3">&lt; 5</th>
+      <th colspan="3">6 - 10</th>
+      <th colspan="3">11-15</th>
+      <th colspan="3">16 - 20</th>
+      <th colspan="3">20 &lt;</th>
+      <th colspan="3">Totals</th>
+    </tr>
+    <tr>
+      <th>Dmg/Condition</th>
+      <th>W</th>
+      <th>R</th>
+      <th>I</th>
+      <th>W</th>
+      <th>R</th>
+      <th>I</th>
+      <th>W</th>
+      <th>R</th>
+      <th>I</th>
+      <th>W</th>
+      <th>R</th>
+      <th>I</th>
+      <th>W</th>
+      <th>R</th>
+      <th>I</th>
+      <th>W</th>
+      <th>R</th>
+      <th>I</th>
+      </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td>Acid</td>
+      <td>0</td>
+      <td>18</td>
+      <td>8</td>
+      <td>0</td>
+      <td>7</td>
+      <td>9</td>
+      <td>0</td>
+      <td>6</td>
+      <td>7</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+      <td>32</td>
+      <td>29</td>
+   </tr>
+   <tr>
+      <td>Blinded</td>
+      <td>0</td>
+      <td>0</td>
+      <td>32</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>45</td>
+   </tr>
+   <tr>
+      <td>Bludgeoning</td>
+      <td>5</td>
+      <td>13</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
+      <td>14</td>
+      <td>0</td>
+   </tr>
+   <tr>
+      <td>Charmed</td>
+      <td>0</td>
+      <td>0</td>
+      <td>63</td>
+      <td>0</td>
+      <td>0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>17</td>
+      <td>0</td>
+      <td>0</td>
+      <td>16</td>
+      <td>0</td>
+      <td>0</td>
+      <td>19</td>
+      <td>0</td>
+      <td>0</td>
+      <td>135</td>
+   </tr>
+   <tr>
+      <td>Cold</td>
+      <td>4</td>
+      <td>40</td>
+      <td>16</td>
+      <td>0</td>
+      <td>29</td>
+      <td>7</td>
+      <td>0</td>
+      <td>19</td>
+      <td>8</td>
+      <td>0</td>
+      <td>16</td>
+      <td>3</td>
+      <td>0</td>
+      <td>15</td>
+      <td>3</td>
+      <td>4</td>
+      <td>119</td>
+      <td>37</td>
+   </tr>
+   <tr>
+      <td>Darkness</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>7</td>
+      <td>0</td>
+   </tr>
+   <tr>
+      <td>Deafened</td>
+      <td>0</td>
+      <td>0</td>
+      <td>27</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>41</td>
+   </tr>
+   <tr>
+      <td>Exhaustion</td>
+      <td>0</td>
+      <td>0</td>
+      <td>63</td>
+      <td>0</td>
+      <td>0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>14</td>
+      <td>0</td>
+      <td>0</td>
+      <td>11</td>
+      <td>0</td>
+      <td>0</td>
+      <td>19</td>
+      <td>0</td>
+      <td>0</td>
+      <td>127</td>
+   </tr>
+   <tr>
+      <td>Fire</td>
+      <td>10</td>
+      <td>39</td>
+      <td>28</td>
+      <td>4</td>
+      <td>22</td>
+      <td>11</td>
+      <td>1</td>
+      <td>13</td>
+      <td>10</td>
+      <td>0</td>
+      <td>7</td>
+      <td>13</td>
+      <td>0</td>
+      <td>11</td>
+      <td>7</td>
+      <td>15</td>
+      <td>92</td>
+      <td>69</td>
+   </tr>
+   <tr>
+      <td>Force</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+   </tr>
+   <tr>
+      <td>Frightened</td>
+      <td>0</td>
+      <td>0</td>
+      <td>57</td>
+      <td>0</td>
+      <td>0</td>
+      <td>17</td>
+      <td>0</td>
+      <td>0</td>
+      <td>19</td>
+      <td>0</td>
+      <td>0</td>
+      <td>15</td>
+      <td>0</td>
+      <td>0</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>128</td>
+   </tr>
+   <tr>
+      <td>Grappled</td>
+      <td>0</td>
+      <td>0</td>
+      <td>18</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>27</td>
+   </tr>
+   <tr>
+      <td>Lightning</td>
+      <td>0</td>
+      <td>33</td>
+      <td>9</td>
+      <td>0</td>
+      <td>23</td>
+      <td>5</td>
+      <td>0</td>
+      <td>12</td>
+      <td>6</td>
+      <td>0</td>
+      <td>7</td>
+      <td>4</td>
+      <td>0</td>
+      <td>12</td>
+      <td>5</td>
+      <td>0</td>
+      <td>87</td>
+      <td>29</td>
+   </tr>
+   <tr>
+      <td>Magical</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+   </tr>
+   <tr>
+      <td>Magical Piercing</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+   </tr>
+   <tr>
+      <td>Necrotic</td>
+      <td>0</td>
+      <td>12</td>
+      <td>9</td>
+      <td>0</td>
+      <td>7</td>
+      <td>4</td>
+      <td>0</td>
+      <td>4</td>
+      <td>7</td>
+      <td>0</td>
+      <td>1</td>
+      <td>3</td>
+      <td>0</td>
+      <td>2</td>
+      <td>3</td>
+      <td>0</td>
+      <td>26</td>
+      <td>26</td>
+   </tr>
+   <tr>
+      <td>Nonadamantine</td>
+      <td>0</td>
+      <td>3</td>
+      <td>5</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>10</td>
+   </tr>
+   <tr>
+      <td>Nonmagical</td>
+      <td>0</td>
+      <td>48</td>
+      <td>13</td>
+      <td>0</td>
+      <td>39</td>
+      <td>1</td>
+      <td>0</td>
+      <td>26</td>
+      <td>6</td>
+      <td>0</td>
+      <td>21</td>
+      <td>3</td>
+      <td>0</td>
+      <td>10</td>
+      <td>14</td>
+      <td>0</td>
+      <td>144</td>
+      <td>37</td>
+   </tr>
+   <tr>
+      <td>Nonsilvered</td>
+      <td>0</td>
+      <td>9</td>
+      <td>9</td>
+      <td>0</td>
+      <td>7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>5</td>
+      <td>1</td>
+      <td>0</td>
+      <td>7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>32</td>
+      <td>10</td>
+   </tr>
+   <tr>
+      <td>Paralyzed</td>
+      <td>0</td>
+      <td>0</td>
+      <td>47</td>
+      <td>0</td>
+      <td>0</td>
+      <td>14</td>
+      <td>0</td>
+      <td>0</td>
+      <td>11</td>
+      <td>0</td>
+      <td>0</td>
+      <td>12</td>
+      <td>0</td>
+      <td>0</td>
+      <td>9</td>
+      <td>0</td>
+      <td>0</td>
+      <td>93</td>
+   </tr>
+   <tr>
+      <td>Petrified</td>
+      <td>0</td>
+      <td>0</td>
+      <td>40</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>0</td>
+      <td>0</td>
+      <td>7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>11</td>
+      <td>0</td>
+      <td>0</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>73</td>
+   </tr>
+   <tr>
+      <td>Piercing</td>
+      <td>0</td>
+      <td>18</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>19</td>
+      <td>0</td>
+   </tr>
+   <tr>
+      <td>Poison</td>
+      <td>0</td>
+      <td>16</td>
+      <td>108</td>
+      <td>0</td>
+      <td>4</td>
+      <td>43</td>
+      <td>0</td>
+      <td>2</td>
+      <td>26</td>
+      <td>0</td>
+      <td>1</td>
+      <td>21</td>
+      <td>0</td>
+      <td>0</td>
+      <td>22</td>
+      <td>0</td>
+      <td>23</td>
+      <td>220</td>
+   </tr>
+   <tr>
+      <td>Poisoned</td>
+      <td>0</td>
+      <td>0</td>
+      <td>96</td>
+      <td>0</td>
+      <td>0</td>
+      <td>42</td>
+      <td>0</td>
+      <td>1</td>
+      <td>29</td>
+      <td>0</td>
+      <td>1</td>
+      <td>23</td>
+      <td>0</td>
+      <td>0</td>
+      <td>22</td>
+      <td>0</td>
+      <td>2</td>
+      <td>212</td>
+   </tr>
+   <tr>
+      <td>Prone</td>
+      <td>0</td>
+      <td>0</td>
+      <td>43</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>0</td>
+      <td>0</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>70</td>
+   </tr>
+   <tr>
+      <td>Psychic</td>
+      <td>1</td>
+      <td>1</td>
+      <td>8</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>5</td>
+      <td>0</td>
+      <td>1</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>3</td>
+      <td>20</td>
+   </tr>
+   <tr>
+      <td>Radiant</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>3</td>
+      <td>5</td>
+      <td>1</td>
+   </tr>
+   <tr>
+      <td>Restrained</td>
+      <td>0</td>
+      <td>0</td>
+      <td>24</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>37</td>
+   </tr>
+   <tr>
+      <td>Slashing</td>
+      <td>0</td>
+      <td>8</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8</td>
+      <td>2</td>
+   </tr>
+   <tr>
+      <td>Spell</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+   </tr>
+   <tr>
+      <td>Stunned</td>
+      <td>0</td>
+      <td>0</td>
+      <td>9</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
+      <td>20</td>
+   </tr>
+   <tr>
+      <td>Thunder</td>
+      <td>1</td>
+      <td>13</td>
+      <td>0</td>
+      <td>0</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2</td>
+      <td>22</td>
+      <td>5</td>
+   </tr>
+   <tr>
+      <td>Unconscious</td>
+      <td>0</td>
+      <td>0</td>
+      <td>10</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>17</td>
+   </tr>
+   </tbody>
+</table>
+
+<h2 id="monster-saves">Monster Saves</h2>
+
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Save Prof</th>
+      <th style="text-align: center">Total</th>
+      <th style="text-align: center">Percent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CHA</td>
+      <td style="text-align: center">139</td>
+      <td style="text-align: center">17.40%</td>
+    </tr>
+    <tr>
+      <td>CON</td>
+      <td style="text-align: center">151</td>
+      <td style="text-align: center">18.90%</td>
+    </tr>
+    <tr>
+      <td>DEX</td>
+      <td style="text-align: center">127</td>
+      <td style="text-align: center">15.89%</td>
+    </tr>
+    <tr>
+      <td>INT</td>
+      <td style="text-align: center">74</td>
+      <td style="text-align: center">9.26%</td>
+    </tr>
+    <tr>
+      <td>STR</td>
+      <td style="text-align: center">38</td>
+      <td style="text-align: center">4.76%</td>
+    </tr>
+    <tr>
+      <td>WIS</td>
+      <td style="text-align: center">225</td>
+      <td style="text-align: center">28.16%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Monster saves are also a big influence on how likely they are to be affected by an ability or spell. So I totaled how frequently stat blocks listed a particular save proficiency. My take away here is that a good bit of metagame design went into these choices, but I don’t know that for sure. Obviously the actual attribute modifier has a big influence on a save but it’s hard to ignore the choices. Wisdom as the most frequent save proficiency says to me the designers were trying to make sure monsters aren’t locked up too often by conditions. Additionally, the fact that Dex save proficiency wasn’t near the top says to me they didn’t want monsters to avoid damage.</p>
+
+<p>The most surprising result was the relative lack of Strength save proficiencies. Again, I see the metagame at work here. So few spells require a Strength save that it seems rather pointless. Additionally, monsters often have a high strength value already so proficiency is just overkill.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>So that’s it. In my own context this will help me with balance for player designed spells and assessing third party or official supplements. I hope you’re able to derive something useful for planning your games out of this. If you have an observation about it, tag me on twitter or drop me a DM. This is a starting place and rough guide though, and the devil will always be in the details. It is good though to comment based on numbers instead of strawman examples and intuition.</p>
+
+<p>Now get out there and run some great games.</p>
+
+        </div>
+    </header>
+</article>
+
+</div>
+
+<footer class="footer mt-5 py-3 bg-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <ul class="list-unstyled small text-muted">
+                    <li class="mb-2">Website by <a href="https://www.tech-tavern.com" target="_blank">Tech Tavern</a>.</li>
+                    <li class="mb-2">Header Photo by <a href="https://unsplash.com/@dariuszsankowski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Dariusz Sankowsk</a></li>
+                </ul>
+            </div>
+            <div class="col small text-muted">
+                <span>Copyright &copy; 2020-2021 Optional Rule Games.</span>
+            </div>
+
+        </div>
+
+
+    </div>
+</footer>
+<!-- Footer JavaScript -->
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/parallax.min.js"></script>
+
+</body>
+</html>

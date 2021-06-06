@@ -3,6 +3,8 @@ layout: post
 title: April 2021 Experimental House Rules
 author: Scott Turnbull
 date: 2021-04-29T14:05:37+00:00
+description: |
+  Experimental 5th edition house rules for Defense and Grappling to provide more options during play. 
 categories:
   - RPG Resources
 ---

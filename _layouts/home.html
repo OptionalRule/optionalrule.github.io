@@ -1,11 +1,19 @@
 ---
 layout: default
 title: Optional Rule
+alert: Site is currently in beta and being tested for migration.
 pagination:
   enabled: true
 ---
+
+<div class="container">
+  <div class="alert alert-secondary text-center">
+    This site is currently in beta during migration.  Please tag or DM me on Twitter if you find any problems.
+  </div>
+</div>
+
 <div class="row">
-  <div class="col col">
+  <div class="col">
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
     {% include post_preview.html %}
@@ -24,10 +32,18 @@ pagination:
   <div class="col-lg-3">
 
     <div class="list-group list-group-flush my-2">
-      <h2 class="widget-title list-group-item">Search</h2>
+      <h2 class="widget-title list-group-item">Site Search</h2>
       {% include googlesearch.html %}
     </div>
 
+    <div class="list-group list-group-flush my-2">
+      <h2 class="widget-title list-group-item">Categories</h2>
+      {% for item in site.data.categories_nav %}
+      <a href="{{ item.link }}" class="list-group-item list-group-item-action {% if page.url contains item.link %} active{% endif %}">
+        {{ item.name }}
+      </a>
+      {% endfor %}
+    </div>
 
     <div class="list-group list-group-flush my-2">
       <h2 class="widget-title list-group-item">Socials</h2>

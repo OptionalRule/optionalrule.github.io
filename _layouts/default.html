@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     
-    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:700" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <!-- Atom Feed -->
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for petefreitag.com" href="/feed.xml" />
 
 
     <!-- Bootstrap CSS -->
@@ -24,6 +24,11 @@
 
     <!-- Page Metadata -->
     <title>{{ page.title }}</title>
+
+    <!-- SEO Plugin Stuff -->
+    {% seo %}
+
+    <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 </head>
 <body>
 
@@ -41,11 +46,20 @@
 
 <footer class="footer mt-5 py-3 bg-dark">
     <div class="container">
-        <ul class="list-unstyled small text-muted">
-            <li class="mb-2">Website by <a href="https://www.tech-tavern.com" target="_blank">Tech Tavern</a>.</li>
-            <li class="mb-2">Copyright &copy; 2020-2021 Optional Rule Games.</li>
-            <li class="mb-2">Header Photo by <a href="https://unsplash.com/@dariuszsankowski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Dariusz Sankowsk</a></li>
-        </ul>
+        <div class="row">
+            <div class="col">
+                <ul class="list-unstyled small text-muted">
+                    <li class="mb-2">Website by <a href="https://www.tech-tavern.com" target="_blank">Tech Tavern</a>.</li>
+                    <li class="mb-2">Header Photo by <a href="https://unsplash.com/@dariuszsankowski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Dariusz Sankowsk</a></li>
+                </ul>
+            </div>
+            <div class="col small text-muted">
+                <span>Copyright &copy; 2020-2021 Optional Rule Games.</span>
+            </div>
+
+        </div>
+
+
     </div>
 </footer>
 <!-- Footer JavaScript -->

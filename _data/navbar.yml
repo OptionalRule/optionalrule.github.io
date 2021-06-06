@@ -3,6 +3,4 @@
 - name: About
   link: /about/
 - name: Feed
-  link: /feed/
-- name: Contact
-  link: /contact/
+  link: /feed.xml

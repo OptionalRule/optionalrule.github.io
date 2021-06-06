@@ -1,0 +1,682 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+    <!-- Atom Feed -->
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for petefreitag.com" href="/feed.xml" />
+
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/assets/css/styles.css">
+
+    <!-- favicon stuff-->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Page Metadata -->
+    <title>5e Spell Save & Damage Breakdown</title>
+
+    <!-- SEO Plugin Stuff -->
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>5e Spell Save &amp; Damage Breakdown | Optional Rule</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="5e Spell Save &amp; Damage Breakdown" />
+<meta name="author" content="Scott Turnbull" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="I recently started aggregating some data I’ve gathered about spells from 5e Dungeons &amp; Dragons. Primarily, this has been for fun and to see if I’d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you’ll find this fun and interesting yourself and I would love to hear any observations you have." />
+<meta property="og:description" content="I recently started aggregating some data I’ve gathered about spells from 5e Dungeons &amp; Dragons. Primarily, this has been for fun and to see if I’d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you’ll find this fun and interesting yourself and I would love to hear any observations you have." />
+<link rel="canonical" href="https://optionalrule.github.io/2021/04/15/5e-spell-save-damage-breakdown/" />
+<meta property="og:url" content="https://optionalrule.github.io/2021/04/15/5e-spell-save-damage-breakdown/" />
+<meta property="og:site_name" content="Optional Rule" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-04-15T12:01:05-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="5e Spell Save &amp; Damage Breakdown" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Scott Turnbull"},"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://optionalrule.github.io/2021/04/15/5e-spell-save-damage-breakdown/"},"url":"https://optionalrule.github.io/2021/04/15/5e-spell-save-damage-breakdown/","headline":"5e Spell Save &amp; Damage Breakdown","dateModified":"2021-04-15T12:01:05-04:00","datePublished":"2021-04-15T12:01:05-04:00","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://optionalrule.github.io/assets//brand/OptionalRuleIcon50x50XparentBG.png"},"name":"Scott Turnbull"},"description":"I recently started aggregating some data I’ve gathered about spells from 5e Dungeons &amp; Dragons. Primarily, this has been for fun and to see if I’d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you’ll find this fun and interesting yourself and I would love to hear any observations you have.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta itemprop="description" name="description" content="Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepol..." />
+</head>
+<body>
+
+<div class="parallax-window overflow-hidden" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg">
+    <div class="header-logo text-center">
+        <h1>
+            <a href="/" class="site-title">Optional Rule</a>
+        </h1>
+        <p class="site-description"></p>
+    </div>
+</div>
+<!-- Navigation -->
+
+<div class="sticky-top bg-light shadow-sm border-top border-dark">
+    <nav class="navbar navbar-light navbar-expand-md bg-light justify-content-center sticky-top container">
+        <a href="" class="navbar-brand d-flex w-50 me-auto">
+            <img src="/assets/brand/OptionalRuleIcon50x50XparentBG.png" height="40"
+                alt="Optional Rule Logo, A dark hex with rainbow d20 in the center.">
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerMain"
+            aria-controls="navbarTogglerMain" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="navbar-collapse collapse w-100" id="navbarTogglerMain">
+            <ul class="navbar-nav w-100 justify-content-center">
+                
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page"
+                        href="/">Home</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page"
+                        href="/about/">About</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page"
+                        href="/feed.xml">Feed</a>
+                </li>
+                
+            </ul>
+            <ul class="nav navbar-nav ms-auto w-100 justify-content-end">
+                <li class="nav-item">
+                
+                    <a class="nav-link d-inline" href="https://www.twitter.com/optionalrule"><i class="fab fa-twitter"></i></a>
+                
+                    <a class="nav-link d-inline" href="https://www.twitch.tv/optionalrule"><i class="fab fa-twitch"></i></a>
+                
+                    <a class="nav-link d-inline" href="https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw"><i class="fab fa-youtube"></i></a>
+                
+                    <a class="nav-link d-inline" href="https://www.instagram.com/optionalrule/"><i class="fab fa-instagram"></i></a>
+                
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+
+<div class="container"><article id="5e-spell-save-damage-breakdown">
+    <header class="post-header">
+
+            <div class="post-categories text-center mb-1">
+                
+                    <a href="/category/analysis" rel="category tag">Analysis</a>
+                    
+                
+            </div>
+
+        <h1 class="post-title text-center mb-2">5e Spell Save & Damage Breakdown</h1>
+
+        <div class="post-meta clear-fix text-center fst-italic mb-3">
+            <span class="post-date">
+                
+                April
+                15th,
+                2021
+            </span>
+            
+                , by <span class="post-author">Scott Turnbull</span>
+            
+        </div>
+        <div class="post-content">
+            <p>I recently started aggregating some data I’ve gathered about spells from 5e Dungeons &amp; Dragons. Primarily, this has been for fun and to see if I’d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you’ll find this fun and interesting yourself and I would love to hear any observations you have.</p>
+
+<p>These are the result of analyzing 477 spells across the Players Handbook, Xanathar’s Guide to Everything, and Tasha’s Caldron of Everything.</p>
+
+<h2 id="5e-spell-saves-by-class">5e Spell Saves by Class</h2>
+
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Save Type</th>
+      <th style="text-align: center">Artificer</th>
+      <th style="text-align: center">Bard</th>
+      <th style="text-align: center">Cleric</th>
+      <th style="text-align: center">Druid</th>
+      <th style="text-align: center">Paladin</th>
+      <th style="text-align: center">Ranger</th>
+      <th style="text-align: center">Sorcerer</th>
+      <th style="text-align: center">Warlock</th>
+      <th style="text-align: center">Wizard</th>
+      <th style="text-align: center">Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dexterity</td>
+      <td style="text-align: center">16</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">25</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">36</td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">43</td>
+      <td style="text-align: center">64</td>
+    </tr>
+    <tr>
+      <td>Wisdom</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">30</td>
+      <td style="text-align: center">9</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">21</td>
+      <td style="text-align: center">21</td>
+      <td style="text-align: center">38</td>
+      <td style="text-align: center">50</td>
+    </tr>
+    <tr>
+      <td>Strength</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">14</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">12</td>
+      <td style="text-align: center">20</td>
+    </tr>
+    <tr>
+      <td>Charisma</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">12</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">9</td>
+      <td style="text-align: center">16</td>
+    </tr>
+    <tr>
+      <td>Constitution</td>
+      <td style="text-align: center">9</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">19</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">32</td>
+      <td style="text-align: center">20</td>
+      <td style="text-align: center">40</td>
+      <td style="text-align: center">54</td>
+    </tr>
+    <tr>
+      <td>Intelligence</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">9</td>
+      <td style="text-align: center">11</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I found a few of these results surprising and overall the implied intention behind the design of spells saves by class can help with subclass design. For instance, the Bard being so heavily invested in Wisdom saves emphasises their focus on enchantment and the mind. Likewise, the Druid’s Strength save focus is a defacto statement of their magic interacting with the physical world. Additionally, the relative even distribution of Wizards saves speaks to their flexibility. Lastly, drives home the point of common observations like the over loading of Dexterity.</p>
+
+<p>Overall my read here is that the type of saves given to a spell is intentionally significant. So, when vetting a new spell from a supplement, UA, or created by a player, this seems important to keep in mind.</p>
+
+<h2 id="5e-spell-conditions--damage">5e Spell Conditions &amp; Damage</h2>
+
+<p>Again a bit of a data dump here, but this is a tally of the number of spells that inflict a condition or particular damage type by class. As with saves above, I think it’s fair to say there is an implied intentional design here. For instance, the lack of condition inflicting spells for Artificers and Paladin’s clearly indicate their intention as a damage dealing class. The opposite is true for Bard, which clearly seems designed to inflict conditions. While, Wizards and other classes maintain their flexibility.</p>
+
+<h3 id="spells-by-damage-type-per-class">Spells by Damage Type per Class</h3>
+
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Damage Type</th>
+      <th style="text-align: center">Artificer</th>
+      <th style="text-align: center">Bard</th>
+      <th style="text-align: center">Cleric</th>
+      <th style="text-align: center">Druid</th>
+      <th style="text-align: center">Paladin</th>
+      <th style="text-align: center">Ranger</th>
+      <th style="text-align: center">Sorcerer</th>
+      <th style="text-align: center">Warlock</th>
+      <th style="text-align: center">Wizard</th>
+      <th style="text-align: center">Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Acid</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">16</td>
+    </tr>
+    <tr>
+      <td>Bludgeoning</td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">18</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">14</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">17</td>
+      <td style="text-align: center">26</td>
+    </tr>
+    <tr>
+      <td>Cold</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">17</td>
+      <td style="text-align: center">23</td>
+    </tr>
+    <tr>
+      <td>Fire</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">21</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">25</td>
+      <td style="text-align: center">34</td>
+    </tr>
+    <tr>
+      <td>Force</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">17</td>
+    </tr>
+    <tr>
+      <td>Lightning</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">13</td>
+      <td style="text-align: center">18</td>
+    </tr>
+    <tr>
+      <td>Necrotic</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">14</td>
+      <td style="text-align: center">23</td>
+    </tr>
+    <tr>
+      <td>Piercing</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">11</td>
+    </tr>
+    <tr>
+      <td>Poison</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">9</td>
+      <td style="text-align: center">10</td>
+    </tr>
+    <tr>
+      <td>Psychic</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">9</td>
+      <td style="text-align: center">13</td>
+      <td style="text-align: center">20</td>
+    </tr>
+    <tr>
+      <td>Radiant</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">9</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">21</td>
+    </tr>
+    <tr>
+      <td>Slashing</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">6</td>
+    </tr>
+    <tr>
+      <td>Thunder</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">13</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="spells-by-condition-inflicted-per-class">Spells by Condition Inflicted per Class</h3>
+
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Condition</th>
+      <th style="text-align: center">Artificer</th>
+      <th style="text-align: center">Bard</th>
+      <th style="text-align: center">Cleric</th>
+      <th style="text-align: center">Druid</th>
+      <th style="text-align: center">Paladin</th>
+      <th style="text-align: center">Ranger</th>
+      <th style="text-align: center">Sorcerer</th>
+      <th style="text-align: center">Warlock</th>
+      <th style="text-align: center">Wizard</th>
+      <th style="text-align: center">Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blinded</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">12</td>
+      <td style="text-align: center">18</td>
+    </tr>
+    <tr>
+      <td>Charmed</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">13</td>
+    </tr>
+    <tr>
+      <td>Deafened</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">7</td>
+    </tr>
+    <tr>
+      <td>Exhaustion</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+    </tr>
+    <tr>
+      <td>Frightened</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">9</td>
+    </tr>
+    <tr>
+      <td>Incapacitated</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">8</td>
+    </tr>
+    <tr>
+      <td>Invisible</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">4</td>
+    </tr>
+    <tr>
+      <td>Paralyzed</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+    </tr>
+    <tr>
+      <td>Petrified</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">3</td>
+    </tr>
+    <tr>
+      <td>Poisoned</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">3</td>
+    </tr>
+    <tr>
+      <td>Prone</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">9</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">14</td>
+    </tr>
+    <tr>
+      <td>Restrained</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">12</td>
+      <td style="text-align: center">16</td>
+    </tr>
+    <tr>
+      <td>Stunned</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">6</td>
+    </tr>
+    <tr>
+      <td>Unconscious</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">6</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>Overall, this is just an intellectual exercise I found to be a bit of fun. There’s nothing earth shattering in these numbers, but I did find a few surprises. For me, it fixes firmly the intentional design of spell effects that help me vet or design new spells and subclasses. Additionally, it helps me understand where the gaps are either as a player or when designing scenarios as a DM. Particularly, with adventure design I think it’s important to know what the distribution of options are as you need to design broadly.</p>
+
+<p>The only real conclusion I have is with subclasses like the College of Scribe Wizard from Tasha’s. I excluded that from my own games because I thought the ability to change damage type was too powerful and went against the class concepts. This confirms that assessment for me, but obviously my take is in the minority if reaction online is any gauge.</p>
+
+<p>Regardless, I hope you found these numbers interesting and a bit of fun as well. Now get out there and run some great games.</p>
+
+        </div>
+    </header>
+</article>
+
+</div>
+
+<footer class="footer mt-5 py-3 bg-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <ul class="list-unstyled small text-muted">
+                    <li class="mb-2">Website by <a href="https://www.tech-tavern.com" target="_blank">Tech Tavern</a>.</li>
+                    <li class="mb-2">Header Photo by <a href="https://unsplash.com/@dariuszsankowski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Dariusz Sankowsk</a></li>
+                </ul>
+            </div>
+            <div class="col small text-muted">
+                <span>Copyright &copy; 2020-2021 Optional Rule Games.</span>
+            </div>
+
+        </div>
+
+
+    </div>
+</footer>
+<!-- Footer JavaScript -->
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/parallax.min.js"></script>
+
+</body>
+</html>

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Encounters
-permalink: /category/Encounters/
+permalink: /category/encounters/
 pagination: 
   enabled: true
   category: Encounters
