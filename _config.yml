@@ -38,6 +38,7 @@ social:
     - https://www.instagram.com/optionalrule
     - https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw
 
+destination: docs/
 permalink: /:year/:month/:day/:title/
 
 # Build settings
