@@ -7,11 +7,11 @@ categories:
   - RPG Resources
 
 ---
-5th edition Dungeons and Dragons has a bit of a rough patch with its skill checks model. Given the variability of a d20, all or nothing skill checks can be a fairly harsh mechanic. Indeed, there&#8217;s some evidence all or nothing checks is not the designers intent. The DMG provides some alternative methods to consider with skill resolution under [Resolution and Consequences][1] which all hinge on a single die roll mechanic. In cases, there may be some utility using a progressive success or failure system instead of a single checks. Particularly in non-combat encounters, it is best to build skill checks in a way to build tension from failure rather than a collapse. <a href="https://dmdavid.com/" rel="noreferrer noopener" target="_blank">DMDavid</a> sparked a thought after a specific example <a href="https://twitter.com/optionalrule/status/1345790204758679556" rel="noreferrer noopener" target="_blank">posted on twitter</a>, how to handle falling with failed climbing checks. Progressive failure and rising tension meshes well with the <a data-type="post" data-id="117" href="https://optionalrule.com/2020/12/22/thrilling-heroics-rules-for-dd-5e/">Thrilling Heroics Rules</a> I posted awhile back. In fact, it compliments it enough that I thought it useful to post some examples here.
+5th edition Dungeons and Dragons has a bit of a rough patch with its skill checks model. Given the variability of a d20, all or nothing skill checks can be a fairly harsh mechanic. Indeed, there&#8217;s some evidence all or nothing checks is not the designers intent. The DMG Chapter 8 provides some alternative methods to consider with skill resolution under [Resolution and Consequences](https://www.dndbeyond.com/sources/dmg/running-the-game#ResolutionandConsequences) which all hinge on a single die roll mechanic. In cases, there may be some utility using a progressive success or failure system instead of a single checks. Particularly in non-combat encounters, it is best to build skill checks in a way to build tension from failure rather than a collapse. <a href="https://dmdavid.com/" rel="noreferrer noopener" target="_blank">DMDavid</a> sparked a thought after a specific example <a href="https://twitter.com/optionalrule/status/1345790204758679556" rel="noreferrer noopener" target="_blank">posted on twitter</a>, how to handle falling with failed climbing checks. Progressive failure and rising tension meshes well with the [Thrilling Heroics Rules]({% link _posts/2020-12-22-thrilling-heroics-rules-for-dd-5e.md %}) I posted awhile back. In fact, it compliments it enough that I thought it useful to post some examples here.
 
 Before I dig too deep, I intend this to be used as another option mixed in with some of the excellent options presented in <a href="https://www.dndbeyond.com/sources/dmg/running-the-game#ResolutionandConsequences" target="_blank" rel="noreferrer noopener">Resolution and Consequences</a> in Chapter 8 of the DMG.
 
-## Progressive Rolls in a Nutshell {#h-progressive-rolls-in-a-nutshell}
+## Progressive Rolls in a Nutshell
 
 The core game principle is fairly simple, wherever possible the DM can create more tension in a game by progressing the tension with failed skill rolls. I think in these cases a rule of three model would seem to work. Simply that is:
 
@@ -21,11 +21,15 @@ The core game principle is fairly simple, wherever possible the DM can create mo
 
 At each stage along the way, the DM should increase the stakes more. Players can turn the failure around by changing something or accepting some additional risk. The idea is to keep agency in the hands of the the players. In this way, they are able to make decisions and manage their risk as the tension builds.
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large"><img loading="lazy" width="480" height="363" src="https://optionalrule.com/wp-content/uploads/2021/02/skillcheck480w.jpg" alt="An adventuring group looking at a map and seeming confused." class="wp-image-558" srcset="https://optionalrule.com/wp-content/uploads/2021/02/skillcheck480w.jpg 480w, https://optionalrule.com/wp-content/uploads/2021/02/skillcheck480w-300x227.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /><figcaption>Image Credit, Wizards of the Coast</figcaption></figure>
-</div>
+{% include imageframe.html
+  figure_class="float-end ms-4"
+  src="/assets/img/skillcheck-480x363.jpg"
+  alt="A group of adventurers leaning over a table, seemingly confused by a map they are looking at"
+  height="363" width="480"
+  caption="Image credit Wizards of the Coast"
+ %}
 
-## Why this is Useful {#h-why-this-is-useful}
+## Why this is Useful
 
 Single roll success or failure models can be bad when failure is catastrophic. For instance, a climbing check that causes you to fall if you fail the roll by more than five. This is a bad model because the variability of a d20 is so high that putting everything onto a single roll is a bad idea. This is particularly bad if failure means they plummet to their death. 
 
@@ -35,7 +39,7 @@ Instead, let&#8217;s use an example with the rule of three model.
 
 **Example with a Stealth Check:** The first stealth failure results in the character not being able to move without revealing themselves. The second failure means they are stuck and others are alerted enough to begin to investigate. At this point something else needs to happen, perhaps another character creates a distraction or they use a spell of some sort. Alternatively, the character can risk one last stealth check, perhaps at disadvantage, with the risk of raising the alarm.
 
-## General Use {#h-general-use}
+## General Use 
 
 You can extend this thinking to many types of skill checks. For instance, investigations don&#8217;t progress and getting unstuck risks offending, alerting, or misunderstanding something. Disabling traps might risk sealing a passageway, alerting nearby creatures, or triggering it at an auto failed save or critical damage. It can vary by skill but it&#8217;s worth thinking about, particularly for scenarios where combat is not the main focus.
 

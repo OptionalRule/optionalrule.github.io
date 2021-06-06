@@ -2,26 +2,8 @@
 title: 'Tools to Affect Rolls in D&D'
 author: Scott Turnbull
 layout: post
-date: 2021-01-02T16:57:52+00:00
-url: /2021/01/02/tools-for-effecting-rolls-in-dd/
-nb_of_words:
-  - 618
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
-  - RPG Resources
+  - Analysis
 
 ---
 Owing to a small thread on <a rel="noreferrer noopener" href="https://twitter.com/optionalrule/status/1345183662703337472" target="_blank">twitter</a> earlier this week, I listed out the options 5th Edition Dungeons and Dragons provides for effecting rolls. This is useful for creating your own roll effecting homebrew rules, if you want to understand the relative power level compared to other elements in the ruleset.
@@ -44,7 +26,7 @@ These are the levels of dials and levers for 5th edition rolls to consider to gu
 
 **Ranked by effect on rolls that can have a critical success.**
 
-<ul id="block-1280d90c-351d-4509-bc06-8bc04b502864">
+<ul>
   <li>
     Elven Accuracy
   </li>

@@ -6,7 +6,7 @@ layout: default
 
             <div class="post-categories text-center mb-1">
                 {% for category in page.categories %}
-                    <a href="{{site.baseurl}}/categories/{{ category | slugize }}" rel="category tag">{{ category }}</a>
+                    <a href="{{site.baseurl }}category/{{ category | slugize | downcase }}" rel="category tag">{{ category }}</a>
                     {% unless forloop.last %} | {% endunless %}
                 {% endfor %}
             </div>

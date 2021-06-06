@@ -83,6 +83,12 @@ a.site-title, .post-title a {
     text-align: center;
 }
 
+.full-first tbody tr td:first-child,
+.full-first thead tr th:first-child {
+    white-space: nowrap;
+}
+
+
 thead tr th:first-child,
 tbody tr td:first-child {
   text-align: left;

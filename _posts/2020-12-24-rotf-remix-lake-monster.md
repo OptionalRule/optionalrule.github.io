@@ -2,37 +2,14 @@
 title: 'RotF Remix: Lake Monster'
 author: Scott Turnbull
 layout: post
-date: 2020-12-24T18:09:01+00:00
-url: /2020/12/24/rotf-remix-lake-monster/
-nb_of_words:
-  - 1952
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
-  - Adventures
-  - Misc
-tags:
-  - remix
-  - rotf
+  - Encounters
 
 ---
-<p class="has-drop-cap">
-  This post contains the remixes and changes I used for the Lake Monster quest picked up in the town of Bremen in <a href="https://dnd.wizards.com/products/tabletop-games/rpg-products/icewind-dale-rime-frostmaiden">Icewind Dale: Rime of the Frostmaiden</a>. It runs similarly to what is written in the module with a different backstory, delivery and climax. You can likely use this remix as an independent encounter in any game, but to get the most out of it you will need the module.
-</p>
 
-C<em style="font-weight: bold;">ontains some spoilers for the Lake Monster question in Rime of the Frostmaiden</em>. The content focuses on new or changed materials but comments may imply spoilers.
+This post contains the remixes and changes I used for the Lake Monster quest picked up in the town of Bremen in <a href="https://dnd.wizards.com/products/tabletop-games/rpg-products/icewind-dale-rime-frostmaiden">Icewind Dale: Rime of the Frostmaiden</a>. It runs similarly to what is written in the module with a different backstory, delivery and climax. You can likely use this remix as an independent encounter in any game, but to get the most out of it you will need the module.
+
+<div class="alert alert-secondary">Contains some spoilers for the Lake Monster question in Rime of the Frostmaiden. The content focuses on new or changed materials but comments may imply spoilers.</div>
 
 ## Overview
 
@@ -48,73 +25,27 @@ This section runs much as it does in the module, the players find Grynsky as the
 
 The plesiosaur has befriended an elderly couple that lives a short way to the north of Bremen, a human man and women, who can help shed light on the situation if the players care to investigate or help.
 
-If the PCs spend some time questing the townsfolk they can roll Charisma (Investigation) and discover a varying amount of info depending on the success of the roll. I recommend having a single player make one roll for the a few hours of gathering information, if another player is proficient in investigation allow them to roll as well, using the best result between the two checks.<figure class="wp-block-table is-style-stripes">
+If the PCs spend some time questing the townsfolk they can roll Charisma (Investigation) and discover a varying amount of info depending on the success of the roll. I recommend having a single player make one roll for the a few hours of gathering information, if another player is proficient in investigation allow them to roll as well, using the best result between the two checks.
 
-<table class="has-fixed-layout">
-  <tr>
-    <th class="has-text-align-center" data-align="center">
-      Investigation Check
-    </th>
-    
-    <th>
-      Information
-    </th>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-      5+
-    </td>
-    
-    <td>
-      This started a few months ago, nobody has died; There have been several dozen incidents.
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-      10+
-    </td>
-    
-    <td>
-      The creature begins by ramming the boat, but no boats have capsized or sunk; It stops if the boat flees; Plesiosaurs typically avoid people.
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-      15+
-    </td>
-    
-    <td>
-      The creature has attacked people if the crew attacks it with oars or weapons. Recently the attacks have happened more frequently; One crew member had their hand bitten off after attacking the beast with a harpoon.
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-      20+
-    </td>
-    
-    <td>
-      One or two crew members have falling into the water during an attack, the beast did not attack them.
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-center" data-align="center">
-      25+
-    </td>
-    
-    <td>
-      The players discover the Del&#8217;Ladderans, if the players can earn their trust they may reveal the information in their section below.
-    </td>
-  </tr>
-</table></figure> 
+|Investigation|Information|
+|--- |--- |
+|5+|This started a few months ago, nobody has died; There have been several dozen incidents.|
+|10+|The creature begins by ramming the boat, but no boats have capsized or sunk; It stops if the boat flees; Plesiosaurs typically avoid people.|
+|15+|The creature has attacked people if the crew attacks it with oars or weapons. Recently the attacks have happened more frequently; One crew member had their hand bitten off after attacking the beast with a harpoon.|
+|20+|One or two crew members have falling into the water during an attack, the beast did not attack them.|
+|25+|The players discover the Del’Ladderans, if the players can earn their trust they may reveal the information in their section below.|
+{: .table .table-striped .table-hover .full-first }
 
 ## Unsafe Waters<figure class="wp-block-image size-large">
 
-![][1] </figure> 
+{% include imageframe.html
+  figure_class="float-end ms-4 clearfix"
+  src="https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/01-006.monster.png"
+  alt="A rustic town forzen in ice."
+  width="425" height="284"
+  caption="Image Credit Wizards of the Coast"
+ %}
+
 
 This encounter runs much as it does in the module with additions or modifications listed here. I recommend not depending on the late events table, unless your group would enjoy that sort of thing, and instead moving to an encounter with the plesiosaur after a few hours on the water. The beast will begin by ramming and pushing the boat (see Plesiosaurus Behavior option 2 in the module), this continues for several minutes, if the players attack the creature it responds in kind (moving to Plesiosaurus Behavior option 3 in the module). If the creature takes more than half it&#8217;s hitpoints in damage, it swims away. Players may be surprised that it speaks in a pleading tone as it departs, &#8220;Please, just go away!&#8221;. If somehow, the players can get the creatures attention
 
@@ -164,222 +95,5 @@ As with any adventure, the players can choose how they want to approach it, so c
   * Resvisin will remember and eventually learn of the players betrayal. This sets up a possible revenge plot later if you&#8217;re inclined, or you could tie them to The White Moose quest in Lonelywood to setup a series of encounters with Resvisin as a BBG for it all.
 
 So that&#8217;s it. My remix of this encounter. I hope you get something out of it and enjoy!
-
-<div  class="wp-block-ultimate-post-post-list-1 ultp-block-92c184">
-  <div class="ultp-block-wrapper">
-    <div class="ultp-loading">
-      <div class="ultp-loading-blocks" style="width:100%;height:100%;">
-        <div style="left: 0;top: 0;animation-delay:0s;">
-        </div>
-        
-        <div style="left: 21px;top: 0;animation-delay:0.125s;">
-        </div>
-        
-        <div style="left: 42px;top: 0;animation-delay:0.25s;">
-        </div>
-        
-        <div style="left: 0;top: 21px;animation-delay:0.875s;">
-        </div>
-        
-        <div style="left: 42px;top: 21px;animation-delay:0.375s;">
-        </div>
-        
-        <div style="left: 0;top: 42px;animation-delay:0.75s;">
-        </div>
-        
-        <div style="left: 42px;top: 42px;animation-delay:0.625s;">
-        </div>
-        
-        <div style="left: 21px;top: 42px;animation-delay:0.5s;">
-        </div>
-      </div>
-    </div>
-    
-    <div class="ultp-heading-filter">
-      <div class="ultp-heading-filter-in">
-        <div class="ultp-heading-wrap ultp-heading-style7 ultp-heading-left">
-          <h4 class="ultp-heading-inner">
-            <span>Other RotF Remixes</span>
-          </h4>
-        </div>
-        
-        <div class="ultp-filter-navigation">
-        </div>
-      </div>
-    </div>
-    
-    <div class="ultp-block-items-wrap ultp-block-row ultp-block-column-2">
-      <div class="ultp-block-item post-id-291">
-        <div class="ultp-block-content-wrap">
-          <div class="ultp-block-entry-heading">
-            <h3 class="ultp-block-title">
-              <a href="https://optionalrule.com/2021/01/12/rotf-remix-foaming-mugs/" >RotF Remix: Foaming Mugs</a>
-            </h3>
-            
-            <div class="ultp-block-meta ultp-block-meta-dot ultp-block-meta-noIcon">
-              <span class="ultp-block-author">By<a target="_blank" href="https://optionalrule.com/author/optionalrule/">Scott</a></span><span class="ultp-block-date">January 12, 2021</span><span class="ultp-post-read">13 min read</span>
-            </div>
-          </div>
-          
-          <div class="ultp-block-content">
-            <div class="ultp-block-excerpt">
-              <p>
-                This is my remix of the Foaming Mugs quest from the 5th edition Dungeons and Dragons module, Icewind Dale: Rime of the Frostmaiden. You can use this to spice up your encounter with a bit more intrigue, potential negotiation and&hellip;
-              </p>
-            </div>
-            
-            <div class="ultp-block-readmore">
-              <a href="https://optionalrule.com/2021/01/12/rotf-remix-foaming-mugs/" >Read More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="ultp-block-item post-id-185">
-        <div class="ultp-block-content-wrap">
-          <div class="ultp-block-entry-heading">
-            <h3 class="ultp-block-title">
-              <a href="https://optionalrule.com/2021/01/04/rotf-remix-heart-of-winter-supernatural-regions/" >RotF Remix: Heart of Winter Supernatural Regions</a>
-            </h3>
-            
-            <div class="ultp-block-meta ultp-block-meta-dot ultp-block-meta-noIcon">
-              <span class="ultp-block-author">By<a target="_blank" href="https://optionalrule.com/author/optionalrule/">Scott</a></span><span class="ultp-block-date">January 4, 2021</span><span class="ultp-post-read">5 min read</span>
-            </div>
-          </div>
-          
-          <div class="ultp-block-content">
-            <div class="ultp-block-excerpt">
-              <p>
-                This content is currently in draft and open for comment by the community. DM or @ me on Twitter with suggestions. With the publication of Tasha&#8217;s Caldron of Everything, the game introduced the concepts of Supernatural Regions to 5th edition&hellip;
-              </p>
-            </div>
-            
-            <div class="ultp-block-readmore">
-              <a href="https://optionalrule.com/2021/01/04/rotf-remix-heart-of-winter-supernatural-regions/" >Read More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="ultp-block-item post-id-139">
-        <div class="ultp-block-content-wrap">
-          <div class="ultp-block-entry-heading">
-            <h3 class="ultp-block-title">
-              <a href="https://optionalrule.com/2021/01/04/rotf-remix-the-far-north-ten-towns/" >RotF Remix: The Far North & Ten-Towns</a>
-            </h3>
-            
-            <div class="ultp-block-meta ultp-block-meta-dot ultp-block-meta-noIcon">
-              <span class="ultp-block-author">By<a target="_blank" href="https://optionalrule.com/author/optionalrule/">Scott</a></span><span class="ultp-block-date">January 4, 2021</span><span class="ultp-post-read">9 min read</span>
-            </div>
-          </div>
-          
-          <div class="ultp-block-content">
-            <div class="ultp-block-excerpt">
-              <p>
-                Overview The Ten-Towns of Icewind Dale: Rime of the Frostmaiden provide rich plot, roleplaying, and excellent modular encounters for your 5th edition Dungeons and Dragons game. These early adventures setup the core tension of the adventure, and provide some of&hellip;
-              </p>
-            </div>
-            
-            <div class="ultp-block-readmore">
-              <a href="https://optionalrule.com/2021/01/04/rotf-remix-the-far-north-ten-towns/" >Read More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="ultp-block-item post-id-135">
-        <div class="ultp-block-content-wrap">
-          <div class="ultp-block-entry-heading">
-            <h3 class="ultp-block-title">
-              <a href="https://optionalrule.com/2020/12/24/rotf-remix-lake-monster/" >RotF Remix: Lake Monster</a>
-            </h3>
-            
-            <div class="ultp-block-meta ultp-block-meta-dot ultp-block-meta-noIcon">
-              <span class="ultp-block-author">By<a target="_blank" href="https://optionalrule.com/author/optionalrule/">Scott</a></span><span class="ultp-block-date">December 24, 2020</span><span class="ultp-post-read">10 min read</span>
-            </div>
-          </div>
-          
-          <div class="ultp-block-content">
-            <div class="ultp-block-excerpt">
-              <p>
-                This post contains the remixes and changes I used for the Lake Monster quest picked up in the town of Bremen in Icewind Dale: Rime of the Frostmaiden. It runs similarly to what is written in the module with a&hellip;
-              </p>
-            </div>
-            
-            <div class="ultp-block-readmore">
-              <a href="https://optionalrule.com/2020/12/24/rotf-remix-lake-monster/" >Read More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="ultp-block-item post-id-108">
-        <div class="ultp-block-content-wrap">
-          <div class="ultp-block-entry-heading">
-            <h3 class="ultp-block-title">
-              <a href="https://optionalrule.com/2020/12/09/rime-of-the-frostmaiden-remixes/" >Rime of the Frostmaiden Remixes</a>
-            </h3>
-            
-            <div class="ultp-block-meta ultp-block-meta-dot ultp-block-meta-noIcon">
-              <span class="ultp-block-author">By<a target="_blank" href="https://optionalrule.com/author/optionalrule/">Scott</a></span><span class="ultp-block-date">December 9, 2020</span><span class="ultp-post-read">2 min read</span>
-            </div>
-          </div>
-          
-          <div class="ultp-block-content">
-            <div class="ultp-block-excerpt">
-              <p>
-                Remixes have become a great way for DMs to talk about how they are using published content in the wild for their actual 5th edition games. It focuses on how you arrange or change the elements to suit your individual&hellip;
-              </p>
-            </div>
-            
-            <div class="ultp-block-readmore">
-              <a href="https://optionalrule.com/2020/12/09/rime-of-the-frostmaiden-remixes/" >Read More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="ultp-block-item post-id-81">
-        <div class="ultp-block-content-wrap">
-          <div class="ultp-block-entry-heading">
-            <h3 class="ultp-block-title">
-              <a href="https://optionalrule.com/2020/11/30/icewind-dale-npc-beldora-nine-dogs/" >Icewind Dale NPC: Beldora Nine-Dogs</a>
-            </h3>
-            
-            <div class="ultp-block-meta ultp-block-meta-dot ultp-block-meta-noIcon">
-              <span class="ultp-block-author">By<a target="_blank" href="https://optionalrule.com/author/optionalrule/">Scott</a></span><span class="ultp-block-date">November 30, 2020</span><span class="ultp-post-read">3 min read</span>
-            </div>
-          </div>
-          
-          <div class="ultp-block-content">
-            <div class="ultp-block-excerpt">
-              <p>
-                Art by Miguel Regodón Harkness Secretive leader of The Harpers in Icewind Dale, silently watching and coordinating from Bryn Shander where she trains and supplies sled dogs. Description This late middle-aged human woman wears thick furs crudely sewed together from&hellip;
-              </p>
-            </div>
-            
-            <div class="ultp-block-readmore">
-              <a href="https://optionalrule.com/2020/11/30/icewind-dale-npc-beldora-nine-dogs/" >Read More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="ultp-pagination-wrap ultp-pagination-ajax-action" data-paged="1" data-blockid="92c184" data-postid="135" data-pages="2" data-blockname="ultimate-post_post-list-1">
-      <ul class="ultp-pagination">
-        <li class="ultp-center-item pagination-active" data-current="1">
-          <a href="https://optionalrule.com/wp-admin/export.php?type=hugo">1</a>
-        </li>
-        <li class="ultp-center-item" data-current="2">
-          <a href="https://optionalrule.com/wp-admin/export.php?type=hugo&#038;paged=2">2</a>
-        </li>
-        <li class="ultp-next-page-numbers">
-          <a href="https://optionalrule.com/wp-admin/export.php?type=hugo&#038;paged=2">Next<svg enable-background="new 0 0 477.175 477.175" version="1.1" viewBox="0 0 477.18 477.18"><path d="m360.73 229.08-225.1-225.1c-5.3-5.3-13.8-5.3-19.1 0s-5.3 13.8 0 19.1l215.5 215.5-215.5 215.5c-5.3 5.3-5.3 13.8 0 19.1 2.6 2.6 6.1 4 9.5 4s6.9-1.3 9.5-4l225.1-225.1c5.3-5.2 5.3-13.8 0.1-19z"/></svg></a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/01-006.monster.png

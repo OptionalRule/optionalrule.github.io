@@ -2,21 +2,20 @@
 title: 'Thrilling Heroics Rules for D&D 5e'
 author: Scott Turnbull
 layout: post
-date: 2020-12-22T00:05:06+00:00
-url: /2020/12/22/thrilling-heroics-rules-for-dd-5e/
-nb_of_words:
-  - 1047
 categories:
   - RPG Resources
 
 ---
-## Overview
-
-<div class="wp-block-image is-style-default">
-  <figure class="alignleft size-large"><img loading="lazy" width="384" height="301" src="https://optionalrule.com/wp-content/uploads/2020/12/grog_by_nickroblesart_sm.jpg" alt="Blue skinned barbarian leaping with flaming axe ready for a strike." class="wp-image-129" srcset="https://optionalrule.com/wp-content/uploads/2020/12/grog_by_nickroblesart_sm.jpg 384w, https://optionalrule.com/wp-content/uploads/2020/12/grog_by_nickroblesart_sm-300x235.jpg 300w" sizes="(max-width: 384px) 100vw, 384px" /><figcaption>Art from <a href="https://www.deviantart.com/nickroblesart/art/Grog-596737963" target="_blank" rel="noreferrer noopener">deviantart</a>, by <a rel="noreferrer noopener" href="http://www.nickroblesart.com/" target="_blank">NickRoblesArt.com</a></figcaption></figure>
-</div>
 
 Thrilling heroics have always been an important part of adventuring in table-top roleplaying games. The rules of 5th edition are great for covering most basic action but occasionally players want something more exciting to happen. The swashbuckler may want to distract opponents by kicking the table at them, or the cavalier leaps from their charging horse to make a more devastating attack, this is all part of thrilling heroic action at the heart of adventure based roleplaying games.
+
+{% include imageframe.html
+  figure_class="float-end ms-4 clearfix"
+  src="/assets/img/grog_by_nickroblesart-384x301.jpg"
+  alt="A goliath barbarian leaping in the air about to strike with their axe."
+  width="384" height="301"
+  caption="Image Credit Nick Robles"
+ %}
 
 Spectacular heroic action itself adds a lot to an encounter, but what makes an action thrilling is the risk that goes along with it. Players who want to attempt some daring action that creates an extra effect, should offer some option for how they do it and what the drawback is if they fail. As with most things in 5th edition, this usually takes the form of stating some goal, picking a skill and stating what the outcome is for success or failure and rolls against a difficulty set by the DM.
 
@@ -26,205 +25,36 @@ The most simple case is the player asks for some action to create a bonus to an 
 
 Heroics are some action that grants a bonus, advantage, or some condition that isn&#8217;t normally allowed or available through the normal rules. Some examples of things players might try to gain from a heroic action are:
 
-### Example Heroics<figure class="wp-block-table is-style-stripes">
+### Example Heroics
 
-<table class="has-fixed-layout">
-  <tr>
-    <th class="has-text-align-left" data-align="left">
-      Bonus
-    </th>
-    
-    <th class="has-text-align-left" data-align="left">
-      Impact
-    </th>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      +1 bonus
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Minor
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      +1d4 bonus
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Minor
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Disadvantage for opponent
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Moderate
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Advantage for player
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Moderate
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Additional damage die
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Moderate
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Push the use of an ability
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Significant
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Add significan new effect or combine effects
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Significant
-    </td>
-  </tr>
-</table></figure> 
+|Bonus|Impact|
+|--- |--- |
+|+1 bonus|Minor|
+|+1d4 bonus|Minor|
+|Disadvantage for opponent|Moderate|
+|Advantage for player|Moderate|
+|Additional damage die|Moderate|
+|Push the use of an ability|Significant|
+|Add significan new effect or combine effects|Significant|
+{: .table .table-striped .table-hover .data-table }
 
 ## Thrilling Risks!
 
-Heroics are some action that grants a bonus, advantage, or some condition that isn&#8217;t normally allowed or available through the normal rules. Some examples of things players might try to gain from a heroic action are:<figure class="wp-block-table is-style-stripes">
+Heroics are some action that grants a bonus, advantage, or some condition that isn&#8217;t normally allowed or available through the normal rules. Some examples of things players might try to gain from a heroic action are:
 
-<table class="has-fixed-layout">
-  <tr>
-    <th class="has-text-align-left" data-align="left">
-      Risk
-    </th>
-    
-    <th class="has-text-align-left" data-align="left">
-      Impact
-    </th>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Loss of half movement
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Minor
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Require a skill roll
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Minor
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Player disadvantage
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Moderate
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      One opponent advantage
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Moderate
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Take extra die of damage
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Moderate
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Invoke Attack of Opportunity
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Moderate
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      All opponents advantage
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Significant
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Fall prone
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Significant
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Loss of Action
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Significant
-    </td>
-  </tr>
-  
-  <tr>
-    <td class="has-text-align-left" data-align="left">
-      Loss of Turn
-    </td>
-    
-    <td class="has-text-align-left" data-align="left">
-      Very Significant
-    </td>
-  </tr>
-</table></figure> 
+|Risk|Impact|
+|--- |--- |
+|Loss of half movement|Minor|
+|Require a skill roll|Minor|
+|Player disadvantage|Moderate|
+|One opponent advantage|Moderate|
+|Take extra die of damage|Moderate|
+|Invoke Attack of Opportunity|Moderate|
+|All opponents advantage|Significant|
+|Fall prone|Significant|
+|Loss of Action|Significant|
+|Loss of Turn|Very Significant|
+{: .table .table-striped .table-hover .data-table }
 
 ## Difficulty
 

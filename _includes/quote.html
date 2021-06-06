@@ -1,0 +1,10 @@
+<figure>
+    <blockquote class="blockquote">
+        <p>{{ include.quote }}</p>
+    </blockquote>
+    {% if include.caption %}
+    <figcaption class="blockquote-footer">
+        {{ include.caption }}
+    </figcaption>
+    {% endif %}
+</figure>

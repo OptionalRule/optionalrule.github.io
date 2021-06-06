@@ -2,33 +2,12 @@
 title: 'RotF Remix:  The Inkwell Taphouse, Termalaine'
 author: Scott Turnbull
 layout: post
-date: 2020-11-21T03:10:00+00:00
-url: /2020/11/21/rotf-remix-the-inkwell-taphouse-termalaine/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
-  - Adventures
+  - Encounters
   - Maps
-tags:
-  - remix
-  - rotf
-
 ---
-<figure class="wp-block-pullquote is-style-default">
 
-> A ramshackle and squat two story stone building made held together by rotting timbers, with opaque frosted windows and a dilapidated tiled roof. It sits on a side road along the edge of town slightly northeast of the road to Targos.</figure> 
+A ramshackle and squat two story stone building made held together by rotting timbers, with opaque frosted windows and a dilapidated tiled roof. It sits on a side road along the edge of town slightly northeast of the road to Targos.  This is a standard 25x25 battlemap I created for my Rime of the Frostmaiden camapgin, I hope you can use it too.
 
 This former brewery and tavern served as a rallying place for scholars during the closing decades of The Spellplague. Decades of discarded manuscripts, journals, books and other writings accumulated and became a crude library of local lore and obscure works. It has been years since revelers or scholars frequented this place. Today, the taphouse is a tumble of infrequently used brewing supplies interspersed with stacks of dusty and aging written works.
 
@@ -38,6 +17,9 @@ Library users have advantage on any Intelligence based skill checks involving lo
 
 I created this map using <a href="https://dungeondraft.net/" target="_blank" rel="noreferrer noopener">DungeonDraft</a> for use in my version of Rime of the Frostmaiden.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://i.redd.it/awg4bpr3st961.jpg"><img src="https://i.redd.it/awg4bpr3st961.jpg" alt="" /></a></figure>
-</div>
+{% include imageframe.html
+  figure_class="my-5"
+  src="https://i.redd.it/awg4bpr3st961.jpg"
+  alt="Battlemap of a small tavern and snowly streets. Inside maps and books litter the tables."
+  href="https://i.redd.it/awg4bpr3st961.jpg"
+%}
