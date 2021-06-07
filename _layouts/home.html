@@ -48,7 +48,7 @@ pagination:
     <div class="list-group list-group-flush my-2">
       <h2 class="widget-title list-group-item">Socials</h2>
       {% for item in site.data.socials %}
-      <a href="{{ item.link }}" target="_blank" class="list-group-item list-group-item-action">
+      <a href="{{ item.link }}" target="_blank" class="list-group-item list-group-item-action" rel="noopener">
         <i class="fab fa-{{ item.name }}"></i>
         {{ item.title }}
       </a>
@@ -58,7 +58,7 @@ pagination:
     <div class="list-group list-group-flush my-2">
       <h2 class="widget-title list-group-item">Gaming Blogs</h2>
       {% for item in site.data.blogroll %}
-      <a href="{{ item.link }}" target="_blank" class="list-group-item list-group-item-action">{{ item.name }}</a>
+      <a href="{{ item.link }}" target="_blank" class="list-group-item list-group-item-action" rel="noopener">{{ item.name }}</a>
       {% endfor %}
     </div>
 

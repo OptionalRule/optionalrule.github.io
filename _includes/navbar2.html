@@ -2,7 +2,7 @@
 
 <div class="sticky-top bg-light shadow-sm border-top border-dark">
     <nav class="navbar navbar-light navbar-expand-md bg-light justify-content-center sticky-top container">
-        <a href="{{ site.base_url}}" class="navbar-brand d-flex w-50 me-auto">
+        <a href="{{ site.base_url }}" class="navbar-brand d-flex w-50 me-auto">
             <img src="/assets/brand/OptionalRuleIcon50x50XparentBG.png" height="40"
                 alt="Optional Rule Logo, A dark hex with rainbow d20 in the center.">
         </a>
@@ -23,9 +23,9 @@
             </ul>
             <ul class="nav navbar-nav ms-auto w-100 justify-content-end">
                 <li class="nav-item">
-                {% for social in site.data.socials%}
+                    {% for social in site.data.socials%}
                     <a class="nav-link d-inline" href="{{ social.link}}"><i class="fab fa-{{ social.name }}"></i></a>
-                {% endfor %}
+                    {% endfor %}
                 </li>
             </ul>
         </div>
