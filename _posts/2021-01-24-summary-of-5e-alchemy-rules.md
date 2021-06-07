@@ -2,6 +2,8 @@
 title: Summary of 5e Alchemy Rules
 author: Scott Turnbull
 layout: post
+image: /assets/img/alchemylab-480x384.jpg
+description: Summarizing the alchemy and potion creation rules from across various 5th edition books for my players.
 categories:
   - RPG Resources
 

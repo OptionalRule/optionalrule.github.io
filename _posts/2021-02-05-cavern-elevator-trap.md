@@ -2,6 +2,8 @@
 title: Cavern Elevator Trap
 author: Scott Turnbull
 layout: post
+image: /assets/img/mineshaft_480x643.jpg
+description: A sinister and dynamic elevator trap you can use in your 5th edition game.
 categories:
   - Encounters
 ---

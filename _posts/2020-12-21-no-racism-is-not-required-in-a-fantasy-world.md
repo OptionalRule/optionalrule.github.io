@@ -2,6 +2,7 @@
 title: No, racism is not required in a fantasy world
 author: Scott Turnbull
 layout: post
+description: A discussion of why racial essentialism is not needed, does not add anything, and hurts in 5th edition TTRPGs
 categories:
   - Misc
 

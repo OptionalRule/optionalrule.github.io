@@ -2,6 +2,8 @@
 title: 5e Advancement Difficulties
 author: Scott Turnbull
 layout: post
+image: /assets/img/relativedifficultyleveling-480x330.jpg
+description: An analysis of the varying difficulty and pace of character leveling at different points in 5th edition.
 categories:
   - Analysis
 

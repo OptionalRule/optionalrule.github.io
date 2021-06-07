@@ -2,6 +2,8 @@
 title: 'RotF Remix: Foaming Mugs'
 author: Scott Turnbull
 layout: post
+image: https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/00-004.yeti-splash.png
+description: My modification to the Foaming Mugs quest from the 5th edition module, Rime of the Frostmaiden.
 categories:
   - Encounters
 ---

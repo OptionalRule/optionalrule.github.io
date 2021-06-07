@@ -29,20 +29,24 @@
     {% seo %}
 
     <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+
+    <!-- Analytics -->
+    {% include google_analytics.html %}
 </head>
 <body>
 
-<div class="parallax-window overflow-hidden" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg">
+<div class="parallax-window overflow-hidden" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg" 
+alt="A paper notebook laying open on top of a woodcut map of the world with magnifying glass and pencil nearby.  Fun is not optional is written on the open page.">
     <div class="header-logo text-center">
         <h1>
-            <a href="/" class="site-title">Optional Rule</a>
+            <a href="{{ site.baseurl }}" class="site-title">Optional Rule</a>
         </h1>
         <p class="site-description"></p>
     </div>
 </div>
 {% include navbar2.html %}
 
-<div class="container">{{ content }}</div>
+<div class="container clearfix">{{ content }}</div>
 
 <footer class="footer mt-5 py-3 bg-dark">
     <div class="container">
@@ -50,7 +54,7 @@
             <div class="col">
                 <ul class="list-unstyled small text-muted">
                     <li class="mb-2">Website by <a href="https://www.tech-tavern.com" target="_blank" rel="noopener">Tech Tavern</a>.</li>
-                    <li class="mb-2">Header Photo by <a href="https://unsplash.com/@dariuszsankowski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nooopener">Dariusz Sankowsk</a></li>
+                    <li class="mb-2">Header Photo by <a href="https://unsplash.com/@dariuszsankowski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="noopener">Dariusz Sankowsk</a></li>
                 </ul>
             </div>
             <div class="col small text-muted">

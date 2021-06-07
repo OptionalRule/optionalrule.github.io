@@ -2,6 +2,8 @@
 title: 'Icewind Dale NPC: Arnold Beitz'
 author: Scott Turnbull
 layout: post
+image: /assets/img/ArnoldBeitz-394x787.jpg
+description: A evil and conniving NPC to use in your 5th edition Rime of the Frostmaiden campaign.
 categories:
   - Encounters
 
@@ -9,6 +11,15 @@ categories:
 This is an NPC I've used in my Rime of the Frostmaiden campaign as a foil in Bryn Shander and to introduce a political ingrique plot for the players early on in the game. 
 
 **Description:** A finely dressed tall thin human with hawkish features and tightly bound raven hair and high widows peaks. His angular features seem to have frozen his face into a permanent scowl. His skin is flawless and his amber eyes scan people very quickly.
+
+{% include imageframe.html
+  figure_class="float-end ms-4 my-5"
+  src="/assets/img/ArnoldBeitz-394x787.jpg"
+  alt="A well dressed man with pale skin, high widows peaks, and a look of cool disdain."
+  width="394" height="787"
+  caption="Image Credit Wizards of the Coast"
+ %}
+
 
 **Personality:** He believes people are spoiled and unwilling to work. That they are made lazy by the march of civilization and that only what he considers hard working people deserve any sort of benefit. He has a taste for the finer things and spends a great deal of money on luxuries, some more exotic than others.
 
@@ -20,4 +31,4 @@ This is an NPC I've used in my Rime of the Frostmaiden campaign as a foil in Bry
 
 **Voice:** Half-singing
 
-**Plot:** Arnold is a member of [The Chardalyn Syndicate]({% link _posts/2021-01-04-rotf-remix-the-far-north-ten-towns.md %}), controllling Bryn Shander.  After a failed election to town speaker he has energetically pursued every opportunity to undermine the current town speaker.  He is also working with a local band of goblins to incercept or disrupt the supply lines for rival buisnesses in town.  His goal is to spark a revolt that installs him as town speaker.
+**Plot:** Arnold is a member of [The Chardalyn Syndicate]({% link _posts/2021-01-04-rotf-remix-the-far-north-ten-towns.md %}), controllling Bryn Shander.  After a failed election to town speaker he has energetically pursued every opportunity to undermine the current town speaker.  He is also working with a local band of goblins to intercept or disrupt the supply lines for rival businesses in town.  His goal is to spark a revolt that installs him as town speaker.

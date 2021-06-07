@@ -2,6 +2,8 @@
 title: 'RotF Remix: The Far North & Ten-Towns'
 author: Scott Turnbull
 layout: post
+image: https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/01-001.easthaven.png
+description: Enhance your 5th edition Rime of the Frostmaiden campaign with these additions to the Ten Towns in Icewind Dale.
 categories:
   - Encounters
 

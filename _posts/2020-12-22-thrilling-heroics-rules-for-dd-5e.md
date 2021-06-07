@@ -2,6 +2,8 @@
 title: 'Thrilling Heroics Rules for D&D 5e'
 author: Scott Turnbull
 layout: post
+image: /assets/img/grog_by_nickroblesart-384x301.jpg
+description: Add more dynamic and thrilling heroics to your 5th edition game with these rules.
 categories:
   - RPG Resources
 

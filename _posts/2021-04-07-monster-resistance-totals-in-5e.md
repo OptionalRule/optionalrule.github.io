@@ -2,7 +2,7 @@
 title: Monster Resistance Totals in 5e
 author: Scott Turnbull
 layout: post
-date: 2021-04-07T14:31:07+00:00
+description: A breakdown and analysis of monster resistances across all the 5th edition monster statblocks.
 categories:
   - Analysis
 

@@ -2,6 +2,7 @@
 title: 'Tools to Affect Rolls in D&D'
 author: Scott Turnbull
 layout: post
+description: An analysis and ranking of different roll effecting mechanisms in 5th edition TTRPGs.
 categories:
   - Analysis
 

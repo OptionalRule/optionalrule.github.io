@@ -2,6 +2,7 @@
 title: Thinking Critically on Agency
 author: Scott Turnbull
 layout: post
+description: Link to my interview on the Thinking Critically podcast discussing the topic of player agency in 5th edition and TTRPGs.
 categories:
   - Misc
 

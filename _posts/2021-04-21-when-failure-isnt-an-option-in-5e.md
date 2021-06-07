@@ -3,6 +3,7 @@ title: When Failure Isn’t an Option in 5e
 author: Scott Turnbull Turnbull
 layout: post
 date: 2021-04-21T16:18:12+00:00
+description: Make failing skill rolls fun in 5th edition and why it is important to fail.
 categories:
   - RPG Resources
 ---

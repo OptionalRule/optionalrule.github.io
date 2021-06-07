@@ -2,6 +2,8 @@
 title: 'Simulating Sadness: Great Weapon Fighter Damage'
 author: Scott Turnbull
 layout: post
+image: /assets/img/grog_by_nickroblesart-384x301.jpg
+description: An breakdown and analysis of the outcomes of different options related to the Great Weapon Fight feat in 5th edition.
 categories:
   - Analysis
 

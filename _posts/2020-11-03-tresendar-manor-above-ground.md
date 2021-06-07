@@ -2,6 +2,8 @@
 title: Tresendar Manor Above Ground
 author: Scott Turnbull
 layout: post
+image: https://i.redd.it/66rci2cg5cx51.jpg
+description: Above group battlemap of Tresendar Manor in Phandalin from 5th edition Lost Mines of Phandever or Dragon of Icespire Peak.
 categories:
   - Maps
 

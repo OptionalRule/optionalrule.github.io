@@ -2,6 +2,8 @@
 title: 'RotF Remix: Heart of Winter Supernatural Regions'
 author: Scott Turnbull
 layout: post
+image: https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/00-001.png
+description: Winter themed supernatural region effects to use in your 5th edition Icewind Dale Rime of the Frostmaiden game.
 categories:
   - Encounters
 

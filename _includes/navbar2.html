@@ -2,8 +2,8 @@
 
 <div class="sticky-top bg-light shadow-sm border-top border-dark">
     <nav class="navbar navbar-light navbar-expand-md bg-light justify-content-center sticky-top container">
-        <a href="{{ site.base_url }}" class="navbar-brand d-flex w-50 me-auto">
-            <img src="/assets/brand/OptionalRuleIcon50x50XparentBG.png" height="40"
+        <a href="{{ site.baseurl }}" class="navbar-brand d-flex w-50 me-auto">
+            <img src="/assets/brand/OptionalRuleIcon50x50XparentBG.png" height="50" width="50"
                 alt="Optional Rule Logo, A dark hex with rainbow d20 in the center.">
         </a>
 
@@ -16,7 +16,7 @@
             <ul class="navbar-nav w-100 justify-content-center">
                 {% for item in site.data.navbar %}
                 <li class="nav-item">
-                    <a class="nav-link{% if page.url == item.link %} active{% endif %}" aria-current="page"
+                    <a class="nav-link fs-5 mx-3 {% if page.url == item.link %} active{% endif %}" aria-current="page"
                         href="{{ item.link }}">{{ item.name }}</a>
                 </li>
                 {% endfor %}
@@ -24,7 +24,10 @@
             <ul class="nav navbar-nav ms-auto w-100 justify-content-end">
                 <li class="nav-item">
                     {% for social in site.data.socials%}
-                    <a class="nav-link d-inline" href="{{ social.link}}"><i class="fab fa-{{ social.name }}"></i></a>
+                    <a class="nav-link d-inline" href="{{ social.link}}">
+                        <i class="fab fa-{{ social.name }}"></i>
+                        <span class="d-none">{{ social.name | capitalize }}</span>
+                    </a>
                     {% endfor %}
                 </li>
             </ul>

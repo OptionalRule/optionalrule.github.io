@@ -2,6 +2,8 @@
 title: Managing DM Anxiety
 author: Scott Turnbull
 layout: post
+image: /assets/img/dm_anxiety-480x320.jpg
+description: Recommendations for how Dungeon Masters can manage their anxiety when running TTRPGs.
 categories:
   - Misc
 

@@ -2,6 +2,8 @@
 title: Create Captivating Traps
 author: Scott Turnbull
 layout: post
+image: /assets/img/indy_480x320.jpg
+description: How to make traps fun and exciting in 5th edition games.
 categories:
   - RPG Resources
 

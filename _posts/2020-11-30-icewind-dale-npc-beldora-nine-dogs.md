@@ -2,16 +2,10 @@
 title: 'Icewind Dale NPC: Beldora Nine-Dogs'
 author: Scott Turnbull
 layout: post
-date: 2020-11-30T15:52:00+00:00
-url: /2020/11/30/icewind-dale-npc-beldora-nine-dogs/
-nb_of_words:
-  - 522
+image: /assets/img/beldrora_ninedogs-414x585.jpg
+description: Silent and mysterious leader of The Harpers faction in Bryn Shander for your 5th edition Icewind Dale Rime of the Frostmaiden game.
 categories:
   - Encounters
-tags:
-  - remix
-  - rotf
-
 ---
  
  An NPC I fleshed out for my Icewind Dale: Rime of the Frostmaiden campaign.  She is the silent and secretive leader of The Harpers in Icewind dale, dedicated to keeping the faction members safe in the wake of assassinations years ago.

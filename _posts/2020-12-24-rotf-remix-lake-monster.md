@@ -2,6 +2,8 @@
 title: 'RotF Remix: Lake Monster'
 author: Scott Turnbull
 layout: post
+image: https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/01-006.monster.png
+description: A reworking of the Lake Monster quest from 5th edition Icewind Dale Rime of the Frostmaiden.
 categories:
   - Encounters
 

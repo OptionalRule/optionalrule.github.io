@@ -2,6 +2,8 @@
 title: 'RotF Remix: Houlen’s Tomb'
 author: Scott Turnbull
 layout: post
+image: https://i.redd.it/c7hhvkh7st961.jpg
+description: Battlemap of a natural cavern with hidden tomb for use in your TTRPGs and 5th edition games.
 categories:
   - Maps
 

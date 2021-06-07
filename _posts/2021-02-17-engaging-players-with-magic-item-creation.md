@@ -2,6 +2,8 @@
 title: Engaging Players with Magic Item Creation
 author: Scott Turnbull
 layout: post
+image: /assets/img/steve_stark_480x371.jpeg
+description: Rules for making magic item component harvesting and magic item creation fun for players in 5th edition games.
 categories:
   - RPG Resources
 

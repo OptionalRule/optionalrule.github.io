@@ -2,6 +2,8 @@
 title: Winter Camp Map
 author: Scott Turnbull
 layout: post
+image: https://i.redd.it/1f1t9adlst961.jpg
+description: A winter camp battlemap for use in your TTRPG and 5th edition games.
 categories:
   - Maps
 ---

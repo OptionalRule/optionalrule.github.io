@@ -2,6 +2,7 @@
 title: Be Friends with your Roleplaying Group
 author: Scott Turnbull
 layout: post
+description: Why friendship is so important for TTRPG groups and in 5th edition games.
 categories:
   - Misc
 

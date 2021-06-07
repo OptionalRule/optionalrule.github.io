@@ -2,22 +2,8 @@
 title: Mounted Combat in 5e
 author: Scott Turnbull
 layout: post
-date: 2021-03-08T13:47:04+00:00
-url: /2021/03/08/mounted-combat-in-5e/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
+image: /assets/img/mountedcombat-480x600.jpg
+description: Fun and exciting mounted combat rules to use in your 5th edition game.
 categories:
   - RPG Resources
 

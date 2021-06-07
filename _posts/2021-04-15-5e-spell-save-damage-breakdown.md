@@ -2,8 +2,7 @@
 title: '5e Spell Save & Damage Breakdown'
 author: Scott Turnbull
 layout: post
-date: 2021-04-15T16:01:05+00:00
-url: /2021/04/15/5e-spell-save-damage-breakdown/
+description: A breakdown and analysis of spell save distribution among 5th edition spellcasters.
 categories:
   - Analysis
 

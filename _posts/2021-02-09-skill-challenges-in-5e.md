@@ -2,6 +2,8 @@
 title: Skill Challenges in 5e
 author: Scott Turnbull
 layout: post
+image: /assets/img/skillcheck-480x363.jpg
+description: Skill challenges done the right way for 5th edition games.
 categories:
   - RPG Resources
 

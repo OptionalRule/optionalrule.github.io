@@ -2,6 +2,7 @@
 title: My Current 5e House Rules
 author: Scott Turnbull
 layout: post
+description: A list of house rules I use in my own 5th edition game.
 categories:
   - RPG Resources
 

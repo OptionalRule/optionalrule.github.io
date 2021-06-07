@@ -2,8 +2,7 @@
 title: The Zen of Awarding Experience for Roleplaying
 author: Scott Turnbull
 layout: post
-date: 2021-02-25T20:06:41+00:00
-url: /2021/02/25/the-zen-of-awarding-experience-for-roleplaying/
+description: Guidelines for how to award experience points for roleplaying encounters in your 5th edition game.
 categories:
   - RPG Resources
 

@@ -2,6 +2,7 @@
 title: Level Up Your Game with these RPGs
 author: Scott Turnbull
 layout: post
+description: Results of a survey of RPGs people recommend to expand your roleplaying and DM skills.
 categories:
   - Misc
 

@@ -2,7 +2,8 @@
 title: Progressive Failures and Rising Tension in 5th Edition
 author: Scott Turnbull
 layout: post
-date: 2021-01-03T18:26:35+00:00
+image: /assets/img/skillcheck-480x363.jpg
+description: Methods to build tension and excitement with failures and successes in your 5th edition TTRPG.
 categories:
   - RPG Resources
 

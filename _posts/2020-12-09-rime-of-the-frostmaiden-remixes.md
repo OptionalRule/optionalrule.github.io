@@ -2,6 +2,8 @@
 title: Rime of the Frostmaiden Remixes
 author: Scott Turnbull
 layout: post
+image: https://media.dnd.wizards.com/styles/product_image_left_scale/public/images/product/YiKwcXaQkJ.png
+description: Thoughts on why remixes are so important for 5th edition Icewind Dale Rime of the Frostmaiden.
 categories:
   - Encounters
 ---

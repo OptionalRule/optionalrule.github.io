@@ -1,1 +1,1 @@
-Sitemap: https://optionalrule.github.io/sitemap.xml
+Sitemap: https://www.optionalrule.com/sitemap.xml

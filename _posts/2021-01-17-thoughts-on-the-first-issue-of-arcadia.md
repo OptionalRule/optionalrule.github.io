@@ -2,6 +2,8 @@
 title: Thoughts on the First Issue of Arcadia
 author: Scott Turnbull
 layout: post
+image: /assets/img/Arcadia-1_v1.0-1_400x518.jpg
+description: My thoughts on the first issue of Arcadia from Matt Coleville and how to use it in 5th edition games.
 categories:
   - Misc
 

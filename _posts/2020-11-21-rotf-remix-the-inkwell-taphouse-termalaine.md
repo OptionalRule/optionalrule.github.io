@@ -2,6 +2,8 @@
 title: 'RotF Remix:  The Inkwell Taphouse, Termalaine'
 author: Scott Turnbull
 layout: post
+image: https://i.redd.it/awg4bpr3st961.jpg
+description: A rundown library in an old bar, fantastic location for use in your 5th edition Icewind Dale Rime of the Frostmaiden game.
 categories:
   - Encounters
   - Maps

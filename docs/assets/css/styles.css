@@ -5455,7 +5455,11 @@ a.site-title, .post-title a { color: #333333 !important; }
 
 .post-meta { color: #a1a1a1; font-style: italic; }
 
-.site-title { font-family: "Playfair Display"; font-size: 120px; line-height: 120px; letter-spacing: -1px; font-weight: 700; }
+.site-title { font-family: "Playfair Display"; letter-spacing: -1px; font-weight: 700; }
+
+.site-title { font-size: calc(1.875rem + 7.5vw); }
+
+@media (min-width: 1200px) { .site-title { font-size: 7.5rem; } }
 
 .post-content > p:first-of-type:first-letter { float: left; margin: 0px 12px 0 0; font-family: 'Playfair Display'; font-size: 80px; line-height: 65px; text-align: center; text-transform: uppercase; color: #030303; }
 

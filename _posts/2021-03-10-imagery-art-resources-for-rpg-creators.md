@@ -2,6 +2,7 @@
 title: 'Imagery & Art Resources for RPG Creators'
 author: Scott Turnbull
 layout: post
+description: A list of different art and image resources you can use when creating your TTRPG content.
 categories:
   - Misc
 

@@ -2,7 +2,7 @@
 title: The Language of Monsters in 5e
 author: Scott Turnbull
 layout: post
-date: 2021-04-03T01:20:52+00:00
+description: A count and analysis of languages listed for monsters in 5th edition statblocks.
 categories:
   - Analysis
 
