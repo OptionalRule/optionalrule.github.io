@@ -10,8 +10,15 @@
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for petefreitag.com" href="/feed.xml" />
 
 
-    <!-- Bootstrap CSS -->
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/aos.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Myriad+Pro&display=swap" rel="stylesheet">
+
 
     <!-- favicon stuff-->
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
@@ -44,7 +51,7 @@
 <meta property="twitter:image" content="https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg" />
 <meta property="twitter:title" content="Cavern Elevator Trap" />
 <script type="application/ld+json">
-{"author":{"@type":"Person","name":"Scott Turnbull"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.optionalrule.com/2021/02/05/cavern-elevator-trap/"},"@type":"BlogPosting","url":"https://www.optionalrule.com/2021/02/05/cavern-elevator-trap/","image":"https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg","headline":"Cavern Elevator Trap","dateModified":"2021-02-05T00:00:00-05:00","datePublished":"2021-02-05T00:00:00-05:00","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.optionalrule.com/assets//brand/OptionalRuleIcon50x50XparentBG.png"},"name":"Scott Turnbull"},"description":"A sinister and dynamic elevator trap you can use in your 5th edition game.","@context":"https://schema.org"}</script>
+{"@type":"BlogPosting","image":"https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg","headline":"Cavern Elevator Trap","dateModified":"2021-02-05T00:00:00-05:00","datePublished":"2021-02-05T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.optionalrule.com/2021/02/05/cavern-elevator-trap/"},"url":"https://www.optionalrule.com/2021/02/05/cavern-elevator-trap/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.optionalrule.com/assets//brand/OptionalRuleIcon50x50XparentBG.png"},"name":"Scott Turnbull"},"author":{"@type":"Person","name":"Scott Turnbull"},"description":"A sinister and dynamic elevator trap you can use in your 5th edition game.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -64,9 +71,9 @@
 </head>
 <body>
 
-<div class="parallax-window overflow-hidden" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg" 
+<div class="parallax-window overflow-hidden d-print-none" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg" 
 alt="A paper notebook laying open on top of a woodcut map of the world with magnifying glass and pencil nearby.  Fun is not optional is written on the open page.">
-    <div class="header-logo text-center">
+    <div class="header-logo text-center d-print-none">
         <h1>
             <a href="/" class="site-title">Optional Rule</a>
         </h1>
@@ -75,7 +82,7 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
 </div>
 <!-- Navigation -->
 
-<div class="sticky-top bg-light shadow-sm border-top border-dark">
+<div class="sticky-top bg-light shadow-sm border-top border-dark d-print-none">
     <nav class="navbar navbar-light navbar-expand-md bg-light justify-content-center sticky-top container">
         <a href="/" class="navbar-brand d-flex w-50 me-auto">
             <img src="/assets/brand/OptionalRuleIcon50x50XparentBG.png" height="50" width="50"
@@ -210,7 +217,7 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
 
 </div>
 
-<footer class="footer mt-5 py-3 bg-dark">
+<footer class="footer mt-5 py-3 bg-dark d-print-none">
     <div class="container">
         <div class="row">
             <div class="col">
@@ -235,6 +242,10 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
 <script src="/assets/js/popper.1.14.7.min.js"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
 <script src="/assets/js/parallax.min.js"></script>
+<script src="/assets/js/aos.js"></script>
+<script>
+    AOS.init()
+</script>
 
 </body>
 </html>

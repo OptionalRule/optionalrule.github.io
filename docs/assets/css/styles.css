@@ -1,7 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
 /* Declairations */
 /* links */
 /* colors */
 /*! Bootstrap v5.0.1 (https://getbootstrap.com/) Copyright 2011-2021 The Bootstrap Authors Copyright 2011-2021 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE) */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans&family=Playfair+Display&Myriad+Pro&display=swap");
 :root { --bs-blue: #0d6efd; --bs-indigo: #6610f2; --bs-purple: #6f42c1; --bs-pink: #d63384; --bs-red: #dc3545; --bs-orange: #fd7e14; --bs-yellow: #ffc107; --bs-green: #198754; --bs-teal: #20c997; --bs-cyan: #0dcaf0; --bs-white: #fff; --bs-gray: #6c757d; --bs-gray-dark: #343a40; --bs-primary: #ca9b52; --bs-secondary: #6c757d; --bs-success: #566E3D; --bs-info: #C0D6DF; --bs-warning: #ffc107; --bs-danger: #440D13; --bs-light: #f8f9fa; --bs-dark: #333333; --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", "Open Sans", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0)); }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -5388,7 +5390,10 @@ readers do not read off random characters that represent icons */
 
 .fab { font-family: 'Font Awesome 5 Brands'; font-weight: 400; }
 
-/* Taken from https://codepen.io/retractedhack/pen/gPLpWe Unsure if poser is creator, no lisence or attribution information given. body { text-align: center; } body *{ box-sizing: border-box; max-width: 100%; font-family: 'Noto Sans', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif; } */
+/*
+Taken from https://codepen.io/retractedhack/pen/gPLpWe
+Unsure if poser is creator, no lisence or attribution information given.
+*/
 .stat-block { font-size: 13.5px; line-height: 1.2em; max-width: 100%; font-family: 'Noto Sans', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif; text-align: left; margin: 20px; display: inline-block; vertical-align: top; width: 17%; min-width: 280px; background: #FDF1DC; padding: 5px 10px 20px; box-shadow: 0 0 1.5em #867453; }
 
 .stat-block.wide { width: 46.5%; min-width: 560px; text-align: center; }
@@ -5455,7 +5460,7 @@ a.site-title, .post-title a { color: #333333 !important; }
 
 .post-meta { color: #a1a1a1; font-style: italic; }
 
-.site-title { font-family: "Playfair Display"; letter-spacing: -1px; font-weight: 700; }
+.site-title { font-family: 'Playfair Display' serif; letter-spacing: -1px; font-weight: 700; }
 
 .site-title { font-size: calc(1.875rem + 7.5vw); }
 
@@ -5477,5 +5482,7 @@ a.site-title, .post-title a { color: #333333 !important; }
 .full-first tbody tr td:first-child, .full-first thead tr th:first-child { white-space: nowrap; }
 
 thead tr th:first-child, tbody tr td:first-child { text-align: left; }
+
+@media print { .d-print-none { display: none !important; } .parallax-mirror { display: none !important; } }
 
 /*# sourceMappingURL=styles.css.map */

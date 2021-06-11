@@ -1,3 +1,5 @@
+---
+---
 <!doctype html>
 <html lang="en">
 <head>
@@ -10,8 +12,15 @@
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for petefreitag.com" href="/feed.xml" />
 
 
-    <!-- Bootstrap CSS -->
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/aos.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Myriad+Pro&display=swap" rel="stylesheet">
+
 
     <!-- favicon stuff-->
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
@@ -35,9 +44,9 @@
 </head>
 <body>
 
-<div class="parallax-window overflow-hidden" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg" 
+<div class="parallax-window overflow-hidden d-print-none" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg" 
 alt="A paper notebook laying open on top of a woodcut map of the world with magnifying glass and pencil nearby.  Fun is not optional is written on the open page.">
-    <div class="header-logo text-center">
+    <div class="header-logo text-center d-print-none">
         <h1>
             <a href="{{ site.baseurl }}" class="site-title">Optional Rule</a>
         </h1>
@@ -48,7 +57,7 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
 
 <div class="container clearfix">{{ content }}</div>
 
-<footer class="footer mt-5 py-3 bg-dark">
+<footer class="footer mt-5 py-3 bg-dark d-print-none">
     <div class="container">
         <div class="row">
             <div class="col">

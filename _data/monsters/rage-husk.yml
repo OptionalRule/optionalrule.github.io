@@ -1,0 +1,13 @@
+name: Rage Husk
+type: Medium humanoid , chaotic evil
+ac: 11
+hp: 19 (3d8 + 6)
+movement:
+  speed: 30 ft.
+abilities:
+  strength: 10
+  dexterity: 11
+  constitution: 12
+  intelligence: 13
+  wisdom: 14
+  charisma: 0

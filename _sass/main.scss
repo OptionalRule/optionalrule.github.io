@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans&family=Playfair+Display&Myriad+Pro&display=swap');
 
 .parallax-window {
     min-height: 500px;
@@ -21,7 +22,7 @@ a.site-title, .post-title a {
 }
 
 .site-title {
-    font-family: "Playfair Display";
+    font-family: 'Playfair Display' serif;
     letter-spacing: -1px;
     font-weight: 700;
 }
@@ -95,3 +96,13 @@ thead tr th:first-child,
 tbody tr td:first-child {
   text-align: left;
 }
+
+// Remove sections in print view.
+@media print {
+    .d-print-none {
+     display: none !important;
+    }
+    .parallax-mirror { // The parallax.js library inserts this class so needs to be set specifically here.
+        display: none !important;
+    }
+   }
