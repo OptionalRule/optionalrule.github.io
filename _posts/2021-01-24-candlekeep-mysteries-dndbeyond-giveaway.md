@@ -7,7 +7,7 @@ categories:
 ---
 If the <a href="https://twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">OptionalRule Twitter account</a> reaches eight hundred (800) followers by **Noon EST March 15th 2021**, I will give away a gift code for an _electronic copy_ of **D&D Candlekeep Mysteries on DnDBeyond**! See details below for how to enter.
 
-<div class="alert alert-warning p-5 m-3 text-center">Note this giveaway has concluded, thank you everyone for paticipating.</div>
+<div class="alert alert-warning p-5 m-3 text-center">Note this giveaway has concluded, thank you everyone for participating.</div>
 
 This new official source book adds seventeen one-shot mysteries ready to run in any campaign.
 
