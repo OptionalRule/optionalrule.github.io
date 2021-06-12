@@ -2,19 +2,15 @@
 title: 'D&D Essentials Kit Giveaway!'
 author: Scott Turnbull
 layout: post
-date: 2020-12-06T22:39:50+00:00
-url: /2020/12/06/dd-essentials-kit-giveaway/
-nb_of_words:
-  - 381
 categories:
   - Misc
-tags:
-  - giveaway
-
 ---
 **This giveaway is now concluded, congratulations to the users selected. Follow me on twitter and watch this blog for future giveaways.**
 
 On Friday, December 11th 2020, we will be selecting three lucky individuals to receive a copy of the Dungeons & Dragons Essentials Kit. This kit makes a great gift for any D&D fan and is an excellent way to start your journey into the greatest table-top roleplaying game of all time!
+
+
+<div class="alert alert-warning p-5 m-3 text-center">Note this giveaway has concluded, thank you everyone for participating.</div>
 
 <div class="wp-block-columns">
   <div class="wp-block-column" style="flex-basis:33.33%">

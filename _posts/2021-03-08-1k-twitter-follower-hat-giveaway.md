@@ -2,25 +2,8 @@
 title: 1k Twitter Follower Hat Giveaway!
 author: Scott Turnbull
 layout: post
-date: 2021-03-08T12:01:00+00:00
-url: /2021/03/08/1k-twitter-follower-hat-giveaway/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
   - Misc
-
 ---
  
 
@@ -29,6 +12,9 @@ categories:
 </div>
 
 To celebrate reaching **1k followers** on <a href="https://twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">twitter</a>, I&#8217;m **giving away Optional Rule Games hats** to two lucky twitter followers!! This is a nickel/black stitched cotton twill cap with self-fabric hideaway d-ring slider strap and an embroidered Optional Rule Games logo. 
+
+
+<div class="alert alert-warning p-5 m-3 text-center">Note this giveaway has concluded, thank you everyone for participating.</div>
 
 _Show your love for games played your way, and remember, fun&#8230; is not optional._
 

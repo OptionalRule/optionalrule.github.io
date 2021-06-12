@@ -2,29 +2,12 @@
 title: Candlekeep Mysteries DnDBeyond Giveaway
 author: Scott Turnbull
 layout: post
-date: 2021-01-24T22:45:36+00:00
-url: /2021/01/24/candlekeep-mysteries-dndbeyond-giveaway/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
   - Misc
-tags:
-  - giveaway
-
 ---
 If the <a href="https://twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">OptionalRule Twitter account</a> reaches eight hundred (800) followers by **Noon EST March 15th 2021**, I will give away a gift code for an _electronic copy_ of **D&D Candlekeep Mysteries on DnDBeyond**! See details below for how to enter.
+
+<div class="alert alert-warning p-5 m-3 text-center">Note this giveaway has concluded, thank you everyone for paticipating.</div>
 
 This new official source book adds seventeen one-shot mysteries ready to run in any campaign.
 

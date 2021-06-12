@@ -2,22 +2,6 @@
 title: 'D&D Livestream Discussion'
 author: Scott Turnbull
 layout: post
-date: 2021-01-03T15:19:00+00:00
-url: /2021/01/03/dd-livestream-discussion/
-select_gallery_type:
-  - slideshow
-hide_featured_image:
-  - no
-show_post_header:
-  - yes
-show_post_header_logo:
-  - yes
-hide_post_sidebar:
-  - no
-full_width_post_content:
-  - no
-show_in_featured_slider:
-  - no
 categories:
   - Misc
 
