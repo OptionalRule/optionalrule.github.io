@@ -38,7 +38,7 @@ social:
     - https://www.instagram.com/optionalrule
     - https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw
 
-destination: docs/
+# destination: docs/ # build to _sites by default and only build ot docs for a publish.
 permalink: /:year/:month/:day/:title/
 
 # Build settings
