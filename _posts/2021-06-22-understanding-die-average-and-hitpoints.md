@@ -83,24 +83,24 @@ player_hp
     33.0
 
 Since the average of 4.5 is rounded up each roll to 5, this gives players taking the average hit points every level a
-slight mathmatical advantage over players who roll *on average*. However, the rolled set is so low and variance so high
+slight mathematical advantage over players who roll *on average*. However, the rolled set is so low and variance so high
 that real world results are going to differ on a character by character basis.
 
 A house rule I use in my own games is that players can either take the average hit points per level *OR* roll, but they
 all have to choose the same method.  I also allow the to reroll any 1s. This creates an interesting social dynamic for
-me as a DM.  In this case rolling is mathmatically the superior choice.
+me as a DM.  This feels good for the players and is about the same in terms of the average expected roll, the mean of 1d8 shifts only from 4.5 to 4.93 and both round up to 5.  However there is a *slight* decrease in the chance of a low result and the same chance of a high result so the low end risk is a bit more shallow.
 
 ```python
-d8_house_rule_values = [4.5, 2, 3, 4, 5, 6, 7, 9]
+d8_house_rule_values = [4.5, 2, 3, 4, 5, 6, 7, 8]
 d8_house_rule = pd.Series(d8_house_rule_values)
 d8_house_rule.max() + 4.0 * np.ceil(d8_house_rule.mean()) + 5.0
 ```
-    38.0
+    33.0
 
 However, it's not so simple from a players point of view.  Perceptions of agency, risk vs reward, and the gamblers
-fallacy all combine to make an interesting party debate. They **feel** a sense of tension about this choice, which I
-think is generally good for a game.  The metagame benefit I get as a DM is that this gives the players something to
-debate right out of the gate in a new campaign. Which means they start working out how to negotiate as a party
+fallacy all combine to make an interesting party debate. They **feel** a sense of tension about this choice, and as if 
+something good was given them, which I think is generally good for a game.  The metagame benefit I get as a DM is that 
+this gives the players something to debate right out of the gate in a new campaign. Which means they start working out how to negotiate as a party
 immediately.
 
 ### Example Average Monster Hit Points
