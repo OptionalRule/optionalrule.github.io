@@ -52,7 +52,7 @@
 <meta property="twitter:image" content="https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg" />
 <meta property="twitter:title" content="On Die Averages and Hit Points in 5e" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","image":"https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg","headline":"On Die Averages and Hit Points in 5e","dateModified":"2021-06-22T09:32:00-04:00","datePublished":"2021-06-22T09:32:00-04:00","url":"https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/"},"author":{"@type":"Person","name":"Scott Turnbull"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.optionalrule.com/assets//brand/OptionalRuleIcon50x50XparentBG.png"},"name":"Scott Turnbull"},"description":"I’ve had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff. However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results. The solution isn’t as complex as this is going to make it seem, I’m just laying out the specifics so it’s all apparent.","@context":"https://schema.org"}</script>
+{"author":{"@type":"Person","name":"Scott Turnbull"},"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/"},"url":"https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/","image":"https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg","headline":"On Die Averages and Hit Points in 5e","dateModified":"2021-06-22T09:32:00-04:00","datePublished":"2021-06-22T09:32:00-04:00","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.optionalrule.com/assets//brand/OptionalRuleIcon50x50XparentBG.png"},"name":"Scott Turnbull"},"description":"I’ve had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff. However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results. The solution isn’t as complex as this is going to make it seem, I’m just laying out the specifics so it’s all apparent.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -239,6 +239,27 @@ add the average value of the HD rounded up at each subsequent level, and add 5 f
 </code></pre></div></div>
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>33.0
 </code></pre></div></div>
+
+<p>Since the average of 4.5 is rounded up each roll to 5, this gives players taking the average hit points every level a
+slight mathmatical advantage over players who roll <em>on average</em>. However, the rolled set is so low and variance so high
+that real world results are going to differ on a character by character basis.</p>
+
+<p>A house rule I use in my own games is that players can either take the average hit points per level <em>OR</em> roll, but they
+all have to choose the same method.  I also allow the to reroll any 1s. This creates an interesting social dynamic for
+me as a DM.  In this case rolling is mathmatically the superior choice.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">d8_house_rule_values</span> <span class="o">=</span> <span class="p">[</span><span class="mf">4.5</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">6</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">9</span><span class="p">]</span>
+<span class="n">d8_house_rule</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="n">Series</span><span class="p">(</span><span class="n">d8_house_rule_values</span><span class="p">)</span>
+<span class="n">d8_house_rule</span><span class="p">.</span><span class="nb">max</span><span class="p">()</span> <span class="o">+</span> <span class="mf">4.0</span> <span class="o">*</span> <span class="n">np</span><span class="p">.</span><span class="n">ceil</span><span class="p">(</span><span class="n">d8_house_rule</span><span class="p">.</span><span class="n">mean</span><span class="p">())</span> <span class="o">+</span> <span class="mf">5.0</span>
+</code></pre></div></div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>38.0
+</code></pre></div></div>
+
+<p>However, it’s not so simple from a players point of view.  Perceptions of agency, risk vs reward, and the gamblers
+fallacy all combine to make an interesting party debate. They <strong>feel</strong> a sense of tension about this choice, which I
+think is generally good for a game.  The metagame benefit I get as a DM is that this gives the players something to
+debate right out of the gate in a new campaign. Which means they start working out how to negotiate as a party
+immediately.</p>
 
 <h3 id="example-average-monster-hit-points">Example Average Monster Hit Points</h3>
 

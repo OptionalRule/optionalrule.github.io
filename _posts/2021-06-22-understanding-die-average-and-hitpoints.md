@@ -82,6 +82,27 @@ player_hp
 ```
     33.0
 
+Since the average of 4.5 is rounded up each roll to 5, this gives players taking the average hit points every level a
+slight mathmatical advantage over players who roll *on average*. However, the rolled set is so low and variance so high
+that real world results are going to differ on a character by character basis.
+
+A house rule I use in my own games is that players can either take the average hit points per level *OR* roll, but they
+all have to choose the same method.  I also allow the to reroll any 1s. This creates an interesting social dynamic for
+me as a DM.  In this case rolling is mathmatically the superior choice.
+
+```python
+d8_house_rule_values = [4.5, 2, 3, 4, 5, 6, 7, 9]
+d8_house_rule = pd.Series(d8_house_rule_values)
+d8_house_rule.max() + 4.0 * np.ceil(d8_house_rule.mean()) + 5.0
+```
+    38.0
+
+However, it's not so simple from a players point of view.  Perceptions of agency, risk vs reward, and the gamblers
+fallacy all combine to make an interesting party debate. They **feel** a sense of tension about this choice, which I
+think is generally good for a game.  The metagame benefit I get as a DM is that this gives the players something to
+debate right out of the gate in a new campaign. Which means they start working out how to negotiate as a party
+immediately.
+
 ### Example Average Monster Hit Points
 
 The average monster hit points are much more simple.  However, the difference in how these are determined and how player
@@ -97,7 +118,6 @@ bugbear_hp = 5.0 * d8.mean() + 5.0
 np.floor(bugbear_hp)
 ```
     27.0
-
 
 # Conclusion
  That seems like a lot but it's really just expressing the core ideas about why some misunderstandings arise and design faults creep in.  Once you get the right concept framed in your head it's not all that difficult but walking through the details can help some folks understand.  Having had this coversation several times recently, I thought I'd take the quick code I used during one of those discussions to throw up a blog post.
