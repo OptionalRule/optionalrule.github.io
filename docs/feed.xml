@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2021-06-12T09:39:49-04:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><entry><title type="html">Site Migration Complete</title><link href="https://www.optionalrule.com/2021/06/07/site-migration-deployed/" rel="alternate" type="text/html" title="Site Migration Complete" /><published>2021-06-07T00:00:00-04:00</published><updated>2021-06-07T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/06/07/site-migration-deployed</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/07/site-migration-deployed/">&lt;p&gt;Our site migration is now complete!  This should mean a much better and faster experience for everyone visiting the site.  You will have noticed it’s been a bit quiet around here and this has been the reason.  The previous wordpress site was just too slow and solutions to make it faster were either too expensive or as difficult as switching hosts.  Given this is a content oriented blog and doesn’t need a lot of scripting, I decided to switch over to building the site on &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; and hosting in &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2021-06-22T10:33:26-04:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><entry><title type="html">On Die Averages and Hit Points in 5e</title><link href="https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/" rel="alternate" type="text/html" title="On Die Averages and Hit Points in 5e" /><published>2021-06-22T09:32:00-04:00</published><updated>2021-06-22T09:32:00-04:00</updated><id>https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/">&lt;p&gt;I’ve had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff.  However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results.  The solution isn’t as complex as this is going to make it seem, I’m just laying out the specifics so it’s all apparent.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;aside&lt;/strong&gt; I’m using the output from a simple Jupyter notebook script to demonstrate some of the math. Thanks for indulging me a bit, but I hope this makes the math clear. Also, I just kind of wanted to see if I could write a whole blog post in Jupyter.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;dice-averages&quot;&gt;Dice Averages&lt;/h2&gt;
+
+&lt;p&gt;A common point of confusion for people are the values given for averages on various dice.  People see the average of 1d6 listed at 3.5 or 4 and seem confused as some expect the value to be 3. This is a common logical error people make because they are just dividing 6 by 2 in their head and getting 3, but that’s now what an average is.  An average is the sum of all possible results divided by the total number of values. In this case 1 through 6. Lets demonstrate below:&lt;/p&gt;
+
+&lt;h3 id=&quot;d8-done-wrong&quot;&gt;D8 Done Wrong&lt;/h3&gt;
+&lt;p&gt;This is an example of the math where people can go wrong.  Just dividing by 2 isn’t an average and has the effect of assuming 
+zero is included in the set of numbers, obviously that isn’t true.  (Even on a d10, as the 0 usually represents 10)&lt;/p&gt;
+&lt;figure class=&quot;figure float-end ms-4&quot;&gt;
+    
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/skillcheck-480x363.jpg&quot; alt=&quot;A group of adventurers leaning over a table, seemingly confused by a map they are looking at&quot; height=&quot;480&quot; /&gt;
+        
+    
+        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit Wizards of the Coast&lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Quick pandas code
+# Using incorrect assumptions on 1d8
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_wrong&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8w&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Series&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_wrong&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8w&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; mean     4.000000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;d8-done-right&quot;&gt;D8 Done Right&lt;/h3&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# The correct way, listing only actual results on the die.
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_right&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Series&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_right&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; mean     4.50000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This same pattern is repeated for every die type in the game. (i.e. 1d8, 1d10 …).  Obviously a die can’t roll a half value, 
+so on any single result the value for average is rounded to the nearest, which is 5 in this case. That’s how the average
+roll on 1d8 is determined to be a 5.&lt;/p&gt;
+
+&lt;h2 id=&quot;single-rolls-vs-multiple-dice-rolls&quot;&gt;Single Rolls vs Multiple Dice Rolls&lt;/h2&gt;
+
+&lt;p&gt;It’s important to understand that while the average applies to a single die roll, it is not so when totaling multiple dice.  That is to say that the average of 3d6 is not 12 (3 * 4) but 11 (3 * 3.5 rounded up).  This difference introduces some confusion between determining average player hit points and average monster hit points.  The TLDR answer is that players calculate hit points discretely every level, while monsters are just determined at their CR. (Though frankly if you’re a
+TLDR kind of person, I don’t know how you got down here)&lt;/p&gt;
+
+&lt;h2 id=&quot;the-confusion-of-hit-points&quot;&gt;The confusion of Hit Points&lt;/h2&gt;
+
+&lt;p&gt;In using these values, a bit of confusion comes in when we start to talk about how average Player Hit Points are
+calculated as opposed to how average Monster Hit Points are determined.  The general difference is that player Hit
+Points are calculated discreetly per level, whereas Monster Hit Points are just a sum of the average.&lt;/p&gt;
+
+&lt;p&gt;This is less confusing than it sounds and just means that players add the total of a hit die rolled at each level, while
+monsters are just a quick sum of all their hit dice.  Taking the example of 1d8 for player hit points, they use the max
+value at 1st level, so this is 8. If the player takes the average value, that means every level thereafter they would
+add the average of 1d8, which is 4.5.  Since 4.5 isn’t an actual value on 1d8 they round up; this is one of the
+exceptions to the rounding rules in 5e.&lt;/p&gt;
+
+&lt;h3 id=&quot;example-average-player-hit-points&quot;&gt;Example Average Player Hit Points&lt;/h3&gt;
+
+&lt;p&gt;Lets start with an example that assumes a 5th level player with a +1 con mod. They apply the max roll at 1st level, then
+add the average value of the HD rounded up at each subsequent level, and add 5 for their con bonus.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;player_hp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;max&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;4.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ceil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;player_hp&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;33.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;example-average-monster-hit-points&quot;&gt;Example Average Monster Hit Points&lt;/h3&gt;
+
+&lt;p&gt;The average monster hit points are much more simple.  However, the difference in how these are determined and how player
+average hit points are determined causes some confusion. In this case we don’t worry about determining the actual hit
+points at each level or maxing out at first.  Monsters aren’t supposed to be that complex.  Therefore, all we do is
+multiply the average hit die value by the number of monster HD.&lt;/p&gt;
+
+&lt;p&gt;For consistency, lets take a Bugbear as an example. They are 5d8 HD creature with a +1 con mod, but the average hit
+points will be different from that of a player character.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;bugbear_hp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;floor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bugbear_hp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;27.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;That seems like a lot but it’s really just expressing the core ideas about why some misunderstandings arise and design faults creep in.  Once you get the right concept framed in your head it’s not all that difficult but walking through the details can help some folks understand.  Having had this coversation several times recently, I thought I’d take the quick code I used during one of those discussions to throw up a blog post.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">I’ve had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff. However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results. The solution isn’t as complex as this is going to make it seem, I’m just laying out the specifics so it’s all apparent.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Site Migration Complete</title><link href="https://www.optionalrule.com/2021/06/07/site-migration-deployed/" rel="alternate" type="text/html" title="Site Migration Complete" /><published>2021-06-07T00:00:00-04:00</published><updated>2021-06-07T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/06/07/site-migration-deployed</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/07/site-migration-deployed/">&lt;p&gt;Our site migration is now complete!  This should mean a much better and faster experience for everyone visiting the site.  You will have noticed it’s been a bit quiet around here and this has been the reason.  The previous wordpress site was just too slow and solutions to make it faster were either too expensive or as difficult as switching hosts.  Given this is a content oriented blog and doesn’t need a lot of scripting, I decided to switch over to building the site on &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; and hosting in &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I’m limited by time and skills like everyone but I try hard to keep the site accessible, responsive, and performant so I’m most proud of the accessibility and performance metrics I’ve been able to achieve.  Below is the lighthouse results from parsing the site. See lighthouse results screenshot below as of today.&lt;/p&gt;
 
@@ -1772,91 +1862,4 @@ For this insightful episode I am joined by Scott, a.k.a &lt;a href=&quot;https:
   &lt;li&gt;&lt;a href=&quot;https://artsandculture.google.com/partner&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Google Arts &amp;amp; Culture Online Archive&lt;/a&gt; – A centralize art search tool across a large number of museums and galleries.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://images.nasa.gov/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;NASA Image Archive&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.rijksmuseum.nl/en/rijksstudio&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Rijksmuseum Online Archive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Scott Turnbull</name></author><category term="Misc" /><summary type="html">Evocative artwork and imagery is a great add to any 5e fan resource, but finding usable images can be a challenge. I aggregated this list of resources for myself to help navigate the the different resources for potentially usable artwork in RPGs. I also asked some followers on twitter for their recommendations and aggregate all of those together here. I hope you’ll find something useful to help you create more works and honor the artists who put so much work into their own creations.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mounted Combat in 5e</title><link href="https://www.optionalrule.com/2021/03/08/mounted-combat-in-5e/" rel="alternate" type="text/html" title="Mounted Combat in 5e" /><published>2021-03-08T00:00:00-05:00</published><updated>2021-03-08T00:00:00-05:00</updated><id>https://www.optionalrule.com/2021/03/08/mounted-combat-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2021/03/08/mounted-combat-in-5e/">&lt;p&gt;Few things are more iconic than the image of someone charging into battle on horseback. Yet, 5e doesn’t have satisfying rules to make mounted combat a fun part of play. So I created these rules to provide &lt;a href=&quot;/2020/12/22/thrilling-heroics-rules-for-dd-5e/&quot;&gt;thrilling options&lt;/a&gt; for mounted combat by players, while maintaining balance with existing rules and abilities. As with all rules, these are guidelines and the DM should do what is fun and fast, using what adds to the game, and ignore the rest.&lt;/p&gt;
-
-&lt;figure class=&quot;figure float-end ms-4&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/mountedcombat-480x600.jpg&quot; alt=&quot;A knight with sword drawn riding on a horse.&quot; height=&quot;480&quot; /&gt;
-        
-    
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Photo by Kayla Koss from Unsplash&lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;fit-with-existing-rules&quot;&gt;Fit with Existing Rules&lt;/h2&gt;
-
-&lt;p&gt;These rules work well with the existing &lt;a href=&quot;https://www.dndbeyond.com/sources/basic-rules/combat#MountedCombat&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Mounted Combat&lt;/a&gt; and other rules in the core books, and expand on them in a few key ways. First, it differentiates between rider training and different types of trained mounts. Second, it blends better with martial character options like &lt;a href=&quot;https://www.dndbeyond.com/sources/basic-rules/classes#ExtraAttack&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Extra Attack&lt;/a&gt;, and adds additional options for bonding with a mount. Third, it provides a dynamic experience when working with and controlling mounts in combat. Together, these options can be used by any class to make mounts effective in the right circumstances.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/2021/01/17/thoughts-on-the-first-issue-of-arcadia/&quot;&gt;Arcadia issue #1&lt;/a&gt; released an excellent set of Mounted Combat rules also. Those rules are aimed toward monsters and action oriented combat, and are an excellent addition to any game. You’ll find some excellent options for mounted opponents and I recommend you check those out.&lt;/p&gt;
-
-&lt;p&gt;These rules focus on the players experience while mounted, to give a greater depth of options and more fun.&lt;/p&gt;
-
-&lt;h2 id=&quot;rules-in-a-nutshell&quot;&gt;Rules in a Nutshell&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Anyone can get from place to place on a gentle trained mount.&lt;/li&gt;
-  &lt;li&gt;Untrained riders have disadvantage on most rolls while mounted.&lt;/li&gt;
-  &lt;li&gt;Trained riders can control mount movement with an object interaction and have them take a dash, disengage, or dodge action.&lt;/li&gt;
-  &lt;li&gt;Riding mounts are fast and light but may panic in combat, war mounts are hearty and aggressive.&lt;/li&gt;
-  &lt;li&gt;Trained riders may be able to bond with mounts to do things like swap rolls or use a bonus action to allow the mount to attack.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;rider-training&quot;&gt;Rider Training&lt;/h2&gt;
-
-&lt;p&gt;Anyone can get from place to place on a trained mount in good conditions, but a trained rider is capable of some amazing exploits. Any character proficient in Animal Handling, land vehicles, or with any ability that works with being mounted is a trained rider.&lt;/p&gt;
-
-&lt;p&gt;Riders one size smaller than a mount have their melee reach measured from the edge of the mount. However, riders more than two categories smaller would need a special circumstance such as adequate reach to perform a melee attack.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Untrained riders&lt;/em&gt;&lt;/strong&gt; suffer disadvantage on any attack roll and ability check when on a trained mounted. Additionally, they must use &lt;strong&gt;&lt;em&gt;an action&lt;/em&gt;&lt;/strong&gt; to control a trained mount to take the Dash, Disengage, or Dodge action. Otherwise, the mount acts independently as makes sense for its type.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Trained riders&lt;/em&gt;&lt;/strong&gt; make ability checks and attacks normally when controlling a trained mounted. Also, in combat, the mount and rider share the same initiative count allowing the rider to act as a unit. Further, a trained rider who shows great care and spends adequate time may become bonded with a mount. This allows the bounded mount to use the riders ability modifier, saving throw bonus, or AC in place of their own or vice versa.&lt;/p&gt;
-
-&lt;p&gt;Riders must spend half their movement to mount a willing creature within 5 feet or to dismount. The movement cost to mount or dismount may be reduced to 5 feet with a successful DC 15 Dexterity (acrobatics) or Wisdom (Animal Handling) check. A failure means you either fail to mount and stop moving, or fall prone if dismounting.&lt;/p&gt;
-
-&lt;h2 id=&quot;trained-mounts&quot;&gt;Trained Mounts&lt;/h2&gt;
-
-&lt;p&gt;A creature requires considerable training to serve as an effective mount. This training familiarizes them enough to follow common commands and directions. While more advanced training may produce mounts with great skill to work with riders in battle. Note the type of training in the creatures stat block.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Riding mounts&lt;/strong&gt; are trained to skillfully move and maneuver under the command of a trained rider. They will not willingly move toward danger and require a DC 12 Wisdom (Animal Handling) check by a rider to force them to do so. A sudden surprise, nearby combat, or attack may cause a riding mount to panic. If the mount panics, the rider must make a DC 12 Wisdom (Animal Handling) check or the animal will &lt;strong&gt;bolt&lt;/strong&gt;. Intelligent mounts are not subject to panic and behave normally as a creature of its type and personality.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;War mounts&lt;/strong&gt; are specially selected and trained to be hearty and aggressive in combat. They begin with a hostile attitude toward most creatures, including a new rider. In fact, they will attempt to &lt;strong&gt;&lt;em&gt;buck any rider&lt;/em&gt;&lt;/strong&gt; they are not at least indifferent toward. However, their nature makes them well suited for fighting and they are &lt;strong&gt;_not panicked by attacks, combat, or w_hen surprised&lt;/strong&gt;. Additionally, they will freely move toward danger under control of rider.&lt;/p&gt;
-
-&lt;h3 id=&quot;controlling-a-mount&quot;&gt;Controlling a Mount&lt;/h3&gt;
-
-&lt;p&gt;Mounts may either act on their own, or a trained rider may use their object interaction ability to control them. The initiative of a controlled mount changes to match the rider. Once controlled, the rider and mount work as a unit. This means the** &lt;em&gt;rider uses the mounts movement in place of their own&lt;/em&gt;**. Additionally, the rider in control may direct the mount to take a dash, dodge, or disengage action. Bonding with a mount offers riders in control additional abilities as listed below.&lt;/p&gt;
-
-&lt;p&gt;A character may draw or sheath a weapon as a free action as part of the object interaction required to control a mount.&lt;/p&gt;
-
-&lt;h3 id=&quot;summoned--companion-mounts&quot;&gt;Summoned &amp;amp; Companion Mounts&lt;/h3&gt;
-
-&lt;p&gt;Consider any mount summoned with &lt;strong&gt;&lt;em&gt;Find Steed&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;Find Greater Steed&lt;/em&gt;&lt;/strong&gt; a war mount bounded to the character that summoned it. Mounts created with &lt;strong&gt;&lt;em&gt;Phantom Steed&lt;/em&gt;&lt;/strong&gt; follow the rules of a bounded riding mount but are not subject to panic.&lt;/p&gt;
-
-&lt;p&gt;Animal companions used as mounts follow their normal rules where appropriate, are considered bonded war mounts for purposes control and abilities while mounted.&lt;/p&gt;
-
-&lt;h3 id=&quot;bonded-mounts&quot;&gt;Bonded Mounts&lt;/h3&gt;
-
-&lt;p&gt;Forming a bond with a mount requires effort to establish and maintain on the part of the rider. Following a process similar to &lt;a href=&quot;https://www.dndbeyond.com/sources/basic-rules/adventuring#SocialInteraction&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;social interactions&lt;/a&gt; in Chapter 8 of the DMG, a mount has a particular attitude toward the rider based on how it’s been treated. &lt;strong&gt;&lt;em&gt;Untrained mounts&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;War Mounts&lt;/em&gt;&lt;/strong&gt; usually start with &lt;strong&gt;&lt;em&gt;hostile attitudes&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;riding mounts&lt;/em&gt;&lt;/strong&gt; start as &lt;strong&gt;&lt;em&gt;indifferent&lt;/em&gt;&lt;/strong&gt;. Typically, after each full day of riding or training with a mount, the rider may make a DC 10 Wisdom (Animal Handling) check. This roll is made with disadvantage if stressed or in combat combat during that period. A success means the mounts attitude improves by one category.&lt;/p&gt;
-
-&lt;p&gt;Once a mount is friendly, the rider may designate the mount as bonded. A rider and mount may only have one bond at a time. The DM may call for the bond to end after extended separations, or other circumstances like hard treatment or conditions.&lt;/p&gt;
-
-&lt;p&gt;Bounded mounts that are integrated strongly into play may use the &lt;strong&gt;&lt;em&gt;sidekick rules from Taha’s Caldron of Everything&lt;/em&gt;&lt;/strong&gt; if approved by the DM. Doing so uses the sidekick Warrior rules in most cases.&lt;/p&gt;
-
-&lt;p&gt;A trained rider controlling a &lt;strong&gt;&lt;em&gt;bonded war or riding mount&lt;/em&gt;&lt;/strong&gt; may use their reaction to &lt;strong&gt;&lt;em&gt;swap an ability check, saving throw, or AC&lt;/em&gt;&lt;/strong&gt;. Meaning the mount or the rider may use the ability check, saving throw, or AC of the other. This effect lasts until the beginning of the riders next turn, or until the rider dismounts or is unseated.&lt;/p&gt;
-
-&lt;p&gt;A trained rider controlling a &lt;strong&gt;&lt;em&gt;bonded war mount&lt;/em&gt;&lt;/strong&gt; may use their &lt;strong&gt;&lt;em&gt;bonus action&lt;/em&gt;&lt;/strong&gt; to allow the mount to use &lt;strong&gt;&lt;em&gt;any action in their stat block&lt;/em&gt;&lt;/strong&gt;, including an attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;bolting--bucking&quot;&gt;Bolting &amp;amp; Bucking&lt;/h3&gt;
-
-&lt;p&gt;In some circumstances, a mount may have cause to flee a situation and bolt. This means the mount is &lt;strong&gt;&lt;em&gt;uncontrolled and uses its action to move away&lt;/em&gt;&lt;/strong&gt; from the source of its fear. Normally, a mount will use the dash action but may opt for dodge or disengage as is appropriate for the creatures intelligence and situation. During this, a rider may attempt a DC 15 Wisdom (Animal Handling) check as an action, to regain control of the mount. While running, or after a rider fails to regain control, a mount may also attempt to &lt;strong&gt;&lt;em&gt;buck the rider&lt;/em&gt;&lt;/strong&gt; as an action.&lt;/p&gt;
-
-&lt;p&gt;A mount that tries to buck its rider makes a strength check, opposed by the riders Strength or Dexterity (Animal Handling) check. If the rider fails the check, they are unseated.&lt;/p&gt;
-
-&lt;h2 id=&quot;unseating-a-rider&quot;&gt;Unseating a Rider&lt;/h2&gt;
-
-&lt;p&gt;Riders are knocked off a mount if some effect separates them, such as a successful shove. Additionally a rider that is knocked prone is also knocked off their mount. If an effect moves a mount against its will, any rider must make a Dexterity (Animal Handling) check either at the DC for the effect that moved the mount or 10, whichever is higher.&lt;/p&gt;
-
-&lt;p&gt;A rider knocked off a mount takes falls prone in a logical spot next to the mount. Additionally they may suffer other appropriate effects depending on the circumstance, such as falling off a tall or flying mount. In addition to any other effects, a rider knocked off a moving mount makes a DC 12 Dexterity saving throw. On a failed save they take 1d6 damage, or 2d6 if the mount was dashing, or half as much on a successful save.&lt;/p&gt;
-
-&lt;h2 id=&quot;equipment&quot;&gt;Equipment&lt;/h2&gt;
-
-&lt;p&gt;Most mounts require some sort of bridle and saddle to control properly. In most cases, any rolls to control a mount or avoid being unseated are made with** &lt;em&gt;disadvantage without the proper equipment&lt;/em&gt;**. The core books list a number of options for saddles, all of which work well with these rules.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Few things are more iconic than the image of someone charging into battle on horseback. Yet, 5e doesn’t have satisfying rules to make mounted combat a fun part of play. So I created these rules to provide thrilling options for mounted combat by players, while maintaining balance with existing rules and abilities. As with all rules, these are guidelines and the DM should do what is fun and fast, using what adds to the game, and ignore the rest.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/mountedcombat-480x600.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/mountedcombat-480x600.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;</content><author><name>Scott Turnbull</name></author><category term="Misc" /><summary type="html">Evocative artwork and imagery is a great add to any 5e fan resource, but finding usable images can be a challenge. I aggregated this list of resources for myself to help navigate the the different resources for potentially usable artwork in RPGs. I also asked some followers on twitter for their recommendations and aggregate all of those together here. I hope you’ll find something useful to help you create more works and honor the artists who put so much work into their own creations.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

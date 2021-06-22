@@ -17,6 +17,11 @@ Keeping a few notes as to the process as I found these split up between various 
 
 Github pages only offers me options for / (/'root') or /doc directories for the site source.  Jekyll defaults to _site for the subdir.  Either always build to /doc or use /_site normally for dev (and properly ignore it) and build to /doc to publish.
 
+Build command.
+```
+> jekyll build --destination docs/
+```
+
 ### Custom Domain
 
 GitHub pages for the custom domain should be setup using both A Records and CNAME.  This is needed for GitHub Pages to create the cert to use for HTTPS.  Otherwise I'll get an error that the domain is configured correctly.  Note you can alternatively just setup a domain alias.
