@@ -19,7 +19,7 @@ Github pages only offers me options for / (/'root') or /doc directories for the 
 
 Build command.
 ```
-> jekyll build --destination docs/
+> jekyll build --incremental --destination docs/
 ```
 
 ### Custom Domain
