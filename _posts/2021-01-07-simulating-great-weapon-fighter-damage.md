@@ -24,7 +24,7 @@ The ability of Champions to score a critical on a 19 or 20 sounds fine but I thi
 
 ## The Math
 
-I'm adding this section in June of 2021 because people complain about wanting the math instead of a simulation so I'll add that here.  Based on this thread from [rpg.stackexchange](https://rpg.stackexchange.com/questions/47172/how-much-damage-does-great-weapon-fighting-add-on-average), this is a table of the difference in damage per die type with great weapon fighting.  Simulation or math the conclusions are the same in either case.
+I'm adding this section in June of 2021 because people complain about wanting the math instead of a simulation so I'll add that here.  Based on this thread from [rpg.stackexchange](https://rpg.stackexchange.com/questions/47172/how-much-damage-does-great-weapon-fighting-add-on-average), this is a table of the difference in damage per die type with great weapon fighting.  In the criticals it's doubling the difference 5% of the time normally and 10% of the time when a champion subclass. Simulation or math the conclusions are the same in either case.
 
 |Die Type|Difference|
 |--- |:---: |
