@@ -22,7 +22,25 @@ In terms of damage, Great Weapon fighter letting you reroll a one or two seem ok
 
 The ability of Champions to score a critical on a 19 or 20 sounds fine but I think this fails Fighter classes because dice are generally not where the fighters damage is and they spread that damage out across multiple attacks as they level. This means that doubling the weapon damage dice from a critical has a relatively small effect. It also means that the increased chance of a critical is limited by relatively small number of dice bound to a single attack roll.
 
-In any case, I didn&#8217;t want to just theorize what the actual effect on average damage would be so I setup a small bit of code to simulate a million damage rolls and calculate the mean. Below is the resulting data from that simulation. The mean of the damage output was simulated for the **Base** weapon damage, Base Weapon Damage with a chance of critical on a **20**, and Base Weapon Damage with a chance of critical on **19** and above. I did this both for a **Normal** fighter and again for a fighter with the great weapon fighting style (**GWF**)
+## The Math
+
+I'm adding this section in June of 2021 because people complain about wanting the math instead of a simulation so I'll add that here.  Based on this thread from [rpg.stackexchange](https://rpg.stackexchange.com/questions/47172/how-much-damage-does-great-weapon-fighting-add-on-average), this is a table of the difference in damage per die type with great weapon fighting.  Simulation or math the conclusions are the same in either case.
+
+|Die Type|Difference|
+|--- |:---: |
+|1d4|0.50|
+|1d6|0.67|
+|1d8|0.75|
+|1d10|0.80|
+|1d12|0.83|
+|2d6|1.32|
+{: .table .table-striped .table-hover .data-table .table-fluid }
+
+***
+
+## The Simulation
+
+In any case, I just wanted to have a bit of fun so I setup a small bit of code to simulate a million damage rolls and calculate the mean. Below is the resulting data from that simulation. The mean of the damage output was simulated for the **Base** weapon damage, Base Weapon Damage with a chance of critical on a **20**, and Base Weapon Damage with a chance of critical on **19** and above. I did this both for a **Normal** fighter and again for a fighter with the great weapon fighting style (**GWF**)
 {: .clearfix .w-100 }
 
 **Table1.** Mean damage of two-handed weapons ***without*** Great Weapon Fighting (**Normal**)
