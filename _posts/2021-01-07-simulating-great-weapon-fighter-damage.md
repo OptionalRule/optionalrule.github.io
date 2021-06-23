@@ -24,7 +24,7 @@ The ability of Champions to score a critical on a 19 or 20 sounds fine but I thi
 
 ## The Math
 
-I'm adding this section in June of 2021 because people complain about wanting the math instead of a simulation so I'll add that here.  Based on this thread from [rpg.stackexchange](https://rpg.stackexchange.com/questions/47172/how-much-damage-does-great-weapon-fighting-add-on-average), this is a table of the difference in damage per die type with great weapon fighting.  In the criticals it's doubling the difference 5% of the time normally and 10% of the time when a champion subclass. Simulation or math the conclusions are the same in either case.
+**Update June of 2021** Adding the math because people complain about wanting the math instead of a simulation so I'll add that here.  Based on this thread from [rpg.stackexchange](https://rpg.stackexchange.com/questions/47172/how-much-damage-does-great-weapon-fighting-add-on-average), this is a table of the difference in damage per die type with great weapon fighting.  In the criticals it's doubling the difference 5% of the time normally and 10% of the time when a champion subclass. Simulation or math the conclusions are the same in either case.
 
 |Die Type|Difference|
 |--- |:---: |
@@ -43,14 +43,16 @@ I'm adding this section in June of 2021 because people complain about wanting th
 In any case, I just wanted to have a bit of fun so I setup a small bit of code to simulate a million damage rolls and calculate the mean. Below is the resulting data from that simulation. The mean of the damage output was simulated for the **Base** weapon damage, Base Weapon Damage with a chance of critical on a **20**, and Base Weapon Damage with a chance of critical on **19** and above. I did this both for a **Normal** fighter and again for a fighter with the great weapon fighting style (**GWF**)
 {: .clearfix .w-100 }
 
+**Update June 2021** I had a typo in the data which caused a real gem of a person to launch a series of personal attacks about this. Sociopathic issues aside they wanted to see the simulation code, which is a reasonable requst.  You can find that [here](https://github.com/Streamweaver/DnDNotebook) and it should be runnable in MyBinder.
+
 **Table1.** Mean damage of two-handed weapons ***without*** Great Weapon Fighting (**Normal**)
 
 |Weapons|Damage|Base|20|19|
 |--- |--- |--- |--- |--- |
-|Greatclub, Quarterstaff|1d8|4.5|4.3|4.9|
-|Glaive, Halberd, Longsword, Pike, Warhammer|1d10|5.5|5.8|6.1|
-|Greataxe|1d12|6.5|6.8|7.1|
-|Greatsword, Maul|2d6|7.0|7.4|7.7|
+|Greatclub, Quarterstaff|1d8|4.5|4.7|4.9|
+|Glaive, Halberd, Longsword, Pike, Warhammer|1d10|5.5|5.8|6.0|
+|Greataxe|1d12|6.5|6.9|7.1|
+|Greatsword, Maul|2d6|7.0|7.4|7.6|
 {: .table .table-striped .table-hover .data-table }
 
 ***
@@ -59,10 +61,10 @@ In any case, I just wanted to have a bit of fun so I setup a small bit of code t
 
 |Weapons|Damage|Base|20|19|
 |--- |--- |--- |--- |--- |
-|Greatclub, Quarterstaff|1d8|5.3|5.5|5.8|
-|Glaive, Halberd, Longsword, Pike, Warhammer|1d10|6.3|6.1|6.9|
+|Greatclub, Quarterstaff|1d8|5.2|5.5|5.8|
+|Glaive, Halberd, Longsword, Pike, Warhammer|1d10|6.3|6.6|6.9|
 |Greataxe|1d12|7.3|7.7|8.1|
-|Greatsword, Maul|2d6|8.3|8.8|9.2|
+|Greatsword, Maul|2d6|8.3|8.7|9.2|
 {: .table .table-striped .table-hover .data-table }
 
 Given the relatively small benefit of these differences, and the general disruption of flow at the table as a player manages dice that need to be rerolled, these abilities seem questionable in value to the game. Perhaps I&#8217;m missing something about the numbers but that is my take after looking at the numbers. 
@@ -81,9 +83,9 @@ So let&#8217;s take a look at the results of these rules.
 |Weapons|Damage|Base|20|19|
 |--- |--- |--- |--- |--- |
 |Greatclub, Quarterstaff|1d8|5.6|5.9|6.2|
-|Glaive, Halberd, Longsword, Pike, Warhammer|1d10|6.6|6.9|7.3|
-|Greataxe|1d12|7.6|8.0|8.3|
-|Greatsword, Maul|2d6|9.3|9.8|10.2|
+|Glaive, Halberd, Longsword, Pike, Warhammer|1d10|6.6|7.0|7.3|
+|Greataxe|1d12|7.6|7.9|8.3|
+|Greatsword, Maul|2d6|9.3|9.8|10.3|
 {: .table .table-striped .table-hover .data-table }
 
 
@@ -93,10 +95,10 @@ I&#8217;m not a huge fan of this, even though it&#8217;s a bit more powerful tha
 
 |Weapons|Damage|Base|20|19|
 |--- |--- |--- |--- |--- |
-|Greatclub, Quarterstaff|1d8|5.5|5.8|6.1|
-|Glaive, Halberd, Longsword, Pike, Warhammer|1d10|6.5|6.8|7.2|
-|Greataxe|1d12|7.5|7.9|8.3|
-|Greatsword, Maul|2d6|9.0|9.4|9.9|
+|Greatclub, Quarterstaff|1d8|5.2|5.5|5.8|
+|Glaive, Halberd, Longsword, Pike, Warhammer|1d10|6.3|6.6|7.0|
+|Greataxe|1d12|7.4|7.7|8.0|
+|Greatsword, Maul|2d6|8.4|8.8|9.3|
 {: .table .table-striped .table-hover .data-table }
   
 I&#8217;m even less a fan of this rule. I honestly can&#8217;t believe people do this but I hear about it enough to think I should include it. The interruption of a player examining the outcome of each of their die rolls, rerolling and examining that, and rerolling again, seems not worth the interruption to combat turns. It makes very little comparative difference for the effort, and it only even seems a bit useful in the context of a Champion, which I would recommend become a subclass feature if I thought the rule worthwhile at all.
