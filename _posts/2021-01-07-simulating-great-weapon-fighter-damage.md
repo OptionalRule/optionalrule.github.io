@@ -43,7 +43,7 @@ The ability of Champions to score a critical on a 19 or 20 sounds fine but I thi
 In any case, I just wanted to have a bit of fun so I setup a small bit of code to simulate a million damage rolls and calculate the mean. Below is the resulting data from that simulation. The mean of the damage output was simulated for the **Base** weapon damage, Base Weapon Damage with a chance of critical on a **20**, and Base Weapon Damage with a chance of critical on **19** and above. I did this both for a **Normal** fighter and again for a fighter with the great weapon fighting style (**GWF**)
 {: .clearfix .w-100 }
 
-**Update June 2021** I had a typo in the data which caused a real gem of a person to launch a series of personal attacks about this. Sociopathic issues aside they wanted to see the simulation code, which is a reasonable requst.  You can find that [here](https://github.com/Streamweaver/DnDNotebook) and it should be runnable in MyBinder.
+**Update June 2021** I had a typo in the data which caused a real gem of a person to launch a series of personal attacks about this. Sociopathic issues aside they wanted to see the simulation code, which is a reasonable requst.  You can find that [here](https://github.com/Streamweaver/DnDNotebook) and it should be runnable in MyBinder. This run is cranked down to 10k iterations for performance.
 
 **Table1.** Mean damage of two-handed weapons ***without*** Great Weapon Fighting (**Normal**)
 
