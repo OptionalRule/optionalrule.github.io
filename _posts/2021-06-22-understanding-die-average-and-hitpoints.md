@@ -9,12 +9,7 @@ image: /assets/img/skillcheck-480x363.jpg
 ---
 I've had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff.  However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results.  The solution isn't as complex as this is going to make it seem, I'm just laying out the specifics so it's all apparent.
 
-**aside** I'm using the output from a simple Jupyter notebook script to demonstrate some of the math. Thanks for indulging me a bit, but I hope this makes the math clear. Also, I just kind of wanted to see if I could write a whole blog post in Jupyter.
-
-```python
-import pandas as pd
-import numpy as np
-```
+**aside** I generated some of these examples out of a Jupyter Notebook, which you can run online yourself through [this link](https://mybinder.org/v2/gh/Streamweaver/DnDNotebook/0fe60184a44f012f10b67873958e1752bd8f5341?filepath=Stat%20Generation.ipynb){:target="_blank"}.
 
 ## Dice Averages
 
