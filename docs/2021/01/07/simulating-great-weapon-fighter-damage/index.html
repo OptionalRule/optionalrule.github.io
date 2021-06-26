@@ -11,6 +11,7 @@
 
 
     <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/pygments/github.css">
     <link rel="stylesheet" href="/assets/css/aos.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
 
@@ -181,7 +182,52 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
 
 <p>The ability of Champions to score a critical on a 19 or 20 sounds fine but I think this fails Fighter classes because dice are generally not where the fighters damage is and they spread that damage out across multiple attacks as they level. This means that doubling the weapon damage dice from a critical has a relatively small effect. It also means that the increased chance of a critical is limited by relatively small number of dice bound to a single attack roll.</p>
 
-<p class="clearfix w-100">In any case, I didn’t want to just theorize what the actual effect on average damage would be so I setup a small bit of code to simulate a million damage rolls and calculate the mean. Below is the resulting data from that simulation. The mean of the damage output was simulated for the <strong>Base</strong> weapon damage, Base Weapon Damage with a chance of critical on a <strong>20</strong>, and Base Weapon Damage with a chance of critical on <strong>19</strong> and above. I did this both for a <strong>Normal</strong> fighter and again for a fighter with the great weapon fighting style (<strong>GWF</strong>)</p>
+<h2 id="the-math">The Math</h2>
+
+<p><strong>Update June of 2021</strong> Adding the math because people complain about wanting the math instead of a simulation so I’ll add that here.  Based on this thread from <a href="https://rpg.stackexchange.com/questions/47172/how-much-damage-does-great-weapon-fighting-add-on-average">rpg.stackexchange</a>, this is a table of the difference in damage per die type with great weapon fighting.  In the criticals it’s doubling the difference 5% of the time normally and 10% of the time when a champion subclass. Simulation or math the conclusions are the same in either case.</p>
+
+<table class="table table-striped table-hover data-table table-fluid">
+  <thead>
+    <tr>
+      <th>Die Type</th>
+      <th style="text-align: center">Difference</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1d4</td>
+      <td style="text-align: center">0.50</td>
+    </tr>
+    <tr>
+      <td>1d6</td>
+      <td style="text-align: center">0.67</td>
+    </tr>
+    <tr>
+      <td>1d8</td>
+      <td style="text-align: center">0.75</td>
+    </tr>
+    <tr>
+      <td>1d10</td>
+      <td style="text-align: center">0.80</td>
+    </tr>
+    <tr>
+      <td>1d12</td>
+      <td style="text-align: center">0.83</td>
+    </tr>
+    <tr>
+      <td>2d6</td>
+      <td style="text-align: center">1.32</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="the-simulation">The Simulation</h2>
+
+<p class="clearfix w-100">In any case, I just wanted to have a bit of fun so I setup a small bit of code to simulate a million damage rolls and calculate the mean. Below is the resulting data from that simulation. The mean of the damage output was simulated for the <strong>Base</strong> weapon damage, Base Weapon Damage with a chance of critical on a <strong>20</strong>, and Base Weapon Damage with a chance of critical on <strong>19</strong> and above. I did this both for a <strong>Normal</strong> fighter and again for a fighter with the great weapon fighting style (<strong>GWF</strong>)</p>
+
+<p><strong>Update June 2021</strong> I had a typo in the data which caused a real gem of a person to launch a series of personal attacks about this. Sociopathic issues aside they wanted to see the simulation code, which is a reasonable requst.  You can find that <a href="https://github.com/Streamweaver/DnDNotebook">here</a> and it should be runnable in MyBinder. This run is cranked down to 10k iterations for performance.</p>
 
 <p><strong>Table1.</strong> Mean damage of two-handed weapons <strong><em>without</em></strong> Great Weapon Fighting (<strong>Normal</strong>)</p>
 
@@ -200,7 +246,7 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
       <td>Greatclub, Quarterstaff</td>
       <td>1d8</td>
       <td>4.5</td>
-      <td>4.3</td>
+      <td>4.7</td>
       <td>4.9</td>
     </tr>
     <tr>
@@ -208,13 +254,13 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
       <td>1d10</td>
       <td>5.5</td>
       <td>5.8</td>
-      <td>6.1</td>
+      <td>6.0</td>
     </tr>
     <tr>
       <td>Greataxe</td>
       <td>1d12</td>
       <td>6.5</td>
-      <td>6.8</td>
+      <td>6.9</td>
       <td>7.1</td>
     </tr>
     <tr>
@@ -222,7 +268,7 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
       <td>2d6</td>
       <td>7.0</td>
       <td>7.4</td>
-      <td>7.7</td>
+      <td>7.6</td>
     </tr>
   </tbody>
 </table>
@@ -245,7 +291,7 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
     <tr>
       <td>Greatclub, Quarterstaff</td>
       <td>1d8</td>
-      <td>5.3</td>
+      <td>5.2</td>
       <td>5.5</td>
       <td>5.8</td>
     </tr>
@@ -253,7 +299,7 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
       <td>Glaive, Halberd, Longsword, Pike, Warhammer</td>
       <td>1d10</td>
       <td>6.3</td>
-      <td>6.1</td>
+      <td>6.6</td>
       <td>6.9</td>
     </tr>
     <tr>
@@ -267,7 +313,7 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
       <td>Greatsword, Maul</td>
       <td>2d6</td>
       <td>8.3</td>
-      <td>8.8</td>
+      <td>8.7</td>
       <td>9.2</td>
     </tr>
   </tbody>
@@ -310,14 +356,14 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
       <td>Glaive, Halberd, Longsword, Pike, Warhammer</td>
       <td>1d10</td>
       <td>6.6</td>
-      <td>6.9</td>
+      <td>7.0</td>
       <td>7.3</td>
     </tr>
     <tr>
       <td>Greataxe</td>
       <td>1d12</td>
       <td>7.6</td>
-      <td>8.0</td>
+      <td>7.9</td>
       <td>8.3</td>
     </tr>
     <tr>
@@ -325,7 +371,7 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
       <td>2d6</td>
       <td>9.3</td>
       <td>9.8</td>
-      <td>10.2</td>
+      <td>10.3</td>
     </tr>
   </tbody>
 </table>
@@ -348,30 +394,30 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
     <tr>
       <td>Greatclub, Quarterstaff</td>
       <td>1d8</td>
+      <td>5.2</td>
       <td>5.5</td>
       <td>5.8</td>
-      <td>6.1</td>
     </tr>
     <tr>
       <td>Glaive, Halberd, Longsword, Pike, Warhammer</td>
       <td>1d10</td>
-      <td>6.5</td>
-      <td>6.8</td>
-      <td>7.2</td>
+      <td>6.3</td>
+      <td>6.6</td>
+      <td>7.0</td>
     </tr>
     <tr>
       <td>Greataxe</td>
       <td>1d12</td>
-      <td>7.5</td>
-      <td>7.9</td>
-      <td>8.3</td>
+      <td>7.4</td>
+      <td>7.7</td>
+      <td>8.0</td>
     </tr>
     <tr>
       <td>Greatsword, Maul</td>
       <td>2d6</td>
-      <td>9.0</td>
-      <td>9.4</td>
-      <td>9.9</td>
+      <td>8.4</td>
+      <td>8.8</td>
+      <td>9.3</td>
     </tr>
   </tbody>
 </table>
