@@ -34,7 +34,7 @@ The ability of Champions to score a critical on a 19 or 20 sounds fine but I thi
 |1d10|0.80|
 |1d12|0.83|
 |2d6|1.32|
-{: .table .table-striped .table-hover .data-table .table-fluid }
+{: .table .table-striped .table-hover .data-table .table-fluid .table-responsive}
 
 ***
 

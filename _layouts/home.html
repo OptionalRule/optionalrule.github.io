@@ -9,7 +9,9 @@ pagination:
   <div class="col">
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
-    {% include post_preview.html %}
+      {% unless post.preview == true %}
+        {% include post_preview.html %}
+      {% endunless %}
     {% endfor %}
 
     <!-- Pagination links -->
