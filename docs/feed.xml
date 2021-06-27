@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2021-06-27T13:18:15-04:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><entry><title type="html">Gritty Healing &amp;amp; Survival in 5e</title><link href="https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules/" rel="alternate" type="text/html" title="Gritty Healing &amp;amp; Survival in 5e" /><published>2021-06-27T10:26:00-04:00</published><updated>2021-06-27T10:26:00-04:00</updated><id>https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules/">The heroic playstyle of 5e D&amp;D is a lot of fun, but it is overly focused on the encounter. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, prevention, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colvilles video on the topic this week, I was inspired to write down my own thoughts on gritty rules for 5e.
+
+***Important Side Note:*** Gritty play is sometimes pushed with a sense of elitism. This is a silly position and it is just a style of play. Keep that in mind. If you choose this style of play, the game is inherently going to get much more about tracking and managing resources. There is nothing wrong if that style of play is for you. However, if enjoy that style, these rules should give you something to sink your teeth into.
+
+## Don't We Have This Already?
+Discussion of gritty mechanics and survival rules in 5e is an evergreen topic. A quick google search will turn up a number grim dark, gritty, or other survival rules. However, I never thought these hit the right spot of the right focus or right level of depth for my own campaigns. Even the 5e DMG has a set of Gritty Realism rules to use that just extends short rests to once a day, and long-rests to once a week. Rather than providing a different style of play, the gritty realism rules just make everything take longer. Therefore, they are neither gritty nor realistic. Instead, these are an expansion of the Slow Natural Healing rules in Chapter 9 of the DMG.
+
+**A Quick Note on Realism:** A frequent mistake people make is to assume this is an attempt to make 5e more realistic or simulationist.  It is not.  Instead, this is just a shift of the focus of gameplay from the encounter to more long-term elements. 
+
+## The Rules
+
+{% include imageframe.html
+  figure_class=&quot;float-end ms-4 clearfix&quot;
+  src=&quot;/assets/img/mandy-jurgens-female-plate_475x672.jpg&quot;
+  alt=&quot;A woman with long brown hair and blue eyes looking at the viewer.  She wears plate armor streaked in blood.&quot;
+  width=&quot;475&quot; height=&quot;672&quot;
+  caption=&quot;Image Credit &lt;a href='https://www.artstation.com/aliena85' target='_blank'&gt;Mandy Jurgens&lt;/a&gt;&quot;
+ %}
+ Where noted these house rules replace the standard 5e rules.
+
+### Healing
+Short and Long rest healing is no longer used, otherwise rests work as normal.  Meaning, players may only spend their Hit Dice (HD) to heal at the end of a Long Rest. Also, HD are spent separately to heal ability scores, drain, and damage. Additionally players roll to recover spent Hit Die.  In this way, injuries in a single combat is not as taxing as prolonged combats and injuries.
+
+The sequence is as follows:
+* Recovery Spent HD
+* Choose to spend HD on healing ability damage, drain, or to recovery hit points.
+* Modify any HD roll by the recovery conditions.
+
+#### Recovering Spent HD
+Hit Dice are recovered by rolling a DC 13 Constitution for each spent HD at the end of a long rest, before any healing. Disadvantage may be imposed under harsh conditions or if unable to rest, likewise advantage may be granted under good recovery conditions and medical care.
+
+#### Spending HD on Recovery
+Players choose to spend their HD to heal ability loss, drain, or damage seperatly as follows: 
+
+* One point of ability score loss. 
+* One Hit Die roll to recovery drain.
+* One Hit Die roll to heal damage up to their max hit points.
+
+#### Modifying Hit Die Rolls
+Recovery assumes you have access to good shelter, food, sleep, and care.  For each one of these conditions not met, the Hit Die rolled for recovery is reduced by one type.  This means 1d12 becomes 1d10, 1d10 a 1d8, and so forth down to a minimum of 1 point. See Chapter 5 in the DMG for more on conditions and survival.
+
+**Shelter:** This assumes a restful and clean environment such as a private inn room or residence.  In the wilderness this requires a DC 10 Wisdom (Survival) check with adequate supplies like tents, or a DC 15 check to setup a camp from scratch. Poor conditions or resource may impose disadvantage.
+
+**Good Food:** A hot meal or good quality food is needed for healing. Characters can use the [Foraging Rules](https://www.dndbeyond.com/sources/dmg/adventure-environments#Foraging) from Chapter 5 of the DMG if they need to find food in the wilderness.
+
+**Sleep**: Sleep or meditation is required as normal for your face.  Without adequate shelter or if interrupted with combat this may require an individual DC 15 Constitution (Survival) check to satisfy this requirement.
+
+**Medical Care:** Having proper care is important to heal properly. Characters proficient in the Medicine skill may make a DC 10 Wisdom (Medicine) check to provide proper medical care to themselves or others.  The DC is increased by 2 for every patient over the first and is made at disadvantage without proper medical supplies.  This check may be made at advantage by expending a use of a Healing Kit.
+
+## Other Considerations
+
+All-in-all a gritty playstyle will have extended rules over a number of sub-systems.  These can be as expansive or brief as fits your campaign. However, I recommend starting with these gritty healing rules and see how they land with your players and expanding from there if it seems fun.  If you find this fun, you may also want to consider other expanded rules or modifications.
+
+**Limiting Hit Points:** 5e does a better job of doing damage than most people give it credit for. However, there are various OSR rules for hit points you may want to consider if this is right for  you.
+
+**Lowering Ability Scores:** Many gritty games lean into randomly generated ability scores rather than having everyone in the group easily reaching maximum humanoid potential.  So, choose a generation method that is right for you. Additionally, you may want to consider doing away with Ability Score Increases (ASI) and using Feats as the only option. This can add more variety and customization and some still come with a +1 ASI.
+
+**Spells:** Gritty plan puts more burden on spells and spellcasters.  Some DMs may consider banning or modifying spells like Goodberry, Create Water, and Healing Spirit.
+
+## Campaigns
+Introducing a system like this significantly impacts the pacing of campaigns and challenge of encounters.  This system works better for campaigns with modular encounters and opportunities to manage rest and recovery.  Therefore, campaigns like Lost Mines of Phandelver, or Rime of the Frostmaiden may be better suited.  Campaigns like Out of the Abyss or Tomb of Annihilation may require a lot of modification by the DM or be a poor fit for this style of play.
+
+## Conclusion
+Gritty rules aren't for everyone but can be a fun variation on your 5e play or better suited for some groups playstyles. To be successful, you need full buy in from everyone in the group and have to enjoy the management and level of detail that goes into this kind of play.  Those that enjoy it can welcome the challenge of planning through how to set themselves up for recovery or mitigating for loss. DMs would do well to provide players both opportunities to shine, and interesting challenges to overcome through planning and preparation.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">The heroic playstyle of 5e D&amp;amp;D is a lot of fun, but it is overly focused on the encounter. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, prevention, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colvilles video on the topic this week, I was inspired to write down my own thoughts on gritty rules for 5e.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/mandy-jurgens-female-plate_475x672.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/mandy-jurgens-female-plate_475x672.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">On Die Averages and Hit Points in 5e</title><link href="https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/" rel="alternate" type="text/html" title="On Die Averages and Hit Points in 5e" /><published>2021-06-22T09:32:00-04:00</published><updated>2021-06-22T09:32:00-04:00</updated><id>https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/">&lt;p&gt;I’ve had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff.  However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results.  The solution isn’t as complex as this is going to make it seem, I’m just laying out the specifics so it’s all apparent.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;aside&lt;/strong&gt; I generated some of these examples out of a Jupyter Notebook, which you can run online yourself through &lt;a href=&quot;https://mybinder.org/v2/gh/Streamweaver/DnDNotebook/0fe60184a44f012f10b67873958e1752bd8f5341?filepath=Stat%20Generation.ipynb&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;dice-averages&quot;&gt;Dice Averages&lt;/h2&gt;
+
+&lt;p&gt;A common point of confusion for people are the values given for averages on various dice.  People see the average of 1d6 listed at 3.5 or 4 and seem confused as some expect the value to be 3. This is a common logical error people make because they are just dividing 6 by 2 in their head and getting 3, but that’s now what an average is.  An average is the sum of all possible results divided by the total number of values. In this case 1 through 6. Lets demonstrate below:&lt;/p&gt;
+
+&lt;h3 id=&quot;d8-done-wrong&quot;&gt;D8 Done Wrong&lt;/h3&gt;
+&lt;p&gt;This is an example of the math where people can go wrong.  Just dividing by 2 isn’t an average and has the effect of assuming 
+zero is included in the set of numbers, obviously that isn’t true.  (Even on a d10, as the 0 usually represents 10)&lt;/p&gt;
+&lt;figure class=&quot;figure float-end ms-4&quot;&gt;
+    
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/skillcheck-480x363.jpg&quot; alt=&quot;A group of adventurers leaning over a table, seemingly confused by a map they are looking at&quot; height=&quot;480&quot; /&gt;
+        
+    
+        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit Wizards of the Coast&lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Quick pandas code
+# Using incorrect assumptions on 1d8
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_wrong&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8w&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Series&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_wrong&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8w&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; mean     4.000000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;d8-done-right&quot;&gt;D8 Done Right&lt;/h3&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# The correct way, listing only actual results on the die.
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_right&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Series&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_right&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; mean     4.50000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This same pattern is repeated for every die type in the game. (i.e. 1d8, 1d10 …).  Obviously a die can’t roll a half value, 
+so on any single result the value for average is rounded to the nearest, which is 5 in this case. That’s how the average
+roll on 1d8 is determined to be a 5.&lt;/p&gt;
+
+&lt;h2 id=&quot;single-rolls-vs-multiple-dice-rolls&quot;&gt;Single Rolls vs Multiple Dice Rolls&lt;/h2&gt;
+
+&lt;p&gt;It’s important to understand that while the average applies to a single die roll, it is not so when totaling multiple dice.  That is to say that the average of 3d6 is not 12 (3 * 4) but 11 (3 * 3.5 rounded up).  This difference introduces some confusion between determining average player hit points and average monster hit points.  The TLDR answer is that players calculate hit points discretely every level, while monsters are just determined at their CR. (Though frankly if you’re a
+TLDR kind of person, I don’t know how you got down here)&lt;/p&gt;
+
+&lt;h2 id=&quot;the-confusion-of-hit-points&quot;&gt;The confusion of Hit Points&lt;/h2&gt;
+
+&lt;p&gt;In using these values, a bit of confusion comes in when we start to talk about how average Player Hit Points are
+calculated as opposed to how average Monster Hit Points are determined.  The general difference is that player Hit
+Points are calculated discreetly per level, whereas Monster Hit Points are just a sum of the average.&lt;/p&gt;
+
+&lt;p&gt;This is less confusing than it sounds and just means that players add the total of a hit die rolled at each level, while
+monsters are just a quick sum of all their hit dice.  Taking the example of 1d8 for player hit points, they use the max
+value at 1st level, so this is 8. If the player takes the average value, that means every level thereafter they would
+add the average of 1d8, which is 4.5.  Since 4.5 isn’t an actual value on 1d8 they round up; this is one of the
+exceptions to the rounding rules in 5e.&lt;/p&gt;
+
+&lt;h3 id=&quot;example-average-player-hit-points&quot;&gt;Example Average Player Hit Points&lt;/h3&gt;
+
+&lt;p&gt;Lets start with an example that assumes a 5th level player with a +1 con mod. They apply the max roll at 1st level, then
+add the average value of the HD rounded up at each subsequent level, and add 5 for their con bonus.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;player_hp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;max&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;4.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ceil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;player_hp&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;33.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Since the average of 4.5 is rounded up each roll to 5, this gives players taking the average hit points every level a
+slight mathematical advantage over players who roll &lt;em&gt;on average&lt;/em&gt;. However, the rolled set is so low and variance so high
+that real world results are going to differ on a character by character basis.&lt;/p&gt;
+
+&lt;p&gt;A house rule I use in my own games is that players can either take the average hit points per level &lt;em&gt;OR&lt;/em&gt; roll, but they
+all have to choose the same method.  I also allow the to reroll any 1s. This creates an interesting social dynamic for
+me as a DM.  This feels good for the players and is about the same in terms of the average expected roll, the mean of 1d8 shifts only from 4.5 to 4.93 and both round up to 5.  However there is a &lt;em&gt;slight&lt;/em&gt; decrease in the chance of a low result and the same chance of a high result so the low end risk is a bit more shallow.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;d8_house_rule_values&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;4.5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8_house_rule&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Series&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_house_rule_values&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8_house_rule&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;max&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;4.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ceil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_house_rule&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;33.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;However, it’s not so simple from a players point of view.  Perceptions of agency, risk vs reward, and the gamblers
+fallacy all combine to make an interesting party debate. They &lt;strong&gt;feel&lt;/strong&gt; a sense of tension about this choice, and as if 
+something good was given them, which I think is generally good for a game.  The metagame benefit I get as a DM is that 
+this gives the players something to debate right out of the gate in a new campaign. Which means they start working out how to negotiate as a party
+immediately.&lt;/p&gt;
+
+&lt;h3 id=&quot;example-average-monster-hit-points&quot;&gt;Example Average Monster Hit Points&lt;/h3&gt;
+
+&lt;p&gt;The average monster hit points are much more simple.  However, the difference in how these are determined and how player
+average hit points are determined causes some confusion. In this case we don’t worry about determining the actual hit
+points at each level or maxing out at first.  Monsters aren’t supposed to be that complex.  Therefore, all we do is
+multiply the average hit die value by the number of monster HD.&lt;/p&gt;
+
+&lt;p&gt;For consistency, lets take a Bugbear as an example. They are 5d8 HD creature with a +1 con mod, but the average hit
+points will be different from that of a player character.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;bugbear_hp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;floor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bugbear_hp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;27.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;That seems like a lot but it’s really just expressing the core ideas about why some misunderstandings arise and design faults creep in.  Once you get the right concept framed in your head it’s not all that difficult but walking through the details can help some folks understand.  Having had this coversation several times recently, I thought I’d take the quick code I used during one of those discussions to throw up a blog post.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">I’ve had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff. However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results. The solution isn’t as complex as this is going to make it seem, I’m just laying out the specifics so it’s all apparent.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Site Migration Complete</title><link href="https://www.optionalrule.com/2021/06/07/site-migration-deployed/" rel="alternate" type="text/html" title="Site Migration Complete" /><published>2021-06-07T00:00:00-04:00</published><updated>2021-06-07T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/06/07/site-migration-deployed</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/07/site-migration-deployed/">Our site migration is now complete!  This should mean a much better and faster experience for everyone visiting the site.  You will have noticed it's been a bit quiet around here and this has been the reason.  The previous wordpress site was just too slow and solutions to make it faster were either too expensive or as difficult as switching hosts.  Given this is a content oriented blog and doesn't need a lot of scripting, I decided to switch over to building the site on [Jekyll](https://jekyllrb.com/){: target=&quot;_blank&quot;} and hosting in [Github Pages](https://pages.github.com/){: target=&quot;_blank&quot;}.
+
+I'm limited by time and skills like everyone but I try hard to keep the site accessible, responsive, and performant so I'm most proud of the accessibility and performance metrics I've been able to achieve.  Below is the lighthouse results from parsing the site. See lighthouse results screenshot below as of today.
+
+If you have any trouble with the site or notice any problems please tag or DM me on twitter and I hope you enjoy the new site!
+
+{% include imageframe.html
+  src=&quot;/assets/img/lighthouse-results-1092x921.jpg&quot;
+  alt=&quot;Dashboard screenshot from lighthouse analytics showing performance, accessibility and other metrics.&quot;
+  height=&quot;921&quot; width=&quot;1092&quot;
+  caption=&quot;Image credit Wizards of the Coast&quot;
+ %}</content><author><name>Scott Turnbull</name></author><category term="Misc" /><summary type="html">Our site migration is now complete! This should mean a much better and faster experience for everyone visiting the site. You will have noticed it’s been a bit quiet around here and this has been the reason. The previous wordpress site was just too slow and solutions to make it faster were either too expensive or as difficult as switching hosts. Given this is a content oriented blog and doesn’t need a lot of scripting, I decided to switch over to building the site on Jekyll and hosting in Github Pages.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/lighthouse-results-1092x921.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/lighthouse-results-1092x921.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">April 2021 Experimental House Rules</title><link href="https://www.optionalrule.com/2021/04/29/april-2021-experimental-house-rules/" rel="alternate" type="text/html" title="April 2021 Experimental House Rules" /><published>2021-04-29T10:05:37-04:00</published><updated>2021-04-29T10:05:37-04:00</updated><id>https://www.optionalrule.com/2021/04/29/april-2021-experimental-house-rules</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/29/april-2021-experimental-house-rules/">Like most 5th edition Dungeons &amp; Dragons DMs, I&amp;#8217;m constantly tinkering with the rules in hopes of improving the experience at the table. But it takes a bit of time and testing before I consider an idea worthy of officially adding to my game. As such, I&amp;#8217;ve been testing out some ideas on &lt;a href=&quot;https://www.twitter.com/optionalrule&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Twitter &lt;/a&gt;for feedback. These are the various rules I&amp;#8217;ve thrown out for feedback during up through the end of April 2021. After a time, if they seem worthwhile I&amp;#8217;ll officially add them to &lt;a href=&quot;https://optionalrule.com/2021/02/10/my-current-5e-house-rules/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;my own house rules&lt;/a&gt; list.
+
+## Defense
+
+  * You may use your reaction to use the Dodge action when an attack has been declared against you, but before the results have been rolled. When you do so, you may only use the Dodge, Hide, Help, Dash, or Disengage action on your next turn.
+
+### Comments So Far
+
+My motivation here is to create slightly more dynamic options in combat. In particular this rule would benefit intelligent group base combat. Additionally it would mitigate the devastation of a single high damage Big Bad Evil Guy (BBEG) attack. This being more common in many adventures now. Taken together, the intent would be to have another option to manage combat though choices.
+
+The overall feedback has been positive on this. One notable commenters thought this would give too many options to power gamers to cheese in and out of combat. However, I&amp;#8217;m not sure disadvantage is as much protection as people think. In particular, it benefits characters with high ACs the most, but they are less likely to be inclined to use it. So, for my part the theory seems solid here, the feedback generally positive enough to think about testing this in my game.
+
+### Grappling
+
+  * You may use your Bonus Action to perform Help against a creature you are grappling.
+  * If you are able to make multiple attacks with the Attack action, you can replace one of them with an attempt to Escape a Grapple.
+  * Every character starts with The Grappler feat.
+
+### Comments So Far
+
+Like the defensive options above, my thinking here is again to provide some more dynamic options in combat. Currently, grapple is used to control someones movement and has no option to pin anyone. I believe the logic is that pinning someone is &amp;#8216;winning&amp;#8217; and that is already handle in Hitpoints. However, I think it could be fun and return some potions to anyone in melee.
+
+The feedback here was overwhelmingly positive. Several commenters replied with &lt;a href=&quot;https://thinkdm.org/2018/06/16/grappling/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;house rules of their own&lt;/a&gt;, many using some mix of these options already. Again, the theory seemingly solid and feedback being good, this is definitely moving to testing at my table.
+
+## Request for More Feedback
+
+If you find any of these house rules interesting or have thoughts, please hit me up on Twitter with any comments. If you try any of these out at your table please let me know how it goes. In the months ahead I&amp;#8217;ll try to add additional features with rolled up house rules for that period. Perhaps I&amp;#8217;ll return with feedback from testing on these as well.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Like most 5th edition Dungeons &amp;amp; Dragons DMs, I’m constantly tinkering with the rules in hopes of improving the experience at the table. But it takes a bit of time and testing before I consider an idea worthy of officially adding to my game. As such, I’ve been testing out some ideas on Twitter for feedback. These are the various rules I’ve thrown out for feedback during up through the end of April 2021. After a time, if they seem worthwhile I’ll officially add them to my own house rules list.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">When Failure Isn’t an Option in 5e</title><link href="https://www.optionalrule.com/2021/04/21/when-failure-isnt-an-option-in-5e/" rel="alternate" type="text/html" title="When Failure Isn’t an Option in 5e" /><published>2021-04-21T12:18:12-04:00</published><updated>2021-04-21T12:18:12-04:00</updated><id>https://www.optionalrule.com/2021/04/21/when-failure-isnt-an-option-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/21/when-failure-isnt-an-option-in-5e/">Handling failure is something people seem to struggle with in 5th edition Dungeons &amp; Dragons. When to fail, what happens when you do, and how to keep the game moving are constant topics of discussions. In my view, [Progressive Failure and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %}) is a very useful technique, but it&amp;#8217;s just one of many in the DMs toolbox. As a discussion topic, people often seem to misunderstand the role of failure in RPGs. Worse, a small sub-population has begun to take terms like &amp;#8216;failing-forward&amp;#8217; to mean failure shouldn&amp;#8217;t be possible. So taking a moment to consider the options and tools available can make even failure a fun experience in TTRPGs.
+
+## Failing to Fail
+
+The first order problem many DMs have with failure is introducing it at the wrong time. Mystery scenarios are a great example of this, where players must uncover a clue to move the game forward. Likewise, an NPC might need to be influenced to allow the plot to progress. While DMs might think this is a moment of tension that needs a skill roll, these are exactly the kinds of situations you do NOT want to roll for. Anything that can bring a game to a stop shouldn&amp;#8217;t be subject to failure.
+
+_**Players should always have the minimal information and access they need to advance the story.**_ Never gate the critical path for an adventure behind a roll. So yes, this means if the players show up or make any effort at all, they get the information they need to get to advance things one step. However, it&amp;#8217;s important to realize that this is the **_absolute minimum_** information or access they need. Artful use of skills by the players should let them advanced in a strong position. Indeed the DM and player should work together to discover options for these additional actions. But there should always be a path forward in an adventure, even if it&amp;#8217;s a hard one.
+
+## Why Fail?
+
+Risk is at the heart of adventure and acknowledging **_failure with appropriate consequences in an important dynamic in TTRPGs_**. Additionally, how a character fails can itself be an important element for driving adventures forward. With this in mind, DMs have several tools available to handle failure and keep the game flowing. Among these:
+
+  * Matt Colville&amp;#8217;s Running the Game series. In particular &lt;a href=&quot;https://www.youtube.com/watch?v=l1zaNJrXi5Y&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Many Fail States&lt;/a&gt; discusses different ways to handle failure. Also, some reflection on &lt;a href=&quot;https://www.youtube.com/watch?v=8Q8bVPpc84A&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Catastrophic Failure&lt;/a&gt; in games acknowledges that sometimes you just have to accept failure.
+  * My aforementioned [Progressive Failure and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %}) creates an interactive and dynamic system to allow players to **_manage failure through rising stakes and increasing tension_**.
+  * Success at a Cost is a concept I first encountered in the FATE system and is reiterated in Chapter 8 of the DMG. It essentially allows DMs to **_turn failures into a success but add some complication_** or require a follow on check or action.
+  * Degrees of Failure in Chapter 8 of the DMG scales failure based on the margin of failure. This **_emphasises spectacular failure as a dramatic vehicle_**.
+  * Also, there is a concept called &amp;#8220;Failing Forward&amp;#8221; that&amp;#8217;s been kicking around longer than I can remember. There are several different but the core allows players to try to continue by trying something different. **_Failing Forward is an opportunity to succeed by other means._**
+
+## Conclusion 
+
+**Failure is as valuable an outcome as success in TTRPGs.** So having options in mind for how to manage failure in interesting ways is valuable for DMs. A mistaken idea seems to be leaking into some sub-cultures in 5e, who take the position that failure shouldn&amp;#8217;t be an option. This is a grave mistake, what they should be saying is that **_failure shouldn&amp;#8217;t be an end_**. The game is at it&amp;#8217;s best when the players can transform the world through their actions. Transformation can happen through success or failure.  **Regardless of success or failure, the best outcome is something fun or interesting**.
+
+Now get out there and run some great games.</content><author><name>Scott Turnbull Turnbull</name></author><category term="RPG Resources" /><summary type="html">Handling failure is something people seem to struggle with in 5th edition Dungeons &amp;amp; Dragons. When to fail, what happens when you do, and how to keep the game moving are constant topics of discussions. In my view, Progressive Failure and Rising Tension is a very useful technique, but it’s just one of many in the DMs toolbox. As a discussion topic, people often seem to misunderstand the role of failure in RPGs. Worse, a small sub-population has begun to take terms like ‘failing-forward’ to mean failure shouldn’t be possible. So taking a moment to consider the options and tools available can make even failure a fun experience in TTRPGs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">5e Spell Save &amp;amp; Damage Breakdown</title><link href="https://www.optionalrule.com/2021/04/15/5e-spell-save-damage-breakdown/" rel="alternate" type="text/html" title="5e Spell Save &amp;amp; Damage Breakdown" /><published>2021-04-15T00:00:00-04:00</published><updated>2021-04-15T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/04/15/5e-spell-save-damage-breakdown</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/15/5e-spell-save-damage-breakdown/">I recently started aggregating some data I&amp;#8217;ve gathered about spells from 5e Dungeons &amp; Dragons. Primarily, this has been for fun and to see if I&amp;#8217;d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you&amp;#8217;ll find this fun and interesting yourself and I would love to hear any observations you have.
+
+These are the result of analyzing 477 spells across the Players Handbook, Xanathar&amp;#8217;s Guide to Everything, and Tasha&amp;#8217;s Caldron of Everything. 
+
+## 5e Spell Saves by Class
+
+|Save Type|Artificer|Bard|Cleric|Druid|Paladin|Ranger|Sorcerer|Warlock|Wizard|Total|
+|--- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
+|Dexterity|16|4|8|25||8|36|7|43|64|
+|Wisdom|2|30|9|10|5|1|21|21|38|50|
+|Strength|2||1|14|1|3|10|3|12|20|
+|Charisma||7|12|2|4||3|5|9|16|
+|Constitution|9|10|10|19|4|1|32|20|40|54|
+|Intelligence||6|1|1|||5|6|9|11|
+{: .table .table-striped .table-hover}
+
+I found a few of these results surprising and overall the implied intention behind the design of spells saves by class can help with subclass design. For instance, the Bard being so heavily invested in Wisdom saves emphasises their focus on enchantment and the mind. Likewise, the Druid&amp;#8217;s Strength save focus is a defacto statement of their magic interacting with the physical world. Additionally, the relative even distribution of Wizards saves speaks to their flexibility. Lastly, drives home the point of common observations like the over loading of Dexterity. 
+
+Overall my read here is that the type of saves given to a spell is intentionally significant. So, when vetting a new spell from a supplement, UA, or created by a player, this seems important to keep in mind.
+
+## 5e Spell Conditions &amp; Damage 
+
+Again a bit of a data dump here, but this is a tally of the number of spells that inflict a condition or particular damage type by class. As with saves above, I think it&amp;#8217;s fair to say there is an implied intentional design here. For instance, the lack of condition inflicting spells for Artificers and Paladin&amp;#8217;s clearly indicate their intention as a damage dealing class. The opposite is true for Bard, which clearly seems designed to inflict conditions. While, Wizards and other classes maintain their flexibility.
+
+### Spells by Damage Type per Class 
+
+|Damage Type|Artificer|Bard|Cleric|Druid|Paladin|Ranger|Sorcerer|Warlock|Wizard|Total|
+|--- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
+|Acid|6|1|1|3|1||6|2|10|16|
+|Bludgeoning|7|2|3|18||2|14|2|17|26|
+|Cold|6|1|1|6|1||11|5|17|23|
+|Fire|10|2|3|10|2|1|21|5|25|34|
+|Force|2|3|2|1|1|3|6|4|10|17|
+|Lightning|6|1|1|3|1|1|10|3|13|18|
+|Necrotic||2|8|1|1||7|11|14|23|
+|Piercing|6|1|1|5||4|4||4|11|
+|Poison|1|||2|||8|2|9|10|
+|Psychic||8|1|2|3||7|9|13|20|
+|Radiant|||9|3|6||5|3|6|21|
+|Slashing|3|2|1|2||1|3|1|3|6|
+|Thunder|6|4|1|4|3||7|5|8|13|
+{: .table .table-striped .table-hover}
+
+### Spells by Condition Inflicted per Class 
+
+|Condition|Artificer|Bard|Cleric|Druid|Paladin|Ranger|Sorcerer|Warlock|Wizard|Total|
+|--- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
+|Blinded|1|5|6|4|2||7|2|12|18|
+|Charmed||10|1|7|1|2|7|5|8|13|
+|Deafened||5|3|2||1|2||4|7|
+|Exhaustion|||||||1|1|2|2|
+|Frightened||3|1|1|1||2|3|8|9|
+|Incapacitated||5|3|2|2||2|2|6|8|
+|Invisible|2|3|||||2|1|4|4|
+|Paralyzed||2|1|1|||2|2|2|2|
+|Petrified|||||||1|1|3|3|
+|Poisoned|||1|1|||1||1|3|
+|Prone|1|2|3|9|3|1|7|1|8|14|
+|Restrained|3|||7||3|6|2|12|16|
+|Stunned||3|3|2|||3|3|4|6|
+|Unconscious|1|4|2||||3|2|5|6|
+{: .table .table-striped .table-hover}
+
+
+## Conclusion
+Overall, this is just an intellectual exercise I found to be a bit of fun. There&amp;#8217;s nothing earth shattering in these numbers, but I did find a few surprises. For me, it fixes firmly the intentional design of spell effects that help me vet or design new spells and subclasses. Additionally, it helps me understand where the gaps are either as a player or when designing scenarios as a DM. Particularly, with adventure design I think it&amp;#8217;s important to know what the distribution of options are as you need to design broadly.
+
+The only real conclusion I have is with subclasses like the College of Scribe Wizard from Tasha&amp;#8217;s. I excluded that from my own games because I thought the ability to change damage type was too powerful and went against the class concepts. This confirms that assessment for me, but obviously my take is in the minority if reaction online is any gauge.
+
+Regardless, I hope you found these numbers interesting and a bit of fun as well. Now get out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">I recently started aggregating some data I’ve gathered about spells from 5e Dungeons &amp;amp; Dragons. Primarily, this has been for fun and to see if I’d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you’ll find this fun and interesting yourself and I would love to hear any observations you have.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Monster Resistance Totals in 5e</title><link href="https://www.optionalrule.com/2021/04/07/monster-resistance-totals-in-5e/" rel="alternate" type="text/html" title="Monster Resistance Totals in 5e" /><published>2021-04-07T00:00:00-04:00</published><updated>2021-04-07T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/04/07/monster-resistance-totals-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/07/monster-resistance-totals-in-5e/">Taking down monsters in 5th Edition Dungeons &amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn&amp;#8217;t just a matter of damage, as many monsters will also have Weaknesses (**W**), Resistances (**R**), or Immunities (**I**). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM. 
+
+## The Reoccuring Context 
+
+Two topics that come up often online are:
+
+  * Do resistances matter and how much? 
+  * Does it matter if a DM lets players reskin spells to any damage or save type?
+
+My instinctive answer to these questions has always been &amp;#8216;absolutely&amp;#8217;, but getting numbers is the only real way to answer. So I set about doing just that.
+
+## Getting Data to Parse
+
+Reliable structured data is difficult to get for many things in 5e. This is something that I urge WotC to do something about, but that&amp;#8217;s a discussion for another day.
+
+I ran across &lt;a href=&quot;https://www.reddit.com/r/UnearthedArcana/comments/8zvr6s/the_great_dd5e_monster_spreadsheet/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;The Great D&amp;D5e Monster Spreadsheet&lt;/a&gt; thread on reddit. This is a great fan effort of manually entered data for 799 monsters from various core books, as well as many Homebrew monster. I choose to focus only on monster stat blocks from official sources and &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1sx7Cc94yHu3UPjHf0uv1mHA8IoVyTxB4UWqGyLmUm6g/edit?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;copied my own version of the spreadsheet&lt;/a&gt; to clean up a bit. The numbers and analytics you see here are from that data. If you run across an error or have a comment about it, just drop me a &lt;a href=&quot;https://www.twitter.com/optionalrule&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;line on twitter&lt;/a&gt;.
+
+I make some light observations about the data but there are other creators more adept than I about obptimization. My goal here is to get the numbers.
+
+## Monster Stat Block Totals Grouped by CR
+
+I&amp;#8217;ve shared a &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1O2dyuRcBcMojO7cCwT5kHKRAK0AMenAQpCmazgCEn38/edit?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;spreadsheet of this chart&lt;/a&gt; for anyone to view, but had to use the image below because my poor website didn&amp;#8217;t handle the table very well. This includes both damage types and conditions and some numbers appear large because of multiple versions of a similar monster. Still, some of the results surprised me. In no particular order:
+
+  * The number of resistances sub CR 5 surprised me. PCs generally don&amp;#8217;t have access to magic weapons in that range so this makes combat harder and more varied. I have to wonder if this is a factor in why the game seems to work so much better in tier 1 and 2.
+  * Cold resistance was higher than I expected, which is odd given how few cold damage spells there are. For reference there are only 5 spells that do cold damage in the PHB.
+  * Poison and Poisoned resistance was very high. Again, the number of spells and abilities that do poison damage are very few. Only 3 spells in the PHB do poison damage.
+  * Many people on twitter commented on the relatively few weaknesses. I like this however as monsters are difficult to keep around for more than a few rounds already. If weakness was common, too many Boss fights would be one round combats.
+
+&lt;table class=&quot;table table-hover table-striped data-table&quot;&gt;
+   &lt;thead&gt;
+   &lt;tr&gt;
+      &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+      &lt;th colspan=&quot;3&quot;&gt;&lt; 5&lt;/th&gt;
+      &lt;th colspan=&quot;3&quot;&gt;6 - 10&lt;/th&gt;
+      &lt;th colspan=&quot;3&quot;&gt;11-15&lt;/th&gt;
+      &lt;th colspan=&quot;3&quot;&gt;16 - 20&lt;/th&gt;
+      &lt;th colspan=&quot;3&quot;&gt;20 &lt;&lt;/th&gt;
+      &lt;th colspan=&quot;3&quot;&gt;Totals&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Dmg/Condition&lt;/th&gt;
+      &lt;th&gt;W&lt;/th&gt;
+      &lt;th&gt;R&lt;/th&gt;
+      &lt;th&gt;I&lt;/th&gt;
+      &lt;th&gt;W&lt;/th&gt;
+      &lt;th&gt;R&lt;/th&gt;
+      &lt;th&gt;I&lt;/th&gt;
+      &lt;th&gt;W&lt;/th&gt;
+      &lt;th&gt;R&lt;/th&gt;
+      &lt;th&gt;I&lt;/th&gt;
+      &lt;th&gt;W&lt;/th&gt;
+      &lt;th&gt;R&lt;/th&gt;
+      &lt;th&gt;I&lt;/th&gt;
+      &lt;th&gt;W&lt;/th&gt;
+      &lt;th&gt;R&lt;/th&gt;
+      &lt;th&gt;I&lt;/th&gt;
+      &lt;th&gt;W&lt;/th&gt;
+      &lt;th&gt;R&lt;/th&gt;
+      &lt;th&gt;I&lt;/th&gt;
+      &lt;/tr&gt;
+   &lt;/thead&gt;
+   &lt;tbody&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Acid&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Blinded&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;45&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Bludgeoning&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Charmed&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;63&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;135&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Cold&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;40&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;119&lt;/td&gt;
+      &lt;td&gt;37&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Darkness&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Deafened&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;41&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Exhaustion&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;63&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;127&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Fire&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;39&lt;/td&gt;
+      &lt;td&gt;28&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;92&lt;/td&gt;
+      &lt;td&gt;69&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Force&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Frightened&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;57&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;128&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Grappled&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Lightning&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;33&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;87&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Magical&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Magical Piercing&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Necrotic&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Nonadamantine&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Nonmagical&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;48&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;39&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;144&lt;/td&gt;
+      &lt;td&gt;37&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Nonsilvered&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Paralyzed&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;47&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;93&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Petrified&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;40&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;73&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Piercing&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Poison&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;108&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;43&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;220&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Poisoned&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;96&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;42&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;212&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Prone&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;43&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;70&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Psychic&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Radiant&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Restrained&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;37&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Slashing&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Spell&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Stunned&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Thunder&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Unconscious&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;/tbody&gt;
+&lt;/table&gt;
+
+## Monster Saves
+
+| Save Prof | Total | Percent |
+| --------- | :---: | :-----: |
+| CHA       | 139   | 17.40%  |
+| CON       | 151   | 18.90%  |
+| DEX       | 127   | 15.89%  |
+| INT       | 74    | 9.26%   |
+| STR       | 38    | 4.76%   |
+| WIS       | 225   | 28.16%  |
+{: .table .table-striped .table-hover}
+
+Monster saves are also a big influence on how likely they are to be affected by an ability or spell. So I totaled how frequently stat blocks listed a particular save proficiency. My take away here is that a good bit of metagame design went into these choices, but I don&amp;#8217;t know that for sure. Obviously the actual attribute modifier has a big influence on a save but it&amp;#8217;s hard to ignore the choices. Wisdom as the most frequent save proficiency says to me the designers were trying to make sure monsters aren&amp;#8217;t locked up too often by conditions. Additionally, the fact that Dex save proficiency wasn&amp;#8217;t near the top says to me they didn&amp;#8217;t want monsters to avoid damage. 
+
+The most surprising result was the relative lack of Strength save proficiencies. Again, I see the metagame at work here. So few spells require a Strength save that it seems rather pointless. Additionally, monsters often have a high strength value already so proficiency is just overkill.
+
+## Conclusion
+
+So that&amp;#8217;s it. In my own context this will help me with balance for player designed spells and assessing third party or official supplements. I hope you&amp;#8217;re able to derive something useful for planning your games out of this. If you have an observation about it, tag me on twitter or drop me a DM. This is a starting place and rough guide though, and the devil will always be in the details. It is good though to comment based on numbers instead of strawman examples and intuition.
+
+Now get out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">Taking down monsters in 5th Edition Dungeons &amp;amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (W), Resistances (R), or Immunities (I). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Language of Monsters in 5e</title><link href="https://www.optionalrule.com/2021/04/02/the-language-of-monsters-in-5e/" rel="alternate" type="text/html" title="The Language of Monsters in 5e" /><published>2021-04-02T00:00:00-04:00</published><updated>2021-04-02T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/04/02/the-language-of-monsters-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/02/the-language-of-monsters-in-5e/">Many monsters in 5th Edition Dungeons &amp; Dragons list a language in their stat block. Aside from its ability to hurl insults in combat, sharing a language can open options for lore or negtiation during play. But which languages to most monsters speak and understand? This isn&amp;#8217;t an easy question to answer because DnD does not provide their monster stat blocks in an easily parsable format. So I found &lt;a href=&quot;https://www.reddit.com/r/UnearthedArcana/comments/8zvr6s/the_great_dd5e_monster_spreadsheet/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;The Great DnD 5e Monster Spreadsheet&lt;/a&gt; online, cleaned up the data and began to parse out some of the the answers.
+
+_As an aside, it&amp;#8217;s the digital age, can we put up some resources that are parsable to cut down on the hand editing._
+
+What follows is a table with the resulting number of stat blocks where the listed language appears. I have excluded listing for any language, or all languages as that is beside the point. Perhaps not relevant, but I found it interesting that a number of creature stat blocks listed Telepathy as a language, so I left that in. Also, there are a number of languages I didn&amp;#8217;t know existed at all such as Ice Toad. This includes 799 stat blocks from all the official books released so far. These were hand entered so there are some errors but I have tried to clean those up as best I can.
+
+## Language by Stat Block Count
+
+|Language|# Stat Blocks|
+|--- |:-: |
+|Abyssal|74|
+|Aquan|19|
+|Auran|17|
+|Blink Dog|1|
+|Bothii|1|
+|Bullywug|1|
+|Celestial|5|
+|Common|214|
+|Creator|14|
+|Deep Speech|23|
+|Draconic|78|
+|Druidic|4|
+|Dwarvish|17|
+|Elvish|38|
+|Giant|33|
+|Giant Eagle|1|
+|Giant Elk|1|
+|Giant Owl|1|
+|Gith|9|
+|Gnoll|9|
+|Gnomish|2|
+|Goblin|12|
+|Grell|1|
+|Grung|3|
+|Ice Toad|2|
+|Ignan|17|
+|Infernal|45|
+|Kruthik|3|
+|Modron|6|
+|Olman|2|
+|Orc|11|
+|Otyugh|1|
+|Primordial|5|
+|Sahuagin|3|
+|Slaad|6|
+|Sphinx|2|
+|Sylvan|30|
+|Telepathy|95|
+|Terran|16|
+|Thayan|3|
+|Thieves’ Cant|3|
+|Thri-Kreen|1|
+|Tlincalli|1|
+|Troglodyte|2|
+|Umber Hulk|1|
+|Undercommon|54|
+|Vegepygmy|2|
+|Winter Wolf|1|
+|Worg|1|
+|Yeti|2|
+|Yikaria|2|
+{: .table .table-striped .table-hover}</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">Many monsters in 5th Edition Dungeons &amp;amp; Dragons list a language in their stat block. Aside from its ability to hurl insults in combat, sharing a language can open options for lore or negtiation during play. But which languages to most monsters speak and understand? This isn’t an easy question to answer because DnD does not provide their monster stat blocks in an easily parsable format. So I found The Great DnD 5e Monster Spreadsheet online, cleaned up the data and began to parse out some of the the answers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Thinking Critically on Agency</title><link href="https://www.optionalrule.com/2021/03/26/thinking-critically-on-agency/" rel="alternate" type="text/html" title="Thinking Critically on Agency" /><published>2021-03-26T00:00:00-04:00</published><updated>2021-03-26T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/03/26/thinking-critically-on-agency</id><content type="html" xml:base="https://www.optionalrule.com/2021/03/26/thinking-critically-on-agency/">I greatly enjoyed my recent interview on the podcast, &lt;a href=&quot;https://www.thinkingcritically.co.uk/agency/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Thinking Critically: A D&amp;D Discussion&lt;/a&gt;. We talk about agency in games in all it&amp;#8217;s many forms, what agency is and isn&amp;#8217;t, where it ends, how it&amp;#8217;s traded, and how it interacts with game mechanics. I highly recommend the podcast for anyone running tabletop RPGs of any kind. 
+
+&lt;figure class=&quot;figure&quot;&gt;
+&lt;iframe src=&quot;https://anchor.fm/tc-dnd/embed/episodes/Agency-esor47/a-a527m7a&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;figcaption class=&quot;fig-caption&quot;&gt;Spotify Link to Podcast Episode&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;
+&lt;blockquote class=&quot;blockquote&quot;&gt;
+For this insightful episode I am joined by Scott, a.k.a &lt;a href=&quot;https://optionalrule.com/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;@optionalrule&lt;/a&gt;, and we talk about the incredibly important topic of agency. It&amp;#8217;s a term that gets bandied around a lot, carrying with it an awful lot of weight. In this hour, Scott and I begin to unpack some of that weight and how it can drastically and dramatically impact the gameplay experience. Starting by clarifying some common misconceptions and misinterpretations, we define what &amp;#8220;agency&amp;#8221; _really_ is within the TTRPG experience. When you have so many options on the table, where do you draw the line? Indeed, the GM is player too with their own pool of agency, and it&amp;#8217;s that trading of agency which leads to interesting and dynamic games. We finish on the importance of trust, something not always directly associated with agency, but the two are often intrinsically linked. The more you trust each other, the more you&amp;#8217;re willing to part with to increase the enjoyment of everyone at the table, and I can&amp;#8217;t think of a more poetic explanation than that!&lt;/blockquote&gt;
+
+&lt;figcaption class=&quot;blockquote-footer&quot;&gt;Thinking Critically Show Notes&lt;/figcaption&gt;&lt;/figure&gt;</content><author><name>Scott Turnbull</name></author><category term="Misc" /><summary type="html">I greatly enjoyed my recent interview on the podcast, Thinking Critically: A D&amp;amp;D Discussion. We talk about agency in games in all it’s many forms, what agency is and isn’t, where it ends, how it’s traded, and how it interacts with game mechanics. I highly recommend the podcast for anyone running tabletop RPGs of any kind.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Being Ready for Surprise in 5e</title><link href="https://www.optionalrule.com/2021/03/24/being-ready-for-surprise-in-5e/" rel="alternate" type="text/html" title="Being Ready for Surprise in 5e" /><published>2021-03-24T00:00:00-04:00</published><updated>2021-03-24T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/03/24/being-ready-for-surprise-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2021/03/24/being-ready-for-surprise-in-5e/">Surprise is one of the most consistently asked about elements of 5e Dungeons &amp; Dragons, and a source of constant confusion. This is partially because surprise ran differently in previous editions of the game. But also, the narrow examples and explanation make it unclear when surprised would be a factor. Lastly, the way surprise works with the imitative system can seem odd and counter-intuitive to many players. The solution is to break down surprise for what it is, and step away from the individual rolls to understand encounters holistically instead of procedurally. 
+
+{% include imageframe.html
+  figure_class=&quot;float-end ms-4&quot;
+  src=&quot;/assets/img/kenku-ambush480x360-480x330.jpg&quot;
+  alt=&quot;A rogue waiting in ambush with a dagger as a group enters the room.&quot;
+  height=&quot;360&quot; width=&quot;480&quot;
+  caption=&quot;Image credit Wizards of the Coast&quot;
+ %}
+
+## There Is No Surprise Round {#h-there-is-no-surprise-round}
+
+For those of you who don&amp;#8217;t understand this reference, there was a concept in previous editions of D&amp;D called a surprise round. The details aren&amp;#8217;t important because it doesn&amp;#8217;t exist in 5e. **_There is no surprise round in 5e D&amp;D_** and we need to stop using that term as it&amp;#8217;s confusing people. Indeed, players who only know 5e use this term because hold overs from previous editions keep using it. Additionally, the 5e rules references _&amp;#8216;sides&amp;#8217;_ in the surprised description, mistakenly causing more confusion for readers. So, we need to stop saying it and explaining it. **_It&amp;#8217;s time for the surprise round to die._**
+
+## What Is Surprise Then? {#h-what-is-surprise-then}
+
+**_Surprise may happen when someone is unaware or unready for combat._** If surprised, they **_cannot move_, _take an action,_ bonus action, _or reaction on their first turn_**. Determine this on an individual basis at the very start of combat, then determine positions, and roll initiative. Most importantly, don&amp;#8217;t overthink it and don&amp;#8217;t get lost in bad examples. All it means is that, for whatever reason, some or all of the people can&amp;#8217;t act or move immediately.
+
+### Determining Surprise {#h-determining-surprise}
+
+According to the rules, surprise is only a factor if at least one side is trying to be stealthy, but this is a **_bad example_**. In truth, there are many reasons surprise may be a factor in combat. For instance, players may be in a merchant disguises to deceive an enemy before an ambush. Alternatively, a distraction may misdirect guards otherwise ready for combat, leading to surprise. So framing surprise as a simple matter of who can see who creates a lot of the initial confusion. The easiest solution to this is to understand the difference between unaware of danger, and unready for combat.
+
+Someone who doesn&amp;#8217;t know danger is present is **_unaware_**, while **_unready_** means you&amp;#8217;re not prepared for combat. Each affects surprise slightly differently, but conflating these two is a big source of confusion. Understanding the differences between these two states can lead to a lot of rich tactics and roleplay during games. Instead of a simple matter of line of sight, players using disguise, deceits, diplomacy, distractions and more, are a viable action to gain the upper hand. Therefore, understanding the context of surprise encourages richer play and more dynamic combats.
+
+#### Have Your Cake and Murder it too {#h-have-your-cake-and-murder-it-too}
+
+The most direct case for surprised is when someone is both **_unaware and unready_** for combat. This might mean targets sleeping, or lounging around and distracted without knowing danger is there. They are easy to catch off guard, and in these cases, I make **_no extra roll and surprise is automatic_**. Whatever happened to allow the danger to get close enough without being detected is enough to cause surprise. In essence, the target has already failed their surprise roll at the start of combat by being so unprepared.
+
+#### Treachery for Fun and Profit {#h-treachery-for-fun-and-profit}
+
+Cases of someone being **_aware but unready_** mean they know the potential source of danger is there, but for some reason assume combat wouldn&amp;#8217;t happen. For example, targets talking to a group disguised as harmless merchants. Alternatively, the target may be aware someone is there in a crowd with no indication a fight is about to happen. In these cases, a check is called for to determine surprise based on the setup. This might be a deception check versus the target&amp;#8217;s insight, or perhaps a disguise versus their investigate. In these cases, stealth isn&amp;#8217;t at play, the target is aware of what is around them but don&amp;#8217;t perceive it as a danger. 
+
+#### I Told You So, and Other Last Words {#h-i-told-you-so-and-other-last-words}
+
+Someone who is **_unaware but ready_** for danger is vigilant for trouble but doesn&amp;#8217;t know about a specific or imminent threat. This might include an alert guard on patrol encountering a hidden ambush. These cases can be tricky, and largely depends on how imminent the target knows danger is. In most common situations, I recommend using a standard perception check versus stealth to determine surprise. If the target is on **_high alert_** due to some notification simply roll initiative as normal, assume no surprise, and remember the rules on advantage and unseen attackers. However, an effective distraction may even surprise someone on high alert. So, DMs should use common sense and good rulings to reward effective tactics.
+
+## Surprised and Initiative {#h-surprised-and-initiative}
+
+Surprise does not affect initiative in any way for either side in the combat. This can lead to a few awkward situations where the character initiating the combat goes later in the initiative than their allies. Additionally, the rules as written imply unsurprised enemies might go before the action that initiated combat, leading to even more confusion. This just causes a bit of cognitive dissonance for many players and DMs. However, examining the situation and using an appropriate option can eliminate that quickly. So let&amp;#8217;s consider a few options.
+
+### The Quick and the Dead {#h-the-quick-and-the-dead}
+
+After rolling initiative, it&amp;#8217;s entirely possible some combatants go before the character starting the combat. For example, an ambush may begin with an archer firing an arrow, however several of their allies may score higher in initiative. In this case, the rules have them ready an action to go immediately after the archer fires, resolving them in original initiative order. This is straight forward and uses the rules as written but does put the faster characters at a disadvantage, particularly if they have Extra Attack. An easy house rule solution might be to just put the archer at the top of the initiative, or allow the allies full actions. My personal recommendation is to step away from the specifics and just let the combat flow naturally. There&amp;#8217;s little utility in getting into specifics of readied actions and putting some characters at disadvantage. 
+
+### The Quick and the Sad {#h-the-quick-and-the-sad}
+
+Things are even more confusing when targets of an ambush are unsurprised and go higher in the initiative than the character starting combat. This is perhaps the most confusing case for many players and there are a few ways to handle this. You could simply say that without something to act against, any ambushed target higher in the initiative simply takes no action. In effect, this is the same as saying ambushed characters with a high initiative rolls for surprised at disadvantage. This is because they can lose their action as a result of the surprise check or initiative. Alternatively, and I think more logically, just have the faster enemy go as normal and chalk it up to the action happening all at once. I recommend this as it slows things down less and most can accept that logic.
+
+The key is to remember that this can worth either or both ways. It&amp;#8217;s possible all sides in an encounter may have some participants who are surprised. These situations can work for the player or against them so consistency and clarity is important to keep players engaged in the action.
+
+## Conclusion {#h-conclusion}
+
+Surprise doesn&amp;#8217;t have to be as confusing as most people seem to think it is. If the targets are completely unaware and unready for danger just say they&amp;#8217;re surprised. Alternatively use an appropriate opposed skill check depending on the situation, and keep in mind passive skills if it speeds things along. Then just roll initiative normally and try to take the most simple and direct means to get everyone on the board and acting, without unnecessarily putting someone at a disadvantage. They key is to keep things fast and furious and not get too hung up on procedure.
+
+Now get out there and run some great games.</content><author><name>Scott Turnbull Turnbull</name></author><summary type="html">Surprise is one of the most consistently asked about elements of 5e Dungeons &amp;amp; Dragons, and a source of constant confusion. This is partially because surprise ran differently in previous editions of the game. But also, the narrow examples and explanation make it unclear when surprised would be a factor. Lastly, the way surprise works with the imitative system can seem odd and counter-intuitive to many players. The solution is to break down surprise for what it is, and step away from the individual rolls to understand encounters holistically instead of procedurally.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/kenku-ambush480x360-480x330.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/kenku-ambush480x360-480x330.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
