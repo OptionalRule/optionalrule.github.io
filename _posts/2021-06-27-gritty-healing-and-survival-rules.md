@@ -31,8 +31,8 @@ What I'm presenting here is closer to the Slow Natural Healing rules in Chapter 
  %}
  Where noted these house rules replace the standard 5e rules.
 
-### Healing
-Short and Long Rest healing is no longer used, otherwise rests work as normal. Instead, players may only spend Hit Dice (HD) to heal at the end of a Long Rest. Also, HD are spent separately to heal ability scores, drain, and damage. Additionally players roll to recover spent Hit Die instead of recovering half of thier HD at the end of a long rest. (*You knew that was the rule right?*) In this way, extended combat and stress have a larger impact and tend to grind characters down more.
+### Natural Healing
+Short and Long Rest healing is no longer used, otherwise rests work as normal. Instead, players may only spend Hit Dice (HD) to heal at the end of a Long Rest. Also, HD are spent separately to heal ability scores, drain, and damage. Additionally players roll to recover spent Hit Die instead of recovering half of their HD at the end of a long rest. (*You knew that was the rule right?*) In this way, extended combat and stress have a larger impact and tend to grind characters down more.
 
 The Long Rest sequence is as follows:
 * Roll to recover spent HD
