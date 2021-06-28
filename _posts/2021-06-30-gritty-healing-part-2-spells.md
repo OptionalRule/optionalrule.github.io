@@ -20,15 +20,16 @@ Earlier in the week I posted some rules for [Gritty Healing & Survival in 5e]({%
  %}
 
 ## Skin In The Game
-As it is, healing is just something that falls out of the sky. Be it divine intervention, alchemy, or some other magic.  It costs the recipient nothing and can continue infinitely as long as the party has resources. With these rules, healing still costs the recipient something, otherwise it is horribly inefficient. This has the effect of involving the receiving player in the decision, and managing that as a recourse as well.
+As it is, healing is just something that falls out of the sky. Be it divine intervention, alchemy, or some other magic.  It costs the recipient nothing and can continue indefinitely as long as the party has resources. With these rules, healing spells cost the recipient something, limiting how much they can benefit from spells and abilities. That has the effect of involving the receiving player in the decision, and managing healing as a resource as well.
 
 ### The Rule
-A recipient must spend one Hit Die to gain the benefit of a healing spell, potion, or ability. Meaning they must agree to it and that Hit Die is recovered in the same way all are under the Gritty Healing & Survival rules. A healing spell, potion, or ability may still be used on a willing target with no Hit Die to spend or who does not wish to spend a HD.  In this case, the healing works but only does 1 point.
+A recipient must spend one Hit Die to gain the benefit of a healing spell, potion, or ability. Meaning they must agree to being healed a mark off one of their own Hit Die to gain the benefit. A healing spell, potion, or ability may still be used on a willing target with no Hit Die to spend or who does not wish to spend a HD.  In this case, the healing works but only does 1 point.
 
 ### Notes on Specific Spells and Abilities
 
 * Healing over multiple rounds, such as with ***Healing Spirit***, costs the recipient 1 HD per round.
-* ***Goodberry*** is taken off the spell list both because of it's healing effect and invalidating the starvation rules.
+* ***Goodberry*** Works as listed.  However if they want to benefit from eating a handfull they must spend a Hit Die as with any other healing.  Otherwise they may eat one berry per action to gain 1 point of healing without spending a Hit Die. Goodberry provides food to prevent starvation but does not count as *Good Food* for the recovery rules in Gritty Healing & Survival.
+* ***Lay On Hands*** similar to Goodberry, the recipient must spend a Hit Die to gain the benefit of multiple points of healing.  Otherwise they can receive one point of healing per action without spending a Hit Die.
 * ***Tiny Hut*** works as normal except it does not provide a magical barrier against damage or intrusion. For purposes of Shelter for rest it counts as having proper equipment and cancels out environmental conditions.  
 * Spells spell or part of a spell that removes conditions behaves normally.
 * Temporary HP are unaffected by these rules.
