@@ -115,4 +115,4 @@ np.floor(bugbear_hp)
     27.0
 
 # Conclusion
- That seems like a lot but it's really just expressing the core ideas about why some misunderstandings arise and design faults creep in.  Once you get the right concept framed in your head it's not all that difficult but walking through the details can help some folks understand.  Having had this coversation several times recently, I thought I'd take the quick code I used during one of those discussions to throw up a blog post.
+ That seems like a lot but it's really just expressing the core ideas about why some misunderstandings arise and design faults creep in.  Once you get the right concept framed in your head it's not all that difficult but walking through the details can help some folks understand.  Having had this conversation several times recently, I thought I'd take the quick code I used during one of those discussions to throw up a blog post.
