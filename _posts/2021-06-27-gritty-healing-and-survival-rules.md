@@ -79,6 +79,10 @@ All-in-all a gritty playstyle will have extended rules over a number of sub-syst
 ## Campaigns
 Introducing a system like this significantly impacts the pacing of campaigns and challenge of encounters. This system works better for campaigns with modular encounters and opportunities to manage rest and recovery. Therefore, campaigns like Lost Mines of Phandelver, or Rime of the Frostmaiden may be better suited. Campaigns like Out of the Abyss or Tomb of Annihilation may require a lot of modification by the DM or be a poor fit for this style of play.
 
+<div class="alert alert-warning">
+<i class="fas fa-exclamation-circle"></i> Watch for Part 2 of this series to address Gritty Healing and Spells, Potions, and Abilities later in the week.
+</div>
+
 ## Conclusion
 Gritty rules aren't for everyone, but can be a fun variation on your 5e play or suited for some groups playstyles. To be successful, you need full buy-in from everyone in the group and have to enjoy the management and level of detail that goes into this kind of play. Those that enjoy it can welcome the challenge of planning through recovery or mitigating for loss. DMs would do well to provide players both opportunities to shine, and interesting challenges to overcome through planning and preparation. To be sure, these rules are usually not for the faint of heart or play groups that don't like getting lost in the details.  Additionally, this playstyle is better suited for tier one and two play. However, most games happen in those tiers anyway and if you're looking for higher tier play, gritty rules were probably never a consideration.
 
