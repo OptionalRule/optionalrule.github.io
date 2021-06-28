@@ -7,10 +7,9 @@ author: Scott Turnbull
 tags: []
 summary: My simple gritty healing rules for 5e DnD to attend healing and add strategic gameplay.
 image: /assets/img/mandy-jurgens-female-plate_475x672.jpg
-preview: true
 ---
 
-The heroic playstyle of 5e D&D is a lot of fun, but it's high focused on the encounter for resource management. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, prevention, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colvilles video on the topic this week, I was inspired to write down my own thoughts on gritty rules for 5e.
+The heroic playstyle of 5e D&D is a lot of fun, but it's high focused on the encounter for resource management. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, prevention, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colville's recent twitch hangout, I was inspired to write down my own thoughts on gritty rules for 5e.
 
 ***Important Side Note:*** Gritty play is sometimes pushed with a sense of elitism. This is a silly position and it is just a style of play. Keep that in mind. If you choose this style of play, the game is inherently going to get much more about tracking and managing resources. There is nothing wrong if that style of play is for you. However, if enjoy that style, these rules should give you something to sink your teeth into.
 
@@ -23,10 +22,10 @@ Discussion of gritty mechanics and survival rules in 5e is an evergreen topic. A
 
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"
-  src="/assets/img/mandy-jurgens-female-plate_475x672.jpg"
-  alt="A woman with long brown hair and blue eyes looking at the viewer. She wears plate armor streaked in blood."
-  width="475" height="672"
-  caption="Image Credit <a href='https://www.artstation.com/aliena85' target='_blank'>Mandy Jurgens</a>"
+  src="/assets/img/camping_party_475x633.jpg"
+  alt="A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted."
+  width="475" height="633"
+  caption="Image credit Wizards of the Coast"
  %}
  Where noted these house rules replace the standard 5e rules.
 
