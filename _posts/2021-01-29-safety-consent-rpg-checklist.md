@@ -18,7 +18,7 @@ The various tools let you **_uncover assumptions before the game, avoid issues w
 Before I make a few short comments below, here are some resources you can use at your table.
 
   * <a href="https://docs.google.com/presentation/d/1kjaK9Q9p90P54E2ITZPf0DHGyaZZMHXYAg52Ar19zp4/edit?usp=sharing" target="_blank" rel="noreferrer noopener">My Campaign Pitch Deck</a> &#8211; This includes some examples of setting the stage for safety discussions PRIOR to session 0. (Free Google Slide)
-  * [My Safety Checklist Form](https://docs.google.com/forms/d/1XHjWwG3vdyhcX1uyAQT-XqwwhTZBFkW-JD9Ubhn_YUs/edit?usp=sharing) &#8211; This is another tool to use prior to session zero to shape the discussion. From the toolkit listed below. (Free Google Form)
+  * [My Safety Checklist Form](https://docs.google.com/forms/d/1XHjWwG3vdyhcX1uyAQT-XqwwhTZBFkW-JD9Ubhn_YUs/copy?usp=sharing) &#8211; This is another tool to use prior to session zero to shape the discussion. From the toolkit listed below. (Free Google Form) **Update June 2021** - I changed the link to create an automatic copy of this document in your own account.
 
 **Great External Resources**
 
