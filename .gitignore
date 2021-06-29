@@ -1,5 +1,6 @@
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.vscode/
 _site
 /vendor
