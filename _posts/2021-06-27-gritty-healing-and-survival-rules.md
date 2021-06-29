@@ -52,13 +52,13 @@ Players choose to spend their HD to heal ability loss, drain, or damage separate
 #### Modifying Hit Die Rolls
 Recovery assumes you have access to good shelter, food, sleep, and care. For each one of these conditions not met, the type of Hit Die rolled for recovery is reduced by one. This means 1d12 becomes 1d10, 1d10 a 1d8, and so forth down to a minimum of 1 point. See Chapter 5 in the DMG for more on conditions and survival.
 
-**Shelter:** This assumes a restful and clean environment such as a private inn room or residence. In the wilderness this requires a DC 10 Wisdom (Survival) check with adequate supplies like tents, or a DC 15 check to setup or find a shelter with no equipment. Poor conditions or resource may impose disadvantage on this roll. A single character may make this roll for a group up to their skill bonus in size.
+**Shelter:** This assumes a restful and clean environment such as a private inn room or residence. In the wilderness this requires a DC 13 Wisdom (Survival) check with adequate supplies like tents, made with disadvantage setup or find a shelter with no equipment. A single character may make this roll for a group up to their skill bonus in size.
 
 **Good Food:** A hot meal or good quality food is needed for healing. Characters can use the [Foraging Rules](https://www.dndbeyond.com/sources/dmg/adventure-environments#Foraging) from Chapter 5 of the DMG if they need to find food in the wilderness. Finding *quality* food with foraging is difficult.  Roll twice when foraging and if both rolls are successful, the food is of high enough quality to satisfy this requirement.  Otherwise it is simply enough to keep you from starving.
 
-**Sleep**: Sleep or meditation is required as normal for your race. Without adequate shelter or if interrupted with combat this may require an individual DC 15 Constitution (Survival) check to satisfy this requirement. This roll may be modified or made at disadvantage under harsh conditions.
+**Sleep**: Sleep or meditation is required as normal for your race. Without adequate shelter or if interrupted with combat this may require an individual DC 13 Constitution (Survival) check to satisfy this requirement. This roll may be modified or made at disadvantage under harsh conditions.
 
-**Medical Care:** Having proper care is important for a speedy recovery. Characters proficient in the Medicine skill may make a DC 10 Wisdom (Medicine) check to provide proper medical care to themselves or others. The DC is increased by 2 for every patient over the first and is made at disadvantage without proper medical supplies. 
+**Medical Care:** Having proper care is important for a speedy recovery. Characters proficient in the Medicine skill may make a DC 13 Wisdom (Medicine) check to provide proper medical care to themselves or others. The DC is increased by 2 for every patient over the first and is made at disadvantage without proper medical supplies. 
 
 ### Starvation and Water
 
