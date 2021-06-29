@@ -70,7 +70,7 @@ All-in-all a gritty playstyle will have extended rules over a number of sub-syst
 
 **Limiting Hit Points:** 5e does a better job of doing damage than most people give it credit for. However, there are various OSR rules for hit points you may want to consider if this is right for you. There is a different option that I think works better than limited hit points, that is limited healing.  **I will make a follow-up post about this later in the week** but a complimentary rule is something that requires players to spend HD to receive healing, otherwise it heals 1 pt. This prevents turning the cleric into a heal-bot and more.
 
-**Infection & Disease:** Using the disease rules from Chapter 8 of the DMG, you could decide to include infection from wounds in your game. I think this is for groups on the extreme end of gritty survival games but it's a consideration.
+**Infection & Disease:** Using the disease rules from Chapter 8 of the DMG, you could decide to include infection from wounds in your game. I think this is for groups on the extreme end of gritty survival games but it's a consideration. Use the rules for Sewer Plague to govern any infection.
 
 **Lowering Ability Scores:** Many gritty games lean into randomly generated ability scores rather than having everyone in the group easily reaching maximum humanoid potential. So, choose a generation method that is right for you. Additionally, you may want to consider doing away with Ability Score Increases (ASI) and using Feats as the only option. This can add more variety and customization and some still come with a +1 ASI.
 
