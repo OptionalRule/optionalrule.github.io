@@ -9,7 +9,7 @@ summary: Part 2 of my Gritty Healing and Survival Rules for 5e address mechanics
 image: /assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg
 ---
 
-Earlier in the week I posted some rules for [Gritty Healing & Survival in 5e]({% link _posts/2021-06-27-gritty-healing-and-survival-rules.md %}). These work well for parties looking for that kind of long term resource management play. However, it leave a bit of a gap when it comes to healing spells and magic. Firstly, it suffers from the problem of turning the cleric into the heal-bot for a party. Secondly, these rules are made moot as the healing spellcasters just unload all their slots on healing before a long rest and top everyone off. So if you're looking to make healing and rest an important part of play, we should include a mechanic to address this.
+Earlier in the week I posted some rules for [Gritty Healing & Survival in 5e]({% link _posts/2021-06-27-gritty-healing-and-survival-rules.md %}). These work well for parties looking for that kind of long term resource management play. However, it leave a bit of a gap when it comes to healing spells and magic. Firstly, it suffers from the problem of turning the cleric into the heal-bot for a party. Secondly, these rules are made moot as the healing spellcasters just unload all their slots on healing before a long rest and top everyone off. So if you're looking to make healing and rest an important part of play, we should include a mechanic to address this. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.
 
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"

@@ -40,7 +40,7 @@ The Long Rest sequence is as follows:
 * Modify any HD roll by the recovery conditions.
 
 #### Recovering Spent HD
-Hit Dice are recovered by rolling a DC 13 Constitution for each spent HD at the end of a long rest, before any healing. Disadvantage may be imposed under harsh conditions, with inadequate shelter, or if unable to rest. Likewise advantage may be granted under good recovery conditions and medical care, such as at a sanctuary or house of healing.
+Hit Dice are recovered by rolling a DC 13 Constitution check for each spent HD at the end of a long rest, before any healing. Disadvantage may be imposed under harsh conditions, with inadequate shelter, or if unable to rest. Likewise advantage may be granted under good recovery conditions and medical care, such as at a sanctuary or house of healing.
 
 #### Spending HD on Healing
 Players choose to spend their HD to heal ability loss, drain, or damage separately as follows: 
@@ -56,7 +56,7 @@ Recovery assumes you have access to good shelter, food, sleep, and care. For eac
 
 **Good Food:** A hot meal or good quality food is needed for healing. Characters can use the [Foraging Rules](https://www.dndbeyond.com/sources/dmg/adventure-environments#Foraging) from Chapter 5 of the DMG if they need to find food in the wilderness. Finding *quality* food with foraging is difficult.  Roll twice when foraging and if both rolls are successful, the food is of high enough quality to satisfy this requirement.  Otherwise it is simply enough to keep you from starving.
 
-**Sleep**: Sleep or meditation is required as normal for your face. Without adequate shelter or if interrupted with combat this may require an individual DC 15 Constitution (Survival) check to satisfy this requirement. This roll may be modified or made at disadvantage under harsh conditions.
+**Sleep**: Sleep or meditation is required as normal for your race. Without adequate shelter or if interrupted with combat this may require an individual DC 15 Constitution (Survival) check to satisfy this requirement. This roll may be modified or made at disadvantage under harsh conditions.
 
 **Medical Care:** Having proper care is important for a speedy recovery. Characters proficient in the Medicine skill may make a DC 10 Wisdom (Medicine) check to provide proper medical care to themselves or others. The DC is increased by 2 for every patient over the first and is made at disadvantage without proper medical supplies. 
 
