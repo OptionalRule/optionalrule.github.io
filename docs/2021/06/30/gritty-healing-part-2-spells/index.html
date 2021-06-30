@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+    <!-- Atom Feed -->
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for petefreitag.com" href="/feed.xml" />
+
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/pygments/github.css">
+    <link rel="stylesheet" href="/assets/css/aos.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Myriad+Pro&display=swap" rel="stylesheet">
+
+
+    <!-- favicon stuff-->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Page Metadata -->
+    <title>Gritty Healing in 5e Part 2: Spells</title>
+
+    <!-- SEO Plugin Stuff -->
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Gritty Healing in 5e Part 2: Spells | Optional Rule</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Gritty Healing in 5e Part 2: Spells" />
+<meta name="author" content="Scott Turnbull" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Earlier in the week I posted some rules for Gritty Healing &amp; Survival in 5e. These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic. In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out." />
+<meta property="og:description" content="Earlier in the week I posted some rules for Gritty Healing &amp; Survival in 5e. These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic. In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out." />
+<link rel="canonical" href="https://www.optionalrule.com/2021/06/30/gritty-healing-part-2-spells/" />
+<meta property="og:url" content="https://www.optionalrule.com/2021/06/30/gritty-healing-part-2-spells/" />
+<meta property="og:site_name" content="Optional Rule" />
+<meta property="og:image" content="https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-06-30T08:00:00-04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" />
+<meta property="twitter:title" content="Gritty Healing in 5e Part 2: Spells" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Scott Turnbull"},"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.optionalrule.com/2021/06/30/gritty-healing-part-2-spells/"},"url":"https://www.optionalrule.com/2021/06/30/gritty-healing-part-2-spells/","image":"https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg","headline":"Gritty Healing in 5e Part 2: Spells","dateModified":"2021-06-30T08:00:00-04:00","datePublished":"2021-06-30T08:00:00-04:00","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.optionalrule.com/assets//brand/OptionalRuleIcon50x50XparentBG.png"},"name":"Scott Turnbull"},"description":"Earlier in the week I posted some rules for Gritty Healing &amp; Survival in 5e. These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic. In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta itemprop="description" name="description" content="Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepol..." />
+
+    <!-- Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-184894323-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-184894323-1');
+</script>
+
+</head>
+<body>
+
+<div class="parallax-window overflow-hidden d-print-none" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg" 
+alt="A paper notebook laying open on top of a woodcut map of the world with magnifying glass and pencil nearby.  Fun is not optional is written on the open page.">
+    <div class="header-logo text-center d-print-none">
+        <h1>
+            <a href="/" class="site-title">Optional Rule</a>
+        </h1>
+        <p class="site-description"></p>
+    </div>
+</div>
+<!-- Navigation -->
+
+<div class="sticky-top bg-light shadow-sm border-top border-dark d-print-none">
+    <nav class="navbar navbar-light navbar-expand-md bg-light justify-content-center sticky-top container">
+        <a href="/" class="navbar-brand d-flex w-50 me-auto">
+            <img src="/assets/brand/OptionalRuleIcon50x50XparentBG.png" height="50" width="50"
+                alt="Optional Rule Logo, A dark hex with rainbow d20 in the center.">
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerMain"
+            aria-controls="navbarTogglerMain" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="navbar-collapse collapse w-100" id="navbarTogglerMain">
+            <ul class="navbar-nav w-100 justify-content-center">
+                
+                <li class="nav-item">
+                    <a class="nav-link fs-5 mx-3 " aria-current="page"
+                        href="/">Home</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link fs-5 mx-3 " aria-current="page"
+                        href="/about/">About</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link fs-5 mx-3 " aria-current="page"
+                        href="/feed.xml">Feed</a>
+                </li>
+                
+            </ul>
+            <ul class="nav navbar-nav ms-auto w-100 justify-content-end">
+                <li class="nav-item">
+                    
+                    <a class="nav-link d-inline" href="https://www.twitter.com/optionalrule">
+                        <i class="fab fa-twitter"></i>
+                        <span class="d-none">Twitter</span>
+                    </a>
+                    
+                    <a class="nav-link d-inline" href="https://www.twitch.tv/optionalrule">
+                        <i class="fab fa-twitch"></i>
+                        <span class="d-none">Twitch</span>
+                    </a>
+                    
+                    <a class="nav-link d-inline" href="https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw">
+                        <i class="fab fa-youtube"></i>
+                        <span class="d-none">Youtube</span>
+                    </a>
+                    
+                    <a class="nav-link d-inline" href="https://www.instagram.com/optionalrule/">
+                        <i class="fab fa-instagram"></i>
+                        <span class="d-none">Instagram</span>
+                    </a>
+                    
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+
+<div class="container clearfix"><article id="gritty-healing-part-2-spells">
+    <header class="post-header">
+
+            <div class="post-categories text-center mb-1">
+                
+                    <a href="/category/rpg resources" rel="category tag">RPG Resources</a>
+                    
+                
+            </div>
+
+        <h1 class="post-title text-center mb-2">Gritty Healing in 5e Part 2: Spells</h1>
+
+        <div class="post-meta clear-fix text-center fst-italic mb-3">
+            <span class="post-date">
+                
+                June
+                30th,
+                2021
+            </span>
+            
+                , by <span class="post-author">Scott Turnbull</span>
+            
+        </div>
+        <div class="post-content">
+            <p>Earlier in the week I posted some rules for <a href="/2021/06/27/gritty-healing-and-survival-rules/">Gritty Healing &amp; Survival in 5e</a>. These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic.  In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.</p>
+
+<p>I expect this option to be controversial. It flies in the face of the conventional expectation of drinking a wheelbarrow full of healing potions, and it makes the pacing and of games much more volatile.</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" alt="A blonde haired woman in plate armor, holding a wounded man in robes.  Her hand is glowing with magical energy and her face looks determined." height="475" />
+        
+    
+        <figcaption class="figure-caption text-center">Image credit <a href="https://www.deviantart.com/anthonyfoti/" target="_blank">Anthony Foti</a> for Wizards of the Coast</figcaption>
+    
+</figure>
+
+<h2 id="skin-in-the-game">Skin In the Game</h2>
+<p>As it is, healing is just something that falls out of the sky. Be it divine intervention, alchemy, or some other magic.  It costs the recipient nothing and can continue indefinitely if the party has resources. With these rules, healing spells cost the recipient something, limiting how much they can benefit from spells and abilities. That has the effect of involving the receiving player in the decision and managing healing as a resource as well.</p>
+
+<h3 id="the-rule">The Rule</h3>
+<p>A recipient must spend one Hit Die to gain the benefit of a healing spell, potion, or ability. Meaning they must agree to being healed a mark off one of their own Hit Die to gain the benefit. A healing spell, potion, or ability may still be used on a willing target with no Hit Die to spend or who does not wish to spend a HD.  In this case, the healing works but only does 1 point.</p>
+
+<h3 id="notes-on-specific-spells-and-abilities">Notes on Specific Spells and Abilities</h3>
+
+<ul>
+  <li>Healing over multiple rounds, such as with <strong><em>Healing Spirit</em></strong>, costs the recipient 1 HD per round.</li>
+  <li><strong><em>Goodberry</em></strong> Works as listed.  However, if they want to benefit from eating a handful, they must spend a Hit Die as with any other healing.  Otherwise, they may eat one berry per action to gain 1 point of healing without spending a Hit Die. Goodberry provides food to prevent starvation but does not count as <em>Good Food</em> for the recovery rules in Gritty Healing &amp; Survival.</li>
+  <li><strong><em>Lay On Hands</em></strong> similar to Goodberry, the recipient must spend a Hit Die to gain the benefit of multiple points of healing.  Otherwise, they can receive one point of healing per action without spending a Hit Die.</li>
+  <li><strong><em>Tiny Hut</em></strong> works as normal except it does not provide a magical barrier against damage or intrusion. For purposes of Shelter for rest it counts as having proper equipment and cancels out environmental conditions.</li>
+  <li><strong><em>Lesser Restoration</em></strong> No longer automatically cures any disease. Instead, it gives the target an immediate saving throw against the disease at advantage.</li>
+  <li>Spells that removes conditions behaves normally in terms of condition removal but rules above take precedence if there are additional results.</li>
+  <li>Temporary HP are unaffected by these rules.</li>
+  <li>Fighters can use <strong><em>Second Wind</em></strong> without spending Hit Die, but they are considered temporary hit points that last until the end of the next Long Rest.</li>
+</ul>
+
+<h2 id="mixing-and-matching">Mixing and Matching</h2>
+<p>While I’m proposing this system for the Gritty Healing &amp; Survival Rules I published earlier in the week, it can be used with a number of systems. There are other gritty or slow healing systems in use this can either be used with directly or with slight modification.  Half HD healing and only healing half max hp on long rest, fixed HP per rest, or any number of other systems are all skipped past with normal healing.  These rules could work well with any of those systems to free up the healing PC to participate in the encounter and keep wounds meaningful. In a few weeks I’ll publish a simpler system for tracking wounds this can work with as well.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>These rules close a bit loophole in the original Gritty Healing and Survival rules as presented.  It further reduces the recovery rate of players but serves two purposes. First it doesn’t create a situation where healing casters are holding onto all their spell slots to heal everyone. While it can be fun to know that you are keeping the party up and running, this frees them up more to participate directly in encounters. Second, it maintains the long-term management aspects by keeping a <em>Hit Die Economy</em> in the campaign timescale. Lastly, it encourages downtime and other activities not focused on the combat encounter.</p>
+
+<p>Now go out there and run some great games.</p>
+
+        </div>
+    </header>
+</article>
+
+</div>
+
+<footer class="footer mt-5 py-3 bg-dark d-print-none">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <ul class="list-unstyled small text-muted">
+                    <li class="mb-2">Website by <a href="https://www.tech-tavern.com" target="_blank" rel="noopener">Tech Tavern</a>.</li>
+                    <li class="mb-2">Header Photo by <a href="https://unsplash.com/@dariuszsankowski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="noopener">Dariusz Sankowsk</a></li>
+                </ul>
+            </div>
+            <div class="col small text-muted">
+                <span>Copyright &copy; 2020-2021 Optional Rule Games.</span>
+            </div>
+
+        </div>
+
+
+    </div>
+</footer>
+<!-- Footer JavaScript -->
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="/assets/js/jquery-3.6.0.min.js"></script>
+<script src="/assets/js/popper.1.14.7.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/parallax.min.js"></script>
+<script src="/assets/js/aos.js"></script>
+<script>
+    AOS.init()
+</script>
+
+</body>
+</html>
