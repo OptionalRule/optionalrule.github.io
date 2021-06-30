@@ -1,4 +1,6 @@
 import urllib.request
+# I am in the begining stages of adding some natural language options to the blog and this is just play code.
+
 import nltk
 
 from nltk.corpus import stopwords
