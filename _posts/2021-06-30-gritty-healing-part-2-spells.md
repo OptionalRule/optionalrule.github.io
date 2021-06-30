@@ -30,10 +30,10 @@ A recipient must spend one Hit Die to gain the benefit of a healing spell, potio
 ### Notes on Specific Spells and Abilities
 
 * Healing over multiple rounds, such as with ***Healing Spirit***, costs the recipient 1 HD per round.
-* ***Goodberry*** Works as listed.  However, if they want to benefit from eating a handful, they must spend a Hit Die as with any other healing.  Otherwise, they may eat one berry per action to gain 1 point of healing without spending a Hit Die. Goodberry provides food to prevent starvation but does not count as *Good Food* for the recovery rules in Gritty Healing & Survival.
-* ***Lay On Hands*** similar to Goodberry, the recipient must spend a Hit Die to gain the benefit of multiple points of healing.  Otherwise, they can receive one point of healing per action without spending a Hit Die.
-* ***Tiny Hut*** works as normal except it does not provide a magical barrier against damage or intrusion. For purposes of Shelter for rest it counts as having proper equipment and cancels out environmental conditions.  
-* ***Lesser Restoration*** No longer automatically cures any disease. Instead, it gives the target an immediate saving throw against the disease at advantage. 
+* ***Goodberry:*** Recipients can only benefit from the effects of one goodberry per long rest.
+* ***Lay On Hands:*** The recipient must spend a Hit Die to gain the benefit of multiple points of healing.  Otherwise, they can receive one point of healing per action without spending a Hit Die.
+* ***Tiny Hut:*** Works as normal except it does not provide a magical barrier against damage or intrusion. For purposes of Shelter it counts as having proper equipment and cancels out environmental conditions as per the spell description.  
+* ***Lesser Restoration:*** No longer automatically cures any disease. Instead, it gives the target an immediate saving throw against the disease at advantage. 
 * Spells that removes conditions behaves normally in terms of condition removal but rules above take precedence if there are additional results.
 * Temporary HP are unaffected by these rules.
 * Fighters can use ***Second Wind*** without spending Hit Die, but they are considered temporary hit points that last until the end of the next Long Rest.
