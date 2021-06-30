@@ -22,7 +22,7 @@ I expect this option to be controversial. It flies in the face of the convention
  %}
 
 ## Skin In the Game
-As it is, healing is just something that falls out of the sky. Be it divine intervention, alchemy, or some other magic.  It costs the recipient nothing and can continue indefinitely if the party has resources. With these rules, healing spells cost the recipient something, limiting how much they can benefit from spells and abilities. That has the effect of involving the receiving player in the decision and managing healing as a resource as well.
+As it is, healing is just something that falls out of the sky. Be it divine intervention, alchemy, or some other magic.  It costs the recipient nothing and can continue indefinitely if the party has resources. With these rules, healing spells cost the recipient something, limiting how much they can benefit from spells and abilities. That has the effect of involving the receiving player in the decision and managing healing as a resource as well.  Lore wise the premise is simple, the body can only take so much and flesh has it's limits.  It is a staple of many narratives to have the healer provide some limited help, then back away with a "I've done all I can, the rest is up to them".  This rules brings that lore into play.
 
 ### The Rule
 A recipient must spend one Hit Die to gain the benefit of a healing spell, potion, or ability. Meaning they must agree to being healed a mark off one of their own Hit Die to gain the benefit. A healing spell, potion, or ability may still be used on a willing target with no Hit Die to spend or who does not wish to spend a HD.  In this case, the healing works but only does 1 point.
@@ -40,6 +40,9 @@ A recipient must spend one Hit Die to gain the benefit of a healing spell, potio
 
 ## Mixing and Matching
 While I'm proposing this system for the Gritty Healing & Survival Rules I published earlier in the week, it can be used with a number of systems. There are other gritty or slow healing systems in use this can either be used with directly or with slight modification.  Half HD healing and only healing half max hp on long rest, fixed HP per rest, or any number of other systems are all skipped past with normal healing.  These rules could work well with any of those systems to free up the healing PC to participate in the encounter and keep wounds meaningful. In a few weeks I'll publish a simpler system for tracking wounds this can work with as well.
+
+### Alternative Tracking
+The core goal here is to limit healing so it doesn't overturn any long term healing rules, and doesn't relegate healing classes to heal-bots. Using the Hit Die mechanic is just a way to track and bound the amount of healing being done.  If you are not a fan of the Hit Die mechanics you could simply choose another method. Proficiency bonus times per day, half level, fixed number, or something wild like each successive healing attempt per day is less effective.  Any of these approaches could work if you keep the core concept in mind, that bounding healing is critical a gritty or long term healing mechanic.
 
 ## Conclusion
 These rules close a bit loophole in the original Gritty Healing and Survival rules as presented.  It further reduces the recovery rate of players but serves two purposes. First it doesn't create a situation where healing casters are holding onto all their spell slots to heal everyone. While it can be fun to know that you are keeping the party up and running, this frees them up more to participate directly in encounters. Second, it maintains the long-term management aspects by keeping a *Hit Die Economy* in the campaign timescale. Lastly, it encourages downtime and other activities not focused on the combat encounter.
