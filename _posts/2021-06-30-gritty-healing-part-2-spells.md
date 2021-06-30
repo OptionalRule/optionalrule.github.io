@@ -30,7 +30,7 @@ A recipient must spend one Hit Die to gain the benefit of a healing spell, potio
 ### Notes on Specific Spells and Abilities
 
 * Healing over multiple rounds, such as with ***Healing Spirit***, costs the recipient 1 HD per round.
-* ***Goodberry:*** Recipients can only benefit from the effects of one goodberry per long rest.
+* ***Goodberry:*** Recipients can only benefit from the effects of one goodberry per long rest. It counts as food to avoid starvation but does not qualify as ***Good Food*** for the recovery rules in Gritty Healing & Survival.
 * ***Lay On Hands:*** The recipient must spend a Hit Die to gain the benefit of multiple points of healing.  Otherwise, they can receive one point of healing per action without spending a Hit Die.
 * ***Tiny Hut:*** Works as normal except it does not provide a magical barrier against damage or intrusion. For purposes of Shelter it counts as having proper equipment and cancels out environmental conditions as per the spell description.  
 * ***Lesser Restoration:*** No longer automatically cures any disease. Instead, it gives the target an immediate saving throw against the disease at advantage. 
