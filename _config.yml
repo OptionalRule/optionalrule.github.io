@@ -29,6 +29,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.optionalrule.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: optionalrule
 github_username:  streamweaver
+author: Scott Turnbull
 logo: /assets//brand/OptionalRuleIcon50x50XparentBG.png
 social: 
   name: OptionalRule
