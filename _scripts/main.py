@@ -6,37 +6,46 @@ import nltk
 from nltk.corpus import stopwords
 from bs4 import BeautifulSoup
 
-def freq_distribution(url):
-    freq = nltk.FreqDist(get_clean_tokens(url))
-    print(sorted(freq.items(), key=lambda x: x[1]))
+class PageDescription:
+
+    def __init__(self, url):
+        """
+        Pulls the content from a page off of optional rule and provides some NLTK convience methods.
+        """
+        self.url = url
+        self.raw_page_data = None
+        self.page_content = None
+        self._get_content()
+
+    def freq_distribution(self):
+        freq = nltk.FreqDist(self.get_clean_tokens())
+        return sorted(freq.most_common(5), key=lambda x: x[1], reverse=True)
 
 
-def get_clean_tokens(url):
-    text = get_content(url)
-    tokens = [t for t in text.split()]
-    clean_tokens = tokens[:]
-    sw = stopwords.words('english')
+    def get_clean_tokens(self):
+        tokens = [t.lower() for t in self.page_content.split()]
+        clean_tokens = tokens[:]
+        sw = stopwords.words('english')
 
-    for token in tokens:
-        if token in sw:
-            clean_tokens.remove(token)
-    print(clean_tokens)
-    return clean_tokens
+        for token in tokens:
+            if token in sw:
+                clean_tokens.remove(token)
+        return clean_tokens
 
 
-def get_content(url):
-    data = get_webpage(url)
-    soup = BeautifulSoup(data, 'html.parser')
-    return soup.find('article').get_text()
+    def _get_content(self):
+        self._get_webpage()
+        soup = BeautifulSoup(self.raw_page_data, 'html.parser')
+        self.page_content = soup.find('article').get_text()
 
-def get_webpage(url):
-    with urllib.request.urlopen(url) as wp:
-        data = wp.read()
-        return data
-
+    def _get_webpage(self):
+        with urllib.request.urlopen(self.url) as wp:
+            self.raw_page_data = wp.read()
+             
 
 def main(url):
-    freq_distribution(url)
+    page = PageDescription(url)
+    print(page.freq_distribution())
 
 
 if __name__ == "__main__":
