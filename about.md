@@ -2,6 +2,12 @@
 layout: page
 title: About
 author: Scott Turnbull
+title: About Optional Rule Games
+image: /assets/img/optionalrule_lazydm.jpg
+summary: I am an individual creator who likes to discuss new thoughts about the oldest hobby I have.
+twitter: 
+  card: summary
+  username: optionalrule
 ---
 
 {% include imageframe.html 
