@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perilous Journeys in 5e
+title: Adventurous Journeys in 5e
 date: 2021-07-11 08:26
 category: RPG Resources
 author: Scott Turnbull
@@ -8,7 +8,7 @@ tags: []
 summary: Rules to make journeys exciting again in 5e D&D.
 ---
 
-Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little excitement in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful gameplay to engage them in travel. or depend on one another. These rules present a few simple modifications to add some gameplay spice back into your journeys to help make the exploration pillar exciting again.
+Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little excitement in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or depend on one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.
 
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"
@@ -34,21 +34,29 @@ After a major disruptive event like an attack or disaster, have the party immedi
 ### Sleep, Medical Care, & Hearty Meals.
 Characters who rest for eight hours outside of a Haven or Basecamp may still gain a few benefits provided they have the right conditions, supplies and skills. Characters may recover one level of exhaustion if able to properly sleep, meditate, or the equivalent for their race. Additionally, they may recover one spent Hit Die through either medical care, or a hearty meal. Medical care requires spending one use of a healing kit and a DC 15 Wisdom (Medicine) check from someone proficient in Medicine.  A hearty meal may be prepared by someone proficient in either Survival or with Cook's Utensils by passing a DC 15 Wisdom (Survival) check. Hearty meals also require food of better quality than rations, and other fresh ingredients.  Characters may only recover a maximum of one spent Hit Die outside of a long rest.
 
-## Travel Speeds
+## Travel Pace
 
-With limited opportunities for long rests, the cumulative effects of life on the road become part of the adventure. Speed of travel depends mostly on the type of terrain being traversed, conditions along the way, chosen path, as well as the fickle nature of the environment.  
+With limited opportunities for long rests, the cumulative effects of life on the road become part of the adventure. Speed of travel depends mostly on the type of terrain being traversed, conditions along the way, chosen path, as well as the fickle nature of the environment.  The normal movement pace depends on the type of terrain as referenced below.  
 
-| Terrain | Speed | Daily | Examples |
-|---------|-------|-------|----------|
-| Flat    | 3 mph | 24 mi | Grasslands, plains, etc|
-| Broken  |
+| Pace    | Speed | Daily | DC |Terrain                |
+|---------|-------|-------|----|-----------------------|
+| Fast    | 4 mph | 32    | -  |-                      |
+| Normal  | 3 mph | 24 mi | 10 |Grasslands, plains, wastes etc|
+| Slow    | 2 mph | 16 mi | 15 |Forests, hills, tundra, sand desert, etc    |
+| Crawl   | 1 mph | 8 mi  | 20 |Mountains, swamps, jungle, etc |
+{: .table .table-striped .table-hover}
 
+Paved roads make terrain one level faster, with a maximum pace of Fast.  Wagons make terrain one level slower, and cannot travel in terrain that would slow to more than a crawl.  Difficult terrain applies to these paces as normal in Chapter 8 of the PHB. Special mounts such as pegasus or griffon, and others are handled as appropriate with guidance from the DMG.
 
-## Groups Roles
+**None of these elements interfere with the Rangers Natural Explorer ability.** While pace effects the base movement speed, difficult terrain still applies (on top of pace). Additionally, there are a number of situations that may delay or hamper a groups pace, but none of these involve getting lost. 
+
+### Group Roles
 
 #### Guide
-#### Steward
+**Guides** choose the route for a party, who depend on them for their knowledge of the terrain ahead to avoid danger or stay on the right path. At the start of each travel day, the Guide rolls either Intelligence (Nature) or Intelligence (History) at the DC associated with the appropriate terrain.  A failure on this roll means the pace for the day is one level slower due to unforseen doubling back, blockages, or other obstacles. If the Guide doesn't have appropriate maps or knowledge of the specific terrain ahead, this roll is made at disadvantage.  If the terrain could be considered their home territory, the roll is made with advantage.
+
+**Steward**
 #### Scout
 #### Warder
 
-## Spicey Options for Healing
+## Spicing Things Up More
