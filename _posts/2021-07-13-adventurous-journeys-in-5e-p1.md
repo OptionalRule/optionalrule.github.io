@@ -2,7 +2,7 @@
 layout: post
 title: Adventurous Journeys in 5e Part 1
 subtitle: Rest and the Road
-date: 2021-07-11 08:26
+date: 2021-07-13 08:26
 category: RPG Resources
 author: Scott Turnbull
 tags: []
