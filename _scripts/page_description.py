@@ -92,9 +92,9 @@ class PageCollection:
         self.clean_tokens = clean_tokens
         return clean_tokens
 
-    def freq_distribution(self):
+    def freq_distribution(self, n=10):
         freq = nltk.FreqDist(self.get_clean_tokens())
-        return sorted(freq.most_common(10), key=lambda x: x[1], reverse=True)
+        return sorted(freq.most_common(n), key=lambda x: x[1], reverse=True)
 
 
 
@@ -130,4 +130,5 @@ if __name__ == "__main__":
     # main('https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules/')
     post_list = get_post_list("docs/", get_url_list_from_sitemap("docs/sitemap.xml"))
     pages = PageCollection(post_list)
-    print(", ".join([fq[0] for fq in pages.freq_distribution()]))
+    for item in pages.freq_distribution(52):
+        print(f"{item[0]}, {item[1]}")

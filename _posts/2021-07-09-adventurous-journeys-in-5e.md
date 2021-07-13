@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Adventurous Journeys in 5e
+title: Adventurous Journeys in 5e Part 1
+subtitle: Rest and the Road
 date: 2021-07-11 08:26
 category: RPG Resources
 author: Scott Turnbull
@@ -12,10 +13,10 @@ Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e pro
 
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"
-  src="/assets/img/camping_party_475x633.jpg"
-  alt="A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted."
-  width="475" height="633"
-  caption="Image credit Wizards of the Coast"
+  src="/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg"
+  alt="A horse drawn wagon traveling along a snowy road in the woods. A woman in heavy robes drives the cart while a man with a bow walks ahead of her on the road."
+  width="475" height="616"
+  caption="Image credit <a href='https://www.artstation.com/artwork/ykeEaQ' target='_blank'>Alex Wilton</a>"
  %}
 
 Many of these rules draw inspiration from the very fine Journeys mechanic from Adventures in Middle Earth, which is unfortunately no longer published.  While mechanically different in places the core themes remain, and I recommend reading those rules for further inspiration.
@@ -50,13 +51,7 @@ Paved roads make terrain one level faster, with a maximum pace of Fast.  Wagons 
 
 **None of these elements interfere with the Rangers Natural Explorer ability.** While pace effects the base movement speed, difficult terrain still applies (on top of pace). Additionally, there are a number of situations that may delay or hamper a groups pace, but none of these involve getting lost. 
 
-### Group Roles
 
-#### Guide
-**Guides** choose the route for a party, who depend on them for their knowledge of the terrain ahead to avoid danger or stay on the right path. At the start of each travel day, the Guide rolls either Intelligence (Nature) or Intelligence (History) at the DC associated with the appropriate terrain.  A failure on this roll means the pace for the day is one level slower due to unforseen doubling back, blockages, or other obstacles. If the Guide doesn't have appropriate maps or knowledge of the specific terrain ahead, this roll is made at disadvantage.  If the terrain could be considered their home territory, the roll is made with advantage.
+## Conclusion of Part 1
 
-**Steward**
-#### Scout
-#### Warder
-
-## Spicing Things Up More
+These rules turn travel into a single encounter, where the success and failures of each day build up to form a larger adventure. These are best implemented by DMs in spirit of 
