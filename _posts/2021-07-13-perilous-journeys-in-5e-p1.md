@@ -5,6 +5,7 @@ subtitle: Rest and the Road
 date: 2021-07-13 08:26
 category: RPG Resources
 author: Scott Turnbull
+image: /assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg
 tags: []
 summary: A set of 5e house rules that make journeys fun by limiting long rests on the road and providing some rules for camps.
 ---
