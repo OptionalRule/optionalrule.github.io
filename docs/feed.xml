@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2021-07-03T17:04:55-04:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Discord Channel is Here</title><link href="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/" rel="alternate" type="text/html" title="Discord Channel is Here" /><published>2021-07-03T16:52:00-04:00</published><updated>2021-07-03T16:52:00-04:00</updated><id>https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/">&lt;p&gt;I just opened a discord server for rules discussions, workshops and the like.  People interested in thoughtful 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2021-07-13T10:52:45-04:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Perilous Journeys in 5e Part 1</title><link href="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 1" /><published>2021-07-13T08:26:00-04:00</published><updated>2021-07-13T08:26:00-04:00</updated><id>https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/">&lt;p&gt;Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.&lt;/p&gt;
+
+&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+    
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg&quot; alt=&quot;A horse drawn wagon traveling along a snowy road in the woods. A woman in heavy robes drives the cart while a man with a bow walks ahead of her on the road.&quot; height=&quot;475&quot; /&gt;
+        
+    
+        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit &lt;a href=&quot;https://www.artstation.com/artwork/ykeEaQ&quot; target=&quot;_blank&quot;&gt;Alex Wilton&lt;/a&gt;&lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;p&gt;Many of these rules draw inspiration from the very fine Journeys mechanic from Adventures in Middle Earth, which is unfortunately no longer published.  While mechanically different in places the core themes remain, and I recommend reading those rules for further inspiration.&lt;/p&gt;
+
+&lt;h2 id=&quot;havens--rests&quot;&gt;Havens &amp;amp; Rests&lt;/h2&gt;
+
+&lt;p&gt;Characters may only gain the benefits of a Long Rest at a Haven or Base Camp. Havens are &lt;strong&gt;secure&lt;/strong&gt; locations with strong &lt;strong&gt;shelter&lt;/strong&gt;. enough &lt;strong&gt;supplies&lt;/strong&gt; and room to rest and study. So manors, well-furnished houses, or Inn rooms rated Comfortable or above work well as Havens. While temporary camps, common rooms, or unsafe locations may allow sleep or recovery from exhaustion, they are not adequate to gain the benefits of a Long Rest. However, with the right supplies and skills, characters may be able to setup Base Camps in the field that allow a proper Long Rest. Meaning the core of game play on the road is managing your supplies, camps, and connecting with settlements in a region to travel in a way that allows you to either move freely or sustain operations, but not both.&lt;/p&gt;
+
+&lt;h3 id=&quot;base-camps&quot;&gt;Base Camps&lt;/h3&gt;
+&lt;p&gt;Base camps are temporary locations that can be secured and setup to allow for long rests. Setting up a base camp requires a full workday, proper equipment and supplies, and a DC 15 Wisdom (Survival) check. The check can be made by a single character on behalf of the party, or as a Group Check by the party.  (See Chapter 7 of the PHB for more on Group Checks).  A success means the location can be used to take long rests, or a failure means they may try again the next day.  Also, a DM should ask the group for one major feature of their Base Camp they can invoke during encounters or play.  This should be something that makes sense given the location and provides them flavor during play. Examples of features might be “Close to game”, “Protected on three sides by a stream”, “Hidden from sight”, “Shelter from storms”, “Warm (or cool)”, “Hard to reach”, or anything that adds interesting flavor.&lt;/p&gt;
+
+&lt;p&gt;Without proper equipment, or in hostile territory like a dungeon, a base camp can only be setup by someone proficient in the Survival skill and the roll is made with disadvantage.&lt;/p&gt;
+
+&lt;p&gt;After a major disruptive event like an attack or disaster, have the party immediately make the same roll to maintain the camp.  On a failure, the camp or location is damaged or compromised in a way that means it must be rebuilt.&lt;/p&gt;
+
+&lt;h3 id=&quot;sleep-medical-care--hearty-meals&quot;&gt;Sleep, Medical Care, &amp;amp; Hearty Meals.&lt;/h3&gt;
+&lt;p&gt;Characters who rest for eight hours outside of a Haven or Basecamp may still gain a few benefits provided they have the right conditions, supplies and skills. Characters recover one level of exhaustion if able to properly sleep, meditate, or the equivalent for their race. Additionally, they may recover one spent Hit Die through either medical care, or a hearty meal. Medical care requires spending one use of a healing kit and succeeding on a DC 15 Wisdom (Medicine) check from someone proficient in Medicine.  A hearty meal can be prepared by someone proficient in either Survival or with Cook’s Utensils by passing a DC 15 Wisdom (Survival) check. Hearty meals also require fresh or high quality ingredients. This means rations, conjured food, or Goodberries will keep you fed but are not sufficient enough to recover a Hit Die.  Characters may only recover a maximum of one spent Hit Die outside of a long rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;travel-pace&quot;&gt;Travel Pace&lt;/h2&gt;
+
+&lt;p&gt;With limited opportunities for long rests, the cumulative effects of life on the road become part of the adventure. Speed of travel depends mostly on the type of terrain being traversed, conditions along the way, chosen path, as well as the fickle nature of the environment.  The normal movement pace depends on the type of terrain as referenced below.&lt;/p&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Pace&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Speed&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Daily&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DC&lt;/th&gt;
+      &lt;th&gt;Terrain&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fast&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4 mph&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;32 mi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Normal&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3 mph&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;24 mi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td&gt;Grasslands, plains, wastes etc.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Slow&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2 mph&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 mi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15&lt;/td&gt;
+      &lt;td&gt;Forests, hills, tundra, sand desert, etc.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crawl&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1 mph&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8 mi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
+      &lt;td&gt;Mountains, swamps, jungle, etc.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Paved roads make terrain one level faster, with a maximum pace of Fast.  Wagons make terrain one level slower and cannot travel in terrain that would slow to more than a crawl.  Difficult terrain applies to these paces as normal in Chapter 8 of the PHB. Special movement types or mounts such as pegasus or griffon, are handled as appropriate with guidance from the DMG.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;None of these elements interfere with the Rangers Natural Explorer ability.&lt;/strong&gt; While pace effects the base movement speed, difficult terrain still applies.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion-of-part-1&quot;&gt;Conclusion of Part 1&lt;/h2&gt;
+
+&lt;p&gt;These rules are a simple way to turn what had been disjointed day by day travel into a continuous adventure about life on the road.  It provides ways for players to engage with the environment and connects planning and travel to the greater story as it unfolds through meaningful actions and outcomes.&lt;/p&gt;
+
+&lt;p&gt;When writing this I decided to split it into two parts.  This part deals with what is essentially, the pacing element of travel. In the next part I will talk about how the party can interact with each other the road, as well as some simple modifications to healing and recovery.  So keep an eye out for that next week.&lt;/p&gt;
+
+&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery. This is primarily because the system focuses on encounters per day, which limits long form narrative game elements. First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Discord Channel is Here</title><link href="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/" rel="alternate" type="text/html" title="Discord Channel is Here" /><published>2021-07-03T16:52:00-04:00</published><updated>2021-07-03T16:52:00-04:00</updated><id>https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/">&lt;p&gt;I just opened a discord server for rules discussions, workshops and the like.  People interested in thoughtful 
 discussions on 5e or TTRPG rules, adventures or more are welcome to sign up. Please note that general rules of 
 good social interactions and good-faith conversations apply. This will likely be a small server but anyone is 
 welcome who wants to get into a deeper conversation than Twitter allows. Please feel free to share this link. 
@@ -1629,225 +1712,4 @@ points will be different from that of a player character.&lt;/p&gt;
 
 &lt;p&gt;So that’s it. In my own context this will help me with balance for player designed spells and assessing third party or official supplements. I hope you’re able to derive something useful for planning your games out of this. If you have an observation about it, tag me on twitter or drop me a DM. This is a starting place and rough guide though, and the devil will always be in the details. It is good though to comment based on numbers instead of strawman examples and intuition.&lt;/p&gt;
 
-&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">Taking down monsters in 5th Edition Dungeons &amp;amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (W), Resistances (R), or Immunities (I). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Language of Monsters in 5e</title><link href="https://www.optionalrule.com/2021/04/02/the-language-of-monsters-in-5e/" rel="alternate" type="text/html" title="The Language of Monsters in 5e" /><published>2021-04-02T00:00:00-04:00</published><updated>2021-04-02T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/04/02/the-language-of-monsters-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/02/the-language-of-monsters-in-5e/">&lt;p&gt;Many monsters in 5th Edition Dungeons &amp;amp; Dragons list a language in their stat block. Aside from its ability to hurl insults in combat, sharing a language can open options for lore or negtiation during play. But which languages to most monsters speak and understand? This isn’t an easy question to answer because DnD does not provide their monster stat blocks in an easily parsable format. So I found &lt;a href=&quot;https://www.reddit.com/r/UnearthedArcana/comments/8zvr6s/the_great_dd5e_monster_spreadsheet/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;The Great DnD 5e Monster Spreadsheet&lt;/a&gt; online, cleaned up the data and began to parse out some of the the answers.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;As an aside, it’s the digital age, can we put up some resources that are parsable to cut down on the hand editing.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;What follows is a table with the resulting number of stat blocks where the listed language appears. I have excluded listing for any language, or all languages as that is beside the point. Perhaps not relevant, but I found it interesting that a number of creature stat blocks listed Telepathy as a language, so I left that in. Also, there are a number of languages I didn’t know existed at all such as Ice Toad. This includes 799 stat blocks from all the official books released so far. These were hand entered so there are some errors but I have tried to clean those up as best I can.&lt;/p&gt;
-
-&lt;h2 id=&quot;language-by-stat-block-count&quot;&gt;Language by Stat Block Count&lt;/h2&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Language&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;# Stat Blocks&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Abyssal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;74&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Aquan&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;19&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Auran&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;17&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Blink Dog&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bothii&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bullywug&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Celestial&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Common&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;214&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Creator&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;14&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Deep Speech&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;23&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Draconic&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;78&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Druidic&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Dwarvish&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;17&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Elvish&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;38&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Giant&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;33&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Giant Eagle&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Giant Elk&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Giant Owl&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Gith&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Gnoll&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Gnomish&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Goblin&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Grell&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Grung&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ice Toad&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ignan&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;17&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Infernal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;45&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Kruthik&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Modron&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Olman&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Orc&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Otyugh&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Primordial&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sahuagin&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Slaad&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sphinx&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sylvan&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;30&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Telepathy&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;95&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Terran&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;16&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Thayan&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Thieves’ Cant&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Thri-Kreen&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tlincalli&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Troglodyte&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Umber Hulk&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Undercommon&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;54&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Vegepygmy&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Winter Wolf&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Worg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Yeti&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Yikaria&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">Many monsters in 5th Edition Dungeons &amp;amp; Dragons list a language in their stat block. Aside from its ability to hurl insults in combat, sharing a language can open options for lore or negtiation during play. But which languages to most monsters speak and understand? This isn’t an easy question to answer because DnD does not provide their monster stat blocks in an easily parsable format. So I found The Great DnD 5e Monster Spreadsheet online, cleaned up the data and began to parse out some of the the answers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">Taking down monsters in 5th Edition Dungeons &amp;amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (W), Resistances (R), or Immunities (I). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
