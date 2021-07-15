@@ -32,6 +32,38 @@ LOCAL_STOPWORDS = [
 ]
 
 
+class TextDescription:
+    def __init__(self, filepath):
+        """
+        Pulls the content from a page off of optional rule and provides some NLTK convience methods.
+        """
+        self.filepath = filepath
+        self.text_content = ""
+        self.stopwords = extended_stopwords()
+        self.clean_tokens = []
+        self._get_text()
+
+    def freq_distribution(self, num):
+        freq = nltk.FreqDist(self.get_clean_tokens())
+        return sorted(freq.most_common(num), key=lambda x: x[1], reverse=True)
+
+    def get_clean_tokens(self):
+        tokenizer = nltk.RegexpTokenizer(r"\w+")
+        lemma = nltk.WordNetLemmatizer()
+        tokens = [lemma.lemmatize(t) for t in tokenizer.tokenize(self.text_content.lower())]
+        clean_tokens = [t for t in tokens]
+
+        for token in tokens:
+            if token in self.stopwords:
+                clean_tokens.remove(token)
+        self.clean_tokens = clean_tokens
+        return clean_tokens
+
+    def _get_text(self):
+        with open(self.filepath, encoding='utf8') as f:
+            self.text_content = f.read()
+
+
 class PageDescription:
     def __init__(self, url, basedir):
         """
@@ -40,7 +72,7 @@ class PageDescription:
         self.url = url
         self.basedir = basedir
         self.raw_page_data = ""
-        self.page_content = ""
+        self.text_content = ""
         self.stopwords = extended_stopwords()
         self.clean_tokens = []
         self._set_raw_data()
@@ -51,14 +83,13 @@ class PageDescription:
         return sorted(freq.most_common(5), key=lambda x: x[1], reverse=True)
 
     def get_clean_tokens(self):
-        sb = SnowballStemmer("english")
         tokenizer = nltk.RegexpTokenizer(r"\w+")
-        tokens = tokenizer.tokenize(self.page_content.lower())
-        clean_tokens = [sb.stem(t) for t in tokens]
+        tokens = tokenizer.tokenize(self.content.lower())
+        clean_tokens = [t for t in tokens]
 
         for token in tokens:
             if token in self.sw:
-                clean_tokens.remove(sb.stem(token))
+                clean_tokens.remove(token)
         self.clean_tokens = clean_tokens
         return clean_tokens
 
@@ -66,7 +97,7 @@ class PageDescription:
         soup = BeautifulSoup(self.raw_page_data, "html.parser")
         article = soup.find("article")
         if article:
-            self.page_content = article.get_text()
+            self.text_content = article.get_text()
 
     def _set_raw_data(self):
         with open(self.basedir + urlparse(self.url).path + "index.html", "rb") as f:
@@ -79,7 +110,7 @@ class PageCollection:
         self._aggregate_content()
 
     def _aggregate_content(self):
-        self.content = " ".join([p.page_content for p in self.pages])
+        self.content = " ".join([p.text_content for p in self.pages])
 
     def get_clean_tokens(self):
         tokenizer = nltk.RegexpTokenizer(r"\w+")
@@ -127,8 +158,6 @@ def main(url):
 
 
 if __name__ == "__main__":
-    # main('https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules/')
-    post_list = get_post_list("docs/", get_url_list_from_sitemap("docs/sitemap.xml"))
-    pages = PageCollection(post_list)
-    for item in pages.freq_distribution(52):
+    phb = TextDescription('_scripts/data/phbtext.txt')
+    for item in phb.freq_distribution(52):
         print(f"{item[0]}, {item[1]}")

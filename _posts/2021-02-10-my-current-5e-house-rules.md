@@ -45,7 +45,7 @@ Table rules are conventions or social norms that use an established rule in a di
   * **Sentinel Feat:** Capped at +1 size for movement change.
   * **Tasha&#8217;s Optional Class Features:** Mostly used from Tasha&#8217;s, check with DM.
   * **Custom Lineages:** Okay by me, let me know if you&#8217;re a variation on a traditional race or what other concept you might have. Variation on traditional races are considered that race for all racial requirements in the system unless otherwise noted.
-  * **Xanathar&#8217;s & Tasha&#8217;s Subclasses:** All allowed except for Order of Scribes Wizard.
+  * **Xanathar&#8217;s & Tasha&#8217;s Subclasses:** All allowed except for Order of Scribes Wizard, and Twilight Domain Cleric.
   * **Most Recent Class Update Used:** In cases with multiple versions of a class, like Artificer, the most recent version of that class is used.
   * **Intimidating Presence:** May be either CHA or STR based at players description with appropriate description.
 

@@ -4,5 +4,6 @@
 .vscode/
 _site
 /vendor
+scripts/data/*
 
 __pycache__
