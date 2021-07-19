@@ -1,447 +1,944 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2021-07-14T22:50:52-04:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Perilous Journeys in 5e Part 1</title><link href="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 1" /><published>2021-07-13T08:26:00-04:00</published><updated>2021-07-13T08:26:00-04:00</updated><id>https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/">Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2021-07-19T09:26:52-04:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Perilous Journeys in 5e Part 1</title><link href="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 1" /><published>2021-07-13T08:26:00-04:00</published><updated>2021-07-13T08:26:00-04:00</updated><id>https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/">&lt;p&gt;Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.&lt;/p&gt;
 
-{% include imageframe.html
-  figure_class=&quot;float-end ms-4 clearfix&quot;
-  src=&quot;/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg&quot;
-  alt=&quot;A horse drawn wagon traveling along a snowy road in the woods. A woman in heavy robes drives the cart while a man with a bow walks ahead of her on the road.&quot;
-  width=&quot;475&quot; height=&quot;616&quot;
-  caption=&quot;Image credit &lt;a href='https://www.artstation.com/artwork/ykeEaQ' target='_blank'&gt;Alex Wilton&lt;/a&gt;&quot;
- %}
+&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+    
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg&quot; alt=&quot;A horse drawn wagon traveling along a snowy road in the woods. A woman in heavy robes drives the cart while a man with a bow walks ahead of her on the road.&quot; height=&quot;475&quot; /&gt;
+        
+    
+        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit &lt;a href=&quot;https://www.artstation.com/artwork/ykeEaQ&quot; target=&quot;_blank&quot;&gt;Alex Wilton&lt;/a&gt;&lt;/figcaption&gt;
+    
+&lt;/figure&gt;
 
-Many of these rules draw inspiration from the very fine Journeys mechanic from Adventures in Middle Earth, which is unfortunately no longer published.  While mechanically different in places the core themes remain, and I recommend reading those rules for further inspiration.
+&lt;p&gt;Many of these rules draw inspiration from the very fine Journeys mechanic from Adventures in Middle Earth, which is unfortunately no longer published.  While mechanically different in places the core themes remain, and I recommend reading those rules for further inspiration.&lt;/p&gt;
 
-## Havens &amp; Rests
+&lt;h2 id=&quot;havens--rests&quot;&gt;Havens &amp;amp; Rests&lt;/h2&gt;
 
-Characters may only gain the benefits of a Long Rest at a Haven or Base Camp. Havens are **secure** locations with strong **shelter**. enough **supplies** and room to rest and study. So manors, well-furnished houses, or Inn rooms rated Comfortable or above work well as Havens. While temporary camps, common rooms, or unsafe locations may allow sleep or recovery from exhaustion, they are not adequate to gain the benefits of a Long Rest. However, with the right supplies and skills, characters may be able to setup Base Camps in the field that allow a proper Long Rest. Meaning the core of game play on the road is managing your supplies, camps, and connecting with settlements in a region to travel in a way that allows you to either move freely or sustain operations, but not both.
+&lt;p&gt;Characters may only gain the benefits of a Long Rest at a Haven or Base Camp. Havens are &lt;strong&gt;secure&lt;/strong&gt; locations with strong &lt;strong&gt;shelter&lt;/strong&gt;. enough &lt;strong&gt;supplies&lt;/strong&gt; and room to rest and study. So manors, well-furnished houses, or Inn rooms rated Comfortable or above work well as Havens. While temporary camps, common rooms, or unsafe locations may allow sleep or recovery from exhaustion, they are not adequate to gain the benefits of a Long Rest. However, with the right supplies and skills, characters may be able to setup Base Camps in the field that allow a proper Long Rest. Meaning the core of game play on the road is managing your supplies, camps, and connecting with settlements in a region to travel in a way that allows you to either move freely or sustain operations, but not both.&lt;/p&gt;
 
-### Base Camps
-Base camps are temporary locations that can be secured and setup to allow for long rests. Setting up a base camp requires a full workday, proper equipment and supplies, and a DC 15 Wisdom (Survival) check. The check can be made by a single character on behalf of the party, or as a Group Check by the party.  (See Chapter 7 of the PHB for more on Group Checks).  A success means the location can be used to take long rests, or a failure means they may try again the next day.  Also, a DM should ask the group for one major feature of their Base Camp they can invoke during encounters or play.  This should be something that makes sense given the location and provides them flavor during play. Examples of features might be &quot;Close to game&quot;, &quot;Protected on three sides by a stream&quot;, &quot;Hidden from sight&quot;, &quot;Shelter from storms&quot;, &quot;Warm (or cool)&quot;, &quot;Hard to reach&quot;, or anything that adds interesting flavor.
+&lt;h3 id=&quot;base-camps&quot;&gt;Base Camps&lt;/h3&gt;
+&lt;p&gt;Base camps are temporary locations that can be secured and setup to allow for long rests. Setting up a base camp requires a full workday, proper equipment and supplies, and a DC 15 Wisdom (Survival) check. The check can be made by a single character on behalf of the party, or as a Group Check by the party.  (See Chapter 7 of the PHB for more on Group Checks).  A success means the location can be used to take long rests, or a failure means they may try again the next day.  Also, a DM should ask the group for one major feature of their Base Camp they can invoke during encounters or play.  This should be something that makes sense given the location and provides them flavor during play. Examples of features might be “Close to game”, “Protected on three sides by a stream”, “Hidden from sight”, “Shelter from storms”, “Warm (or cool)”, “Hard to reach”, or anything that adds interesting flavor.&lt;/p&gt;
 
-Without proper equipment, or in hostile territory like a dungeon, a base camp can only be setup by someone proficient in the Survival skill and the roll is made with disadvantage.  
+&lt;p&gt;Without proper equipment, or in hostile territory like a dungeon, a base camp can only be setup by someone proficient in the Survival skill and the roll is made with disadvantage.&lt;/p&gt;
 
-After a major disruptive event like an attack or disaster, have the party immediately make the same roll to maintain the camp.  On a failure, the camp or location is damaged or compromised in a way that means it must be rebuilt. 
+&lt;p&gt;After a major disruptive event like an attack or disaster, have the party immediately make the same roll to maintain the camp.  On a failure, the camp or location is damaged or compromised in a way that means it must be rebuilt.&lt;/p&gt;
 
-### Sleep, Medical Care, &amp; Hearty Meals.
-Characters who rest for eight hours outside of a Haven or Basecamp may still gain a few benefits provided they have the right conditions, supplies and skills. Characters recover one level of exhaustion if able to properly sleep, meditate, or the equivalent for their race. Additionally, they may recover one spent Hit Die through either medical care, or a hearty meal. Medical care requires spending one use of a healing kit and succeeding on a DC 15 Wisdom (Medicine) check from someone proficient in Medicine.  A hearty meal can be prepared by someone proficient in either Survival or with Cook's Utensils by passing a DC 15 Wisdom (Survival) check. Hearty meals also require fresh or high quality ingredients. This means rations, conjured food, or Goodberries will keep you fed but are not sufficient enough to recover a Hit Die.  Characters may only recover a maximum of one spent Hit Die outside of a long rest.
+&lt;h3 id=&quot;sleep-medical-care--hearty-meals&quot;&gt;Sleep, Medical Care, &amp;amp; Hearty Meals.&lt;/h3&gt;
+&lt;p&gt;Characters who rest for eight hours outside of a Haven or Basecamp may still gain a few benefits provided they have the right conditions, supplies and skills. Characters recover one level of exhaustion if able to properly sleep, meditate, or the equivalent for their race. Additionally, they may recover one spent Hit Die through either medical care, or a hearty meal. Medical care requires spending one use of a healing kit and succeeding on a DC 15 Wisdom (Medicine) check from someone proficient in Medicine.  A hearty meal can be prepared by someone proficient in either Survival or with Cook’s Utensils by passing a DC 15 Wisdom (Survival) check. Hearty meals also require fresh or high quality ingredients. This means rations, conjured food, or Goodberries will keep you fed but are not sufficient enough to recover a Hit Die.  Characters may only recover a maximum of one spent Hit Die outside of a long rest.&lt;/p&gt;
 
-## Travel Pace
+&lt;h2 id=&quot;travel-pace&quot;&gt;Travel Pace&lt;/h2&gt;
 
-With limited opportunities for long rests, the cumulative effects of life on the road become part of the adventure. Speed of travel depends mostly on the type of terrain being traversed, conditions along the way, chosen path, as well as the fickle nature of the environment.  The normal movement pace depends on the type of terrain as referenced below.  
+&lt;p&gt;With limited opportunities for long rests, the cumulative effects of life on the road become part of the adventure. Speed of travel depends mostly on the type of terrain being traversed, conditions along the way, chosen path, as well as the fickle nature of the environment.  The normal movement pace depends on the type of terrain as referenced below.&lt;/p&gt;
 
-| Pace    | Speed | Daily | DC |Terrain                |
-|---------|:-----:|:-----:|:--:|-----------------------|
-| Fast    | 4 mph | 32 mi | -  |-                      |
-| Normal  | 3 mph | 24 mi | 10 |Grasslands, plains, wastes etc.|
-| Slow    | 2 mph | 16 mi | 15 |Forests, hills, tundra, sand desert, etc.    |
-| Crawl   | 1 mph | 8 mi  | 20 |Mountains, swamps, jungle, etc. |
-{: .table .table-striped .table-hover}
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Pace&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Speed&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Daily&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DC&lt;/th&gt;
+      &lt;th&gt;Terrain&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fast&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4 mph&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;32 mi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Normal&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3 mph&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;24 mi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td&gt;Grasslands, plains, wastes etc.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Slow&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2 mph&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 mi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15&lt;/td&gt;
+      &lt;td&gt;Forests, hills, tundra, sand desert, etc.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crawl&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1 mph&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8 mi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
+      &lt;td&gt;Mountains, swamps, jungle, etc.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-Paved roads make terrain one level faster, with a maximum pace of Fast.  Wagons make terrain one level slower and cannot travel in terrain that would slow to more than a crawl.  Difficult terrain applies to these paces as normal in Chapter 8 of the PHB. Special movement types or mounts such as pegasus or griffon, are handled as appropriate with guidance from the DMG.
+&lt;p&gt;Paved roads make terrain one level faster, with a maximum pace of Fast.  Wagons make terrain one level slower and cannot travel in terrain that would slow to more than a crawl.  Difficult terrain applies to these paces as normal in Chapter 8 of the PHB. Special movement types or mounts such as pegasus or griffon, are handled as appropriate with guidance from the DMG.&lt;/p&gt;
 
-**None of these elements interfere with the Rangers Natural Explorer ability.** While pace effects the base movement speed, difficult terrain still applies.
+&lt;p&gt;&lt;strong&gt;None of these elements interfere with the Rangers Natural Explorer ability.&lt;/strong&gt; While pace effects the base movement speed, difficult terrain still applies.&lt;/p&gt;
 
-## Conclusion of Part 1
+&lt;h2 id=&quot;conclusion-of-part-1&quot;&gt;Conclusion of Part 1&lt;/h2&gt;
 
-These rules are a simple way to turn what had been disjointed day by day travel into a continuous adventure about life on the road.  It provides ways for players to engage with the environment and connects planning and travel to the greater story as it unfolds through meaningful actions and outcomes.
+&lt;p&gt;These rules are a simple way to turn what had been disjointed day by day travel into a continuous adventure about life on the road.  It provides ways for players to engage with the environment and connects planning and travel to the greater story as it unfolds through meaningful actions and outcomes.&lt;/p&gt;
 
-When writing this I decided to split it into two parts.  This part deals with what is essentially, the pacing element of travel. In the next part I will talk about how the party can interact with each other the road, as well as some simple modifications to healing and recovery.  So keep an eye out for that next week.
+&lt;p&gt;When writing this I decided to split it into two parts.  This part deals with what is essentially, the pacing element of travel. In the next part I will talk about how the party can interact with each other the road, as well as some simple modifications to healing and recovery.  So keep an eye out for that next week.&lt;/p&gt;
 
-Now get out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery. This is primarily because the system focuses on encounters per day, which limits long form narrative game elements. First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Discord Channel is Here</title><link href="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/" rel="alternate" type="text/html" title="Discord Channel is Here" /><published>2021-07-03T16:52:00-04:00</published><updated>2021-07-03T16:52:00-04:00</updated><id>https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/">I just opened a discord server for rules discussions, workshops and the like.  People interested in thoughtful 
+&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery. This is primarily because the system focuses on encounters per day, which limits long form narrative game elements. First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Discord Channel is Here</title><link href="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/" rel="alternate" type="text/html" title="Discord Channel is Here" /><published>2021-07-03T16:52:00-04:00</published><updated>2021-07-03T16:52:00-04:00</updated><id>https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/">&lt;p&gt;I just opened a discord server for rules discussions, workshops and the like.  People interested in thoughtful 
 discussions on 5e or TTRPG rules, adventures or more are welcome to sign up. Please note that general rules of 
 good social interactions and good-faith conversations apply. This will likely be a small server but anyone is 
 welcome who wants to get into a deeper conversation than Twitter allows. Please feel free to share this link. 
-The server just opened this weekend and is still getting set-up.
+The server just opened this weekend and is still getting set-up.&lt;/p&gt;
 
-If you're seeing this announcement at a later date just hit me up on Twitter for an invite link.
+&lt;p&gt;If you’re seeing this announcement at a later date just hit me up on Twitter for an invite link.&lt;/p&gt;
 
-**Invite Link:** [https://discord.gg/G5jbGsMB](https://discord.gg/G5jbGsMB)</content><author><name>Scott Turnbull</name></author><category term="Misc" /><summary type="html">I just opened a discord server for rules discussions, workshops and the like. People interested in thoughtful discussions on 5e or TTRPG rules, adventures or more are welcome to sign up. Please note that general rules of good social interactions and good-faith conversations apply. This will likely be a small server but anyone is welcome who wants to get into a deeper conversation than Twitter allows. Please feel free to share this link. The server just opened this weekend and is still getting set-up.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gritty Healing in 5e Part 2: Spells</title><link href="https://www.optionalrule.com/2021/06/30/gritty-healing-part-2-spells/" rel="alternate" type="text/html" title="Gritty Healing in 5e Part 2: Spells" /><published>2021-06-30T08:00:00-04:00</published><updated>2021-06-30T08:00:00-04:00</updated><id>https://www.optionalrule.com/2021/06/30/gritty-healing-part-2-spells</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/30/gritty-healing-part-2-spells/">Earlier in the week I posted some rules for [Gritty Healing &amp; Survival in 5e]({% link _posts/2021-06-27-gritty-healing-and-survival-rules.md %}). These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic.  In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.
+&lt;p&gt;&lt;strong&gt;Invite Link:&lt;/strong&gt; &lt;a href=&quot;https://discord.gg/G5jbGsMB&quot;&gt;https://discord.gg/G5jbGsMB&lt;/a&gt;&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Misc" /><summary type="html">I just opened a discord server for rules discussions, workshops and the like. People interested in thoughtful discussions on 5e or TTRPG rules, adventures or more are welcome to sign up. Please note that general rules of good social interactions and good-faith conversations apply. This will likely be a small server but anyone is welcome who wants to get into a deeper conversation than Twitter allows. Please feel free to share this link. The server just opened this weekend and is still getting set-up.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gritty Healing in 5e Part 2: Spells</title><link href="https://www.optionalrule.com/2021/06/30/gritty-healing-part-2-spells/" rel="alternate" type="text/html" title="Gritty Healing in 5e Part 2: Spells" /><published>2021-06-30T08:00:00-04:00</published><updated>2021-06-30T08:00:00-04:00</updated><id>https://www.optionalrule.com/2021/06/30/gritty-healing-part-2-spells</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/30/gritty-healing-part-2-spells/">&lt;p&gt;Earlier in the week I posted some rules for &lt;a href=&quot;/2021/06/27/gritty-healing-and-survival-rules/&quot;&gt;Gritty Healing &amp;amp; Survival in 5e&lt;/a&gt;. These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic.  In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.&lt;/p&gt;
 
-I expect this option to be controversial. It flies in the face of the conventional expectation of drinking a wheelbarrow full of healing potions, and it makes the pacing and of games much more volatile.  
+&lt;p&gt;I expect this option to be controversial. It flies in the face of the conventional expectation of drinking a wheelbarrow full of healing potions, and it makes the pacing and of games much more volatile.&lt;/p&gt;
 
-{% include imageframe.html
-  figure_class=&quot;float-end ms-4 clearfix&quot;
-  src=&quot;/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg&quot;
-  alt=&quot;A blonde haired woman in plate armor, holding a wounded man in robes.  Her hand is glowing with magical energy and her face looks determined.&quot;
-  width=&quot;475&quot; height=&quot;594&quot;
-  caption=&quot;Image credit &lt;a href='https://www.deviantart.com/anthonyfoti/' target='_blank'&gt;Anthony Foti&lt;/a&gt; for Wizards of the Coast&quot;
- %}
+&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+    
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg&quot; alt=&quot;A blonde haired woman in plate armor, holding a wounded man in robes.  Her hand is glowing with magical energy and her face looks determined.&quot; height=&quot;475&quot; /&gt;
+        
+    
+        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit &lt;a href=&quot;https://www.deviantart.com/anthonyfoti/&quot; target=&quot;_blank&quot;&gt;Anthony Foti&lt;/a&gt; for Wizards of the Coast&lt;/figcaption&gt;
+    
+&lt;/figure&gt;
 
-## Skin In the Game
-As it is, healing is just something that falls out of the sky. Be it divine intervention, alchemy, or some other magic.  It costs the recipient nothing and can continue indefinitely if the party has resources. With these rules, healing spells cost the recipient something, limiting how much they can benefit from spells and abilities. That has the effect of involving the receiving player in the decision and managing healing as a resource as well.  Lore wise the premise is simple, the body can only take so much and flesh has it's limits.  It is a staple of many narratives to have the healer provide some limited help, then back away with a &quot;I've done all I can, the rest is up to them&quot;.  This rules brings that lore into play.
+&lt;h2 id=&quot;skin-in-the-game&quot;&gt;Skin In the Game&lt;/h2&gt;
+&lt;p&gt;As it is, healing is just something that falls out of the sky. Be it divine intervention, alchemy, or some other magic.  It costs the recipient nothing and can continue indefinitely if the party has resources. With these rules, healing spells cost the recipient something, limiting how much they can benefit from spells and abilities. That has the effect of involving the receiving player in the decision and managing healing as a resource as well.  Lore wise the premise is simple, the body can only take so much and flesh has it’s limits.  It is a staple of many narratives to have the healer provide some limited help, then back away with a “I’ve done all I can, the rest is up to them”.  This rules brings that lore into play.&lt;/p&gt;
 
-### The Rule
-A recipient must spend one Hit Die to gain the benefit of a healing spell, potion, or ability. Meaning they must agree to being healed and mark off one of their own Hit Die to gain the benefit. A healing spell, potion, or ability may still be used on a willing target with no Hit Die to spend or who does not wish to spend a HD. This includes targets who are unconscious. In cases where no HD is spent by the target, the healing works but only does 1 point.
+&lt;h3 id=&quot;the-rule&quot;&gt;The Rule&lt;/h3&gt;
+&lt;p&gt;A recipient must spend one Hit Die to gain the benefit of a healing spell, potion, or ability. Meaning they must agree to being healed and mark off one of their own Hit Die to gain the benefit. A healing spell, potion, or ability may still be used on a willing target with no Hit Die to spend or who does not wish to spend a HD. This includes targets who are unconscious. In cases where no HD is spent by the target, the healing works but only does 1 point.&lt;/p&gt;
 
-### Notes on Specific Spells and Abilities
+&lt;h3 id=&quot;notes-on-specific-spells-and-abilities&quot;&gt;Notes on Specific Spells and Abilities&lt;/h3&gt;
 
-* Healing over multiple rounds, such as with ***Healing Spirit***, costs the recipient 1 HD per round.
-* ***Goodberry:*** Recipients can only benefit from the effects of one goodberry per long rest. It counts as food to avoid starvation but does not qualify as ***Good Food*** for the recovery rules in Gritty Healing &amp; Survival.
-* ***Lay On Hands:*** The recipient must spend a Hit Die to gain the benefit of multiple points of healing.  Otherwise, they can receive one point of healing per action without spending a Hit Die.
-* ***Tiny Hut:*** Works as normal except it does not provide a magical barrier against damage or intrusion. For purposes of Shelter it counts as having proper equipment and cancels out environmental conditions as per the spell description.  
-* ***Lesser Restoration:*** No longer automatically cures any disease. Instead, it gives the target an immediate saving throw against the disease at advantage. 
-* Spells that removes conditions behaves normally in terms of condition removal but rules above take precedence if there are additional results.
-* Temporary HP are unaffected by these rules.
-* Fighters can use ***Second Wind*** without spending Hit Die, but they are considered temporary hit points that last until the end of the next Long Rest.
+&lt;ul&gt;
+  &lt;li&gt;Healing over multiple rounds, such as with &lt;strong&gt;&lt;em&gt;Healing Spirit&lt;/em&gt;&lt;/strong&gt;, costs the recipient 1 HD per round.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Goodberry:&lt;/em&gt;&lt;/strong&gt; Recipients can only benefit from the effects of one goodberry per long rest. It counts as food to avoid starvation but does not qualify as &lt;strong&gt;&lt;em&gt;Good Food&lt;/em&gt;&lt;/strong&gt; for the recovery rules in Gritty Healing &amp;amp; Survival.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Lay On Hands:&lt;/em&gt;&lt;/strong&gt; The recipient must spend a Hit Die to gain the benefit of multiple points of healing.  Otherwise, they can receive one point of healing per action without spending a Hit Die.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Tiny Hut:&lt;/em&gt;&lt;/strong&gt; Works as normal except it does not provide a magical barrier against damage or intrusion. For purposes of Shelter it counts as having proper equipment and cancels out environmental conditions as per the spell description.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Lesser Restoration:&lt;/em&gt;&lt;/strong&gt; No longer automatically cures any disease. Instead, it gives the target an immediate saving throw against the disease at advantage.&lt;/li&gt;
+  &lt;li&gt;Spells that removes conditions behaves normally in terms of condition removal but rules above take precedence if there are additional results.&lt;/li&gt;
+  &lt;li&gt;Temporary HP are unaffected by these rules.&lt;/li&gt;
+  &lt;li&gt;Fighters can use &lt;strong&gt;&lt;em&gt;Second Wind&lt;/em&gt;&lt;/strong&gt; without spending Hit Die, but they are considered temporary hit points that last until the end of the next Long Rest.&lt;/li&gt;
+&lt;/ul&gt;
 
-## Mixing and Matching
-While I'm proposing this system for the Gritty Healing &amp; Survival Rules I published earlier in the week, it can be used with a number of systems. There are other gritty or slow healing systems in use this can either be used with directly or with slight modification.  Half HD healing and only healing half max hp on long rest, fixed HP per rest, or any number of other systems are all skipped past with normal healing.  These rules could work well with any of those systems to free up the healing PC to participate in the encounter and keep wounds meaningful. In a few weeks I'll publish a simpler system for tracking wounds this can work with as well.
+&lt;h2 id=&quot;mixing-and-matching&quot;&gt;Mixing and Matching&lt;/h2&gt;
+&lt;p&gt;While I’m proposing this system for the Gritty Healing &amp;amp; Survival Rules I published earlier in the week, it can be used with a number of systems. There are other gritty or slow healing systems in use this can either be used with directly or with slight modification.  Half HD healing and only healing half max hp on long rest, fixed HP per rest, or any number of other systems are all skipped past with normal healing.  These rules could work well with any of those systems to free up the healing PC to participate in the encounter and keep wounds meaningful. In a few weeks I’ll publish a simpler system for tracking wounds this can work with as well.&lt;/p&gt;
 
-### Alternative Tracking
-The core goal here is to limit healing so it doesn't overturn any long term healing rules, and doesn't relegate healing classes to heal-bots. Using the Hit Die mechanic is just a way to track and bound the amount of healing being done.  If you are not a fan of the Hit Die mechanics you could simply choose another method. Proficiency bonus times per day, half level, fixed number, or something wild like each successive healing attempt per day is less effective.  Any of these approaches could work if you keep the core concept in mind, that bounding healing is critical a gritty or long term healing mechanic.
+&lt;h3 id=&quot;alternative-tracking&quot;&gt;Alternative Tracking&lt;/h3&gt;
+&lt;p&gt;The core goal here is to limit healing so it doesn’t overturn any long term healing rules, and doesn’t relegate healing classes to heal-bots. Using the Hit Die mechanic is just a way to track and bound the amount of healing being done.  If you are not a fan of the Hit Die mechanics you could simply choose another method. Proficiency bonus times per day, half level, fixed number, or something wild like each successive healing attempt per day is less effective.  Any of these approaches could work if you keep the core concept in mind, that bounding healing is critical a gritty or long term healing mechanic.&lt;/p&gt;
 
-## Conclusion
-These rules close a bit loophole in the original Gritty Healing and Survival rules as presented.  It further reduces the recovery rate of players but serves two purposes. First it doesn't create a situation where healing casters are holding onto all their spell slots to heal everyone. While it can be fun to know that you are keeping the party up and running, this frees them up more to participate directly in encounters. Second, it maintains the long-term management aspects by keeping a *Hit Die Economy* in the campaign timescale. Lastly, it encourages downtime and other activities not focused on the combat encounter.
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;These rules close a bit loophole in the original Gritty Healing and Survival rules as presented.  It further reduces the recovery rate of players but serves two purposes. First it doesn’t create a situation where healing casters are holding onto all their spell slots to heal everyone. While it can be fun to know that you are keeping the party up and running, this frees them up more to participate directly in encounters. Second, it maintains the long-term management aspects by keeping a &lt;em&gt;Hit Die Economy&lt;/em&gt; in the campaign timescale. Lastly, it encourages downtime and other activities not focused on the combat encounter.&lt;/p&gt;
 
-Now go out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Earlier in the week I posted some rules for Gritty Healing &amp;amp; Survival in 5e. These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic. In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gritty Healing &amp;amp; Survival in 5e</title><link href="https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules/" rel="alternate" type="text/html" title="Gritty Healing &amp;amp; Survival in 5e" /><published>2021-06-27T10:26:00-04:00</published><updated>2021-06-27T10:26:00-04:00</updated><id>https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules/">The heroic playstyle of 5e D&amp;D is a lot of fun, but it's focused on the encounter for resource management and pacing. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, mitigation, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colville's recent twitch hangout, I was inspired to write down my own thoughts on gritty rules for 5e.
+&lt;p&gt;Now go out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Earlier in the week I posted some rules for Gritty Healing &amp;amp; Survival in 5e. These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic. In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gritty Healing &amp;amp; Survival in 5e</title><link href="https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules/" rel="alternate" type="text/html" title="Gritty Healing &amp;amp; Survival in 5e" /><published>2021-06-27T10:26:00-04:00</published><updated>2021-06-27T10:26:00-04:00</updated><id>https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules/">&lt;p&gt;The heroic playstyle of 5e D&amp;amp;D is a lot of fun, but it’s focused on the encounter for resource management and pacing. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, mitigation, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colville’s recent twitch hangout, I was inspired to write down my own thoughts on gritty rules for 5e.&lt;/p&gt;
 
-***Important Side Note:*** Gritty play is sometimes pushed with a sense of elitism. This is a silly  and as it's just a style of play. Keep that in mind. If you choose this style of play, the game is inherently going to get much more about tracking and managing resources. There is nothing wrong if that style of play is not for you. However, if you enjoy it, these rules should give you something to sink your teeth into.
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Important Side Note:&lt;/em&gt;&lt;/strong&gt; Gritty play is sometimes pushed with a sense of elitism. This is a silly  and as it’s just a style of play. Keep that in mind. If you choose this style of play, the game is inherently going to get much more about tracking and managing resources. There is nothing wrong if that style of play is not for you. However, if you enjoy it, these rules should give you something to sink your teeth into.&lt;/p&gt;
 
-## Don't We Have This Already?
-Discussion of gritty mechanics and survival rules in 5e is an evergreen topic. A quick google search will turn up a number grim dark, gritty, or other survival rules. However, I never thought these hit the right spot of focus or depth for my own campaigns. Even the 5e DMG has a set of ***Gritty Realism rules*** to use that just extends short rests to once a day, and long-rests to once a week. Rather than providing a different style of play, the gritty realism rules just make everything take longer. Therefore, they are neither gritty nor realistic. 
+&lt;h2 id=&quot;dont-we-have-this-already&quot;&gt;Don’t We Have This Already?&lt;/h2&gt;
+&lt;p&gt;Discussion of gritty mechanics and survival rules in 5e is an evergreen topic. A quick google search will turn up a number grim dark, gritty, or other survival rules. However, I never thought these hit the right spot of focus or depth for my own campaigns. Even the 5e DMG has a set of &lt;strong&gt;&lt;em&gt;Gritty Realism rules&lt;/em&gt;&lt;/strong&gt; to use that just extends short rests to once a day, and long-rests to once a week. Rather than providing a different style of play, the gritty realism rules just make everything take longer. Therefore, they are neither gritty nor realistic.&lt;/p&gt;
 
-What I'm presenting here is closer to the Slow Natural Healing rules in Chapter 9 of the DMG.
+&lt;p&gt;What I’m presenting here is closer to the Slow Natural Healing rules in Chapter 9 of the DMG.&lt;/p&gt;
 
-**A Quick Note on Realism:** A frequent mistake people make is to assume this is an attempt to make 5e more realistic or simulationist. It is not. This just makes mechanics about survival and health management more of a central gameplay element.
+&lt;p&gt;&lt;strong&gt;A Quick Note on Realism:&lt;/strong&gt; A frequent mistake people make is to assume this is an attempt to make 5e more realistic or simulationist. It is not. This just makes mechanics about survival and health management more of a central gameplay element.&lt;/p&gt;
 
-## The Rules
+&lt;h2 id=&quot;the-rules&quot;&gt;The Rules&lt;/h2&gt;
 
-{% include imageframe.html
-  figure_class=&quot;float-end ms-4 clearfix&quot;
-  src=&quot;/assets/img/camping_party_475x633.jpg&quot;
-  alt=&quot;A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted.&quot;
-  width=&quot;475&quot; height=&quot;633&quot;
-  caption=&quot;Image credit Wizards of the Coast&quot;
- %}
- Where noted these house rules replace the standard 5e rules.
+&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+    
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/camping_party_475x633.jpg&quot; alt=&quot;A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted.&quot; height=&quot;475&quot; /&gt;
+        
+    
+        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit Wizards of the Coast&lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;p&gt;Where noted these house rules replace the standard 5e rules.&lt;/p&gt;
 
-### Natural Healing
-Short and Long Rest healing is no longer used, otherwise rests work as normal. Instead, players may only spend Hit Dice (HD) to heal at the end of a Long Rest. Also, HD are spent separately to heal ability scores, drain, and damage. Additionally players roll to recover spent Hit Die instead of recovering half of their HD at the end of a long rest. (*You knew that was the rule right?*) In this way, extended combat and stress have a larger impact and tend to grind characters down more.
+&lt;h3 id=&quot;natural-healing&quot;&gt;Natural Healing&lt;/h3&gt;
+&lt;p&gt;Short and Long Rest healing is no longer used, otherwise rests work as normal. Instead, players may only spend Hit Dice (HD) to heal at the end of a Long Rest. Also, HD are spent separately to heal ability scores, drain, and damage. Additionally players roll to recover spent Hit Die instead of recovering half of their HD at the end of a long rest. (&lt;em&gt;You knew that was the rule right?&lt;/em&gt;) In this way, extended combat and stress have a larger impact and tend to grind characters down more.&lt;/p&gt;
 
-The Long Rest sequence is as follows:
-* Roll to recover spent HD
-* Choose to spend HD on healing ability damage, drain, or to recovery hit points.
-* Modify any HD roll by the recovery conditions.
+&lt;p&gt;The Long Rest sequence is as follows:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Roll to recover spent HD&lt;/li&gt;
+  &lt;li&gt;Choose to spend HD on healing ability damage, drain, or to recovery hit points.&lt;/li&gt;
+  &lt;li&gt;Modify any HD roll by the recovery conditions.&lt;/li&gt;
+&lt;/ul&gt;
 
-#### Recovering Spent HD
-Hit Dice are recovered by rolling a DC 13 Constitution check for each spent HD at the end of a long rest, before any healing. Disadvantage may be imposed under harsh conditions, with inadequate shelter, or if unable to rest. Likewise advantage may be granted under good recovery conditions and medical care, such as at a sanctuary or house of healing.
+&lt;h4 id=&quot;recovering-spent-hd&quot;&gt;Recovering Spent HD&lt;/h4&gt;
+&lt;p&gt;Hit Dice are recovered by rolling a DC 13 Constitution check for each spent HD at the end of a long rest, before any healing. Disadvantage may be imposed under harsh conditions, with inadequate shelter, or if unable to rest. Likewise advantage may be granted under good recovery conditions and medical care, such as at a sanctuary or house of healing.&lt;/p&gt;
 
-#### Spending HD on Healing
-Players choose to spend their HD to heal ability loss, drain, or damage separately as follows: 
+&lt;h4 id=&quot;spending-hd-on-healing&quot;&gt;Spending HD on Healing&lt;/h4&gt;
+&lt;p&gt;Players choose to spend their HD to heal ability loss, drain, or damage separately as follows:&lt;/p&gt;
 
-* One Hit Die to recover one point of ability score loss. 
-* One Hit Die roll to recover drain.
-* One Hit Die roll to heal damage.
+&lt;ul&gt;
+  &lt;li&gt;One Hit Die to recover one point of ability score loss.&lt;/li&gt;
+  &lt;li&gt;One Hit Die roll to recover drain.&lt;/li&gt;
+  &lt;li&gt;One Hit Die roll to heal damage.&lt;/li&gt;
+&lt;/ul&gt;
 
-#### Modifying Hit Die Rolls
-Recovery assumes you have access to good shelter, food, sleep, and care. For each one of these conditions not met, the type of Hit Die rolled for recovery is reduced by one. This means 1d12 becomes 1d10, 1d10 a 1d8, and so forth down to a minimum of 1 point. See Chapter 5 in the DMG for more on conditions and survival.
+&lt;h4 id=&quot;modifying-hit-die-rolls&quot;&gt;Modifying Hit Die Rolls&lt;/h4&gt;
+&lt;p&gt;Recovery assumes you have access to good shelter, food, sleep, and care. For each one of these conditions not met, the type of Hit Die rolled for recovery is reduced by one. This means 1d12 becomes 1d10, 1d10 a 1d8, and so forth down to a minimum of 1 point. See Chapter 5 in the DMG for more on conditions and survival.&lt;/p&gt;
 
-**Shelter:** This assumes a restful and clean environment such as a private inn room or residence. In the wilderness this requires a DC 13 Wisdom (Survival) check with adequate supplies like tents, made with disadvantage setup or find a shelter with no equipment. A single character may make this roll for a group up to their skill bonus in size.
+&lt;p&gt;&lt;strong&gt;Shelter:&lt;/strong&gt; This assumes a restful and clean environment such as a private inn room or residence. In the wilderness this requires a DC 13 Wisdom (Survival) check with adequate supplies like tents, made with disadvantage setup or find a shelter with no equipment. A single character may make this roll for a group up to their skill bonus in size.&lt;/p&gt;
 
-**Good Food:** A hot meal or good quality food is needed for healing. Characters can use the [Foraging Rules](https://www.dndbeyond.com/sources/dmg/adventure-environments#Foraging) from Chapter 5 of the DMG if they need to find food in the wilderness. Finding *quality* food with foraging is difficult.  Roll twice when foraging and if both rolls are successful, the food is of high enough quality to satisfy this requirement.  Otherwise it is simply enough to keep you from starving.
+&lt;p&gt;&lt;strong&gt;Good Food:&lt;/strong&gt; A hot meal or good quality food is needed for healing. Characters can use the &lt;a href=&quot;https://www.dndbeyond.com/sources/dmg/adventure-environments#Foraging&quot;&gt;Foraging Rules&lt;/a&gt; from Chapter 5 of the DMG if they need to find food in the wilderness. Finding &lt;em&gt;quality&lt;/em&gt; food with foraging is difficult.  Roll twice when foraging and if both rolls are successful, the food is of high enough quality to satisfy this requirement.  Otherwise it is simply enough to keep you from starving.&lt;/p&gt;
 
-**Sleep**: Sleep or meditation is required as normal for your race. Without adequate shelter or if interrupted with combat this may require an individual DC 13 Constitution (Survival) check to satisfy this requirement. This roll may be modified or made at disadvantage under harsh conditions.
+&lt;p&gt;&lt;strong&gt;Sleep&lt;/strong&gt;: Sleep or meditation is required as normal for your race. Without adequate shelter or if interrupted with combat this may require an individual DC 13 Constitution (Survival) check to satisfy this requirement. This roll may be modified or made at disadvantage under harsh conditions.&lt;/p&gt;
 
-**Medical Care:** Having proper care is important for a speedy recovery. Characters proficient in the Medicine skill may make a DC 13 Wisdom (Medicine) check to provide proper medical care to themselves or others. The DC is increased by 2 for every patient over the first and is made at disadvantage without proper medical supplies. 
+&lt;p&gt;&lt;strong&gt;Medical Care:&lt;/strong&gt; Having proper care is important for a speedy recovery. Characters proficient in the Medicine skill may make a DC 13 Wisdom (Medicine) check to provide proper medical care to themselves or others. The DC is increased by 2 for every patient over the first and is made at disadvantage without proper medical supplies.&lt;/p&gt;
 
-### Starvation and Water
+&lt;h3 id=&quot;starvation-and-water&quot;&gt;Starvation and Water&lt;/h3&gt;
 
-As mentioned in the ***Good Food*** topic above, food is essential for survival and healing. Additionally, characters may suffer exhaustion from starvation or dehydration. The rules covering Food and Water in Chapter 8 of the PHB, and Foraging rules from Chapter 5 of the DMG, should cover this well.  Games that need more harsh survival conditions can simply modify the DCs as appropriate.
+&lt;p&gt;As mentioned in the &lt;strong&gt;&lt;em&gt;Good Food&lt;/em&gt;&lt;/strong&gt; topic above, food is essential for survival and healing. Additionally, characters may suffer exhaustion from starvation or dehydration. The rules covering Food and Water in Chapter 8 of the PHB, and Foraging rules from Chapter 5 of the DMG, should cover this well.  Games that need more harsh survival conditions can simply modify the DCs as appropriate.&lt;/p&gt;
 
-## Other Considerations
+&lt;h2 id=&quot;other-considerations&quot;&gt;Other Considerations&lt;/h2&gt;
 
-All-in-all a gritty playstyle will have extended rules over a number of sub-systems. These can be as expansive or brief as fits your campaign. However, I recommend starting with these gritty healing rules and see how they land with your players (*after* getting buy-in) and expanding from there if it seems fun. If so, you may also want to consider other expanded rules or modifications.
+&lt;p&gt;All-in-all a gritty playstyle will have extended rules over a number of sub-systems. These can be as expansive or brief as fits your campaign. However, I recommend starting with these gritty healing rules and see how they land with your players (&lt;em&gt;after&lt;/em&gt; getting buy-in) and expanding from there if it seems fun. If so, you may also want to consider other expanded rules or modifications.&lt;/p&gt;
 
-**Limiting Hit Points:** 5e does a better job of doing damage than most people give it credit for. However, there are various OSR rules for hit points you may want to consider if this is right for you. There is a different option that I think works better than limited hit points, that is limited healing.  **I will make a follow-up post about this later in the week** but a complimentary rule is something that requires players to spend HD to receive healing, otherwise it heals 1 pt. This prevents turning the cleric into a heal-bot and more.
+&lt;p&gt;&lt;strong&gt;Limiting Hit Points:&lt;/strong&gt; 5e does a better job of doing damage than most people give it credit for. However, there are various OSR rules for hit points you may want to consider if this is right for you. There is a different option that I think works better than limited hit points, that is limited healing.  &lt;strong&gt;I will make a follow-up post about this later in the week&lt;/strong&gt; but a complimentary rule is something that requires players to spend HD to receive healing, otherwise it heals 1 pt. This prevents turning the cleric into a heal-bot and more.&lt;/p&gt;
 
-**Infection &amp; Disease:** Using the disease rules from Chapter 8 of the DMG, you could decide to include infection from wounds in your game. I think this is for groups on the extreme end of gritty survival games but it's a consideration. Use the rules for Sewer Plague to govern any infection.
+&lt;p&gt;&lt;strong&gt;Infection &amp;amp; Disease:&lt;/strong&gt; Using the disease rules from Chapter 8 of the DMG, you could decide to include infection from wounds in your game. I think this is for groups on the extreme end of gritty survival games but it’s a consideration. Use the rules for Sewer Plague to govern any infection.&lt;/p&gt;
 
-**Lowering Ability Scores:** Many gritty games lean into randomly generated ability scores rather than having everyone in the group easily reaching maximum humanoid potential. So, choose a generation method that is right for you. Additionally, you may want to consider doing away with Ability Score Increases (ASI) and using Feats as the only option. This can add more variety and customization and some still come with a +1 ASI.
+&lt;p&gt;&lt;strong&gt;Lowering Ability Scores:&lt;/strong&gt; Many gritty games lean into randomly generated ability scores rather than having everyone in the group easily reaching maximum humanoid potential. So, choose a generation method that is right for you. Additionally, you may want to consider doing away with Ability Score Increases (ASI) and using Feats as the only option. This can add more variety and customization and some still come with a +1 ASI.&lt;/p&gt;
 
-**Spells:** Gritty play puts more burden on spells and spell casters. Some DMs may consider banning or modifying spells like Goodberry, Create Water, Healing Spirit, and Tiny Hut.
+&lt;p&gt;&lt;strong&gt;Spells:&lt;/strong&gt; Gritty play puts more burden on spells and spell casters. Some DMs may consider banning or modifying spells like Goodberry, Create Water, Healing Spirit, and Tiny Hut.&lt;/p&gt;
 
-## Campaigns
-Introducing a system like this significantly impacts the pacing of campaigns and challenge of encounters. This system works better for campaigns with modular encounters and opportunities to manage rest and recovery. Therefore, campaigns like Lost Mines of Phandelver, or Rime of the Frostmaiden may be better suited. Campaigns like Out of the Abyss or Tomb of Annihilation may require a lot of modification by the DM or be a poor fit for this style of play.
+&lt;h2 id=&quot;campaigns&quot;&gt;Campaigns&lt;/h2&gt;
+&lt;p&gt;Introducing a system like this significantly impacts the pacing of campaigns and challenge of encounters. This system works better for campaigns with modular encounters and opportunities to manage rest and recovery. Therefore, campaigns like Lost Mines of Phandelver, or Rime of the Frostmaiden may be better suited. Campaigns like Out of the Abyss or Tomb of Annihilation may require a lot of modification by the DM or be a poor fit for this style of play.&lt;/p&gt;
 
 &lt;div class=&quot;alert alert-warning&quot;&gt;
 &lt;i class=&quot;fas fa-exclamation-circle&quot;&gt;&lt;/i&gt; Watch for Part 2 of this series to address Gritty Healing and Spells, Potions, and Abilities later in the week.
 &lt;/div&gt;
 
-## Conclusion
-Gritty rules aren't for everyone, but can be a fun variation on your 5e play or suited for some groups playstyles. To be successful, you need full buy-in from everyone in the group and have to enjoy the management and level of detail that goes into this kind of play. Those that enjoy it can welcome the challenge of planning through recovery or mitigating for loss. DMs would do well to provide players both opportunities to shine, and interesting challenges to overcome through planning and preparation. To be sure, these rules are usually not for the faint of heart or play groups that don't like getting lost in the details.  Additionally, this playstyle is better suited for tier one and two play. However, most games happen in those tiers anyway and if you're looking for higher tier play, gritty rules were probably never a consideration.
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Gritty rules aren’t for everyone, but can be a fun variation on your 5e play or suited for some groups playstyles. To be successful, you need full buy-in from everyone in the group and have to enjoy the management and level of detail that goes into this kind of play. Those that enjoy it can welcome the challenge of planning through recovery or mitigating for loss. DMs would do well to provide players both opportunities to shine, and interesting challenges to overcome through planning and preparation. To be sure, these rules are usually not for the faint of heart or play groups that don’t like getting lost in the details.  Additionally, this playstyle is better suited for tier one and two play. However, most games happen in those tiers anyway and if you’re looking for higher tier play, gritty rules were probably never a consideration.&lt;/p&gt;
 
-Now go out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">The heroic playstyle of 5e D&amp;amp;D is a lot of fun, but it’s focused on the encounter for resource management and pacing. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, mitigation, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colville’s recent twitch hangout, I was inspired to write down my own thoughts on gritty rules for 5e.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">On Die Averages and Hit Points in 5e</title><link href="https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/" rel="alternate" type="text/html" title="On Die Averages and Hit Points in 5e" /><published>2021-06-22T09:32:00-04:00</published><updated>2021-06-22T09:32:00-04:00</updated><id>https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/">I've had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff.  However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results.  The solution isn't as complex as this is going to make it seem, I'm just laying out the specifics so it's all apparent.
+&lt;p&gt;Now go out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">The heroic playstyle of 5e D&amp;amp;D is a lot of fun, but it’s focused on the encounter for resource management and pacing. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, mitigation, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colville’s recent twitch hangout, I was inspired to write down my own thoughts on gritty rules for 5e.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">On Die Averages and Hit Points in 5e</title><link href="https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/" rel="alternate" type="text/html" title="On Die Averages and Hit Points in 5e" /><published>2021-06-22T09:32:00-04:00</published><updated>2021-06-22T09:32:00-04:00</updated><id>https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/22/understanding-die-average-and-hitpoints/">&lt;p&gt;I’ve had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff.  However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results.  The solution isn’t as complex as this is going to make it seem, I’m just laying out the specifics so it’s all apparent.&lt;/p&gt;
 
-**aside** I generated some of these examples out of a Jupyter Notebook, which you can run online yourself through [this link](https://mybinder.org/v2/gh/Streamweaver/DnDNotebook/0fe60184a44f012f10b67873958e1752bd8f5341?filepath=Stat%20Generation.ipynb){:target=&quot;_blank&quot;}.
+&lt;p&gt;&lt;strong&gt;aside&lt;/strong&gt; I generated some of these examples out of a Jupyter Notebook, which you can run online yourself through &lt;a href=&quot;https://mybinder.org/v2/gh/Streamweaver/DnDNotebook/0fe60184a44f012f10b67873958e1752bd8f5341?filepath=Stat%20Generation.ipynb&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
 
-## Dice Averages
+&lt;h2 id=&quot;dice-averages&quot;&gt;Dice Averages&lt;/h2&gt;
 
-A common point of confusion for people are the values given for averages on various dice.  People see the average of 1d6 listed at 3.5 or 4 and seem confused as some expect the value to be 3. This is a common logical error people make because they are just dividing 6 by 2 in their head and getting 3, but that's now what an average is.  An average is the sum of all possible results divided by the total number of values. In this case 1 through 6. Lets demonstrate below:
+&lt;p&gt;A common point of confusion for people are the values given for averages on various dice.  People see the average of 1d6 listed at 3.5 or 4 and seem confused as some expect the value to be 3. This is a common logical error people make because they are just dividing 6 by 2 in their head and getting 3, but that’s now what an average is.  An average is the sum of all possible results divided by the total number of values. In this case 1 through 6. Lets demonstrate below:&lt;/p&gt;
 
-### D8 Done Wrong
-This is an example of the math where people can go wrong.  Just dividing by 2 isn't an average and has the effect of assuming 
-zero is included in the set of numbers, obviously that isn't true.  (Even on a d10, as the 0 usually represents 10)
-{% include imageframe.html
-  figure_class=&quot;float-end ms-4&quot;
-  src=&quot;/assets/img/skillcheck-480x363.jpg&quot;
-  alt=&quot;A group of adventurers leaning over a table, seemingly confused by a map they are looking at&quot;
-  height=&quot;363&quot; width=&quot;480&quot;
-  caption=&quot;Image credit Wizards of the Coast&quot;
- %}
-```python
-# Quick pandas code
+&lt;h3 id=&quot;d8-done-wrong&quot;&gt;D8 Done Wrong&lt;/h3&gt;
+&lt;p&gt;This is an example of the math where people can go wrong.  Just dividing by 2 isn’t an average and has the effect of assuming 
+zero is included in the set of numbers, obviously that isn’t true.  (Even on a d10, as the 0 usually represents 10)&lt;/p&gt;
+&lt;figure class=&quot;figure float-end ms-4&quot;&gt;
+    
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/skillcheck-480x363.jpg&quot; alt=&quot;A group of adventurers leaning over a table, seemingly confused by a map they are looking at&quot; height=&quot;480&quot; /&gt;
+        
+    
+        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit Wizards of the Coast&lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Quick pandas code
 # Using incorrect assumptions on 1d8
-d8_wrong = [0, 1, 2, 3, 4, 5, 6, 7, 8]
-d8w = pd.Series(d8_wrong)
-d8w.mean()
-```
-    &gt; mean     4.000000
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_wrong&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8w&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Series&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_wrong&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8w&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; mean     4.000000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-### D8 Done Right
-```python
-# The correct way, listing only actual results on the die.
-d8_right = [1, 2, 3, 4, 5, 6, 7, 8]
-d8 = pd.Series(d8_right)
-d8.mean()
-```
-    &gt; mean     4.50000
+&lt;h3 id=&quot;d8-done-right&quot;&gt;D8 Done Right&lt;/h3&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# The correct way, listing only actual results on the die.
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_right&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Series&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_right&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; mean     4.50000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
+&lt;p&gt;This same pattern is repeated for every die type in the game. (i.e. 1d8, 1d10 …).  Obviously a die can’t roll a half value, 
+so on any single result the value for average is rounded to the nearest, which is 5 in this case. That’s how the average
+roll on 1d8 is determined to be a 5.&lt;/p&gt;
 
-This same pattern is repeated for every die type in the game. (i.e. 1d8, 1d10 ...).  Obviously a die can't roll a half value, 
-so on any single result the value for average is rounded to the nearest, which is 5 in this case. That's how the average
-roll on 1d8 is determined to be a 5.
+&lt;h2 id=&quot;single-rolls-vs-multiple-dice-rolls&quot;&gt;Single Rolls vs Multiple Dice Rolls&lt;/h2&gt;
 
-## Single Rolls vs Multiple Dice Rolls
+&lt;p&gt;It’s important to understand that while the average applies to a single die roll, it is not so when totaling multiple dice.  That is to say that the average of 3d6 is not 12 (3 * 4) but 11 (3 * 3.5 rounded up).  This difference introduces some confusion between determining average player hit points and average monster hit points.  The TLDR answer is that players calculate hit points discretely every level, while monsters are just determined at their CR. (Though frankly if you’re a
+TLDR kind of person, I don’t know how you got down here)&lt;/p&gt;
 
-It's important to understand that while the average applies to a single die roll, it is not so when totaling multiple dice.  That is to say that the average of 3d6 is not 12 (3 * 4) but 11 (3 * 3.5 rounded up).  This difference introduces some confusion between determining average player hit points and average monster hit points.  The TLDR answer is that players calculate hit points discretely every level, while monsters are just determined at their CR. (Though frankly if you're a
-TLDR kind of person, I don't know how you got down here)
+&lt;h2 id=&quot;the-confusion-of-hit-points&quot;&gt;The confusion of Hit Points&lt;/h2&gt;
 
-## The confusion of Hit Points
-
-In using these values, a bit of confusion comes in when we start to talk about how average Player Hit Points are
+&lt;p&gt;In using these values, a bit of confusion comes in when we start to talk about how average Player Hit Points are
 calculated as opposed to how average Monster Hit Points are determined.  The general difference is that player Hit
-Points are calculated discreetly per level, whereas Monster Hit Points are just a sum of the average.
+Points are calculated discreetly per level, whereas Monster Hit Points are just a sum of the average.&lt;/p&gt;
 
-This is less confusing than it sounds and just means that players add the total of a hit die rolled at each level, while
+&lt;p&gt;This is less confusing than it sounds and just means that players add the total of a hit die rolled at each level, while
 monsters are just a quick sum of all their hit dice.  Taking the example of 1d8 for player hit points, they use the max
 value at 1st level, so this is 8. If the player takes the average value, that means every level thereafter they would
-add the average of 1d8, which is 4.5.  Since 4.5 isn't an actual value on 1d8 they round up; this is one of the
-exceptions to the rounding rules in 5e.
+add the average of 1d8, which is 4.5.  Since 4.5 isn’t an actual value on 1d8 they round up; this is one of the
+exceptions to the rounding rules in 5e.&lt;/p&gt;
 
-### Example Average Player Hit Points
+&lt;h3 id=&quot;example-average-player-hit-points&quot;&gt;Example Average Player Hit Points&lt;/h3&gt;
 
-Lets start with an example that assumes a 5th level player with a +1 con mod. They apply the max roll at 1st level, then
-add the average value of the HD rounded up at each subsequent level, and add 5 for their con bonus.
+&lt;p&gt;Lets start with an example that assumes a 5th level player with a +1 con mod. They apply the max roll at 1st level, then
+add the average value of the HD rounded up at each subsequent level, and add 5 for their con bonus.&lt;/p&gt;
 
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;player_hp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;max&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;4.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ceil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;player_hp&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;33.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-```python
-player_hp = d8.max() + 4.0 * np.ceil(d8.mean()) + 5.0
-player_hp
-```
-    33.0
+&lt;p&gt;Since the average of 4.5 is rounded up each roll to 5, this gives players taking the average hit points every level a
+slight mathematical advantage over players who roll &lt;em&gt;on average&lt;/em&gt;. However, the rolled set is so low and variance so high
+that real world results are going to differ on a character by character basis.&lt;/p&gt;
 
-Since the average of 4.5 is rounded up each roll to 5, this gives players taking the average hit points every level a
-slight mathematical advantage over players who roll *on average*. However, the rolled set is so low and variance so high
-that real world results are going to differ on a character by character basis.
-
-A house rule I use in my own games is that players can either take the average hit points per level *OR* roll, but they
+&lt;p&gt;A house rule I use in my own games is that players can either take the average hit points per level &lt;em&gt;OR&lt;/em&gt; roll, but they
 all have to choose the same method.  I also allow the to reroll any 1s. This creates an interesting social dynamic for
-me as a DM.  This feels good for the players and is about the same in terms of the average expected roll, the mean of 1d8 shifts only from 4.5 to 4.93 and both round up to 5.  However there is a *slight* decrease in the chance of a low result and the same chance of a high result so the low end risk is a bit more shallow.
+me as a DM.  This feels good for the players and is about the same in terms of the average expected roll, the mean of 1d8 shifts only from 4.5 to 4.93 and both round up to 5.  However there is a &lt;em&gt;slight&lt;/em&gt; decrease in the chance of a low result and the same chance of a high result so the low end risk is a bit more shallow.&lt;/p&gt;
 
-```python
-d8_house_rule_values = [4.5, 2, 3, 4, 5, 6, 7, 8]
-d8_house_rule = pd.Series(d8_house_rule_values)
-d8_house_rule.max() + 4.0 * np.ceil(d8_house_rule.mean()) + 5.0
-```
-    33.0
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;d8_house_rule_values&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;4.5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8_house_rule&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Series&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_house_rule_values&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;d8_house_rule&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;max&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;4.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ceil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d8_house_rule&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;33.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-However, it's not so simple from a players point of view.  Perceptions of agency, risk vs reward, and the gamblers
-fallacy all combine to make an interesting party debate. They **feel** a sense of tension about this choice, and as if 
+&lt;p&gt;However, it’s not so simple from a players point of view.  Perceptions of agency, risk vs reward, and the gamblers
+fallacy all combine to make an interesting party debate. They &lt;strong&gt;feel&lt;/strong&gt; a sense of tension about this choice, and as if 
 something good was given them, which I think is generally good for a game.  The metagame benefit I get as a DM is that 
 this gives the players something to debate right out of the gate in a new campaign. Which means they start working out how to negotiate as a party
-immediately.
+immediately.&lt;/p&gt;
 
-### Example Average Monster Hit Points
+&lt;h3 id=&quot;example-average-monster-hit-points&quot;&gt;Example Average Monster Hit Points&lt;/h3&gt;
 
-The average monster hit points are much more simple.  However, the difference in how these are determined and how player
-average hit points are determined causes some confusion. In this case we don't worry about determining the actual hit
-points at each level or maxing out at first.  Monsters aren't supposed to be that complex.  Therefore, all we do is
-multiply the average hit die value by the number of monster HD.
+&lt;p&gt;The average monster hit points are much more simple.  However, the difference in how these are determined and how player
+average hit points are determined causes some confusion. In this case we don’t worry about determining the actual hit
+points at each level or maxing out at first.  Monsters aren’t supposed to be that complex.  Therefore, all we do is
+multiply the average hit die value by the number of monster HD.&lt;/p&gt;
 
-For consistency, lets take a Bugbear as an example. They are 5d8 HD creature with a +1 con mod, but the average hit
-points will be different from that of a player character.
+&lt;p&gt;For consistency, lets take a Bugbear as an example. They are 5d8 HD creature with a +1 con mod, but the average hit
+points will be different from that of a player character.&lt;/p&gt;
 
-```python
-bugbear_hp = 5.0 * d8.mean() + 5.0
-np.floor(bugbear_hp)
-```
-    27.0
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;bugbear_hp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;floor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bugbear_hp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;27.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-# Conclusion
- That seems like a lot but it's really just expressing the core ideas about why some misunderstandings arise and design faults creep in.  Once you get the right concept framed in your head it's not all that difficult but walking through the details can help some folks understand.  Having had this conversation several times recently, I thought I'd take the quick code I used during one of those discussions to throw up a blog post.</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">I’ve had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff. However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results. The solution isn’t as complex as this is going to make it seem, I’m just laying out the specifics so it’s all apparent.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Site Migration Complete</title><link href="https://www.optionalrule.com/2021/06/07/site-migration-deployed/" rel="alternate" type="text/html" title="Site Migration Complete" /><published>2021-06-07T00:00:00-04:00</published><updated>2021-06-07T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/06/07/site-migration-deployed</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/07/site-migration-deployed/">Our site migration is now complete!  This should mean a much better and faster experience for everyone visiting the site.  You will have noticed it's been a bit quiet around here and this has been the reason.  The previous wordpress site was just too slow and solutions to make it faster were either too expensive or as difficult as switching hosts.  Given this is a content oriented blog and doesn't need a lot of scripting, I decided to switch over to building the site on [Jekyll](https://jekyllrb.com/){: target=&quot;_blank&quot;} and hosting in [Github Pages](https://pages.github.com/){: target=&quot;_blank&quot;}.
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;That seems like a lot but it’s really just expressing the core ideas about why some misunderstandings arise and design faults creep in.  Once you get the right concept framed in your head it’s not all that difficult but walking through the details can help some folks understand.  Having had this conversation several times recently, I thought I’d take the quick code I used during one of those discussions to throw up a blog post.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">I’ve had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff. However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results. The solution isn’t as complex as this is going to make it seem, I’m just laying out the specifics so it’s all apparent.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/skillcheck-480x363.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Site Migration Complete</title><link href="https://www.optionalrule.com/2021/06/07/site-migration-deployed/" rel="alternate" type="text/html" title="Site Migration Complete" /><published>2021-06-07T00:00:00-04:00</published><updated>2021-06-07T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/06/07/site-migration-deployed</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/07/site-migration-deployed/">&lt;p&gt;Our site migration is now complete!  This should mean a much better and faster experience for everyone visiting the site.  You will have noticed it’s been a bit quiet around here and this has been the reason.  The previous wordpress site was just too slow and solutions to make it faster were either too expensive or as difficult as switching hosts.  Given this is a content oriented blog and doesn’t need a lot of scripting, I decided to switch over to building the site on &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; and hosting in &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
 
-I'm limited by time and skills like everyone but I try hard to keep the site accessible, responsive, and performant so I'm most proud of the accessibility and performance metrics I've been able to achieve.  Below is the lighthouse results from parsing the site. See lighthouse results screenshot below as of today.
+&lt;p&gt;I’m limited by time and skills like everyone but I try hard to keep the site accessible, responsive, and performant so I’m most proud of the accessibility and performance metrics I’ve been able to achieve.  Below is the lighthouse results from parsing the site. See lighthouse results screenshot below as of today.&lt;/p&gt;
 
-If you have any trouble with the site or notice any problems please tag or DM me on twitter and I hope you enjoy the new site!
+&lt;p&gt;If you have any trouble with the site or notice any problems please tag or DM me on twitter and I hope you enjoy the new site!&lt;/p&gt;
 
-{% include imageframe.html
-  src=&quot;/assets/img/lighthouse-results-1092x921.jpg&quot;
-  alt=&quot;Dashboard screenshot from lighthouse analytics showing performance, accessibility and other metrics.&quot;
-  height=&quot;921&quot; width=&quot;1092&quot;
-  caption=&quot;Image credit Wizards of the Coast&quot;
- %}</content><author><name>Scott Turnbull</name></author><category term="Misc" /><summary type="html">Our site migration is now complete! This should mean a much better and faster experience for everyone visiting the site. You will have noticed it’s been a bit quiet around here and this has been the reason. The previous wordpress site was just too slow and solutions to make it faster were either too expensive or as difficult as switching hosts. Given this is a content oriented blog and doesn’t need a lot of scripting, I decided to switch over to building the site on Jekyll and hosting in Github Pages.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/lighthouse-results-1092x921.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/lighthouse-results-1092x921.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">April 2021 Experimental House Rules</title><link href="https://www.optionalrule.com/2021/04/29/april-2021-experimental-house-rules/" rel="alternate" type="text/html" title="April 2021 Experimental House Rules" /><published>2021-04-29T10:05:37-04:00</published><updated>2021-04-29T10:05:37-04:00</updated><id>https://www.optionalrule.com/2021/04/29/april-2021-experimental-house-rules</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/29/april-2021-experimental-house-rules/">Like most 5th edition Dungeons &amp; Dragons DMs, I&amp;#8217;m constantly tinkering with the rules in hopes of improving the experience at the table. But it takes a bit of time and testing before I consider an idea worthy of officially adding to my game. As such, I&amp;#8217;ve been testing out some ideas on &lt;a href=&quot;https://www.twitter.com/optionalrule&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Twitter &lt;/a&gt;for feedback. These are the various rules I&amp;#8217;ve thrown out for feedback during up through the end of April 2021. After a time, if they seem worthwhile I&amp;#8217;ll officially add them to &lt;a href=&quot;https://optionalrule.com/2021/02/10/my-current-5e-house-rules/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;my own house rules&lt;/a&gt; list.
+&lt;figure class=&quot;figure &quot;&gt;
+    
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/lighthouse-results-1092x921.jpg&quot; alt=&quot;Dashboard screenshot from lighthouse analytics showing performance, accessibility and other metrics.&quot; height=&quot;1092&quot; /&gt;
+        
+    
+        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit Wizards of the Coast&lt;/figcaption&gt;
+    
+&lt;/figure&gt;</content><author><name>Scott Turnbull</name></author><category term="Misc" /><summary type="html">Our site migration is now complete! This should mean a much better and faster experience for everyone visiting the site. You will have noticed it’s been a bit quiet around here and this has been the reason. The previous wordpress site was just too slow and solutions to make it faster were either too expensive or as difficult as switching hosts. Given this is a content oriented blog and doesn’t need a lot of scripting, I decided to switch over to building the site on Jekyll and hosting in Github Pages.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/lighthouse-results-1092x921.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/lighthouse-results-1092x921.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">April 2021 Experimental House Rules</title><link href="https://www.optionalrule.com/2021/04/29/april-2021-experimental-house-rules/" rel="alternate" type="text/html" title="April 2021 Experimental House Rules" /><published>2021-04-29T10:05:37-04:00</published><updated>2021-04-29T10:05:37-04:00</updated><id>https://www.optionalrule.com/2021/04/29/april-2021-experimental-house-rules</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/29/april-2021-experimental-house-rules/">&lt;p&gt;Like most 5th edition Dungeons &amp;amp; Dragons DMs, I’m constantly tinkering with the rules in hopes of improving the experience at the table. But it takes a bit of time and testing before I consider an idea worthy of officially adding to my game. As such, I’ve been testing out some ideas on &lt;a href=&quot;https://www.twitter.com/optionalrule&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Twitter &lt;/a&gt;for feedback. These are the various rules I’ve thrown out for feedback during up through the end of April 2021. After a time, if they seem worthwhile I’ll officially add them to &lt;a href=&quot;https://optionalrule.com/2021/02/10/my-current-5e-house-rules/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;my own house rules&lt;/a&gt; list.&lt;/p&gt;
 
-## Defense
+&lt;h2 id=&quot;defense&quot;&gt;Defense&lt;/h2&gt;
 
-  * You may use your reaction to use the Dodge action when an attack has been declared against you, but before the results have been rolled. When you do so, you may only use the Dodge, Hide, Help, Dash, or Disengage action on your next turn.
+&lt;ul&gt;
+  &lt;li&gt;You may use your reaction to use the Dodge action when an attack has been declared against you, but before the results have been rolled. When you do so, you may only use the Dodge, Hide, Help, Dash, or Disengage action on your next turn.&lt;/li&gt;
+&lt;/ul&gt;
 
-### Comments So Far
+&lt;h3 id=&quot;comments-so-far&quot;&gt;Comments So Far&lt;/h3&gt;
 
-My motivation here is to create slightly more dynamic options in combat. In particular this rule would benefit intelligent group base combat. Additionally it would mitigate the devastation of a single high damage Big Bad Evil Guy (BBEG) attack. This being more common in many adventures now. Taken together, the intent would be to have another option to manage combat though choices.
+&lt;p&gt;My motivation here is to create slightly more dynamic options in combat. In particular this rule would benefit intelligent group base combat. Additionally it would mitigate the devastation of a single high damage Big Bad Evil Guy (BBEG) attack. This being more common in many adventures now. Taken together, the intent would be to have another option to manage combat though choices.&lt;/p&gt;
 
-The overall feedback has been positive on this. One notable commenters thought this would give too many options to power gamers to cheese in and out of combat. However, I&amp;#8217;m not sure disadvantage is as much protection as people think. In particular, it benefits characters with high ACs the most, but they are less likely to be inclined to use it. So, for my part the theory seems solid here, the feedback generally positive enough to think about testing this in my game.
+&lt;p&gt;The overall feedback has been positive on this. One notable commenters thought this would give too many options to power gamers to cheese in and out of combat. However, I’m not sure disadvantage is as much protection as people think. In particular, it benefits characters with high ACs the most, but they are less likely to be inclined to use it. So, for my part the theory seems solid here, the feedback generally positive enough to think about testing this in my game.&lt;/p&gt;
 
-### Grappling
+&lt;h3 id=&quot;grappling&quot;&gt;Grappling&lt;/h3&gt;
 
-  * You may use your Bonus Action to perform Help against a creature you are grappling.
-  * If you are able to make multiple attacks with the Attack action, you can replace one of them with an attempt to Escape a Grapple.
-  * Every character starts with The Grappler feat.
+&lt;ul&gt;
+  &lt;li&gt;You may use your Bonus Action to perform Help against a creature you are grappling.&lt;/li&gt;
+  &lt;li&gt;If you are able to make multiple attacks with the Attack action, you can replace one of them with an attempt to Escape a Grapple.&lt;/li&gt;
+  &lt;li&gt;Every character starts with The Grappler feat.&lt;/li&gt;
+&lt;/ul&gt;
 
-### Comments So Far
+&lt;h3 id=&quot;comments-so-far-1&quot;&gt;Comments So Far&lt;/h3&gt;
 
-Like the defensive options above, my thinking here is again to provide some more dynamic options in combat. Currently, grapple is used to control someones movement and has no option to pin anyone. I believe the logic is that pinning someone is &amp;#8216;winning&amp;#8217; and that is already handle in Hitpoints. However, I think it could be fun and return some potions to anyone in melee.
+&lt;p&gt;Like the defensive options above, my thinking here is again to provide some more dynamic options in combat. Currently, grapple is used to control someones movement and has no option to pin anyone. I believe the logic is that pinning someone is ‘winning’ and that is already handle in Hitpoints. However, I think it could be fun and return some potions to anyone in melee.&lt;/p&gt;
 
-The feedback here was overwhelmingly positive. Several commenters replied with &lt;a href=&quot;https://thinkdm.org/2018/06/16/grappling/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;house rules of their own&lt;/a&gt;, many using some mix of these options already. Again, the theory seemingly solid and feedback being good, this is definitely moving to testing at my table.
+&lt;p&gt;The feedback here was overwhelmingly positive. Several commenters replied with &lt;a href=&quot;https://thinkdm.org/2018/06/16/grappling/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;house rules of their own&lt;/a&gt;, many using some mix of these options already. Again, the theory seemingly solid and feedback being good, this is definitely moving to testing at my table.&lt;/p&gt;
 
-## Request for More Feedback
+&lt;h2 id=&quot;request-for-more-feedback&quot;&gt;Request for More Feedback&lt;/h2&gt;
 
-If you find any of these house rules interesting or have thoughts, please hit me up on Twitter with any comments. If you try any of these out at your table please let me know how it goes. In the months ahead I&amp;#8217;ll try to add additional features with rolled up house rules for that period. Perhaps I&amp;#8217;ll return with feedback from testing on these as well.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Like most 5th edition Dungeons &amp;amp; Dragons DMs, I’m constantly tinkering with the rules in hopes of improving the experience at the table. But it takes a bit of time and testing before I consider an idea worthy of officially adding to my game. As such, I’ve been testing out some ideas on Twitter for feedback. These are the various rules I’ve thrown out for feedback during up through the end of April 2021. After a time, if they seem worthwhile I’ll officially add them to my own house rules list.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">When Failure Isn’t an Option in 5e</title><link href="https://www.optionalrule.com/2021/04/21/when-failure-isnt-an-option-in-5e/" rel="alternate" type="text/html" title="When Failure Isn’t an Option in 5e" /><published>2021-04-21T12:18:12-04:00</published><updated>2021-04-21T12:18:12-04:00</updated><id>https://www.optionalrule.com/2021/04/21/when-failure-isnt-an-option-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/21/when-failure-isnt-an-option-in-5e/">Handling failure is something people seem to struggle with in 5th edition Dungeons &amp; Dragons. When to fail, what happens when you do, and how to keep the game moving are constant topics of discussions. In my view, [Progressive Failure and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %}) is a very useful technique, but it&amp;#8217;s just one of many in the DMs toolbox. As a discussion topic, people often seem to misunderstand the role of failure in RPGs. Worse, a small sub-population has begun to take terms like &amp;#8216;failing-forward&amp;#8217; to mean failure shouldn&amp;#8217;t be possible. So taking a moment to consider the options and tools available can make even failure a fun experience in TTRPGs.
+&lt;p&gt;If you find any of these house rules interesting or have thoughts, please hit me up on Twitter with any comments. If you try any of these out at your table please let me know how it goes. In the months ahead I’ll try to add additional features with rolled up house rules for that period. Perhaps I’ll return with feedback from testing on these as well.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Like most 5th edition Dungeons &amp;amp; Dragons DMs, I’m constantly tinkering with the rules in hopes of improving the experience at the table. But it takes a bit of time and testing before I consider an idea worthy of officially adding to my game. As such, I’ve been testing out some ideas on Twitter for feedback. These are the various rules I’ve thrown out for feedback during up through the end of April 2021. After a time, if they seem worthwhile I’ll officially add them to my own house rules list.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">When Failure Isn’t an Option in 5e</title><link href="https://www.optionalrule.com/2021/04/21/when-failure-isnt-an-option-in-5e/" rel="alternate" type="text/html" title="When Failure Isn’t an Option in 5e" /><published>2021-04-21T12:18:12-04:00</published><updated>2021-04-21T12:18:12-04:00</updated><id>https://www.optionalrule.com/2021/04/21/when-failure-isnt-an-option-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/21/when-failure-isnt-an-option-in-5e/">&lt;p&gt;Handling failure is something people seem to struggle with in 5th edition Dungeons &amp;amp; Dragons. When to fail, what happens when you do, and how to keep the game moving are constant topics of discussions. In my view, &lt;a href=&quot;/2021/01/03/progressive-failures-and-rising-tension-in-5th-edition/&quot;&gt;Progressive Failure and Rising Tension&lt;/a&gt; is a very useful technique, but it’s just one of many in the DMs toolbox. As a discussion topic, people often seem to misunderstand the role of failure in RPGs. Worse, a small sub-population has begun to take terms like ‘failing-forward’ to mean failure shouldn’t be possible. So taking a moment to consider the options and tools available can make even failure a fun experience in TTRPGs.&lt;/p&gt;
 
-## Failing to Fail
+&lt;h2 id=&quot;failing-to-fail&quot;&gt;Failing to Fail&lt;/h2&gt;
 
-The first order problem many DMs have with failure is introducing it at the wrong time. Mystery scenarios are a great example of this, where players must uncover a clue to move the game forward. Likewise, an NPC might need to be influenced to allow the plot to progress. While DMs might think this is a moment of tension that needs a skill roll, these are exactly the kinds of situations you do NOT want to roll for. Anything that can bring a game to a stop shouldn&amp;#8217;t be subject to failure.
+&lt;p&gt;The first order problem many DMs have with failure is introducing it at the wrong time. Mystery scenarios are a great example of this, where players must uncover a clue to move the game forward. Likewise, an NPC might need to be influenced to allow the plot to progress. While DMs might think this is a moment of tension that needs a skill roll, these are exactly the kinds of situations you do NOT want to roll for. Anything that can bring a game to a stop shouldn’t be subject to failure.&lt;/p&gt;
 
-_**Players should always have the minimal information and access they need to advance the story.**_ Never gate the critical path for an adventure behind a roll. So yes, this means if the players show up or make any effort at all, they get the information they need to get to advance things one step. However, it&amp;#8217;s important to realize that this is the **_absolute minimum_** information or access they need. Artful use of skills by the players should let them advanced in a strong position. Indeed the DM and player should work together to discover options for these additional actions. But there should always be a path forward in an adventure, even if it&amp;#8217;s a hard one.
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Players should always have the minimal information and access they need to advance the story.&lt;/strong&gt;&lt;/em&gt; Never gate the critical path for an adventure behind a roll. So yes, this means if the players show up or make any effort at all, they get the information they need to get to advance things one step. However, it’s important to realize that this is the &lt;strong&gt;&lt;em&gt;absolute minimum&lt;/em&gt;&lt;/strong&gt; information or access they need. Artful use of skills by the players should let them advanced in a strong position. Indeed the DM and player should work together to discover options for these additional actions. But there should always be a path forward in an adventure, even if it’s a hard one.&lt;/p&gt;
 
-## Why Fail?
+&lt;h2 id=&quot;why-fail&quot;&gt;Why Fail?&lt;/h2&gt;
 
-Risk is at the heart of adventure and acknowledging **_failure with appropriate consequences in an important dynamic in TTRPGs_**. Additionally, how a character fails can itself be an important element for driving adventures forward. With this in mind, DMs have several tools available to handle failure and keep the game flowing. Among these:
+&lt;p&gt;Risk is at the heart of adventure and acknowledging &lt;strong&gt;&lt;em&gt;failure with appropriate consequences in an important dynamic in TTRPGs&lt;/em&gt;&lt;/strong&gt;. Additionally, how a character fails can itself be an important element for driving adventures forward. With this in mind, DMs have several tools available to handle failure and keep the game flowing. Among these:&lt;/p&gt;
 
-  * Matt Colville&amp;#8217;s Running the Game series. In particular &lt;a href=&quot;https://www.youtube.com/watch?v=l1zaNJrXi5Y&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Many Fail States&lt;/a&gt; discusses different ways to handle failure. Also, some reflection on &lt;a href=&quot;https://www.youtube.com/watch?v=8Q8bVPpc84A&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Catastrophic Failure&lt;/a&gt; in games acknowledges that sometimes you just have to accept failure.
-  * My aforementioned [Progressive Failure and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %}) creates an interactive and dynamic system to allow players to **_manage failure through rising stakes and increasing tension_**.
-  * Success at a Cost is a concept I first encountered in the FATE system and is reiterated in Chapter 8 of the DMG. It essentially allows DMs to **_turn failures into a success but add some complication_** or require a follow on check or action.
-  * Degrees of Failure in Chapter 8 of the DMG scales failure based on the margin of failure. This **_emphasises spectacular failure as a dramatic vehicle_**.
-  * Also, there is a concept called &amp;#8220;Failing Forward&amp;#8221; that&amp;#8217;s been kicking around longer than I can remember. There are several different but the core allows players to try to continue by trying something different. **_Failing Forward is an opportunity to succeed by other means._**
+&lt;ul&gt;
+  &lt;li&gt;Matt Colville’s Running the Game series. In particular &lt;a href=&quot;https://www.youtube.com/watch?v=l1zaNJrXi5Y&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Many Fail States&lt;/a&gt; discusses different ways to handle failure. Also, some reflection on &lt;a href=&quot;https://www.youtube.com/watch?v=8Q8bVPpc84A&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Catastrophic Failure&lt;/a&gt; in games acknowledges that sometimes you just have to accept failure.&lt;/li&gt;
+  &lt;li&gt;My aforementioned &lt;a href=&quot;/2021/01/03/progressive-failures-and-rising-tension-in-5th-edition/&quot;&gt;Progressive Failure and Rising Tension&lt;/a&gt; creates an interactive and dynamic system to allow players to &lt;strong&gt;&lt;em&gt;manage failure through rising stakes and increasing tension&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Success at a Cost is a concept I first encountered in the FATE system and is reiterated in Chapter 8 of the DMG. It essentially allows DMs to &lt;strong&gt;&lt;em&gt;turn failures into a success but add some complication&lt;/em&gt;&lt;/strong&gt; or require a follow on check or action.&lt;/li&gt;
+  &lt;li&gt;Degrees of Failure in Chapter 8 of the DMG scales failure based on the margin of failure. This &lt;strong&gt;&lt;em&gt;emphasises spectacular failure as a dramatic vehicle&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Also, there is a concept called “Failing Forward” that’s been kicking around longer than I can remember. There are several different but the core allows players to try to continue by trying something different. &lt;strong&gt;&lt;em&gt;Failing Forward is an opportunity to succeed by other means.&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-## Conclusion 
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-**Failure is as valuable an outcome as success in TTRPGs.** So having options in mind for how to manage failure in interesting ways is valuable for DMs. A mistaken idea seems to be leaking into some sub-cultures in 5e, who take the position that failure shouldn&amp;#8217;t be an option. This is a grave mistake, what they should be saying is that **_failure shouldn&amp;#8217;t be an end_**. The game is at it&amp;#8217;s best when the players can transform the world through their actions. Transformation can happen through success or failure.  **Regardless of success or failure, the best outcome is something fun or interesting**.
+&lt;p&gt;&lt;strong&gt;Failure is as valuable an outcome as success in TTRPGs.&lt;/strong&gt; So having options in mind for how to manage failure in interesting ways is valuable for DMs. A mistaken idea seems to be leaking into some sub-cultures in 5e, who take the position that failure shouldn’t be an option. This is a grave mistake, what they should be saying is that &lt;strong&gt;&lt;em&gt;failure shouldn’t be an end&lt;/em&gt;&lt;/strong&gt;. The game is at it’s best when the players can transform the world through their actions. Transformation can happen through success or failure.  &lt;strong&gt;Regardless of success or failure, the best outcome is something fun or interesting&lt;/strong&gt;.&lt;/p&gt;
 
-Now get out there and run some great games.</content><author><name>Scott Turnbull Turnbull</name></author><category term="RPG Resources" /><summary type="html">Handling failure is something people seem to struggle with in 5th edition Dungeons &amp;amp; Dragons. When to fail, what happens when you do, and how to keep the game moving are constant topics of discussions. In my view, Progressive Failure and Rising Tension is a very useful technique, but it’s just one of many in the DMs toolbox. As a discussion topic, people often seem to misunderstand the role of failure in RPGs. Worse, a small sub-population has begun to take terms like ‘failing-forward’ to mean failure shouldn’t be possible. So taking a moment to consider the options and tools available can make even failure a fun experience in TTRPGs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">5e Spell Save &amp;amp; Damage Breakdown</title><link href="https://www.optionalrule.com/2021/04/15/5e-spell-save-damage-breakdown/" rel="alternate" type="text/html" title="5e Spell Save &amp;amp; Damage Breakdown" /><published>2021-04-15T00:00:00-04:00</published><updated>2021-04-15T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/04/15/5e-spell-save-damage-breakdown</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/15/5e-spell-save-damage-breakdown/">I recently started aggregating some data I&amp;#8217;ve gathered about spells from 5e Dungeons &amp; Dragons. Primarily, this has been for fun and to see if I&amp;#8217;d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you&amp;#8217;ll find this fun and interesting yourself and I would love to hear any observations you have.
+&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull Turnbull</name></author><category term="RPG Resources" /><summary type="html">Handling failure is something people seem to struggle with in 5th edition Dungeons &amp;amp; Dragons. When to fail, what happens when you do, and how to keep the game moving are constant topics of discussions. In my view, Progressive Failure and Rising Tension is a very useful technique, but it’s just one of many in the DMs toolbox. As a discussion topic, people often seem to misunderstand the role of failure in RPGs. Worse, a small sub-population has begun to take terms like ‘failing-forward’ to mean failure shouldn’t be possible. So taking a moment to consider the options and tools available can make even failure a fun experience in TTRPGs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">5e Spell Save &amp;amp; Damage Breakdown</title><link href="https://www.optionalrule.com/2021/04/15/5e-spell-save-damage-breakdown/" rel="alternate" type="text/html" title="5e Spell Save &amp;amp; Damage Breakdown" /><published>2021-04-15T00:00:00-04:00</published><updated>2021-04-15T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/04/15/5e-spell-save-damage-breakdown</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/15/5e-spell-save-damage-breakdown/">&lt;p&gt;I recently started aggregating some data I’ve gathered about spells from 5e Dungeons &amp;amp; Dragons. Primarily, this has been for fun and to see if I’d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you’ll find this fun and interesting yourself and I would love to hear any observations you have.&lt;/p&gt;
 
-These are the result of analyzing 477 spells across the Players Handbook, Xanathar&amp;#8217;s Guide to Everything, and Tasha&amp;#8217;s Caldron of Everything. 
+&lt;p&gt;These are the result of analyzing 477 spells across the Players Handbook, Xanathar’s Guide to Everything, and Tasha’s Caldron of Everything.&lt;/p&gt;
 
-## 5e Spell Saves by Class
+&lt;h2 id=&quot;5e-spell-saves-by-class&quot;&gt;5e Spell Saves by Class&lt;/h2&gt;
 
-|Save Type|Artificer|Bard|Cleric|Druid|Paladin|Ranger|Sorcerer|Warlock|Wizard|Total|
-|--- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
-|Dexterity|16|4|8|25||8|36|7|43|64|
-|Wisdom|2|30|9|10|5|1|21|21|38|50|
-|Strength|2||1|14|1|3|10|3|12|20|
-|Charisma||7|12|2|4||3|5|9|16|
-|Constitution|9|10|10|19|4|1|32|20|40|54|
-|Intelligence||6|1|1|||5|6|9|11|
-{: .table .table-striped .table-hover}
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Save Type&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Artificer&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bard&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Cleric&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Druid&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Paladin&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Ranger&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Sorcerer&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Warlock&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Wizard&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Total&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Dexterity&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;25&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;36&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;43&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;64&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wisdom&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;21&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;21&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;38&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;50&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Strength&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charisma&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Constitution&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;19&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;32&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;40&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;54&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Intelligence&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-I found a few of these results surprising and overall the implied intention behind the design of spells saves by class can help with subclass design. For instance, the Bard being so heavily invested in Wisdom saves emphasises their focus on enchantment and the mind. Likewise, the Druid&amp;#8217;s Strength save focus is a defacto statement of their magic interacting with the physical world. Additionally, the relative even distribution of Wizards saves speaks to their flexibility. Lastly, drives home the point of common observations like the over loading of Dexterity. 
+&lt;p&gt;I found a few of these results surprising and overall the implied intention behind the design of spells saves by class can help with subclass design. For instance, the Bard being so heavily invested in Wisdom saves emphasises their focus on enchantment and the mind. Likewise, the Druid’s Strength save focus is a defacto statement of their magic interacting with the physical world. Additionally, the relative even distribution of Wizards saves speaks to their flexibility. Lastly, drives home the point of common observations like the over loading of Dexterity.&lt;/p&gt;
 
-Overall my read here is that the type of saves given to a spell is intentionally significant. So, when vetting a new spell from a supplement, UA, or created by a player, this seems important to keep in mind.
+&lt;p&gt;Overall my read here is that the type of saves given to a spell is intentionally significant. So, when vetting a new spell from a supplement, UA, or created by a player, this seems important to keep in mind.&lt;/p&gt;
 
-## 5e Spell Conditions &amp; Damage 
+&lt;h2 id=&quot;5e-spell-conditions--damage&quot;&gt;5e Spell Conditions &amp;amp; Damage&lt;/h2&gt;
 
-Again a bit of a data dump here, but this is a tally of the number of spells that inflict a condition or particular damage type by class. As with saves above, I think it&amp;#8217;s fair to say there is an implied intentional design here. For instance, the lack of condition inflicting spells for Artificers and Paladin&amp;#8217;s clearly indicate their intention as a damage dealing class. The opposite is true for Bard, which clearly seems designed to inflict conditions. While, Wizards and other classes maintain their flexibility.
+&lt;p&gt;Again a bit of a data dump here, but this is a tally of the number of spells that inflict a condition or particular damage type by class. As with saves above, I think it’s fair to say there is an implied intentional design here. For instance, the lack of condition inflicting spells for Artificers and Paladin’s clearly indicate their intention as a damage dealing class. The opposite is true for Bard, which clearly seems designed to inflict conditions. While, Wizards and other classes maintain their flexibility.&lt;/p&gt;
 
-### Spells by Damage Type per Class 
+&lt;h3 id=&quot;spells-by-damage-type-per-class&quot;&gt;Spells by Damage Type per Class&lt;/h3&gt;
 
-|Damage Type|Artificer|Bard|Cleric|Druid|Paladin|Ranger|Sorcerer|Warlock|Wizard|Total|
-|--- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
-|Acid|6|1|1|3|1||6|2|10|16|
-|Bludgeoning|7|2|3|18||2|14|2|17|26|
-|Cold|6|1|1|6|1||11|5|17|23|
-|Fire|10|2|3|10|2|1|21|5|25|34|
-|Force|2|3|2|1|1|3|6|4|10|17|
-|Lightning|6|1|1|3|1|1|10|3|13|18|
-|Necrotic||2|8|1|1||7|11|14|23|
-|Piercing|6|1|1|5||4|4||4|11|
-|Poison|1|||2|||8|2|9|10|
-|Psychic||8|1|2|3||7|9|13|20|
-|Radiant|||9|3|6||5|3|6|21|
-|Slashing|3|2|1|2||1|3|1|3|6|
-|Thunder|6|4|1|4|3||7|5|8|13|
-{: .table .table-striped .table-hover}
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Damage Type&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Artificer&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bard&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Cleric&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Druid&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Paladin&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Ranger&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Sorcerer&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Warlock&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Wizard&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Total&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Acid&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bludgeoning&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;17&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;26&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cold&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;17&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fire&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;21&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;25&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;34&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Force&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lightning&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Necrotic&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Piercing&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Poison&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Psychic&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Radiant&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Slashing&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Thunder&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-### Spells by Condition Inflicted per Class 
+&lt;h3 id=&quot;spells-by-condition-inflicted-per-class&quot;&gt;Spells by Condition Inflicted per Class&lt;/h3&gt;
 
-|Condition|Artificer|Bard|Cleric|Druid|Paladin|Ranger|Sorcerer|Warlock|Wizard|Total|
-|--- |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |:-: |
-|Blinded|1|5|6|4|2||7|2|12|18|
-|Charmed||10|1|7|1|2|7|5|8|13|
-|Deafened||5|3|2||1|2||4|7|
-|Exhaustion|||||||1|1|2|2|
-|Frightened||3|1|1|1||2|3|8|9|
-|Incapacitated||5|3|2|2||2|2|6|8|
-|Invisible|2|3|||||2|1|4|4|
-|Paralyzed||2|1|1|||2|2|2|2|
-|Petrified|||||||1|1|3|3|
-|Poisoned|||1|1|||1||1|3|
-|Prone|1|2|3|9|3|1|7|1|8|14|
-|Restrained|3|||7||3|6|2|12|16|
-|Stunned||3|3|2|||3|3|4|6|
-|Unconscious|1|4|2||||3|2|5|6|
-{: .table .table-striped .table-hover}
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Condition&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Artificer&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bard&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Cleric&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Druid&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Paladin&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Ranger&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Sorcerer&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Warlock&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Wizard&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Total&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Blinded&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charmed&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Deafened&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Exhaustion&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Frightened&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Incapacitated&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Invisible&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Paralyzed&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Petrified&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Poisoned&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Prone&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Restrained&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Stunned&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Unconscious&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Overall, this is just an intellectual exercise I found to be a bit of fun. There’s nothing earth shattering in these numbers, but I did find a few surprises. For me, it fixes firmly the intentional design of spell effects that help me vet or design new spells and subclasses. Additionally, it helps me understand where the gaps are either as a player or when designing scenarios as a DM. Particularly, with adventure design I think it’s important to know what the distribution of options are as you need to design broadly.&lt;/p&gt;
 
-## Conclusion
-Overall, this is just an intellectual exercise I found to be a bit of fun. There&amp;#8217;s nothing earth shattering in these numbers, but I did find a few surprises. For me, it fixes firmly the intentional design of spell effects that help me vet or design new spells and subclasses. Additionally, it helps me understand where the gaps are either as a player or when designing scenarios as a DM. Particularly, with adventure design I think it&amp;#8217;s important to know what the distribution of options are as you need to design broadly.
+&lt;p&gt;The only real conclusion I have is with subclasses like the College of Scribe Wizard from Tasha’s. I excluded that from my own games because I thought the ability to change damage type was too powerful and went against the class concepts. This confirms that assessment for me, but obviously my take is in the minority if reaction online is any gauge.&lt;/p&gt;
 
-The only real conclusion I have is with subclasses like the College of Scribe Wizard from Tasha&amp;#8217;s. I excluded that from my own games because I thought the ability to change damage type was too powerful and went against the class concepts. This confirms that assessment for me, but obviously my take is in the minority if reaction online is any gauge.
+&lt;p&gt;Regardless, I hope you found these numbers interesting and a bit of fun as well. Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">I recently started aggregating some data I’ve gathered about spells from 5e Dungeons &amp;amp; Dragons. Primarily, this has been for fun and to see if I’d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you’ll find this fun and interesting yourself and I would love to hear any observations you have.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Monster Resistance Totals in 5e</title><link href="https://www.optionalrule.com/2021/04/07/monster-resistance-totals-in-5e/" rel="alternate" type="text/html" title="Monster Resistance Totals in 5e" /><published>2021-04-07T00:00:00-04:00</published><updated>2021-04-07T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/04/07/monster-resistance-totals-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/07/monster-resistance-totals-in-5e/">&lt;p&gt;Taking down monsters in 5th Edition Dungeons &amp;amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (&lt;strong&gt;W&lt;/strong&gt;), Resistances (&lt;strong&gt;R&lt;/strong&gt;), or Immunities (&lt;strong&gt;I&lt;/strong&gt;). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM.&lt;/p&gt;
 
-Regardless, I hope you found these numbers interesting and a bit of fun as well. Now get out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">I recently started aggregating some data I’ve gathered about spells from 5e Dungeons &amp;amp; Dragons. Primarily, this has been for fun and to see if I’d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you’ll find this fun and interesting yourself and I would love to hear any observations you have.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Monster Resistance Totals in 5e</title><link href="https://www.optionalrule.com/2021/04/07/monster-resistance-totals-in-5e/" rel="alternate" type="text/html" title="Monster Resistance Totals in 5e" /><published>2021-04-07T00:00:00-04:00</published><updated>2021-04-07T00:00:00-04:00</updated><id>https://www.optionalrule.com/2021/04/07/monster-resistance-totals-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2021/04/07/monster-resistance-totals-in-5e/">Taking down monsters in 5th Edition Dungeons &amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn&amp;#8217;t just a matter of damage, as many monsters will also have Weaknesses (**W**), Resistances (**R**), or Immunities (**I**). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM. 
+&lt;h2 id=&quot;the-reoccuring-context&quot;&gt;The Reoccuring Context&lt;/h2&gt;
 
-## The Reoccuring Context 
+&lt;p&gt;Two topics that come up often online are:&lt;/p&gt;
 
-Two topics that come up often online are:
+&lt;ul&gt;
+  &lt;li&gt;Do resistances matter and how much?&lt;/li&gt;
+  &lt;li&gt;Does it matter if a DM lets players reskin spells to any damage or save type?&lt;/li&gt;
+&lt;/ul&gt;
 
-  * Do resistances matter and how much? 
-  * Does it matter if a DM lets players reskin spells to any damage or save type?
+&lt;p&gt;My instinctive answer to these questions has always been ‘absolutely’, but getting numbers is the only real way to answer. So I set about doing just that.&lt;/p&gt;
 
-My instinctive answer to these questions has always been &amp;#8216;absolutely&amp;#8217;, but getting numbers is the only real way to answer. So I set about doing just that.
+&lt;h2 id=&quot;getting-data-to-parse&quot;&gt;Getting Data to Parse&lt;/h2&gt;
 
-## Getting Data to Parse
+&lt;p&gt;Reliable structured data is difficult to get for many things in 5e. This is something that I urge WotC to do something about, but that’s a discussion for another day.&lt;/p&gt;
 
-Reliable structured data is difficult to get for many things in 5e. This is something that I urge WotC to do something about, but that&amp;#8217;s a discussion for another day.
+&lt;p&gt;I ran across &lt;a href=&quot;https://www.reddit.com/r/UnearthedArcana/comments/8zvr6s/the_great_dd5e_monster_spreadsheet/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;The Great D&amp;amp;D5e Monster Spreadsheet&lt;/a&gt; thread on reddit. This is a great fan effort of manually entered data for 799 monsters from various core books, as well as many Homebrew monster. I choose to focus only on monster stat blocks from official sources and &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1sx7Cc94yHu3UPjHf0uv1mHA8IoVyTxB4UWqGyLmUm6g/edit?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;copied my own version of the spreadsheet&lt;/a&gt; to clean up a bit. The numbers and analytics you see here are from that data. If you run across an error or have a comment about it, just drop me a &lt;a href=&quot;https://www.twitter.com/optionalrule&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;line on twitter&lt;/a&gt;.&lt;/p&gt;
 
-I ran across &lt;a href=&quot;https://www.reddit.com/r/UnearthedArcana/comments/8zvr6s/the_great_dd5e_monster_spreadsheet/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;The Great D&amp;D5e Monster Spreadsheet&lt;/a&gt; thread on reddit. This is a great fan effort of manually entered data for 799 monsters from various core books, as well as many Homebrew monster. I choose to focus only on monster stat blocks from official sources and &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1sx7Cc94yHu3UPjHf0uv1mHA8IoVyTxB4UWqGyLmUm6g/edit?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;copied my own version of the spreadsheet&lt;/a&gt; to clean up a bit. The numbers and analytics you see here are from that data. If you run across an error or have a comment about it, just drop me a &lt;a href=&quot;https://www.twitter.com/optionalrule&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;line on twitter&lt;/a&gt;.
+&lt;p&gt;I make some light observations about the data but there are other creators more adept than I about obptimization. My goal here is to get the numbers.&lt;/p&gt;
 
-I make some light observations about the data but there are other creators more adept than I about obptimization. My goal here is to get the numbers.
+&lt;h2 id=&quot;monster-stat-block-totals-grouped-by-cr&quot;&gt;Monster Stat Block Totals Grouped by CR&lt;/h2&gt;
 
-## Monster Stat Block Totals Grouped by CR
+&lt;p&gt;I’ve shared a &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1O2dyuRcBcMojO7cCwT5kHKRAK0AMenAQpCmazgCEn38/edit?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;spreadsheet of this chart&lt;/a&gt; for anyone to view, but had to use the image below because my poor website didn’t handle the table very well. This includes both damage types and conditions and some numbers appear large because of multiple versions of a similar monster. Still, some of the results surprised me. In no particular order:&lt;/p&gt;
 
-I&amp;#8217;ve shared a &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1O2dyuRcBcMojO7cCwT5kHKRAK0AMenAQpCmazgCEn38/edit?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;spreadsheet of this chart&lt;/a&gt; for anyone to view, but had to use the image below because my poor website didn&amp;#8217;t handle the table very well. This includes both damage types and conditions and some numbers appear large because of multiple versions of a similar monster. Still, some of the results surprised me. In no particular order:
-
-  * The number of resistances sub CR 5 surprised me. PCs generally don&amp;#8217;t have access to magic weapons in that range so this makes combat harder and more varied. I have to wonder if this is a factor in why the game seems to work so much better in tier 1 and 2.
-  * Cold resistance was higher than I expected, which is odd given how few cold damage spells there are. For reference there are only 5 spells that do cold damage in the PHB.
-  * Poison and Poisoned resistance was very high. Again, the number of spells and abilities that do poison damage are very few. Only 3 spells in the PHB do poison damage.
-  * Many people on twitter commented on the relatively few weaknesses. I like this however as monsters are difficult to keep around for more than a few rounds already. If weakness was common, too many Boss fights would be one round combats.
+&lt;ul&gt;
+  &lt;li&gt;The number of resistances sub CR 5 surprised me. PCs generally don’t have access to magic weapons in that range so this makes combat harder and more varied. I have to wonder if this is a factor in why the game seems to work so much better in tier 1 and 2.&lt;/li&gt;
+  &lt;li&gt;Cold resistance was higher than I expected, which is odd given how few cold damage spells there are. For reference there are only 5 spells that do cold damage in the PHB.&lt;/li&gt;
+  &lt;li&gt;Poison and Poisoned resistance was very high. Again, the number of spells and abilities that do poison damage are very few. Only 3 spells in the PHB do poison damage.&lt;/li&gt;
+  &lt;li&gt;Many people on twitter commented on the relatively few weaknesses. I like this however as monsters are difficult to keep around for more than a few rounds already. If weakness was common, too many Boss fights would be one round combats.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;table class=&quot;table table-hover table-striped data-table&quot;&gt;
    &lt;thead&gt;
    &lt;tr&gt;
       &lt;th&gt;&amp;nbsp;&lt;/th&gt;
-      &lt;th colspan=&quot;3&quot;&gt;&lt; 5&lt;/th&gt;
+      &lt;th colspan=&quot;3&quot;&gt;&amp;lt; 5&lt;/th&gt;
       &lt;th colspan=&quot;3&quot;&gt;6 - 10&lt;/th&gt;
       &lt;th colspan=&quot;3&quot;&gt;11-15&lt;/th&gt;
       &lt;th colspan=&quot;3&quot;&gt;16 - 20&lt;/th&gt;
-      &lt;th colspan=&quot;3&quot;&gt;20 &lt;&lt;/th&gt;
+      &lt;th colspan=&quot;3&quot;&gt;20 &amp;lt;&lt;/th&gt;
       &lt;th colspan=&quot;3&quot;&gt;Totals&lt;/th&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -1163,24 +1660,56 @@ I&amp;#8217;ve shared a &lt;a href=&quot;https://docs.google.com/spreadsheets/d/
    &lt;/tbody&gt;
 &lt;/table&gt;
 
-## Monster Saves
+&lt;h2 id=&quot;monster-saves&quot;&gt;Monster Saves&lt;/h2&gt;
 
-| Save Prof | Total | Percent |
-| --------- | :---: | :-----: |
-| CHA       | 139   | 17.40%  |
-| CON       | 151   | 18.90%  |
-| DEX       | 127   | 15.89%  |
-| INT       | 74    | 9.26%   |
-| STR       | 38    | 4.76%   |
-| WIS       | 225   | 28.16%  |
-{: .table .table-striped .table-hover}
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Save Prof&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Total&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Percent&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CHA&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;139&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;17.40%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CON&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;151&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18.90%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DEX&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;127&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15.89%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;INT&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;74&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9.26%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;STR&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;38&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4.76%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;WIS&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;225&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;28.16%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-Monster saves are also a big influence on how likely they are to be affected by an ability or spell. So I totaled how frequently stat blocks listed a particular save proficiency. My take away here is that a good bit of metagame design went into these choices, but I don&amp;#8217;t know that for sure. Obviously the actual attribute modifier has a big influence on a save but it&amp;#8217;s hard to ignore the choices. Wisdom as the most frequent save proficiency says to me the designers were trying to make sure monsters aren&amp;#8217;t locked up too often by conditions. Additionally, the fact that Dex save proficiency wasn&amp;#8217;t near the top says to me they didn&amp;#8217;t want monsters to avoid damage. 
+&lt;p&gt;Monster saves are also a big influence on how likely they are to be affected by an ability or spell. So I totaled how frequently stat blocks listed a particular save proficiency. My take away here is that a good bit of metagame design went into these choices, but I don’t know that for sure. Obviously the actual attribute modifier has a big influence on a save but it’s hard to ignore the choices. Wisdom as the most frequent save proficiency says to me the designers were trying to make sure monsters aren’t locked up too often by conditions. Additionally, the fact that Dex save proficiency wasn’t near the top says to me they didn’t want monsters to avoid damage.&lt;/p&gt;
 
-The most surprising result was the relative lack of Strength save proficiencies. Again, I see the metagame at work here. So few spells require a Strength save that it seems rather pointless. Additionally, monsters often have a high strength value already so proficiency is just overkill.
+&lt;p&gt;The most surprising result was the relative lack of Strength save proficiencies. Again, I see the metagame at work here. So few spells require a Strength save that it seems rather pointless. Additionally, monsters often have a high strength value already so proficiency is just overkill.&lt;/p&gt;
 
-## Conclusion
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-So that&amp;#8217;s it. In my own context this will help me with balance for player designed spells and assessing third party or official supplements. I hope you&amp;#8217;re able to derive something useful for planning your games out of this. If you have an observation about it, tag me on twitter or drop me a DM. This is a starting place and rough guide though, and the devil will always be in the details. It is good though to comment based on numbers instead of strawman examples and intuition.
+&lt;p&gt;So that’s it. In my own context this will help me with balance for player designed spells and assessing third party or official supplements. I hope you’re able to derive something useful for planning your games out of this. If you have an observation about it, tag me on twitter or drop me a DM. This is a starting place and rough guide though, and the devil will always be in the details. It is good though to comment based on numbers instead of strawman examples and intuition.&lt;/p&gt;
 
-Now get out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">Taking down monsters in 5th Edition Dungeons &amp;amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (W), Resistances (R), or Immunities (I). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">Taking down monsters in 5th Edition Dungeons &amp;amp; Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (W), Resistances (R), or Immunities (I). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

@@ -17,8 +17,6 @@ House rules are additions or modifications to the mechanics of a game. This mean
 
 **Snatch Item:** When trying to use an item in a hostile creatures square, you must succeed at Athletics (Strength) or Acrobatics (Dexterity) roll against the defenders Athletics (Strength) or Acrobatics (Dexterity) to successfully use the item.
 
-**Travel & Exhaustion:** After 8 Hours of travel, make a group Athletics (Constitution) check against a DC 15 or everyone gains one level of exhaustion.
-
 **Exhaustion & Death Saves:** The first time a character fails a Death Saving throw after falling to 0hp, they accumulate one level of exhaustion.
 
 **Catch Your Breath:** A character may attempt a DC 15 Athletics (Constitution) check after taking a short rest. They remove one level of exhaustion on a success. They may attempt this once and are able to attempt it again after completing a long rest.
@@ -30,6 +28,9 @@ House rules are additions or modifications to the mechanics of a game. This mean
 **Blocked by Enemies:** You cannot move through an enemy square normally. You may attempt an Dexterity (Acrobatics) check opposed by the enemies Strength or Dexterity check. Success means you are able to move through their square as if it were difficult terrian. 
 
 **Mounted Combat:** Players interested may use the [mounted combat rules]({% link _posts/2021-03-08-mounted-combat-in-5e.md %}) I developed. 
+
+**No Long Rests on the Road** Gaining the benefit of a long rest requires a comfortable place to rest or base camp.  See 
+[Perilous Journeys]({% link _posts/2021-07-13-perilous-journeys-in-5e-p1.md %}) for more info.
 
 ### **Spells**
 
