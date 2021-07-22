@@ -16,12 +16,16 @@ Last week I presented some simple options for making journeys part of the advent
 ### Forage
 
 ### Guide
+Guiding a party involves combining your knowledge of an areas geography, history, and conditions to choose a safe and sure route.
+(Terrain DC or move one pace slower, + 1 hour travel for every 5 they succeed by).
 
 ### Scout
+Scouting involves moving ahead of the party and using your keen senses and stealth to spot or avoid danger.  
 
 ### Steward
 
 ### Ward
+Warding uses prowess and awareness to protect the party from hazzards and ambush.
 
 ## Spicing Things Up
 
