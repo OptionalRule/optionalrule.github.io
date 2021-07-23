@@ -9,23 +9,47 @@ tags: []
 summary: 
 ---
 
-Last week I presented some simple options for making journeys part of the adventure in your 5th edition game.  This week I want to create 
+Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure.  Last week I posted [Perilous Journey's Part 1]({% link _posts/2021-07-13-perilous-journeys-in-5e-p1.md %}), which turns travel into a series of encounters like any other dungeon. This week, I'll look at defining some ways that party members can take meaningful actions during journeys.  These **Journey Actions** provide gameplay for the travel experience, as well as create dependencies between members of the party. 
+
+As with any rule or option, use where were appropriate and move along when they don't add anything to the experience.
 
 ## Journey Actions
 
+When traveling, a character may take one Journey Action as part of travel.  Any actions taken during travel should be selected prior to the start of travel.  
+
+Multiple characters may attempt the same action and each roll separetly. This has the same roll mechanic as advantage but they each apply their individual skill bonus.
+
+The DM may want to consider the role of proficiency in these rules. Optionally, they may only allow a character to take a Journey action if proficient in the indicated skills. 
+
+**Terrain Pace and DC Table** 
+
+| Pace    | Speed | Daily | DC |Terrain                |
+|---------|:-----:|:-----:|:--:|-----------------------|
+| Fast    | 4 mph | 32 mi | -  |-                      |
+| Normal  | 3 mph | 24 mi | 10 |Grasslands, plains, wastes etc.|
+| Slow    | 2 mph | 16 mi | 15 |Forests, hills, tundra, sand desert, etc.    |
+| Crawl   | 1 mph | 8 mi  | 20 |Mountains, swamps, jungle, etc. |
+{: .table .table-striped .table-hover}
+
 ### Forage
+Foraging along the way for harvestables plants, or small game allows parties to eat hearty means.  Rather than keeping track of day to day rations in a group, this form of foraging gathers ingrediants for a **Hearty Meal**.  As mentioned in, part 1 of Perilous Journeys, a hearty meal may allow characters to recover a single hit die from after sleeping for eight hours when unable to take a long rest.
+
+Characters harvesting use the rules in Chapter 5 of the PHB and roll ***Wisdom (Survival)***, at +5 DC to the table presented there. Again, with this method assume the party has enough food to sustain themselves and recover exhaustion.  Instead, this type fo foraging focuses on higher quality food to help recover Hit Die as per the rules above.
 
 ### Guide
-Guiding a party involves combining your knowledge of an areas geography, history, and conditions to choose a safe and sure route.
-(Terrain DC or move one pace slower, + 1 hour travel for every 5 they succeed by).
+Guiding a party involves combining your knowledge of an areas geography, history, and conditions to choose a safe and sure route. At the start of a day's journey, the guide decides the best route and rolls either an ***Intelligence (Nature)*** or ***Intelligence (History)*** check at the DC presented on the Terrain Pace table. This roll is made with disadvantage if the guide is unfamiliar with the terrain, has no maps, or has not gathered enough information prior to travel.
+
+<div class="alert alert-info">
+<strong><em>Note on Survival Skill:</em></strong> While the survival skill will keep you oriented in the right direction it does not give you any foreknowlege of the conditions or geography ahead. (Terrain DC or move one pace slower, + 1 hour travel for every 5 they succeed by).{: .alert .alert-info}
+</div>
 
 ### Scout
-Scouting involves moving ahead of the party and using your keen senses and stealth to spot or avoid danger.  
+Scouting involves moving ahead of the party and using your keen senses and stealth to spot or avoid danger.  Scouts may always make active ***Wisdom (Perception)*** checks against hidden dangers.  Additionally they can use their ***Dexterity (Stealth)*** skill to allow the entire party to avoid an encounter if the scout spotted it first. Parties staging an ambush on foes discovered by a scout have advantage on checks to catch them unaware.
 
 ### Steward
 
 ### Ward
-Warding uses prowess and awareness to protect the party from hazzards and ambush.
+Warding uses prowess and awareness to protect the party from hazzards and ambush. If a character in the party performing the warding action is not surprised during an ambush, the entire party gets advantage on their roll to avoid surprise. When a party member within 10 feet of them (athletics check replaces save)
 
 ## Spicing Things Up
 
