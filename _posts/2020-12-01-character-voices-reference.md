@@ -3,6 +3,7 @@ title: Character Voices Reference
 author: Scott Turnbull
 layout: post
 description: Random table for spicing up character and NPC voices in your TTRPG game.
+image: /assets/img/voicereferencpreview_800x631.jpg
 categories:
   - RPG Resources
 
