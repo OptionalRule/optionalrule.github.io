@@ -16,7 +16,7 @@ As with any rule or option, use when it add something to the game  and move alon
 
 ## Journey Actions
 
-When traveling, a character may take one Journey Action as part of travel.  Any actions taken during travel should be choosen prior to the start of travel. Multiple characters may attempt the same action and each roll separately. This has the same roll mechanic as advantage but they each apply their individual skill bonus. Additionally, The DM may want to consider the role of proficiency in these rules. Optionally, they may only allow a character to take a journey action if proficient in an indicated skills. 
+When traveling, a character may take one Journey Action as part of travel.  Any actions taken during travel should be chosen prior to the start of travel. Multiple characters may attempt the same action and each roll separately. This has the same roll mechanic as advantage but they each apply their individual skill bonus. Additionally, The DM may want to consider the role of proficiency in these rules. Optionally, they may only allow a character to take a journey action if proficient in an indicated skills. 
 
 **Terrain Pace and DC Table** 
 
