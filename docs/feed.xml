@@ -1,96 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2021-07-24T07:16:22-04:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Perilous Journeys in 5e Part 2</title><link href="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 2" /><published>2021-07-24T07:08:00-04:00</published><updated>2021-07-24T07:08:00-04:00</updated><id>https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/">&lt;p&gt;Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure.  Last week I posted &lt;a href=&quot;/2021/07/13/perilous-journeys-in-5e-p1/&quot;&gt;Perilous Journey’s Part 1&lt;/a&gt;, which turns travel into a series of encounters like any other dungeon. This week, I’ll look at defining some ways that party members can take meaningful actions during journeys.  These &lt;strong&gt;Journey Actions&lt;/strong&gt; provide gameplay for the travel experience, as well as create dependencies between members of the party.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2021-07-24T07:19:45-04:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Perilous Journeys in 5e Part 2</title><link href="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 2" /><published>2021-07-24T07:08:00-04:00</published><updated>2021-07-24T07:08:00-04:00</updated><id>https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/">Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure.  Last week I posted [Perilous Journey's Part 1]({% link _posts/2021-07-13-perilous-journeys-in-5e-p1.md %}), which turns travel into a series of encounters like any other dungeon. This week, I'll look at defining some ways that party members can take meaningful actions during journeys.  These **Journey Actions** provide gameplay for the travel experience, as well as create dependencies between members of the party. 
 
-&lt;p&gt;As with any rule or option, use when it add something to the game  and move along when it doesn’t.&lt;/p&gt;
+As with any rule or option, use when it add something to the game  and move along when it doesn't.
 
-&lt;h2 id=&quot;journey-actions&quot;&gt;Journey Actions&lt;/h2&gt;
+## Journey Actions
 
-&lt;p&gt;When traveling, a character may take one Journey Action as part of travel.  Any actions taken during travel should be choosen prior to the start of travel. Multiple characters may attempt the same action and each roll separately. This has the same roll mechanic as advantage but they each apply their individual skill bonus. Additionally, The DM may want to consider the role of proficiency in these rules. Optionally, they may only allow a character to take a journey action if proficient in an indicated skills.&lt;/p&gt;
+When traveling, a character may take one Journey Action as part of travel.  Any actions taken during travel should be choosen prior to the start of travel. Multiple characters may attempt the same action and each roll separately. This has the same roll mechanic as advantage but they each apply their individual skill bonus. Additionally, The DM may want to consider the role of proficiency in these rules. Optionally, they may only allow a character to take a journey action if proficient in an indicated skills. 
 
-&lt;p&gt;&lt;strong&gt;Terrain Pace and DC Table&lt;/strong&gt;&lt;/p&gt;
+**Terrain Pace and DC Table** 
 
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Pace&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Speed&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Daily&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;DC&lt;/th&gt;
-      &lt;th&gt;Terrain&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fast&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;32 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;24 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
-      &lt;td&gt;Grasslands, plains, wastes etc.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Slow&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;16 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;15&lt;/td&gt;
-      &lt;td&gt;Forests, hills, tundra, sand desert, etc.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Crawl&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
-      &lt;td&gt;Mountains, swamps, jungle, etc.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+| Pace    | Speed | Daily | DC |Terrain                |
+|---------|:-----:|:-----:|:--:|-----------------------|
+| Fast    | 4 mph | 32 mi | -  |-                      |
+| Normal  | 3 mph | 24 mi | 10 |Grasslands, plains, wastes etc.|
+| Slow    | 2 mph | 16 mi | 15 |Forests, hills, tundra, sand desert, etc.    |
+| Crawl   | 1 mph | 8 mi  | 20 |Mountains, swamps, jungle, etc. |
+{: .table .table-striped .table-hover}
 
-&lt;h3 id=&quot;forage&quot;&gt;Forage&lt;/h3&gt;
+### Forage
 
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/kirk-langsea-wot-quarry-rox-02_475x475.jpg&quot; alt=&quot;A road through lonely woods.  Two mean guard a horse drawn wagon at the front and rear with bow and spear.&quot; height=&quot;475&quot; /&gt;
-        
-    
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit &lt;a href=&quot;https://www.artstation.com/artwork/baBQrr&quot; target=&quot;_blank&quot;&gt;Kirk Langsea&lt;/a&gt;&lt;/figcaption&gt;
-    
-&lt;/figure&gt;
+{% include imageframe.html
+  figure_class=&quot;float-end ms-4 clearfix&quot;
+  src=&quot;/assets/img/kirk-langsea-wot-quarry-rox-02_475x475.jpg&quot;
+  alt=&quot;A road through lonely woods.  Two mean guard a horse drawn wagon at the front and rear with bow and spear.&quot;
+  width=&quot;475&quot; height=&quot;475&quot;
+  caption=&quot;Image credit &lt;a href='https://www.artstation.com/artwork/baBQrr' target='_blank'&gt;Kirk Langsea&lt;/a&gt;&quot;
+ %}
 
-&lt;p&gt;Foraging along the way for harvestable plants, or small game allows parties to eat hearty means.  Rather than keeping track of day-to-day rations in a group, this form of foraging gathers ingredients for a &lt;strong&gt;Hearty Meal&lt;/strong&gt;.  As mentioned in, part 1 of Perilous Journeys, a hearty meal may allow characters to recover a single hit die from after sleeping for eight hours when unable to take a long rest.&lt;/p&gt;
+Foraging along the way for harvestable plants, or small game allows parties to eat hearty means.  Rather than keeping track of day-to-day rations in a group, this form of foraging gathers ingredients for a **Hearty Meal**.  As mentioned in, part 1 of Perilous Journeys, a hearty meal may allow characters to recover a single hit die from after sleeping for eight hours when unable to take a long rest.
 
-&lt;p&gt;Characters harvesting use the rules in Chapter 5 of the PHB and roll &lt;strong&gt;&lt;em&gt;Wisdom (Survival)&lt;/em&gt;&lt;/strong&gt;, at +5 DC to the table presented there. Again, with this method assume the party has enough food to sustain themselves and recover exhaustion.  Instead, this type of foraging focuses on higher quality food to help recover Hit Die as per the rules above.&lt;/p&gt;
+Characters harvesting use the rules in Chapter 5 of the PHB and roll ***Wisdom (Survival)***, at +5 DC to the table presented there. Again, with this method assume the party has enough food to sustain themselves and recover exhaustion.  Instead, this type of foraging focuses on higher quality food to help recover Hit Die as per the rules above. 
 
-&lt;p&gt;Alternatively, someone foraging could opt to gather herbs or ingredients for potions instead. If so, have them roll &lt;strong&gt;&lt;em&gt;Intelligence (Nature)&lt;/em&gt;&lt;/strong&gt; at the same DC used for foraging above.  Instead of pounds of good food, they recover the equivalent gold piece worth of ingredients. See the &lt;a href=&quot;/2021/01/24/summary-of-5e-alchemy-rules/&quot;&gt;Summary of 5e Alchemy Rules&lt;/a&gt; for options.&lt;/p&gt;
+Alternatively, someone foraging could opt to gather herbs or ingredients for potions instead. If so, have them roll ***Intelligence (Nature)*** at the same DC used for foraging above.  Instead of pounds of good food, they recover the equivalent gold piece worth of ingredients. See the [Summary of 5e Alchemy Rules]({% link _posts/2021-01-24-summary-of-5e-alchemy-rules.md %}) for options.
 
-&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-&lt;p&gt;Guiding a party involves combining your knowledge of an area’s geography, history, and conditions to choose a safe and sure route. At the start of a day’s journey, the guide decides the best route and rolls either an &lt;strong&gt;&lt;em&gt;Intelligence (Nature)&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;Intelligence (History)&lt;/em&gt;&lt;/strong&gt; check at the DC presented on the Terrain Pace table. This roll is made with disadvantage if the guide is unfamiliar with the terrain, has no maps, or has not gathered enough information prior to travel. On a failure, the chances of a random encounter or hazard are doubled for the travel period and the party has disadvantage on any stealth checks. Parties without a guide automatically fail this check.&lt;/p&gt;
+### Guide
+Guiding a party involves combining your knowledge of an area’s geography, history, and conditions to choose a safe and sure route. At the start of a day's journey, the guide decides the best route and rolls either an ***Intelligence (Nature)*** or ***Intelligence (History)*** check at the DC presented on the Terrain Pace table. This roll is made with disadvantage if the guide is unfamiliar with the terrain, has no maps, or has not gathered enough information prior to travel. On a failure, the chances of a random encounter or hazard are doubled for the travel period and the party has disadvantage on any stealth checks. Parties without a guide automatically fail this check. 
 
-&lt;h3 id=&quot;scout&quot;&gt;Scout&lt;/h3&gt;
-&lt;p&gt;Scouting involves moving ahead of the party and using your keen senses spot danger or stealth to avoid it.  Scouts may always make active &lt;strong&gt;&lt;em&gt;Wisdom (Perception)&lt;/em&gt;&lt;/strong&gt; checks against hidden dangers.  Additionally, they can use their &lt;strong&gt;&lt;em&gt;Dexterity (Stealth)&lt;/em&gt;&lt;/strong&gt; skill to allow the entire party to avoid an encounter if the scout spotted it first. Parties staging an ambush on foes discovered by a scout have advantage on checks to catch them unaware.&lt;/p&gt;
+### Scout
+Scouting involves moving ahead of the party and using your keen senses spot danger or stealth to avoid it.  Scouts may always make active ***Wisdom (Perception)*** checks against hidden dangers.  Additionally, they can use their ***Dexterity (Stealth)*** skill to allow the entire party to avoid an encounter if the scout spotted it first. Parties staging an ambush on foes discovered by a scout have advantage on checks to catch them unaware.
 
-&lt;h3 id=&quot;ward&quot;&gt;Ward&lt;/h3&gt;
-&lt;p&gt;Warding uses prowess and awareness to protect the party from hazards and ambush. If a character in the party performing the warding action is not surprised during an ambush, the entire party gets advantage on their roll to avoid surprise.&lt;/p&gt;
+### Ward
+Warding uses prowess and awareness to protect the party from hazards and ambush. If a character in the party performing the warding action is not surprised during an ambush, the entire party gets advantage on their roll to avoid surprise. 
 
-&lt;p&gt;Also, when encountering a natural hazard that requires a Strength or Dexterity save, the Warder may roll &lt;strong&gt;&lt;em&gt;Strength (Athletics)&lt;/em&gt;&lt;/strong&gt; and allow a character up to 10 feet away to use that roll instead of their own save.  The warding character may allow a number of characters up to their proficiency bonus to use their roll in this way. Examples of the kinds of hazards might be falling, avoiding an avalanche, stepping into a pit or the like.&lt;/p&gt;
+Also, when encountering a natural hazard that requires a Strength or Dexterity save, the Warder may roll ***Strength (Athletics)*** and allow a character up to 10 feet away to use that roll instead of their own save.  The warding character may allow a number of characters up to their proficiency bonus to use their roll in this way. Examples of the kinds of hazards might be falling, avoiding an avalanche, stepping into a pit or the like.
 
-&lt;h2 id=&quot;spicing-things-up&quot;&gt;Spicing Things Up&lt;/h2&gt;
+## Spicing Things Up
 
-&lt;p&gt;These rules mix well with several other house rules. By themselves they are not any more deadly or gritty than any dungeon encounter. In fact, these rules only bring journey encounters in alignment with dungeons. You can think of the entire track of a journey like a node-based set of encounters in a dungeon.&lt;/p&gt;
+These rules mix well with several other house rules. By themselves they are not any more deadly or gritty than any dungeon encounter. In fact, these rules only bring journey encounters in alignment with dungeons. You can think of the entire track of a journey like a node-based set of encounters in a dungeon.
 
-&lt;p&gt;Mixing in other rules such as slower hit point recovery, or failed death saves only clearing on a long rest, should be approached with caution with a system like this.&lt;/p&gt;
+Mixing in other rules such as slower hit point recovery, or failed death saves only clearing on a long rest, should be approached with caution with a system like this. 
 
-&lt;p&gt;Additionally, consider adding more opportunities for players to interact with locals during travel. Perhaps a well to do farmer would allow the party to sleep in their comfortable barn with food or supplies, or the rules might drive the party to seek out more Inns.  The goal is to spice up journeys with more meaningful actions and choices, so encourage players to lean into that.&lt;/p&gt;
+Additionally, consider adding more opportunities for players to interact with locals during travel. Perhaps a well to do farmer would allow the party to sleep in their comfortable barn with food or supplies, or the rules might drive the party to seek out more Inns.  The goal is to spice up journeys with more meaningful actions and choices, so encourage players to lean into that.
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+## Conclusion
 
-&lt;p&gt;These actions and rules imply a healthy variety of hazards and challenges during Journeys, but DMs should use their discretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and game in the moment. There are several wilderness encounter generators available on the DMs Guild, as well as sites like &lt;a href=&quot;https://www.dndspeak.com/&quot;&gt;DnDSpeak.com&lt;/a&gt; that offer lots of encounter ideas and tables.  I will eventually post systems here for journey-based encounters as well.&lt;/p&gt;
+These actions and rules imply a healthy variety of hazards and challenges during Journeys, but DMs should use their discretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and game in the moment. There are several wilderness encounter generators available on the DMs Guild, as well as sites like [DnDSpeak.com](https://www.dndspeak.com/) that offer lots of encounter ideas and tables.  I will eventually post systems here for journey-based encounters as well.
 
-&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure. Last week I posted Perilous Journey’s Part 1, which turns travel into a series of encounters like any other dungeon. This week, I’ll look at defining some ways that party members can take meaningful actions during journeys. These Journey Actions provide gameplay for the travel experience, as well as create dependencies between members of the party.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Perilous Journeys in 5e Part 1</title><link href="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 1" /><published>2021-07-13T08:26:00-04:00</published><updated>2021-07-13T08:26:00-04:00</updated><id>https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/">Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.
+Now get out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure. Last week I posted Perilous Journey’s Part 1, which turns travel into a series of encounters like any other dungeon. This week, I’ll look at defining some ways that party members can take meaningful actions during journeys. These Journey Actions provide gameplay for the travel experience, as well as create dependencies between members of the party.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Perilous Journeys in 5e Part 1</title><link href="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 1" /><published>2021-07-13T08:26:00-04:00</published><updated>2021-07-13T08:26:00-04:00</updated><id>https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/">Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.
 
 {% include imageframe.html
   figure_class=&quot;float-end ms-4 clearfix&quot;
