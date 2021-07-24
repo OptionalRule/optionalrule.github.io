@@ -65,6 +65,12 @@ Also, when encountering a natural hazzard that requires a Strength or Dexterity 
 
 ## Spicing Things Up
 
-These actions and rules imply a healthy variety of hazzards and challenges during Journeys, but DMs should use their descretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and style of the game in the moment. There are a number of wilderness encounter generators available on the DMs Guild, as well as sites like DnDSpeak.com that offer lots of encounter ideas and tables.  I will eventually post systems here for journey based encounters as well.
+These rules mix well with a number of other house rules. By themselves they are not any more deadly or gritty than any dungeon encounter. In fact, these rules really only bring journey encounters in alignment with dungeons and other main types of encounters. You can think of the entire track of a journey like a node based set of encounters in a dungeon.
+
+Mixing in other rules such as slower hitpoint recovery, or failed death saves only clearing on a long-rest, should be approached with caution with a system like this. 
+
+Additionally, consider adding more opportunities for players to interact with locals during travel. Perhaps a well to do farmer would allow the party to sleep in their comfortable barn with food or supplies, or the rules might drive the party to seek out more Inns.  The goal is to spice up journeys with more meaningful actions and choices, so encourage players to lean into that.
 
 ## Conclusion
+
+These actions and rules imply a healthy variety of hazzards and challenges during Journeys, but DMs should use their descretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and style of the game in the moment. There are a number of wilderness encounter generators available on the DMs Guild, as well as sites like DnDSpeak.com that offer lots of encounter ideas and tables.  I will eventually post systems here for journey based encounters as well.
