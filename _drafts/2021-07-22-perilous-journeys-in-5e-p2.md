@@ -32,6 +32,8 @@ The DM may want to consider the role of proficiency in these rules. Optionally, 
 | Crawl   | 1 mph | 8 mi  | 20 |Mountains, swamps, jungle, etc. |
 {: .table .table-striped .table-hover}
 
+### Forage
+
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"
   src="/assets/img/kirk-langsea-wot-quarry-rox-02_475x475.jpg"
@@ -40,7 +42,6 @@ The DM may want to consider the role of proficiency in these rules. Optionally, 
   caption="Image credit <a href='https://www.artstation.com/artwork/baBQrr' target='_blank'>Kirk Langsea</a>"
  %}
 
-### Forage
 Foraging along the way for harvestables plants, or small game allows parties to eat hearty means.  Rather than keeping track of day to day rations in a group, this form of foraging gathers ingrediants for a **Hearty Meal**.  As mentioned in, part 1 of Perilous Journeys, a hearty meal may allow characters to recover a single hit die from after sleeping for eight hours when unable to take a long rest.
 
 Characters harvesting use the rules in Chapter 5 of the PHB and roll ***Wisdom (Survival)***, at +5 DC to the table presented there. Again, with this method assume the party has enough food to sustain themselves and recover exhaustion.  Instead, this type fo foraging focuses on higher quality food to help recover Hit Die as per the rules above.
@@ -58,8 +59,12 @@ Scouting involves moving ahead of the party and using your keen senses and steal
 ### Steward
 
 ### Ward
-Warding uses prowess and awareness to protect the party from hazzards and ambush. If a character in the party performing the warding action is not surprised during an ambush, the entire party gets advantage on their roll to avoid surprise. When a party member within 10 feet of them (athletics check replaces save)
+Warding uses prowess and awareness to protect the party from hazzards and ambush. If a character in the party performing the warding action is not surprised during an ambush, the entire party gets advantage on their roll to avoid surprise. 
+
+Also, when encountering a natural hazzard that requires a Strength or Dexterity save, the Warder may roll ***Strength (Athletics)*** and allow a character up to 10 feet away to use that roll instead of their own save.  The warding character may allow a number of characters up to their proficiency bonus to use their roll in this way. Examples of the kinds of hazzards might be falling, avoiding an avalance, stepping into a pit or the like.
 
 ## Spicing Things Up
+
+These actions and rules imply a healthy variety of hazzards and challenges during Journeys, but DMs should use their descretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and style of the game in the moment. There are a number of wilderness encounter generators available on the DMs Guild, as well as sites like DnDSpeak.com that offer lots of encounter ideas and tables.  I will eventually post systems here for journey based encounters as well.
 
 ## Conclusion
