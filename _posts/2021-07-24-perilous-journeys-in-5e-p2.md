@@ -2,7 +2,7 @@
 layout: post
 title: Perilous Journeys in 5e Part 2
 subtitle: Actions and the Road
-date: 2021-07-24 07:08
+date: 2021-07-24 01:08
 category: RPG Resources
 author: Scott Turnbull
 image: /assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg
