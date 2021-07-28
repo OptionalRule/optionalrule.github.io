@@ -3,6 +3,7 @@ title: 'Safety & Consent RPG Checklist'
 author: Scott Turnbull
 layout: post
 description: A checklist and more resources you can use to enhance safety and concent in your TTRPGs.
+image: /assets/img/SafetyAndConcent.-960x540.jpg
 categories:
   - RPG Resources
 
