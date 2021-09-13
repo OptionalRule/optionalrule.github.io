@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sampling Random Ability Score Generation
-date: 2021-08-11 11:30
+date: 2021-08-12 07:30
 category: Analysis
 author: Scott Turnbull
 image: /assets/img/abilityscore_generation_chart_1419x826.jpg
