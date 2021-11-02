@@ -6,4 +6,6 @@ _site
 /vendor
 scripts/data/*
 
+package-lock.json
+
 __pycache__
