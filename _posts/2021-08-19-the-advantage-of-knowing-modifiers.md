@@ -12,3 +12,7 @@ Advantage and Disadvantage is a surprisingly easy, yet diseptivley dynamic syste
 ## Taking Proper Advantage
 
 Anydice [https://anydice.com/program/23be7]
+
+Advantage [https://anydice.com/program/23d9a]
+
+Disadvantage [https://anydice.com/program/23d99]
