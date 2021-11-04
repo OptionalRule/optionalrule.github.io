@@ -24,6 +24,6 @@
             </span>
         </div>
     </header>
-    <div class="post-excerpt">{{ post.excerpt | strip_html }}</div>
+    <div class="post-excerpt">{{ post.excerpt | markdownify | strip_html }}</div>
     <div class="justify-content-center text-center mt-3"><a href="{{ post.url }}" type="button" class="btn btn-outline-primary">Read More</a></div>
 </article>
