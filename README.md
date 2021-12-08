@@ -15,7 +15,7 @@ Keeping a few notes as to the process as I found these split up between various 
 
 ### Development and Running locally.
 
-For ease and portability, this is enabled to run in a docker container usering BretFisher's docker 
+For ease and portability, this is enabled to run in a docker container using BretFisher's docker 
 setup.  To run the site locally just:
 ```
 > docker-compose up -d

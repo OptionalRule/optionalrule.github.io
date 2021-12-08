@@ -30,7 +30,7 @@ There are several methods used to generate random abilities.  In most cases it c
 
 ### Break Down of Ranges
 
-The first thing to understand about any random ability score generation method is the range and probability. How high and low a range of rolls can be, versus how likely any individual roll is likely to be.  Different methods produce different results and a [Distribution Curve](https://anydice.com/program/237f0) graph of the most common methods is presented below.
+The first thing to understand about any random ability score generation method is the range and probability. How high and low a range of rolls can be, versus how likely any individual roll is likely to be.  Different methods produce different results and a [Distribution Curve](https://anydice.com/program/237f0){:target="_blank"} graph of the most common methods is presented below.
 
 Common rules DMs use is to reroll abilities below a particular level, let players shift points around, or rerolling if you are below a particular score value. This kind of defeats the purpose of random abilities to me, but these are the base percentages you'll get from different methods.
 

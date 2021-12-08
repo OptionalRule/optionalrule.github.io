@@ -16,5 +16,5 @@ The server just opened this weekend and is still getting set-up.
 
 If you're seeing this announcement at a later date just hit me up on Twitter for an invite link.
 
-**Invite Link:** [https://discord.gg/PVscFHry](https://discord.gg/PVscFHry)
+**Invite Link:** [https://discord.gg/PVscFHry](https://discord.gg/PVscFHry){:target="_blank"}
 

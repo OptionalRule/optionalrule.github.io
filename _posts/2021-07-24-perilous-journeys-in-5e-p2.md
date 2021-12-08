@@ -65,6 +65,6 @@ Additionally, consider adding more opportunities for players to interact with lo
 
 ## Conclusion
 
-These actions and rules imply a healthy variety of hazards and challenges during Journeys, but DMs should use their discretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and game in the moment. There are several wilderness encounter generators available on the DMs Guild, as well as sites like [DnDSpeak.com](https://www.dndspeak.com/) that offer lots of encounter ideas and tables.  I will eventually post systems here for journey-based encounters as well.
+These actions and rules imply a healthy variety of hazards and challenges during Journeys, but DMs should use their discretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and game in the moment. There are several wilderness encounter generators available on the DMs Guild, as well as sites like [DnDSpeak.com](https://www.dndspeak.com/){:target="_blank"} that offer lots of encounter ideas and tables.  I will eventually post systems here for journey-based encounters as well.
 
 Now get out there and run some great games.
