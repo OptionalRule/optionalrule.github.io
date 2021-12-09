@@ -13,13 +13,31 @@ Noting various assets I'm using for attribution and reference.
 
 Keeping a few notes as to the process as I found these split up between various resources or unclear.
 
+### Development and Running locally.
+
+For ease and portability, this is enabled to run in a docker container using BretFisher's docker 
+setup.  To run the site locally just:
+```
+> docker-compose up -d
+```
+The site is configured to run at localhost:4000
+
 ### Website Build Folder
 
 Github pages only offers me options for / (/'root') or /doc directories for the site source.  Jekyll defaults to _site for the subdir.  Either always build to /doc or use /_site normally for dev (and properly ignore it) and build to /doc to publish.
 
-Build command.
+#### Build Command (local)
 ```
 > jekyll build --incremental --destination docs/
+```
+#### Build Command (docker)
+
+```
+> docker run -v $(pwd):/site bretfisher/jekyll build --incremental --destination docs/ .
+```
+On windows PowerShell
+```
+> docker run -v ${PWD}:/site bretfisher/jekyll build --incremental --destination docs/ .
 ```
 
 ### Custom Domain
