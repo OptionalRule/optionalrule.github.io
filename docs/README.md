@@ -33,11 +33,11 @@ Github pages only offers me options for / (/'root') or /doc directories for the 
 #### Build Command (docker)
 
 ```
-> docker run -v $(pwd):/site bretfisher/jekyll build --incremental --destination docs/ .
+> docker run -v $(pwd):/site bretfisher/jekyll jekyll build --incremental --destination docs/ .
 ```
 On windows PowerShell
 ```
-> docker run -v ${PWD}:/site bretfisher/jekyll build --incremental --destination docs/ .
+> docker run -v ${PWD}:/site bretfisher/jekyll jekyll build --incremental --destination docs/ .
 ```
 
 ### Custom Domain
