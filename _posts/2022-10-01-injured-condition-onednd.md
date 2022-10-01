@@ -4,7 +4,7 @@ title: Injured Condition For Lasting Damage
 date: 2022-10-01 11:38
 categories:
     - RPG Resources
-image: img/camping_party_475x633.jpg
+image: /assets/img/camping_party_475x633.jpg
 description: A simple and quick lasting injuries system for DnD based on the Exhausted playtest.
 ---
 
