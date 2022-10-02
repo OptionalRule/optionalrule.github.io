@@ -23,7 +23,7 @@ With the release of the [Exhausted condition in the new OneDnD Playtest](https:/
 ### Injured [Condition]
 While you are subject to the Injured Condition you experience the following effects:
 
-**Levels of Injury.** This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds your Constitution score. 
+**Levels of Injury.** This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10. 
 
 **d20 Rolls Affected.** When you make a d20 Test, you subtract your injury level from your d20 roll.
 
