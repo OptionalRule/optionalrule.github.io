@@ -26,7 +26,7 @@ Before I make a few short comments below, here are some resources you can use at
   * <a href="https://www.montecookgames.com/consent-in-gaming/" target="_blank" rel="noreferrer noopener">Consent in Gaming</a> from MCG by Sean K. Reynolds & Shanna Germain (
   * [TTRPG Saftey Toolkit Quick Reference](https://i.4pcdn.org/tg/1583202183294.pdf) by Kienna Shaw (Free PDF)
   * <a href="https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/mobilebasic" target="_blank" rel="noreferrer noopener">X-Card System</a> by John Stavropoulos, is a system for use during a session to back out of situations.
-  * <a href="https://briebeau.itch.io/script-change" target="_blank" rel="noreferrer noopener">Script Change RPG Toolbox</a> by (smart people I don&#8217;t know the names of)
+  * <a href="https://briebeau.itch.io/script-change" target="_blank" rel="noreferrer noopener">Script Change RPG Toolbox</a> by Beau Jágr Sheldon, is a great name-your-own-price resource for modifying things on the fly!
 
 ## Put On Your Big Guy/Gal/Pal Pants
 
