@@ -22,6 +22,7 @@ Anxiety isn&#8217;t one thing, and it has a wide variety of sources and expressi
   src="/assets/img/An_anxious_Dungeon_Master_480x480.jpg"
   alt="A dungeon master sitting at a table with maps and dice while looking anxious."
   height="480" width="480"
+
  %}
 
 I&#8217;ll start out by saying the obvious, **_I think the best strategy is to seek professional help._** Here in the US, we incorrectly think of emotional health like a trip to the emergency room. In reality, **_a good mental health professional is more like a personal trainer than an emergency room doctor._** Firstly, you are not broken and you do not need to be fixed. Secondly, life is one big marathon of anxiety, and if you&#8217;re going to run a marathon, you should have a trainer. Lastly, bringing in an outside perspective is going to give you tools you may not have developed on your own.
