@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-04T20:25:04+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?</title><link href="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/" rel="alternate" type="text/html" title="The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?" /><published>2023-05-04T15:51:00+00:00</published><updated>2023-05-04T15:51:00+00:00</updated><id>https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/">&lt;p&gt;As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new &lt;a href=&quot;https://www.dndbeyond.com/sources/one-dnd/ph-playtest-5&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;playtest material&lt;/a&gt; the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-13T15:33:58+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Revised Injured Condition</title><link href="https://www.optionalrule.com/2023/05/13/revised-injury-condition/" rel="alternate" type="text/html" title="Revised Injured Condition" /><published>2023-05-13T10:30:00+00:00</published><updated>2023-05-13T10:30:00+00:00</updated><id>https://www.optionalrule.com/2023/05/13/revised-injury-condition</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/13/revised-injury-condition/">&lt;p&gt;Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.&lt;/p&gt;
+
+&lt;p&gt;The lasting injury mechanic fosters a sense of camaraderie among players as they must now invest in each other’s well-being, reinforcing the bonds of their adventuring party. By raising the stakes in this way, victories become even more rewarding, and surviving against the odds offers an unparalleled sense of accomplishment. In essence, this system deepens player engagement, making every encounter, decision, and dice roll truly matter in their shared story.&lt;/p&gt;
+
+&lt;p&gt;Below is a revised version of the Injury Rules I created based on the OneDnD playtest changes to Exhaustion.&lt;/p&gt;
+
+&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+    
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/treating-injuries480x480.jpg&quot; alt=&quot;A man in armor kneeling next to a young woman who is holding her arm out to receive healing.&quot; height=&quot;480&quot; /&gt;
+        
+    
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;injured-condition&quot;&gt;Injured [Condition]&lt;/h3&gt;
+
+&lt;p&gt;While you are subject to the Injured Condition, you experience the following effects:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Levels of Injury.&lt;/strong&gt; This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;d20 Rolls Affected.&lt;/strong&gt; When you make a d20 Test, you subtract your injury level from your d20 roll.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Spell Save DCs Affected.&lt;/strong&gt; Subtract your injury level from the Spell save DC of any Spell you cast.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Gaining the Condition.&lt;/strong&gt; A character gains 1 level of Injury whenever they fail a death save or if they are damaged by more than half their max hit points from a single source of damage. Characters killed through the Massive Damage rules gain 10 levels of Injury.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Recovering.&lt;/strong&gt; Immediately after finishing a Long Rest, the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. A character may gain advantage on a recovery roll if they are being provided medical care, provided hot meals, and in a restful environment, or other conditions as determined by the DM. Characters without adequate shelter or in a very stressful environment roll recovery at disadvantage. When their injury level reaches 0, the character is no longer injured.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;class-ability&quot;&gt;Class Ability&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Shake it Off.&lt;/strong&gt; Fighters, Paladins, and Rangers gain the ‘Shake it off’ ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of Injury. They can use this ability once and regain the ability to do so after a Long Rest.&lt;/p&gt;
+
+&lt;h4 id=&quot;magic&quot;&gt;Magic&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Healing Injury with Magic.&lt;/strong&gt; One level of Injury may be removed by casting Lesser Restoration. Greater Restoration removes all levels of injury.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bring Out Your Dead.&lt;/strong&gt; Any injury remains with a character brought back to life through Revivify, Raise Dead, or Resurrection, with a maximum of Injury level 9. True Resurrection and Wish bring characters back to life with 0 levels of injury.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;In conclusion, incorporating the Injury rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?</title><link href="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/" rel="alternate" type="text/html" title="The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?" /><published>2023-05-04T15:51:00+00:00</published><updated>2023-05-04T15:51:00+00:00</updated><id>https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/">&lt;p&gt;As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new &lt;a href=&quot;https://www.dndbeyond.com/sources/one-dnd/ph-playtest-5&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;playtest material&lt;/a&gt; the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.&lt;/p&gt;
 
 &lt;figure class=&quot;figure float-end mx-4&quot;&gt;
     
@@ -21,7 +73,7 @@
 
 &lt;p&gt;While it’s interesting to see the Scribe Spell make its debut in the playtest material as a callback to the original Write spell, its reintroduction raises the question of whether it adds meaningful depth to the game or just unnecessary complexity. It’s important for playtests to be experimental and push the boundaries of the game, but not every idea should make it into the final product.&lt;/p&gt;
 
-&lt;p&gt;The Scribe Spell, in its current form, may be more of a designer’s pet project rather than something that will genuinely enhance the player experience. Adding a layer of complexity and potential danger to scribing spells might seem like a fun idea on paper, but in practice, it could detract from the core gameplay and frustrate players who just want to get on with their adventures.&lt;/p&gt;
+&lt;p&gt;Personally, I’m all for a spell system that adds danger or interesting management options to play, but this doesn’t do any of that. The Scribe Spell, in its current form, may be more of a designer’s pet project rather than something that will genuinely enhance the player experience. Adding a layer of complexity and potential danger to scribing spells might seem like a fun idea on paper, but in practice, it could detract from the core gameplay and frustrate players who just want to get on with their adventures.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
 
@@ -458,86 +510,4 @@ The server just opened this weekend and is still getting set-up.&lt;/p&gt;
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;These rules close a bit loophole in the original Gritty Healing and Survival rules as presented.  It further reduces the recovery rate of players but serves two purposes. First it doesn’t create a situation where healing casters are holding onto all their spell slots to heal everyone. While it can be fun to know that you are keeping the party up and running, this frees them up more to participate directly in encounters. Second, it maintains the long-term management aspects by keeping a &lt;em&gt;Hit Die Economy&lt;/em&gt; in the campaign timescale. Lastly, it encourages downtime and other activities not focused on the combat encounter.&lt;/p&gt;
 
-&lt;p&gt;Now go out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Earlier in the week I posted some rules for Gritty Healing &amp;amp; Survival in 5e. These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic. In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gritty Healing &amp;amp; Survival in 5e</title><link href="https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules/" rel="alternate" type="text/html" title="Gritty Healing &amp;amp; Survival in 5e" /><published>2021-06-27T10:26:00+00:00</published><updated>2021-06-27T10:26:00+00:00</updated><id>https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules</id><content type="html" xml:base="https://www.optionalrule.com/2021/06/27/gritty-healing-and-survival-rules/">&lt;p&gt;The heroic playstyle of 5e D&amp;amp;D is a lot of fun, but it’s focused on the encounter for resource management and pacing. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, mitigation, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colville’s recent twitch hangout, I was inspired to write down my own thoughts on gritty rules for 5e.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Important Side Note:&lt;/em&gt;&lt;/strong&gt; Gritty play is sometimes pushed with a sense of elitism. This is a silly  and as it’s just a style of play. Keep that in mind. If you choose this style of play, the game is inherently going to get much more about tracking and managing resources. There is nothing wrong if that style of play is not for you. However, if you enjoy it, these rules should give you something to sink your teeth into.&lt;/p&gt;
-
-&lt;h2 id=&quot;dont-we-have-this-already&quot;&gt;Don’t We Have This Already?&lt;/h2&gt;
-&lt;p&gt;Discussion of gritty mechanics and survival rules in 5e is an evergreen topic. A quick google search will turn up a number grim dark, gritty, or other survival rules. However, I never thought these hit the right spot of focus or depth for my own campaigns. Even the 5e DMG has a set of &lt;strong&gt;&lt;em&gt;Gritty Realism rules&lt;/em&gt;&lt;/strong&gt; to use that just extends short rests to once a day, and long-rests to once a week. Rather than providing a different style of play, the gritty realism rules just make everything take longer. Therefore, they are neither gritty nor realistic.&lt;/p&gt;
-
-&lt;p&gt;What I’m presenting here is closer to the Slow Natural Healing rules in Chapter 9 of the DMG.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;A Quick Note on Realism:&lt;/strong&gt; A frequent mistake people make is to assume this is an attempt to make 5e more realistic or simulationist. It is not. This just makes mechanics about survival and health management more of a central gameplay element.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-rules&quot;&gt;The Rules&lt;/h2&gt;
-
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/camping_party_475x633.jpg&quot; alt=&quot;A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted.&quot; height=&quot;475&quot; /&gt;
-        
-    
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit Wizards of the Coast&lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;p&gt;Where noted these house rules replace the standard 5e rules.&lt;/p&gt;
-
-&lt;h3 id=&quot;natural-healing&quot;&gt;Natural Healing&lt;/h3&gt;
-&lt;p&gt;Short and Long Rest healing is no longer used, otherwise rests work as normal. Instead, players may only spend Hit Dice (HD) to heal at the end of a Long Rest. Also, HD are spent separately to heal ability scores, drain, and damage. Additionally players roll to recover spent Hit Die instead of recovering half of their HD at the end of a long rest. (&lt;em&gt;You knew that was the rule right?&lt;/em&gt;) In this way, extended combat and stress have a larger impact and tend to grind characters down more.&lt;/p&gt;
-
-&lt;p&gt;The Long Rest sequence is as follows:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Roll to recover spent HD&lt;/li&gt;
-  &lt;li&gt;Choose to spend HD on healing ability damage, drain, or to recovery hit points.&lt;/li&gt;
-  &lt;li&gt;Modify any HD roll by the recovery conditions.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;recovering-spent-hd&quot;&gt;Recovering Spent HD&lt;/h4&gt;
-&lt;p&gt;Hit Dice are recovered by rolling a DC 13 Constitution check for each spent HD at the end of a long rest, before any healing. Disadvantage may be imposed under harsh conditions, with inadequate shelter, or if unable to rest. Likewise advantage may be granted under good recovery conditions and medical care, such as at a sanctuary or house of healing.&lt;/p&gt;
-
-&lt;h4 id=&quot;spending-hd-on-healing&quot;&gt;Spending HD on Healing&lt;/h4&gt;
-&lt;p&gt;Players choose to spend their HD to heal ability loss, drain, or damage separately as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;One Hit Die to recover one point of ability score loss.&lt;/li&gt;
-  &lt;li&gt;One Hit Die roll to recover drain.&lt;/li&gt;
-  &lt;li&gt;One Hit Die roll to heal damage.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;modifying-hit-die-rolls&quot;&gt;Modifying Hit Die Rolls&lt;/h4&gt;
-&lt;p&gt;Recovery assumes you have access to good shelter, food, sleep, and care. For each one of these conditions not met, the type of Hit Die rolled for recovery is reduced by one. This means 1d12 becomes 1d10, 1d10 a 1d8, and so forth down to a minimum of 1 point. See Chapter 5 in the DMG for more on conditions and survival.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Shelter:&lt;/strong&gt; This assumes a restful and clean environment such as a private inn room or residence. In the wilderness this requires a DC 13 Wisdom (Survival) check with adequate supplies like tents, made with disadvantage setup or find a shelter with no equipment. A single character may make this roll for a group up to their skill bonus in size.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Good Food:&lt;/strong&gt; A hot meal or good quality food is needed for healing. Characters can use the &lt;a href=&quot;https://www.dndbeyond.com/sources/dmg/adventure-environments#Foraging&quot; target=&quot;_blank&quot;&gt;Foraging Rules&lt;/a&gt; from Chapter 5 of the DMG if they need to find food in the wilderness. Finding &lt;em&gt;quality&lt;/em&gt; food with foraging is difficult.  Roll twice when foraging and if both rolls are successful, the food is of high enough quality to satisfy this requirement.  Otherwise it is simply enough to keep you from starving.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sleep&lt;/strong&gt;: Sleep or meditation is required as normal for your race. Without adequate shelter or if interrupted with combat this may require an individual DC 13 Constitution (Survival) check to satisfy this requirement. This roll may be modified or made at disadvantage under harsh conditions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Medical Care:&lt;/strong&gt; Having proper care is important for a speedy recovery. Characters proficient in the Medicine skill may make a DC 13 Wisdom (Medicine) check to provide proper medical care to themselves or others. The DC is increased by 2 for every patient over the first and is made at disadvantage without proper medical supplies.&lt;/p&gt;
-
-&lt;h3 id=&quot;starvation-and-water&quot;&gt;Starvation and Water&lt;/h3&gt;
-
-&lt;p&gt;As mentioned in the &lt;strong&gt;&lt;em&gt;Good Food&lt;/em&gt;&lt;/strong&gt; topic above, food is essential for survival and healing. Additionally, characters may suffer exhaustion from starvation or dehydration. The rules covering Food and Water in Chapter 8 of the PHB, and Foraging rules from Chapter 5 of the DMG, should cover this well.  Games that need more harsh survival conditions can simply modify the DCs as appropriate.&lt;/p&gt;
-
-&lt;h2 id=&quot;other-considerations&quot;&gt;Other Considerations&lt;/h2&gt;
-
-&lt;p&gt;All-in-all a gritty playstyle will have extended rules over a number of sub-systems. These can be as expansive or brief as fits your campaign. However, I recommend starting with these gritty healing rules and see how they land with your players (&lt;em&gt;after&lt;/em&gt; getting buy-in) and expanding from there if it seems fun. If so, you may also want to consider other expanded rules or modifications.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Limiting Hit Points:&lt;/strong&gt; 5e does a better job of doing damage than most people give it credit for. However, there are various OSR rules for hit points you may want to consider if this is right for you. There is a different option that I think works better than limited hit points, that is limited healing.  &lt;strong&gt;I will make a follow-up post about this later in the week&lt;/strong&gt; but a complimentary rule is something that requires players to spend HD to receive healing, otherwise it heals 1 pt. This prevents turning the cleric into a heal-bot and more.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Infection &amp;amp; Disease:&lt;/strong&gt; Using the disease rules from Chapter 8 of the DMG, you could decide to include infection from wounds in your game. I think this is for groups on the extreme end of gritty survival games but it’s a consideration. Use the rules for Sewer Plague to govern any infection.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lowering Ability Scores:&lt;/strong&gt; Many gritty games lean into randomly generated ability scores rather than having everyone in the group easily reaching maximum humanoid potential. So, choose a generation method that is right for you. Additionally, you may want to consider doing away with Ability Score Increases (ASI) and using Feats as the only option. This can add more variety and customization and some still come with a +1 ASI.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Spells:&lt;/strong&gt; Gritty play puts more burden on spells and spell casters. Some DMs may consider banning or modifying spells like Goodberry, Create Water, Healing Spirit, and Tiny Hut.&lt;/p&gt;
-
-&lt;h2 id=&quot;campaigns&quot;&gt;Campaigns&lt;/h2&gt;
-&lt;p&gt;Introducing a system like this significantly impacts the pacing of campaigns and challenge of encounters. This system works better for campaigns with modular encounters and opportunities to manage rest and recovery. Therefore, campaigns like Lost Mines of Phandelver, or Rime of the Frostmaiden may be better suited. Campaigns like Out of the Abyss or Tomb of Annihilation may require a lot of modification by the DM or be a poor fit for this style of play.&lt;/p&gt;
-
-&lt;div class=&quot;alert alert-warning&quot;&gt;
-&lt;i class=&quot;fas fa-exclamation-circle&quot;&gt;&lt;/i&gt; Watch for Part 2 of this series to address Gritty Healing and Spells, Potions, and Abilities later in the week.
-&lt;/div&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Gritty rules aren’t for everyone, but can be a fun variation on your 5e play or suited for some groups playstyles. To be successful, you need full buy-in from everyone in the group and have to enjoy the management and level of detail that goes into this kind of play. Those that enjoy it can welcome the challenge of planning through recovery or mitigating for loss. DMs would do well to provide players both opportunities to shine, and interesting challenges to overcome through planning and preparation. To be sure, these rules are usually not for the faint of heart or play groups that don’t like getting lost in the details.  Additionally, this playstyle is better suited for tier one and two play. However, most games happen in those tiers anyway and if you’re looking for higher tier play, gritty rules were probably never a consideration.&lt;/p&gt;
-
-&lt;p&gt;Now go out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">The heroic playstyle of 5e D&amp;amp;D is a lot of fun, but it’s focused on the encounter for resource management and pacing. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, mitigation, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colville’s recent twitch hangout, I was inspired to write down my own thoughts on gritty rules for 5e.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Now go out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Earlier in the week I posted some rules for Gritty Healing &amp;amp; Survival in 5e. These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic. In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

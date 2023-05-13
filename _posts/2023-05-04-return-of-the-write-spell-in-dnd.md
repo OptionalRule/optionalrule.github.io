@@ -32,7 +32,7 @@ Some might argue that the introduction of the Scribe Spell in the 5th edition pl
 
 While it's interesting to see the Scribe Spell make its debut in the playtest material as a callback to the original Write spell, its reintroduction raises the question of whether it adds meaningful depth to the game or just unnecessary complexity. It's important for playtests to be experimental and push the boundaries of the game, but not every idea should make it into the final product.
 
-The Scribe Spell, in its current form, may be more of a designer's pet project rather than something that will genuinely enhance the player experience. Adding a layer of complexity and potential danger to scribing spells might seem like a fun idea on paper, but in practice, it could detract from the core gameplay and frustrate players who just want to get on with their adventures.
+Personally, I'm all for a spell system that adds danger or interesting management options to play, but this doesn't do any of that. The Scribe Spell, in its current form, may be more of a designer's pet project rather than something that will genuinely enhance the player experience. Adding a layer of complexity and potential danger to scribing spells might seem like a fun idea on paper, but in practice, it could detract from the core gameplay and frustrate players who just want to get on with their adventures.
 
 **Conclusion**
 
