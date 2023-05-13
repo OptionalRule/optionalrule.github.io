@@ -11,7 +11,7 @@ Introducing a lasting injury system in Dungeons and Dragons 5th edition can grea
 
 The lasting injury mechanic fosters a sense of camaraderie among players as they must now invest in each other's well-being, reinforcing the bonds of their adventuring party. By raising the stakes in this way, victories become even more rewarding, and surviving against the odds offers an unparalleled sense of accomplishment. In essence, this system deepens player engagement, making every encounter, decision, and dice roll truly matter in their shared story.
 
-Below is a revised version of the Injury Rules I created based on the OneDnD playtest changes to Exhaustion.
+Below is a revised version of the [original Injury Rules]({% link _posts/2022-10-01-injured-condition-onednd.md %}) I created based on the OneDnD playtest changes to Exhaustion.
 
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"
