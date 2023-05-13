@@ -6,7 +6,7 @@ categories:
     - Shadowdark
     - Lore 
 author: Scott Turnbull
-image: /assets/img/etherea-deep-forest-ruins.jpg
+image: /assets/img/etherea-setting-lineart.jpg
 description: An introduction my homebrew setting of Etherea, for use with the Shadowdark RPG.
 ---
 
@@ -20,7 +20,7 @@ I plan to continue to chip away at this setting as I gear up to run some Shadowd
 
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"
-  src="/assets/img/etherea-deep-forest-ruins.jpg"
+  src="/assets/img/etherea-setting-lineart.jpg"
   alt="A massive ruined city overgrown in forest dwarfing a band of adventurers."
   width="480" height="480"
  %}
@@ -59,8 +59,8 @@ The Umbraweave's existence has shaped the world of Etherea in profound ways. It 
 
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"
-  src="/assets/img/etherea-crystal-rain-ruin.jpg"
-  alt="A massive ruined city overgrown in forest dwarfing a band of adventurers."
+  src="/assets/img/etherea-magic-lineart.jpg"
+  alt="A man standing in the middle of a magical strom of lightning, his face twisting."
   width="480" height="480"
  %}
 

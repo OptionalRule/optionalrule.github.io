@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-13T20:28:52+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Introduction to the World of Etherea</title><link href="https://www.optionalrule.com/2023/05/13/the-world-of-etherea/" rel="alternate" type="text/html" title="Introduction to the World of Etherea" /><published>2023-05-13T15:46:00+00:00</published><updated>2023-05-13T15:46:00+00:00</updated><id>https://www.optionalrule.com/2023/05/13/the-world-of-etherea</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/13/the-world-of-etherea/">&lt;p&gt;Etherea is the initial idea for a setting I’ve crafted for the Shadowdark Tabletop Roleplaying game, designed to foster a sense of intrigue and danger inherent in the exploration of magic and the supernatural. The core concept of the world, the Umbraweave, is meant to evoke a persistent sense of mystery and unease, underlining the idea that behind the veil of reality, potent emotions and intense events birth spirits that drift in the shadows. The aim is to instill a constant sense of tension and wonder in the players, offering them a world where magic is as unpredictable and dangerous as it is powerful.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-13T20:57:20+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Introduction to the World of Etherea</title><link href="https://www.optionalrule.com/2023/05/13/the-world-of-etherea/" rel="alternate" type="text/html" title="Introduction to the World of Etherea" /><published>2023-05-13T15:46:00+00:00</published><updated>2023-05-13T15:46:00+00:00</updated><id>https://www.optionalrule.com/2023/05/13/the-world-of-etherea</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/13/the-world-of-etherea/">&lt;p&gt;Etherea is the initial idea for a setting I’ve crafted for the Shadowdark Tabletop Roleplaying game, designed to foster a sense of intrigue and danger inherent in the exploration of magic and the supernatural. The core concept of the world, the Umbraweave, is meant to evoke a persistent sense of mystery and unease, underlining the idea that behind the veil of reality, potent emotions and intense events birth spirits that drift in the shadows. The aim is to instill a constant sense of tension and wonder in the players, offering them a world where magic is as unpredictable and dangerous as it is powerful.&lt;/p&gt;
 
 &lt;p&gt;These initial freeform thoughts on Etherea’s history, the rationale behind its magic, and the intricate weave of its religious beliefs are intended to set the stage for an array of adventurous narratives. The remnants of once great empires and fallen civilizations provide a treasure trove of mysteries to unearth, ancient secrets to decipher, and lost treasures to claim. The omnipresent threat of the Umbraweave and its Echoforms, alongside the complex interplay between Weavers and the pious, further drive the sense of imminent danger and conflict. Overall, Etherea is a world shaped by its past, teeming with potential for daring exploits, and ripe for heroes to make their mark.&lt;/p&gt;
 
@@ -8,7 +8,7 @@
 
 &lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/etherea-deep-forest-ruins.jpg&quot; alt=&quot;A massive ruined city overgrown in forest dwarfing a band of adventurers.&quot; height=&quot;480&quot; /&gt;
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/etherea-setting-lineart.jpg&quot; alt=&quot;A massive ruined city overgrown in forest dwarfing a band of adventurers.&quot; height=&quot;480&quot; /&gt;
         
     
 &lt;/figure&gt;
@@ -47,7 +47,7 @@
 
 &lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/etherea-crystal-rain-ruin.jpg&quot; alt=&quot;A massive ruined city overgrown in forest dwarfing a band of adventurers.&quot; height=&quot;480&quot; /&gt;
+    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/etherea-magic-lineart.jpg&quot; alt=&quot;A man standing in the middle of a magical strom of lightning, his face twisting.&quot; height=&quot;480&quot; /&gt;
         
     
 &lt;/figure&gt;
@@ -78,475 +78,326 @@
 
 &lt;p&gt;Yet the divine landscape of Etherea is not limited to these grand ideals. Just as the world is filled with Echoforms, so too is it filled with smaller gods, local deities born from intense Echoforms fostered by specific traditions, rites, or even locations. These deities might rule over a single river, a particular forest, or even a humble village. They are deeply tied to the communities that worship them, their fates and fortunes often seen as intertwined.&lt;/p&gt;
 
-&lt;p&gt;Such is the grand tapestry of faith in Etherea. It is a world where the divine is as varied and complex as the people who worship them, where the line between mortal and god can blur, and where the echoes of belief shape not just the Umbraweave, but the very fate of the world itself.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Shadowdark" /><category term="Lore" /><summary type="html">Etherea is the initial idea for a setting I’ve crafted for the Shadowdark Tabletop Roleplaying game, designed to foster a sense of intrigue and danger inherent in the exploration of magic and the supernatural. The core concept of the world, the Umbraweave, is meant to evoke a persistent sense of mystery and unease, underlining the idea that behind the veil of reality, potent emotions and intense events birth spirits that drift in the shadows. The aim is to instill a constant sense of tension and wonder in the players, offering them a world where magic is as unpredictable and dangerous as it is powerful.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/etherea-deep-forest-ruins.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/etherea-deep-forest-ruins.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Revised Injured Condition</title><link href="https://www.optionalrule.com/2023/05/13/revised-injury-condition/" rel="alternate" type="text/html" title="Revised Injured Condition" /><published>2023-05-13T10:30:00+00:00</published><updated>2023-05-13T10:30:00+00:00</updated><id>https://www.optionalrule.com/2023/05/13/revised-injury-condition</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/13/revised-injury-condition/">&lt;p&gt;Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.&lt;/p&gt;
+&lt;p&gt;Such is the grand tapestry of faith in Etherea. It is a world where the divine is as varied and complex as the people who worship them, where the line between mortal and god can blur, and where the echoes of belief shape not just the Umbraweave, but the very fate of the world itself.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Shadowdark" /><category term="Lore" /><summary type="html">Etherea is the initial idea for a setting I’ve crafted for the Shadowdark Tabletop Roleplaying game, designed to foster a sense of intrigue and danger inherent in the exploration of magic and the supernatural. The core concept of the world, the Umbraweave, is meant to evoke a persistent sense of mystery and unease, underlining the idea that behind the veil of reality, potent emotions and intense events birth spirits that drift in the shadows. The aim is to instill a constant sense of tension and wonder in the players, offering them a world where magic is as unpredictable and dangerous as it is powerful.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/etherea-setting-lineart.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/etherea-setting-lineart.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Revised Injured Condition</title><link href="https://www.optionalrule.com/2023/05/13/revised-injury-condition/" rel="alternate" type="text/html" title="Revised Injured Condition" /><published>2023-05-13T10:30:00+00:00</published><updated>2023-05-13T10:30:00+00:00</updated><id>https://www.optionalrule.com/2023/05/13/revised-injury-condition</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/13/revised-injury-condition/">Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.
 
-&lt;p&gt;The lasting injury mechanic fosters a sense of camaraderie among players as they must now invest in each other’s well-being, reinforcing the bonds of their adventuring party. By raising the stakes in this way, victories become even more rewarding, and surviving against the odds offers an unparalleled sense of accomplishment. In essence, this system deepens player engagement, making every encounter, decision, and dice roll truly matter in their shared story.&lt;/p&gt;
+The lasting injury mechanic fosters a sense of camaraderie among players as they must now invest in each other&apos;s well-being, reinforcing the bonds of their adventuring party. By raising the stakes in this way, victories become even more rewarding, and surviving against the odds offers an unparalleled sense of accomplishment. In essence, this system deepens player engagement, making every encounter, decision, and dice roll truly matter in their shared story.
 
-&lt;p&gt;Below is a revised version of the Injury Rules I created based on the OneDnD playtest changes to Exhaustion.&lt;/p&gt;
+Below is a revised version of the Injury Rules I created based on the OneDnD playtest changes to Exhaustion.
 
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/treating-injuries480x480.jpg&quot; alt=&quot;A man in armor kneeling next to a young woman who is holding her arm out to receive healing.&quot; height=&quot;480&quot; /&gt;
-        
-    
-&lt;/figure&gt;
+{% include imageframe.html
+  figure_class=&quot;float-end ms-4 clearfix&quot;
+  src=&quot;/assets/img/treating-injuries480x480.jpg&quot;
+  alt=&quot;A man in armor kneeling next to a young woman who is holding her arm out to receive healing.&quot;
+  width=&quot;480&quot; height=&quot;480&quot;
+ %}
 
-&lt;h3 id=&quot;injured-condition&quot;&gt;Injured [Condition]&lt;/h3&gt;
+### Injured [Condition]
 
-&lt;p&gt;While you are subject to the Injured Condition, you experience the following effects:&lt;/p&gt;
+While you are subject to the Injured Condition, you experience the following effects:
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Levels of Injury.&lt;/strong&gt; This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;d20 Rolls Affected.&lt;/strong&gt; When you make a d20 Test, you subtract your injury level from your d20 roll.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Spell Save DCs Affected.&lt;/strong&gt; Subtract your injury level from the Spell save DC of any Spell you cast.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Gaining the Condition.&lt;/strong&gt; A character gains 1 level of Injury whenever they fail a death save or if they are damaged by more than half their max hit points from a single source of damage. Characters killed through the Massive Damage rules gain 10 levels of Injury.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Recovering.&lt;/strong&gt; Immediately after finishing a Long Rest, the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. A character may gain advantage on a recovery roll if they are being provided medical care, provided hot meals, and in a restful environment, or other conditions as determined by the DM. Characters without adequate shelter or in a very stressful environment roll recovery at disadvantage. When their injury level reaches 0, the character is no longer injured.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+- **Levels of Injury.** This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.
 
-&lt;h4 id=&quot;class-ability&quot;&gt;Class Ability&lt;/h4&gt;
+- **d20 Rolls Affected.** When you make a d20 Test, you subtract your injury level from your d20 roll.
 
-&lt;p&gt;&lt;strong&gt;Shake it Off.&lt;/strong&gt; Fighters, Paladins, and Rangers gain the ‘Shake it off’ ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of Injury. They can use this ability once and regain the ability to do so after a Long Rest.&lt;/p&gt;
+- **Spell Save DCs Affected.** Subtract your injury level from the Spell save DC of any Spell you cast.
 
-&lt;h4 id=&quot;magic&quot;&gt;Magic&lt;/h4&gt;
+- **Gaining the Condition.** A character gains 1 level of Injury whenever they fail a death save or if they are damaged by more than half their max hit points from a single source of damage. Characters killed through the Massive Damage rules gain 10 levels of Injury.
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Healing Injury with Magic.&lt;/strong&gt; One level of Injury may be removed by casting Lesser Restoration. Greater Restoration removes all levels of injury.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Bring Out Your Dead.&lt;/strong&gt; Any injury remains with a character brought back to life through Revivify, Raise Dead, or Resurrection, with a maximum of Injury level 9. True Resurrection and Wish bring characters back to life with 0 levels of injury.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+- **Recovering.** Immediately after finishing a Long Rest, the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. A character may gain advantage on a recovery roll if they are being provided medical care, provided hot meals, and in a restful environment, or other conditions as determined by the DM. Characters without adequate shelter or in a very stressful environment roll recovery at disadvantage. When their injury level reaches 0, the character is no longer injured.
 
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+#### Class Ability 
 
-&lt;p&gt;In conclusion, incorporating the Injury rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?</title><link href="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/" rel="alternate" type="text/html" title="The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?" /><published>2023-05-04T15:51:00+00:00</published><updated>2023-05-04T15:51:00+00:00</updated><id>https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/">&lt;p&gt;As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new &lt;a href=&quot;https://www.dndbeyond.com/sources/one-dnd/ph-playtest-5&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;playtest material&lt;/a&gt; the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.&lt;/p&gt;
+**Shake it Off.** Fighters, Paladins, and Rangers gain the &apos;Shake it off&apos; ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of Injury. They can use this ability once and regain the ability to do so after a Long Rest.
 
-&lt;figure class=&quot;figure float-end mx-4&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/young_adult_wizard_scribing.jpg&quot; alt=&quot;A young adult wizard sitting at a desk and writing in a book with magic energy around them.&quot; height=&quot;480&quot; /&gt;
-        
-    
-&lt;/figure&gt;
+#### Magic
 
-&lt;p&gt;&lt;strong&gt;A Blast from the Past: The Origins of Write and Scribe Spell&lt;/strong&gt;&lt;/p&gt;
+- **Healing Injury with Magic.** One level of Injury may be removed by casting Lesser Restoration. Greater Restoration removes all levels of injury.
 
-&lt;p&gt;The Write spell first appeared in the earliest editions of Advanced Dungeons and Dragons. It allowed wizards to scribe spells into their spellbooks, with the interesting twist of having a chance of failure and explosion. This risk added a sense of danger and mystery to the process of acquiring new spells, making magic feel more esoteric and unpredictable.&lt;/p&gt;
+- **Bring Out Your Dead.** Any injury remains with a character brought back to life through Revivify, Raise Dead, or Resurrection, with a maximum of Injury level 9. True Resurrection and Wish bring characters back to life with 0 levels of injury.
 
-&lt;p&gt;Over time, this mechanic was streamlined, and from 3rd edition onward, scribing spells became a simple class ability for wizards. This made the process less risky and time-consuming, allowing players to focus more on adventuring and less on managing their spellbooks.&lt;/p&gt;
+### Conclusion
 
-&lt;p&gt;&lt;strong&gt;A Return to OSR Thinking with Scribe Spell?&lt;/strong&gt;&lt;/p&gt;
+In conclusion, incorporating the Injury rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it&apos;s a more challenging way to play, the rewards are substantial, making each victory a testament to the players&apos; resilience and teamwork.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?</title><link href="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/" rel="alternate" type="text/html" title="The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?" /><published>2023-05-04T15:51:00+00:00</published><updated>2023-05-04T15:51:00+00:00</updated><id>https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/">As fans of Dungeons and Dragons 5th edition, we&apos;re always excited to see what new &lt;a href=&quot;https://www.dndbeyond.com/sources/one-dnd/ph-playtest-5&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;playtest material&lt;/a&gt; the developers come up with. Recently, there&apos;s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;D community. The change involves introducing a spell called &quot;Scribe Spell&quot; to handle the scribing process, a concept that harkens back to an earlier spell called &quot;Write&quot; from the first edition of Advanced Dungeons and Dragons. In this blog post, we&apos;ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.
 
-&lt;p&gt;Some might argue that the introduction of the Scribe Spell in the 5th edition playtest material is an attempt to return to the Old School Renaissance (OSR) style of play, where magic was more unpredictable and dangerous. This could be seen as a nostalgic callback to the early days of D&amp;amp;D, offering a more challenging and immersive experience for players who yearn for the good old days.&lt;/p&gt;
+{% include imageframe.html
+  figure_class=&quot;float-end mx-4&quot;
+  src=&quot;/assets/img/young_adult_wizard_scribing.jpg&quot;
+  alt=&quot;A young adult wizard sitting at a desk and writing in a book with magic energy around them.&quot;
+  height=&quot;480&quot; width=&quot;480&quot;
 
-&lt;p&gt;&lt;strong&gt;But Is It Necessary?&lt;/strong&gt;&lt;/p&gt;
+ %}
 
-&lt;p&gt;While it’s interesting to see the Scribe Spell make its debut in the playtest material as a callback to the original Write spell, its reintroduction raises the question of whether it adds meaningful depth to the game or just unnecessary complexity. It’s important for playtests to be experimental and push the boundaries of the game, but not every idea should make it into the final product.&lt;/p&gt;
+**A Blast from the Past: The Origins of Write and Scribe Spell**
 
-&lt;p&gt;Personally, I’m all for a spell system that adds danger or interesting management options to play, but this doesn’t do any of that. The Scribe Spell, in its current form, may be more of a designer’s pet project rather than something that will genuinely enhance the player experience. Adding a layer of complexity and potential danger to scribing spells might seem like a fun idea on paper, but in practice, it could detract from the core gameplay and frustrate players who just want to get on with their adventures.&lt;/p&gt;
+The Write spell first appeared in the earliest editions of Advanced Dungeons and Dragons. It allowed wizards to scribe spells into their spellbooks, with the interesting twist of having a chance of failure and explosion. This risk added a sense of danger and mystery to the process of acquiring new spells, making magic feel more esoteric and unpredictable.
 
-&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+Over time, this mechanic was streamlined, and from 3rd edition onward, scribing spells became a simple class ability for wizards. This made the process less risky and time-consuming, allowing players to focus more on adventuring and less on managing their spellbooks.
 
-&lt;p&gt;The introduction of the Scribe Spell in the D&amp;amp;D 5th edition playtest material, as a callback to the original Write spell, is an intriguing nod to the game’s origins, but its practical value in the modern game is debatable. Personally, I don’t see what it adds to the game. While it’s great to see developers experimenting with different mechanics, it’s important to recognize when a design element might not be the best fit for the current edition. The Scribe Spell is a fascinating part of D&amp;amp;D history, but it may be best left in the past as we continue to evolve the game and focus on what makes it truly engaging for players.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new playtest material the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Injured Condition For Lasting Damage</title><link href="https://www.optionalrule.com/2022/10/01/injured-condition-onednd/" rel="alternate" type="text/html" title="Injured Condition For Lasting Damage" /><published>2022-10-01T11:38:00+00:00</published><updated>2022-10-01T11:38:00+00:00</updated><id>https://www.optionalrule.com/2022/10/01/injured-condition-onednd</id><content type="html" xml:base="https://www.optionalrule.com/2022/10/01/injured-condition-onednd/">&lt;p&gt;Injuries in Dungeons &amp;amp; Dragons are important for two reasons: they add realism to the game and they can be used to add humor. By making injuries last longer, it gives the players a sense of realism and danger that they may not feel if they simply healed back up to full hit points after every battle. It also allows for some interesting role-playing opportunities, such as a character with a permanent limp trying to negotiate a difficult terrain. Finally, it can be fun to see how creative the players can be in dealing with their injuries and add depth to a game.&lt;/p&gt;
+**A Return to OSR Thinking with Scribe Spell?**
 
-&lt;p&gt;With the release of the &lt;a href=&quot;https://media.dndbeyond.com/compendium-images/one-dnd/expert-classes/kpx0MvyfBGHe0XKk/UA2022-Expert-Classes.pdf?icid_source=house-ads&amp;amp;icid_medium=crosspromo&amp;amp;icid_campaign=playtest2&quot; target=&quot;_blank&quot;&gt;Exhausted condition in the new OneDnD Playtest&lt;/a&gt;, injuries can be tracked in a way common with other game rules.&lt;/p&gt;
+Some might argue that the introduction of the Scribe Spell in the 5th edition playtest material is an attempt to return to the Old School Renaissance (OSR) style of play, where magic was more unpredictable and dangerous. This could be seen as a nostalgic callback to the early days of D&amp;D, offering a more challenging and immersive experience for players who yearn for the good old days.
 
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/camping_party_475x633.jpg&quot; alt=&quot;A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted.&quot; height=&quot;475&quot; /&gt;
-        
-    
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit Wizards of the Coast&lt;/figcaption&gt;
-    
-&lt;/figure&gt;
+**But Is It Necessary?**
 
-&lt;h3 id=&quot;injured-condition&quot;&gt;Injured [Condition]&lt;/h3&gt;
-&lt;p&gt;While you are subject to the Injured Condition you experience the following effects:&lt;/p&gt;
+While it&apos;s interesting to see the Scribe Spell make its debut in the playtest material as a callback to the original Write spell, its reintroduction raises the question of whether it adds meaningful depth to the game or just unnecessary complexity. It&apos;s important for playtests to be experimental and push the boundaries of the game, but not every idea should make it into the final product.
 
-&lt;p&gt;&lt;strong&gt;Levels of Injury.&lt;/strong&gt; This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.&lt;/p&gt;
+Personally, I&apos;m all for a spell system that adds danger or interesting management options to play, but this doesn&apos;t do any of that. The Scribe Spell, in its current form, may be more of a designer&apos;s pet project rather than something that will genuinely enhance the player experience. Adding a layer of complexity and potential danger to scribing spells might seem like a fun idea on paper, but in practice, it could detract from the core gameplay and frustrate players who just want to get on with their adventures.
 
-&lt;p&gt;&lt;strong&gt;d20 Rolls Affected.&lt;/strong&gt; When you make a d20 Test, you subtract your injury level from your d20 roll.&lt;/p&gt;
+**Conclusion**
 
-&lt;p&gt;&lt;strong&gt;Spell Save DCs Affected.&lt;/strong&gt; Subtract your injury level from the Spell save DC of any Spell you cast.&lt;/p&gt;
+The introduction of the Scribe Spell in the D&amp;D 5th edition playtest material, as a callback to the original Write spell, is an intriguing nod to the game&apos;s origins, but its practical value in the modern game is debatable. Personally, I don&apos;t see what it adds to the game. While it&apos;s great to see developers experimenting with different mechanics, it&apos;s important to recognize when a design element might not be the best fit for the current edition. The Scribe Spell is a fascinating part of D&amp;D history, but it may be best left in the past as we continue to evolve the game and focus on what makes it truly engaging for players.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new playtest material the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Injured Condition For Lasting Damage</title><link href="https://www.optionalrule.com/2022/10/01/injured-condition-onednd/" rel="alternate" type="text/html" title="Injured Condition For Lasting Damage" /><published>2022-10-01T11:38:00+00:00</published><updated>2022-10-01T11:38:00+00:00</updated><id>https://www.optionalrule.com/2022/10/01/injured-condition-onednd</id><content type="html" xml:base="https://www.optionalrule.com/2022/10/01/injured-condition-onednd/">Injuries in Dungeons &amp; Dragons are important for two reasons: they add realism to the game and they can be used to add humor. By making injuries last longer, it gives the players a sense of realism and danger that they may not feel if they simply healed back up to full hit points after every battle. It also allows for some interesting role-playing opportunities, such as a character with a permanent limp trying to negotiate a difficult terrain. Finally, it can be fun to see how creative the players can be in dealing with their injuries and add depth to a game.
 
-&lt;p&gt;&lt;strong&gt;Gaining the Condition.&lt;/strong&gt; A character gains 1 level of Injury when they return from 0 hp if they have failed a death save or if they are damage by more than half their max hit points from a single source of damage.&lt;/p&gt;
+With the release of the [Exhausted condition in the new OneDnD Playtest](https://media.dndbeyond.com/compendium-images/one-dnd/expert-classes/kpx0MvyfBGHe0XKk/UA2022-Expert-Classes.pdf?icid_source=house-ads&amp;icid_medium=crosspromo&amp;icid_campaign=playtest2){:target=&quot;_blank&quot;}, injuries can be tracked in a way common with other game rules.
 
-&lt;p&gt;&lt;strong&gt;Recovering.&lt;/strong&gt; Immediately after finishing a Long Rest the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. Another character may make a Medicine Test DC 10 + Injury level to give the character advantage when rolling for recovery. When their injury level reaches 0, the character is no longer injured.&lt;/p&gt;
+{% include imageframe.html
+  figure_class=&quot;float-end ms-4 clearfix&quot;
+  src=&quot;/assets/img/camping_party_475x633.jpg&quot;
+  alt=&quot;A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted.&quot;
+  width=&quot;475&quot; height=&quot;633&quot;
+  caption=&quot;Image credit Wizards of the Coast&quot;
+ %}
 
-&lt;h2 id=&quot;considerations&quot;&gt;Considerations&lt;/h2&gt;
-&lt;p&gt;Adding a new track for damage needs to be delt with smoothly in relation to other elements of the system. Natural healing and medicine checks are addressed in the condition. This leaves how you might interact with the design and intention of existing classes, spells, and magic items in the game.&lt;/p&gt;
+### Injured [Condition]
+While you are subject to the Injured Condition you experience the following effects:
 
-&lt;h3 id=&quot;design--running&quot;&gt;Design &amp;amp; Running&lt;/h3&gt;
+**Levels of Injury.** This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10. 
 
-&lt;p&gt;While managing survival and risk elements can be fun with the right player, there are a few things a DM should be cautious of.  First, beware of creating a “death spiral” in your encounters where negative effects lead to more negative effects.  Second, the flow of an encounter is no longer about the number of resources used, and players will need an opportunity to retreat. Third, consider how the group will best deal with the die modifications. This system is simple enough that you could either rely on the player to modify their roll, or ask the DM to modify DCs instead.  Finally, be aware that this is suited for a particular style of play and not for every player.  Talk to your group about it.&lt;/p&gt;
+**d20 Rolls Affected.** When you make a d20 Test, you subtract your injury level from your d20 roll.
 
-&lt;h3 id=&quot;classes&quot;&gt;Classes&lt;/h3&gt;
+**Spell Save DCs Affected.** Subtract your injury level from the Spell save DC of any Spell you cast.
 
-&lt;p&gt;Think about what your expectations are for classes, particularly the Warrior Group to deal with Injuries. Likely they will need some way to deal with injuries unique to their role as they are most likely to get injured. As such a Warrior Feat or class ability could be added like so.&lt;/p&gt;
+**Gaining the Condition.** A character gains 1 level of Injury when they return from 0 hp if they have failed a death save or if they are damage by more than half their max hit points from a single source of damage. 
 
-&lt;h4 id=&quot;shrug-it-off&quot;&gt;Shrug it Off&lt;/h4&gt;
-&lt;p&gt;A character can choose to tap their deep reserves of fortitude to avoid taking an injury level from damage.  They can use this ability once, and regain the ability to do so after a Long Rest.&lt;/p&gt;
+**Recovering.** Immediately after finishing a Long Rest the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. Another character may make a Medicine Test DC 10 + Injury level to give the character advantage when rolling for recovery. When their injury level reaches 0, the character is no longer injured.
 
-&lt;h3 id=&quot;spells&quot;&gt;Spells&lt;/h3&gt;
+## Considerations
+Adding a new track for damage needs to be delt with smoothly in relation to other elements of the system. Natural healing and medicine checks are addressed in the condition. This leaves how you might interact with the design and intention of existing classes, spells, and magic items in the game.
 
-&lt;p&gt;Magical healing is a reality in DnD and choosing how Injuries interact with magic is an important management tool. The trick is not to introduce a risk that you immediately negate with a too easily accessible feature. I recommend adding an effect to the Lesser Restoration spell that allows it to remove 1 level of Injury from the target.&lt;/p&gt;
+### Design &amp; Running
 
-&lt;h3 id=&quot;magic-items&quot;&gt;Magic Items&lt;/h3&gt;
+While managing survival and risk elements can be fun with the right player, there are a few things a DM should be cautious of.  First, beware of creating a &quot;death spiral&quot; in your encounters where negative effects lead to more negative effects.  Second, the flow of an encounter is no longer about the number of resources used, and players will need an opportunity to retreat. Third, consider how the group will best deal with the die modifications. This system is simple enough that you could either rely on the player to modify their roll, or ask the DM to modify DCs instead.  Finally, be aware that this is suited for a particular style of play and not for every player.  Talk to your group about it.
 
-&lt;p&gt;Similar to spells, healing from magic items should be considered. As with spells, I would recommend adding a single Injury level removal effect to a potion of Lesser Restoration.&lt;/p&gt;
+### Classes
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+Think about what your expectations are for classes, particularly the Warrior Group to deal with Injuries. Likely they will need some way to deal with injuries unique to their role as they are most likely to get injured. As such a Warrior Feat or class ability could be added like so.
 
-&lt;p&gt;Lingering injuries and impact of choices beyond a single game day is one of the most discussed topics in DnD circles. It has been particularly difficult in 5e DnD because of the lack of granular minus. The playtested Exhausted condition provides an elegant way to introduce that and can easily be used for Injuries as well.  A simple status track like this does not add much overhead to the play experience, and adding a dimension of injury management can create more fun for players seeking a gritty game.  Furthermore the system provides an incremental injury system so players can look at their risk more strategically over the source of an encounter.&lt;/p&gt;
+#### Shrug it Off
+A character can choose to tap their deep reserves of fortitude to avoid taking an injury level from damage.  They can use this ability once, and regain the ability to do so after a Long Rest.
 
-&lt;p&gt;Now get out there and run some great games!&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Injuries in Dungeons &amp;amp; Dragons are important for two reasons: they add realism to the game and they can be used to add humor. By making injuries last longer, it gives the players a sense of realism and danger that they may not feel if they simply healed back up to full hit points after every battle. It also allows for some interesting role-playing opportunities, such as a character with a permanent limp trying to negotiate a difficult terrain. Finally, it can be fun to see how creative the players can be in dealing with their injuries and add depth to a game.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The WoTC Errata, Long Past Due</title><link href="https://www.optionalrule.com/2021/12/17/wotc-errata-debate/" rel="alternate" type="text/html" title="The WoTC Errata, Long Past Due" /><published>2021-12-17T10:47:00+00:00</published><updated>2021-12-17T10:47:00+00:00</updated><id>https://www.optionalrule.com/2021/12/17/wotc-errata-debate</id><content type="html" xml:base="https://www.optionalrule.com/2021/12/17/wotc-errata-debate/">&lt;p&gt;The recent errata issues for 5e D&amp;amp;D is a move to stop promoting the association of harmful real world biases with fantasy races. It also and frees worldbuilders to focus on the unique aspects of their setting. All of these are great steps forward and I whole heartedly support this move.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">The recent errata issues for 5e D&amp;amp;D is a move to stop promoting the association of harmful real world biases with fantasy races. It also and frees worldbuilders to focus on the unique aspects of their setting. All of these are great steps forward and I whole heartedly support this move.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tavern Games - Darts for your D&amp;amp;D Game</title><link href="https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame/" rel="alternate" type="text/html" title="Tavern Games - Darts for your D&amp;amp;D Game" /><published>2021-12-08T12:56:00+00:00</published><updated>2021-12-08T12:56:00+00:00</updated><id>https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame</id><content type="html" xml:base="https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame/">&lt;p&gt;Mini-games can be fun distraction for your players in any TTRPG campaign. Downtime or social sessions can create a lot of opportunities for this in your game. With the release of &lt;a href=&quot;https://dnd.wizards.com/products/wild-beyond-witchlight&quot; target=&quot;_blank&quot;&gt;The Wild Beyond the Witchlight&lt;/a&gt; adventure, players have asking about mini-games to use.  So I thought I’d share the rules for my simple mini-game for Darts.&lt;/p&gt;
+### Spells
 
-&lt;p&gt;In the most simple case, a series of opposed DEX (&lt;strong&gt;Athletics&lt;/strong&gt;) checks will suffice. However, I ended up with a play group that were Dart enthusiast and wanted a full on mini-game.  So I’m sharing the simple rules I used in hopes it might have some use in your sessions.&lt;/p&gt;
+Magical healing is a reality in DnD and choosing how Injuries interact with magic is an important management tool. The trick is not to introduce a risk that you immediately negate with a too easily accessible feature. I recommend adding an effect to the Lesser Restoration spell that allows it to remove 1 level of Injury from the target.
 
-&lt;figure class=&quot;figure float-end ms-4&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/Gaston-Dart-Board_600x400.jpg&quot; alt=&quot;A dart board in a wooden frame and chalkboard for score mounted on an old tavern wall.&quot; height=&quot;600&quot; /&gt;
-        
-    
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image from Gaston&apos;s Tavern by Disney.&lt;/figcaption&gt;
-    
-&lt;/figure&gt;
+### Magic Items
 
-&lt;h2 id=&quot;the-rules&quot;&gt;The Rules&lt;/h2&gt;
-&lt;p&gt;A player rolls 2 separate color D20s, the first represents the segment of the board, the second the ring.  Like normal darts the segment the dart lands in (the number rolled on the die) determines the score. If you’re not familiar with darts, see the diagram below and it should make sense. The final score for the throw is modified by the result of the ring die like so.&lt;/p&gt;
+Similar to spells, healing from magic items should be considered. As with spells, I would recommend adding a single Injury level removal effect to a potion of Lesser Restoration.
 
-&lt;ul&gt;
-  &lt;li&gt;5 - double the score&lt;/li&gt;
-  &lt;li&gt;10 - triple the score&lt;/li&gt;
-  &lt;li&gt;15 - 25 pt Outer Bullseye if the segment die is above 10.&lt;/li&gt;
-  &lt;li&gt;20 - 50 pt Inner Bullseye if the segment die is a 20.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The player may modify either or both die results by a total of their ranged attack modifier.&lt;/p&gt;
-
-&lt;h3 id=&quot;example&quot;&gt;Example&lt;/h3&gt;
-
-&lt;p&gt;Beau takes a turn at darts, rolls an 8 on the segment die, and a 13 on the ring die. They choose to user their 7 ranged attack bonus to add 3 to the segment die to make it a 12, and 2 to the ring die to make it a 15.  That’s an Inner Bullseye for 25 pts!&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;This level of mini-game isn’t for everyone, but groups looking to play out some downtime may enjoy it.  The system is simple enough to play out, but isn’t intended to be a balance game on it’s own.  It works best when players move along quickly, perhaps with a favorite libation, and make quick choices.  So keep it moving and have them create some character moments.  Now get out there and run some great games.&lt;/p&gt;
-
-&lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
-&lt;p&gt;Structure of a Dart Board with slices and rings for scoring.&lt;/p&gt;
-&lt;figure class=&quot;figure clearfix&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/Dartboard_diagram_637x473.jpg&quot; alt=&quot;A dart board with labels for different parts.&quot; height=&quot;637&quot; /&gt;
-        
-    
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image Credit, Wikipedia.&lt;/figcaption&gt;
-    
-&lt;/figure&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Mini-games can be fun distraction for your players in any TTRPG campaign. Downtime or social sessions can create a lot of opportunities for this in your game. With the release of The Wild Beyond the Witchlight adventure, players have asking about mini-games to use. So I thought I’d share the rules for my simple mini-game for Darts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sampling Random Ability Score Generation</title><link href="https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores/" rel="alternate" type="text/html" title="Sampling Random Ability Score Generation" /><published>2021-08-12T07:30:00+00:00</published><updated>2021-08-12T07:30:00+00:00</updated><id>https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores</id><content type="html" xml:base="https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores/">&lt;p&gt;Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons &amp;amp; Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn’t come out until Xanathar’s for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.&lt;/p&gt;
-
-&lt;p&gt;Like everything in 5e, it all comes down to what you want out of it.  So, I thought it would be fun to talk about why random ability scores can be fun and what games can expect from using different methods.&lt;/p&gt;
-
-&lt;h2 id=&quot;why-random-generation&quot;&gt;Why Random Generation?&lt;/h2&gt;
-&lt;p&gt;People can find fun in random ability scores for a few reasons. First, the feeling of discovering a character and playing within the constraints of random abilities can be exciting.  Second, players can feel this creates a more ‘realistic’ individual that has to deal with the hand nature as dealt them. Third, it can move the baseline of stats to create a more gritty or epic character, depending on the method selected. These can be fun, and I particularly enjoy the discovery and constraints element of rolling abilities. However, be aware that some method can create wild disparities between characters, which can ruin the fun in some groups.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;If you’re thinking about using randomly generated ability scores in your game, I have one piece of advice.&lt;/strong&gt; Know the difference between something you like other people doing, and what those other people actually like to do. That means that the group should not only buy into something like this but be excited about it. There’s a pitfall for DMs who get things into their head that they like to see the players do but ends up being no fun for the players. So, make sure to pick an option the whole party is going to enjoy when considering something like random ability score generation.&lt;/p&gt;
-
-&lt;h2 id=&quot;common-methods-of-random-generation&quot;&gt;Common Methods of Random Generation&lt;/h2&gt;
-
-&lt;p&gt;There are several methods used to generate random abilities.  In most cases it creates a set of 6 scores the player can arrange how they like. Some versions that let players only swap a limited number of scores. A few hardcore rulesets even go so far as to keep them in the order rolled. As with anything, no way is better than another, it all comes down to what you want out if it. The most common methods are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;3d6 rolled for each ability. (3d6)&lt;/li&gt;
-  &lt;li&gt;3d6 rolled 7 times and keep the highest 6. (3d6 7x-k6)&lt;/li&gt;
-  &lt;li&gt;3d6, reroll any 1s. (3d6 r1)&lt;/li&gt;
-  &lt;li&gt;4d6 keep the highest 3. (4d6 h3)&lt;/li&gt;
-  &lt;li&gt;2d6+6 for each ability. (2d6+6)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;break-down-of-ranges&quot;&gt;Break Down of Ranges&lt;/h3&gt;
-
-&lt;p&gt;The first thing to understand about any random ability score generation method is the range and probability. How high and low a range of rolls can be, versus how likely any individual roll is likely to be.  Different methods produce different results and a &lt;a href=&quot;https://anydice.com/program/237f0&quot; target=&quot;_blank&quot;&gt;Distribution Curve&lt;/a&gt; graph of the most common methods is presented below.&lt;/p&gt;
-
-&lt;p&gt;Common rules DMs use is to reroll abilities below a particular level, let players shift points around, or rerolling if you are below a particular score value. This kind of defeats the purpose of random abilities to me, but these are the base percentages you’ll get from different methods.&lt;/p&gt;
-
-&lt;figure class=&quot;figure clearfix&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/abilityscore_generation_chart_1419x826.jpg&quot; alt=&quot;line graph featuring the probabilities of different random generation methods&quot; height=&quot;475&quot; /&gt;
-        
-    
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Chart data compiled from &lt;a href=&quot;https://anydice.com/program/237f0&quot; target=&quot;_blank&quot;&gt;Any Dice&lt;/a&gt;&lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;the-most-common-results&quot;&gt;The Most Common Results&lt;/h3&gt;
-
-&lt;p&gt;While distributions curves are great, what people want to know is what the most likely set of abilities from a particular method are.  Again, since this is random it will vary but the table below presents the ideal set of stats produced from different generation methods.  Note I am presenting the Standard Array as a comparison, and that it essentially corresponds to the method for 3d6 rerolling 1s.  If a DM were just interested in shifting ability scores up or down, they could select one of these as a new standard array and avoid the random swings.  As should be apparent, these methods can produce very different types of characters.&lt;/p&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Method&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://anydice.com/program/237f7&quot;&gt;2d6+6&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;16&lt;/td&gt;
-      &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://anydice.com/program/237f6&quot;&gt;4d6 Drop lowest&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;16&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;13&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Standard Array&lt;/td&gt;
-      &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;13&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://anydice.com/program/237f4&quot;&gt;3d6 reroll 1s&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;13&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://anydice.com/program/237f5&quot;&gt;3d6 7 times, drop lowest&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;13&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://anydice.com/program/237f3&quot;&gt;3d6&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;the-bounded-accuracy-problem&quot;&gt;The Bounded Accuracy Problem&lt;/h2&gt;
-&lt;p&gt;One thing to note about ability score generation is that 5e was built heavily on the concept of ‘bounded accuracy’. That is to say that the game design intends to tightly control the number of bonuses and their progression throughout the game.  So, giving characters higher or lower abilities could slightly impact gameplay difficulty. This is likely not going to be a massive issue, but a group should take this into consideration, particularly the DM when balancing encounters.  Additionally, ending up with drastically different primary ability bonuses can be a let down in a group, and the bounded accuracy problem may feel larger than it is.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;There is no superior method when generating ability score, it all depends on what you want.  This not only includes the ability ranges, but the mystery of what a character will be during character creation.  Generally, I prefer standard array or point buy as a DM, but I’ll allow a party to select random scores if they ALL want to and agree.  I’ve had some fun with this in various games, notably having played a healer who rolled minimum strength, playing them as having a neuromuscular disability.  In all honesty, the striving to be heroic in the face of a setback was a lot of fun for me as it taps into my own emotions and experiences having a disability. I wouldn’t want to do that in every game however, but it is fun now and again.  Regardless, it’s good to know what the likely outcomes will be when choosing something like this, so I hope this post helped shed some light onto that.&lt;/p&gt;
-
-&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons &amp;amp; Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn’t come out until Xanathar’s for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/abilityscore_generation_chart_1419x826.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/abilityscore_generation_chart_1419x826.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Perilous Journeys in 5e Part 2</title><link href="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 2" /><published>2021-07-24T01:08:00+00:00</published><updated>2021-07-24T01:08:00+00:00</updated><id>https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/">&lt;p&gt;Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure.  Last week I posted &lt;a href=&quot;/2021/07/13/perilous-journeys-in-5e-p1/&quot;&gt;Perilous Journey’s Part 1&lt;/a&gt;, which turns travel into a series of encounters like any other dungeon. This week, I’ll look at defining some ways that party members can take meaningful actions during journeys.  These &lt;strong&gt;Journey Actions&lt;/strong&gt; provide gameplay for the travel experience, as well as create dependencies between members of the party.&lt;/p&gt;
-
-&lt;p&gt;As with any rule or option, use when it add something to the game  and move along when it doesn’t.&lt;/p&gt;
-
-&lt;h2 id=&quot;journey-actions&quot;&gt;Journey Actions&lt;/h2&gt;
-
-&lt;p&gt;When traveling, a character may take one Journey Action as part of travel.  Any actions taken during travel should be chosen prior to the start of travel. Multiple characters may attempt the same action and each roll separately. This has the same roll mechanic as advantage but they each apply their individual skill bonus. Additionally, The DM may want to consider the role of proficiency in these rules. Optionally, they may only allow a character to take a journey action if proficient in an indicated skills.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Terrain Pace and DC Table&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Pace&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Speed&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Daily&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;DC&lt;/th&gt;
-      &lt;th&gt;Terrain&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fast&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;32 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;24 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
-      &lt;td&gt;Grasslands, plains, wastes etc.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Slow&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;16 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;15&lt;/td&gt;
-      &lt;td&gt;Forests, hills, tundra, sand desert, etc.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Crawl&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
-      &lt;td&gt;Mountains, swamps, jungle, etc.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;forage&quot;&gt;Forage&lt;/h3&gt;
-
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/kirk-langsea-wot-quarry-rox-02_475x475.jpg&quot; alt=&quot;A road through lonely woods.  Two mean guard a horse drawn wagon at the front and rear with bow and spear.&quot; height=&quot;475&quot; /&gt;
-        
-    
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit &lt;a href=&quot;https://www.artstation.com/artwork/baBQrr&quot; target=&quot;_blank&quot;&gt;Kirk Langsea&lt;/a&gt;&lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;p&gt;Foraging along the way for harvestable plants, or small game allows parties to eat hearty means.  Rather than keeping track of day-to-day rations in a group, this form of foraging gathers ingredients for a &lt;strong&gt;Hearty Meal&lt;/strong&gt;.  As mentioned in, part 1 of Perilous Journeys, a hearty meal may allow characters to recover a single hit die from after sleeping for eight hours when unable to take a long rest.&lt;/p&gt;
-
-&lt;p&gt;Characters harvesting use the rules in Chapter 5 of the PHB and roll &lt;strong&gt;&lt;em&gt;Wisdom (Survival)&lt;/em&gt;&lt;/strong&gt;, at +5 DC to the table presented there. Again, with this method assume the party has enough food to sustain themselves and recover exhaustion.  Instead, this type of foraging focuses on higher quality food to help recover Hit Die as per the rules above.&lt;/p&gt;
-
-&lt;p&gt;Alternatively, someone foraging could opt to gather herbs or ingredients for potions instead. If so, have them roll &lt;strong&gt;&lt;em&gt;Intelligence (Nature)&lt;/em&gt;&lt;/strong&gt; at the same DC used for foraging above.  Instead of pounds of good food, they recover the equivalent gold piece worth of ingredients. See the &lt;a href=&quot;/2021/01/24/summary-of-5e-alchemy-rules/&quot;&gt;Summary of 5e Alchemy Rules&lt;/a&gt; for options.&lt;/p&gt;
-
-&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-&lt;p&gt;Guiding a party involves combining your knowledge of an area’s geography, history, and conditions to choose a safe and sure route. At the start of a day’s journey, the guide decides the best route and rolls either an &lt;strong&gt;&lt;em&gt;Intelligence (Nature)&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;Intelligence (History)&lt;/em&gt;&lt;/strong&gt; check at the DC presented on the Terrain Pace table. This roll is made with disadvantage if the guide is unfamiliar with the terrain, has no maps, or has not gathered enough information prior to travel. On a failure, the chances of a random encounter or hazard are doubled for the travel period and the party has disadvantage on any stealth checks. Parties without a guide automatically fail this check.&lt;/p&gt;
-
-&lt;h3 id=&quot;scout&quot;&gt;Scout&lt;/h3&gt;
-&lt;p&gt;Scouting involves moving ahead of the party and using your keen senses spot danger or stealth to avoid it.  Scouts may always make active &lt;strong&gt;&lt;em&gt;Wisdom (Perception)&lt;/em&gt;&lt;/strong&gt; checks against hidden dangers.  Additionally, they can use their &lt;strong&gt;&lt;em&gt;Dexterity (Stealth)&lt;/em&gt;&lt;/strong&gt; skill to allow the entire party to avoid an encounter if the scout spotted it first. Parties staging an ambush on foes discovered by a scout have advantage on checks to catch them unaware.&lt;/p&gt;
-
-&lt;h3 id=&quot;ward&quot;&gt;Ward&lt;/h3&gt;
-&lt;p&gt;Warding uses prowess and awareness to protect the party from hazards and ambush. If a character in the party performing the warding action is not surprised during an ambush, the entire party gets advantage on their roll to avoid surprise.&lt;/p&gt;
-
-&lt;p&gt;Also, when encountering a natural hazard that requires a Strength or Dexterity save, the Warder may roll &lt;strong&gt;&lt;em&gt;Strength (Athletics)&lt;/em&gt;&lt;/strong&gt; and allow a character up to 10 feet away to use that roll instead of their own save.  The warding character may allow a number of characters up to their proficiency bonus to use their roll in this way. Examples of the kinds of hazards might be falling, avoiding an avalanche, stepping into a pit or the like.&lt;/p&gt;
-
-&lt;h2 id=&quot;spicing-things-up&quot;&gt;Spicing Things Up&lt;/h2&gt;
-
-&lt;p&gt;These rules mix well with several other house rules. By themselves they are not any more deadly or gritty than any dungeon encounter. In fact, these rules only bring journey encounters in alignment with dungeons. You can think of the entire track of a journey like a node-based set of encounters in a dungeon.&lt;/p&gt;
-
-&lt;p&gt;Mixing in other rules such as slower hit point recovery, or failed death saves only clearing on a long rest, should be approached with caution with a system like this.&lt;/p&gt;
-
-&lt;p&gt;Additionally, consider adding more opportunities for players to interact with locals during travel. Perhaps a well to do farmer would allow the party to sleep in their comfortable barn with food or supplies, or the rules might drive the party to seek out more Inns.  The goal is to spice up journeys with more meaningful actions and choices, so encourage players to lean into that.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;These actions and rules imply a healthy variety of hazards and challenges during Journeys, but DMs should use their discretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and game in the moment. There are several wilderness encounter generators available on the DMs Guild, as well as sites like &lt;a href=&quot;https://www.dndspeak.com/&quot; target=&quot;_blank&quot;&gt;DnDSpeak.com&lt;/a&gt; that offer lots of encounter ideas and tables.  I will eventually post systems here for journey-based encounters as well.&lt;/p&gt;
-
-&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure. Last week I posted Perilous Journey’s Part 1, which turns travel into a series of encounters like any other dungeon. This week, I’ll look at defining some ways that party members can take meaningful actions during journeys. These Journey Actions provide gameplay for the travel experience, as well as create dependencies between members of the party.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Perilous Journeys in 5e Part 1</title><link href="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 1" /><published>2021-07-13T08:26:00+00:00</published><updated>2021-07-13T08:26:00+00:00</updated><id>https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/">&lt;p&gt;Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.&lt;/p&gt;
-
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg&quot; alt=&quot;A horse drawn wagon traveling along a snowy road in the woods. A woman in heavy robes drives the cart while a man with a bow walks ahead of her on the road.&quot; height=&quot;475&quot; /&gt;
-        
-    
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit &lt;a href=&quot;https://www.artstation.com/artwork/ykeEaQ&quot; target=&quot;_blank&quot;&gt;Alex Wilton&lt;/a&gt;&lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;p&gt;Many of these rules draw inspiration from the very fine Journeys mechanic from Adventures in Middle Earth, which is unfortunately no longer published.  While mechanically different in places the core themes remain, and I recommend reading those rules for further inspiration.&lt;/p&gt;
-
-&lt;h2 id=&quot;havens--rests&quot;&gt;Havens &amp;amp; Rests&lt;/h2&gt;
-
-&lt;p&gt;Characters may only gain the benefits of a Long Rest at a Haven or Base Camp. Havens are &lt;strong&gt;secure&lt;/strong&gt; locations with strong &lt;strong&gt;shelter&lt;/strong&gt;. enough &lt;strong&gt;supplies&lt;/strong&gt; and room to rest and study. So manors, well-furnished houses, or Inn rooms rated Comfortable or above work well as Havens. While temporary camps, common rooms, or unsafe locations may allow sleep or recovery from exhaustion, they are not adequate to gain the benefits of a Long Rest. However, with the right supplies and skills, characters may be able to setup Base Camps in the field that allow a proper Long Rest. Meaning the core of game play on the road is managing your supplies, camps, and connecting with settlements in a region to travel in a way that allows you to either move freely or sustain operations, but not both.&lt;/p&gt;
-
-&lt;h3 id=&quot;base-camps&quot;&gt;Base Camps&lt;/h3&gt;
-&lt;p&gt;Base camps are temporary locations that can be secured and setup to allow for long rests. Setting up a base camp requires a full workday, proper equipment and supplies, and a DC 15 Wisdom (Survival) check. The check can be made by a single character on behalf of the party, or as a Group Check by the party.  (See Chapter 7 of the PHB for more on Group Checks).  A success means the location can be used to take long rests, or a failure means they may try again the next day.  Also, a DM should ask the group for one major feature of their Base Camp they can invoke during encounters or play.  This should be something that makes sense given the location and provides them flavor during play. Examples of features might be “Close to game”, “Protected on three sides by a stream”, “Hidden from sight”, “Shelter from storms”, “Warm (or cool)”, “Hard to reach”, or anything that adds interesting flavor.&lt;/p&gt;
-
-&lt;p&gt;Without proper equipment, or in hostile territory like a dungeon, a base camp can only be setup by someone proficient in the Survival skill and the roll is made with disadvantage.&lt;/p&gt;
-
-&lt;p&gt;After a major disruptive event like an attack or disaster, have the party immediately make the same roll to maintain the camp.  On a failure, the camp or location is damaged or compromised in a way that means it must be rebuilt.&lt;/p&gt;
-
-&lt;h3 id=&quot;sleep-medical-care--hearty-meals&quot;&gt;Sleep, Medical Care, &amp;amp; Hearty Meals.&lt;/h3&gt;
-&lt;p&gt;Characters who rest for eight hours outside of a Haven or Basecamp may still gain a few benefits provided they have the right conditions, supplies and skills. Characters recover one level of exhaustion if able to properly sleep, meditate, or the equivalent for their race. Additionally, they may recover one spent Hit Die through either medical care, or a hearty meal. Medical care requires spending one use of a healing kit and succeeding on a DC 15 Wisdom (Medicine) check from someone proficient in Medicine.  A hearty meal can be prepared by someone proficient in either Survival or with Cook’s Utensils by passing a DC 15 Wisdom (Survival) check. Hearty meals also require fresh or high quality ingredients. This means rations, conjured food, or Goodberries will keep you fed but are not sufficient enough to recover a Hit Die.  Characters may only recover a maximum of one spent Hit Die outside of a long rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;travel-pace&quot;&gt;Travel Pace&lt;/h2&gt;
-
-&lt;p&gt;With limited opportunities for long rests, the cumulative effects of life on the road become part of the adventure. Speed of travel depends mostly on the type of terrain being traversed, conditions along the way, chosen path, as well as the fickle nature of the environment.  The normal movement pace depends on the type of terrain as referenced below.&lt;/p&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Pace&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Speed&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Daily&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;DC&lt;/th&gt;
-      &lt;th&gt;Terrain&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fast&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;32 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;24 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
-      &lt;td&gt;Grasslands, plains, wastes etc.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Slow&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;16 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;15&lt;/td&gt;
-      &lt;td&gt;Forests, hills, tundra, sand desert, etc.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Crawl&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
-      &lt;td&gt;Mountains, swamps, jungle, etc.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Paved roads make terrain one level faster, with a maximum pace of Fast.  Wagons make terrain one level slower and cannot travel in terrain that would slow to more than a crawl.  Difficult terrain applies to these paces as normal in Chapter 8 of the PHB. Special movement types or mounts such as pegasus or griffon, are handled as appropriate with guidance from the DMG.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;None of these elements interfere with the Rangers Natural Explorer ability.&lt;/strong&gt; While pace effects the base movement speed, difficult terrain still applies.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion-of-part-1&quot;&gt;Conclusion of Part 1&lt;/h2&gt;
-
-&lt;p&gt;These rules are a simple way to turn what had been disjointed day by day travel into a continuous adventure about life on the road.  It provides ways for players to engage with the environment and connects planning and travel to the greater story as it unfolds through meaningful actions and outcomes.&lt;/p&gt;
-
-&lt;p&gt;When writing this I decided to split it into two parts.  This part deals with what is essentially, the pacing element of travel. In the next part I will talk about how the party can interact with each other the road, as well as some simple modifications to healing and recovery.  So keep an eye out for that next week.&lt;/p&gt;
-
-&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery. This is primarily because the system focuses on encounters per day, which limits long form narrative game elements. First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Discord Channel is Here</title><link href="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/" rel="alternate" type="text/html" title="Discord Channel is Here" /><published>2021-07-03T16:52:00+00:00</published><updated>2021-07-03T16:52:00+00:00</updated><id>https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/">&lt;p&gt;I just opened a discord server for rules discussions, workshops and the like.  People interested in thoughtful 
+## Conclusion
+
+Lingering injuries and impact of choices beyond a single game day is one of the most discussed topics in DnD circles. It has been particularly difficult in 5e DnD because of the lack of granular minus. The playtested Exhausted condition provides an elegant way to introduce that and can easily be used for Injuries as well.  A simple status track like this does not add much overhead to the play experience, and adding a dimension of injury management can create more fun for players seeking a gritty game.  Furthermore the system provides an incremental injury system so players can look at their risk more strategically over the source of an encounter.
+
+Now get out there and run some great games!</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Injuries in Dungeons &amp;amp; Dragons are important for two reasons: they add realism to the game and they can be used to add humor. By making injuries last longer, it gives the players a sense of realism and danger that they may not feel if they simply healed back up to full hit points after every battle. It also allows for some interesting role-playing opportunities, such as a character with a permanent limp trying to negotiate a difficult terrain. Finally, it can be fun to see how creative the players can be in dealing with their injuries and add depth to a game.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The WoTC Errata, Long Past Due</title><link href="https://www.optionalrule.com/2021/12/17/wotc-errata-debate/" rel="alternate" type="text/html" title="The WoTC Errata, Long Past Due" /><published>2021-12-17T10:47:00+00:00</published><updated>2021-12-17T10:47:00+00:00</updated><id>https://www.optionalrule.com/2021/12/17/wotc-errata-debate</id><content type="html" xml:base="https://www.optionalrule.com/2021/12/17/wotc-errata-debate/">The recent errata issues for 5e D&amp;D is a move to stop promoting the association of harmful real world biases with fantasy races. It also and frees worldbuilders to focus on the unique aspects of their setting. All of these are great steps forward and I whole heartedly support this move.</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">The recent errata issues for 5e D&amp;amp;D is a move to stop promoting the association of harmful real world biases with fantasy races. It also and frees worldbuilders to focus on the unique aspects of their setting. All of these are great steps forward and I whole heartedly support this move.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tavern Games - Darts for your D&amp;amp;D Game</title><link href="https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame/" rel="alternate" type="text/html" title="Tavern Games - Darts for your D&amp;amp;D Game" /><published>2021-12-08T12:56:00+00:00</published><updated>2021-12-08T12:56:00+00:00</updated><id>https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame</id><content type="html" xml:base="https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame/">Mini-games can be fun distraction for your players in any TTRPG campaign. Downtime or social sessions can create a lot of opportunities for this in your game. With the release of [The Wild Beyond the Witchlight](https://dnd.wizards.com/products/wild-beyond-witchlight){:target=&quot;_blank&quot;} adventure, players have asking about mini-games to use.  So I thought I&apos;d share the rules for my simple mini-game for Darts.
+
+In the most simple case, a series of opposed DEX (**Athletics**) checks will suffice. However, I ended up with a play group that were Dart enthusiast and wanted a full on mini-game.  So I&apos;m sharing the simple rules I used in hopes it might have some use in your sessions.
+
+
+{% include imageframe.html
+  figure_class=&quot;float-end ms-4&quot;
+  src=&quot;/assets/img/Gaston-Dart-Board_600x400.jpg&quot;
+  alt=&quot;A dart board in a wooden frame and chalkboard for score mounted on an old tavern wall.&quot;
+  width=&quot;600&quot; height=&quot;400&quot;
+  caption=&quot;Image from Gaston&apos;s Tavern by Disney.&quot;
+ %}
+
+## The Rules
+A player rolls 2 separate color D20s, the first represents the segment of the board, the second the ring.  Like normal darts the segment the dart lands in (the number rolled on the die) determines the score. If you&apos;re not familiar with darts, see the diagram below and it should make sense. The final score for the throw is modified by the result of the ring die like so.
+
+* 5 - double the score
+* 10 - triple the score
+* 15 - 25 pt Outer Bullseye if the segment die is above 10.
+* 20 - 50 pt Inner Bullseye if the segment die is a 20.
+
+The player may modify either or both die results by a total of their ranged attack modifier.
+
+### Example
+
+Beau takes a turn at darts, rolls an 8 on the segment die, and a 13 on the ring die. They choose to user their 7 ranged attack bonus to add 3 to the segment die to make it a 12, and 2 to the ring die to make it a 15.  That&apos;s an Inner Bullseye for 25 pts!
+
+## Conclusion
+This level of mini-game isn&apos;t for everyone, but groups looking to play out some downtime may enjoy it.  The system is simple enough to play out, but isn&apos;t intended to be a balance game on it&apos;s own.  It works best when players move along quickly, perhaps with a favorite libation, and make quick choices.  So keep it moving and have them create some character moments.  Now get out there and run some great games.
+
+## Reference
+Structure of a Dart Board with slices and rings for scoring.
+{% include imageframe.html
+  figure_class=&quot;clearfix&quot;
+  src=&quot;/assets/img/Dartboard_diagram_637x473.jpg&quot;
+  alt=&quot;A dart board with labels for different parts.&quot;
+  width=&quot;637&quot; height=&quot;473&quot;
+  caption=&quot;Image Credit, Wikipedia.&quot;
+ %}</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Mini-games can be fun distraction for your players in any TTRPG campaign. Downtime or social sessions can create a lot of opportunities for this in your game. With the release of The Wild Beyond the Witchlight adventure, players have asking about mini-games to use. So I thought I’d share the rules for my simple mini-game for Darts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sampling Random Ability Score Generation</title><link href="https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores/" rel="alternate" type="text/html" title="Sampling Random Ability Score Generation" /><published>2021-08-12T07:30:00+00:00</published><updated>2021-08-12T07:30:00+00:00</updated><id>https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores</id><content type="html" xml:base="https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores/">Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons &amp; Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn&apos;t come out until Xanathar&apos;s for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.
+
+Like everything in 5e, it all comes down to what you want out of it.  So, I thought it would be fun to talk about why random ability scores can be fun and what games can expect from using different methods. 
+
+## Why Random Generation?
+People can find fun in random ability scores for a few reasons. First, the feeling of discovering a character and playing within the constraints of random abilities can be exciting.  Second, players can feel this creates a more &apos;realistic&apos; individual that has to deal with the hand nature as dealt them. Third, it can move the baseline of stats to create a more gritty or epic character, depending on the method selected. These can be fun, and I particularly enjoy the discovery and constraints element of rolling abilities. However, be aware that some method can create wild disparities between characters, which can ruin the fun in some groups.
+
+**If you&apos;re thinking about using randomly generated ability scores in your game, I have one piece of advice.** Know the difference between something you like other people doing, and what those other people actually like to do. That means that the group should not only buy into something like this but be excited about it. There&apos;s a pitfall for DMs who get things into their head that they like to see the players do but ends up being no fun for the players. So, make sure to pick an option the whole party is going to enjoy when considering something like random ability score generation.
+
+## Common Methods of Random Generation
+
+There are several methods used to generate random abilities.  In most cases it creates a set of 6 scores the player can arrange how they like. Some versions that let players only swap a limited number of scores. A few hardcore rulesets even go so far as to keep them in the order rolled. As with anything, no way is better than another, it all comes down to what you want out if it. The most common methods are:
+
+* 3d6 rolled for each ability. (3d6)
+* 3d6 rolled 7 times and keep the highest 6. (3d6 7x-k6)
+* 3d6, reroll any 1s. (3d6 r1)
+* 4d6 keep the highest 3. (4d6 h3)
+* 2d6+6 for each ability. (2d6+6)
+
+### Break Down of Ranges
+
+The first thing to understand about any random ability score generation method is the range and probability. How high and low a range of rolls can be, versus how likely any individual roll is likely to be.  Different methods produce different results and a [Distribution Curve](https://anydice.com/program/237f0){:target=&quot;_blank&quot;} graph of the most common methods is presented below.
+
+Common rules DMs use is to reroll abilities below a particular level, let players shift points around, or rerolling if you are below a particular score value. This kind of defeats the purpose of random abilities to me, but these are the base percentages you&apos;ll get from different methods.
+
+{% include imageframe.html
+  figure_class=&quot;clearfix&quot;
+  src=&quot;/assets/img/abilityscore_generation_chart_1419x826.jpg&quot;
+  alt=&quot;line graph featuring the probabilities of different random generation methods&quot;
+  width=&quot;475&quot; height=&quot;475&quot;
+  caption=&quot;Chart data compiled from &lt;a href=&apos;https://anydice.com/program/237f0&apos; target=&apos;_blank&apos;&gt;Any Dice&lt;/a&gt;&quot;
+ %}
+
+### The Most Common Results
+
+While distributions curves are great, what people want to know is what the most likely set of abilities from a particular method are.  Again, since this is random it will vary but the table below presents the ideal set of stats produced from different generation methods.  Note I am presenting the Standard Array as a comparison, and that it essentially corresponds to the method for 3d6 rerolling 1s.  If a DM were just interested in shifting ability scores up or down, they could select one of these as a new standard array and avoid the random swings.  As should be apparent, these methods can produce very different types of characters.
+
+| Method         |    |    |    |    |    |    |
+| -------------- | -- | -- | -- | -- | -- | -- |
+| [2d6+6](https://anydice.com/program/237f7)        | 16 | 15 | 14 | 12 | 11 | 10 |
+| [4d6 Drop lowest](https://anydice.com/program/237f6)   | 16 | 14 | 13 | 12 | 10 | 9  |
+| Standard Array | 15 | 14 | 13 | 12 | 10 | 9  |
+| [3d6 reroll 1s](https://anydice.com/program/237f4)  | 15 | 14 | 13 | 12 | 10 | 9  |
+| [3d6 7 times, drop lowest](https://anydice.com/program/237f5)    | 14 | 13 | 12 | 11 | 9  | 8  |
+| [3d6](https://anydice.com/program/237f3)           | 14 | 12 | 11 | 10 | 9  | 7  |
+{: .table .table-striped .table-hover}
+
+## The Bounded Accuracy Problem
+One thing to note about ability score generation is that 5e was built heavily on the concept of &apos;bounded accuracy&apos;. That is to say that the game design intends to tightly control the number of bonuses and their progression throughout the game.  So, giving characters higher or lower abilities could slightly impact gameplay difficulty. This is likely not going to be a massive issue, but a group should take this into consideration, particularly the DM when balancing encounters.  Additionally, ending up with drastically different primary ability bonuses can be a let down in a group, and the bounded accuracy problem may feel larger than it is.
+
+## Conclusion
+There is no superior method when generating ability score, it all depends on what you want.  This not only includes the ability ranges, but the mystery of what a character will be during character creation.  Generally, I prefer standard array or point buy as a DM, but I&apos;ll allow a party to select random scores if they ALL want to and agree.  I&apos;ve had some fun with this in various games, notably having played a healer who rolled minimum strength, playing them as having a neuromuscular disability.  In all honesty, the striving to be heroic in the face of a setback was a lot of fun for me as it taps into my own emotions and experiences having a disability. I wouldn&apos;t want to do that in every game however, but it is fun now and again.  Regardless, it&apos;s good to know what the likely outcomes will be when choosing something like this, so I hope this post helped shed some light onto that.
+
+Now get out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons &amp;amp; Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn’t come out until Xanathar’s for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/abilityscore_generation_chart_1419x826.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/abilityscore_generation_chart_1419x826.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Perilous Journeys in 5e Part 2</title><link href="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 2" /><published>2021-07-24T01:08:00+00:00</published><updated>2021-07-24T01:08:00+00:00</updated><id>https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/">Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure.  Last week I posted [Perilous Journey&apos;s Part 1]({% link _posts/2021-07-13-perilous-journeys-in-5e-p1.md %}), which turns travel into a series of encounters like any other dungeon. This week, I&apos;ll look at defining some ways that party members can take meaningful actions during journeys.  These **Journey Actions** provide gameplay for the travel experience, as well as create dependencies between members of the party. 
+
+As with any rule or option, use when it add something to the game  and move along when it doesn&apos;t.
+
+## Journey Actions
+
+When traveling, a character may take one Journey Action as part of travel.  Any actions taken during travel should be chosen prior to the start of travel. Multiple characters may attempt the same action and each roll separately. This has the same roll mechanic as advantage but they each apply their individual skill bonus. Additionally, The DM may want to consider the role of proficiency in these rules. Optionally, they may only allow a character to take a journey action if proficient in an indicated skills. 
+
+**Terrain Pace and DC Table** 
+
+| Pace    | Speed | Daily | DC |Terrain                |
+|---------|:-----:|:-----:|:--:|-----------------------|
+| Fast    | 4 mph | 32 mi | -  |-                      |
+| Normal  | 3 mph | 24 mi | 10 |Grasslands, plains, wastes etc.|
+| Slow    | 2 mph | 16 mi | 15 |Forests, hills, tundra, sand desert, etc.    |
+| Crawl   | 1 mph | 8 mi  | 20 |Mountains, swamps, jungle, etc. |
+{: .table .table-striped .table-hover}
+
+### Forage
+
+{% include imageframe.html
+  figure_class=&quot;float-end ms-4 clearfix&quot;
+  src=&quot;/assets/img/kirk-langsea-wot-quarry-rox-02_475x475.jpg&quot;
+  alt=&quot;A road through lonely woods.  Two mean guard a horse drawn wagon at the front and rear with bow and spear.&quot;
+  width=&quot;475&quot; height=&quot;475&quot;
+  caption=&quot;Image credit &lt;a href=&apos;https://www.artstation.com/artwork/baBQrr&apos; target=&apos;_blank&apos;&gt;Kirk Langsea&lt;/a&gt;&quot;
+ %}
+
+Foraging along the way for harvestable plants, or small game allows parties to eat hearty means.  Rather than keeping track of day-to-day rations in a group, this form of foraging gathers ingredients for a **Hearty Meal**.  As mentioned in, part 1 of Perilous Journeys, a hearty meal may allow characters to recover a single hit die from after sleeping for eight hours when unable to take a long rest.
+
+Characters harvesting use the rules in Chapter 5 of the PHB and roll ***Wisdom (Survival)***, at +5 DC to the table presented there. Again, with this method assume the party has enough food to sustain themselves and recover exhaustion.  Instead, this type of foraging focuses on higher quality food to help recover Hit Die as per the rules above. 
+
+Alternatively, someone foraging could opt to gather herbs or ingredients for potions instead. If so, have them roll ***Intelligence (Nature)*** at the same DC used for foraging above.  Instead of pounds of good food, they recover the equivalent gold piece worth of ingredients. See the [Summary of 5e Alchemy Rules]({% link _posts/2021-01-24-summary-of-5e-alchemy-rules.md %}) for options.
+
+### Guide
+Guiding a party involves combining your knowledge of an area’s geography, history, and conditions to choose a safe and sure route. At the start of a day&apos;s journey, the guide decides the best route and rolls either an ***Intelligence (Nature)*** or ***Intelligence (History)*** check at the DC presented on the Terrain Pace table. This roll is made with disadvantage if the guide is unfamiliar with the terrain, has no maps, or has not gathered enough information prior to travel. On a failure, the chances of a random encounter or hazard are doubled for the travel period and the party has disadvantage on any stealth checks. Parties without a guide automatically fail this check. 
+
+### Scout
+Scouting involves moving ahead of the party and using your keen senses spot danger or stealth to avoid it.  Scouts may always make active ***Wisdom (Perception)*** checks against hidden dangers.  Additionally, they can use their ***Dexterity (Stealth)*** skill to allow the entire party to avoid an encounter if the scout spotted it first. Parties staging an ambush on foes discovered by a scout have advantage on checks to catch them unaware.
+
+### Ward
+Warding uses prowess and awareness to protect the party from hazards and ambush. If a character in the party performing the warding action is not surprised during an ambush, the entire party gets advantage on their roll to avoid surprise. 
+
+Also, when encountering a natural hazard that requires a Strength or Dexterity save, the Warder may roll ***Strength (Athletics)*** and allow a character up to 10 feet away to use that roll instead of their own save.  The warding character may allow a number of characters up to their proficiency bonus to use their roll in this way. Examples of the kinds of hazards might be falling, avoiding an avalanche, stepping into a pit or the like.
+
+## Spicing Things Up
+
+These rules mix well with several other house rules. By themselves they are not any more deadly or gritty than any dungeon encounter. In fact, these rules only bring journey encounters in alignment with dungeons. You can think of the entire track of a journey like a node-based set of encounters in a dungeon.
+
+Mixing in other rules such as slower hit point recovery, or failed death saves only clearing on a long rest, should be approached with caution with a system like this. 
+
+Additionally, consider adding more opportunities for players to interact with locals during travel. Perhaps a well to do farmer would allow the party to sleep in their comfortable barn with food or supplies, or the rules might drive the party to seek out more Inns.  The goal is to spice up journeys with more meaningful actions and choices, so encourage players to lean into that.
+
+## Conclusion
+
+These actions and rules imply a healthy variety of hazards and challenges during Journeys, but DMs should use their discretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and game in the moment. There are several wilderness encounter generators available on the DMs Guild, as well as sites like [DnDSpeak.com](https://www.dndspeak.com/){:target=&quot;_blank&quot;} that offer lots of encounter ideas and tables.  I will eventually post systems here for journey-based encounters as well.
+
+Now get out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure. Last week I posted Perilous Journey’s Part 1, which turns travel into a series of encounters like any other dungeon. This week, I’ll look at defining some ways that party members can take meaningful actions during journeys. These Journey Actions provide gameplay for the travel experience, as well as create dependencies between members of the party.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Perilous Journeys in 5e Part 1</title><link href="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 1" /><published>2021-07-13T08:26:00+00:00</published><updated>2021-07-13T08:26:00+00:00</updated><id>https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/">Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.
+
+{% include imageframe.html
+  figure_class=&quot;float-end ms-4 clearfix&quot;
+  src=&quot;/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg&quot;
+  alt=&quot;A horse drawn wagon traveling along a snowy road in the woods. A woman in heavy robes drives the cart while a man with a bow walks ahead of her on the road.&quot;
+  width=&quot;475&quot; height=&quot;616&quot;
+  caption=&quot;Image credit &lt;a href=&apos;https://www.artstation.com/artwork/ykeEaQ&apos; target=&apos;_blank&apos;&gt;Alex Wilton&lt;/a&gt;&quot;
+ %}
+
+Many of these rules draw inspiration from the very fine Journeys mechanic from Adventures in Middle Earth, which is unfortunately no longer published.  While mechanically different in places the core themes remain, and I recommend reading those rules for further inspiration.
+
+## Havens &amp; Rests
+
+Characters may only gain the benefits of a Long Rest at a Haven or Base Camp. Havens are **secure** locations with strong **shelter**. enough **supplies** and room to rest and study. So manors, well-furnished houses, or Inn rooms rated Comfortable or above work well as Havens. While temporary camps, common rooms, or unsafe locations may allow sleep or recovery from exhaustion, they are not adequate to gain the benefits of a Long Rest. However, with the right supplies and skills, characters may be able to setup Base Camps in the field that allow a proper Long Rest. Meaning the core of game play on the road is managing your supplies, camps, and connecting with settlements in a region to travel in a way that allows you to either move freely or sustain operations, but not both.
+
+### Base Camps
+Base camps are temporary locations that can be secured and setup to allow for long rests. Setting up a base camp requires a full workday, proper equipment and supplies, and a DC 15 Wisdom (Survival) check. The check can be made by a single character on behalf of the party, or as a Group Check by the party.  (See Chapter 7 of the PHB for more on Group Checks).  A success means the location can be used to take long rests, or a failure means they may try again the next day.  Also, a DM should ask the group for one major feature of their Base Camp they can invoke during encounters or play.  This should be something that makes sense given the location and provides them flavor during play. Examples of features might be &quot;Close to game&quot;, &quot;Protected on three sides by a stream&quot;, &quot;Hidden from sight&quot;, &quot;Shelter from storms&quot;, &quot;Warm (or cool)&quot;, &quot;Hard to reach&quot;, or anything that adds interesting flavor.
+
+Without proper equipment, or in hostile territory like a dungeon, a base camp can only be setup by someone proficient in the Survival skill and the roll is made with disadvantage.  
+
+After a major disruptive event like an attack or disaster, have the party immediately make the same roll to maintain the camp.  On a failure, the camp or location is damaged or compromised in a way that means it must be rebuilt. 
+
+### Sleep, Medical Care, &amp; Hearty Meals.
+Characters who rest for eight hours outside of a Haven or Basecamp may still gain a few benefits provided they have the right conditions, supplies and skills. Characters recover one level of exhaustion if able to properly sleep, meditate, or the equivalent for their race. Additionally, they may recover one spent Hit Die through either medical care, or a hearty meal. Medical care requires spending one use of a healing kit and succeeding on a DC 15 Wisdom (Medicine) check from someone proficient in Medicine.  A hearty meal can be prepared by someone proficient in either Survival or with Cook&apos;s Utensils by passing a DC 15 Wisdom (Survival) check. Hearty meals also require fresh or high quality ingredients. This means rations, conjured food, or Goodberries will keep you fed but are not sufficient enough to recover a Hit Die.  Characters may only recover a maximum of one spent Hit Die outside of a long rest.
+
+## Travel Pace
+
+With limited opportunities for long rests, the cumulative effects of life on the road become part of the adventure. Speed of travel depends mostly on the type of terrain being traversed, conditions along the way, chosen path, as well as the fickle nature of the environment.  The normal movement pace depends on the type of terrain as referenced below.  
+
+| Pace    | Speed | Daily | DC |Terrain                |
+|---------|:-----:|:-----:|:--:|-----------------------|
+| Fast    | 4 mph | 32 mi | -  |-                      |
+| Normal  | 3 mph | 24 mi | 10 |Grasslands, plains, wastes etc.|
+| Slow    | 2 mph | 16 mi | 15 |Forests, hills, tundra, sand desert, etc.    |
+| Crawl   | 1 mph | 8 mi  | 20 |Mountains, swamps, jungle, etc. |
+{: .table .table-striped .table-hover}
+
+Paved roads make terrain one level faster, with a maximum pace of Fast.  Wagons make terrain one level slower and cannot travel in terrain that would slow to more than a crawl.  Difficult terrain applies to these paces as normal in Chapter 8 of the PHB. Special movement types or mounts such as pegasus or griffon, are handled as appropriate with guidance from the DMG.
+
+**None of these elements interfere with the Rangers Natural Explorer ability.** While pace effects the base movement speed, difficult terrain still applies.
+
+## Conclusion of Part 1
+
+These rules are a simple way to turn what had been disjointed day by day travel into a continuous adventure about life on the road.  It provides ways for players to engage with the environment and connects planning and travel to the greater story as it unfolds through meaningful actions and outcomes.
+
+When writing this I decided to split it into two parts.  This part deals with what is essentially, the pacing element of travel. In the next part I will talk about how the party can interact with each other the road, as well as some simple modifications to healing and recovery.  So keep an eye out for that next week.
+
+Now get out there and run some great games.</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery. This is primarily because the system focuses on encounters per day, which limits long form narrative game elements. First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Discord Channel is Here</title><link href="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/" rel="alternate" type="text/html" title="Discord Channel is Here" /><published>2021-07-03T16:52:00+00:00</published><updated>2021-07-03T16:52:00+00:00</updated><id>https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/03/now-with-twenty-percent-more-discord/">I just opened a discord server for rules discussions, workshops and the like.  People interested in thoughtful 
 discussions on 5e or TTRPG rules, adventures or more are welcome to sign up. Please note that general rules of 
 good social interactions and good-faith conversations apply. This will likely be a small server but anyone is 
 welcome who wants to get into a deeper conversation than Twitter allows. Please feel free to share this link. 
-The server just opened this weekend and is still getting set-up.&lt;/p&gt;
+The server just opened this weekend and is still getting set-up.
 
-&lt;p&gt;If you’re seeing this announcement at a later date just hit me up on Twitter for an invite link.&lt;/p&gt;
+If you&apos;re seeing this announcement at a later date just hit me up on Twitter for an invite link.
 
-&lt;p&gt;&lt;strong&gt;Invite Link:&lt;/strong&gt; &lt;a href=&quot;https://discord.gg/PVscFHry&quot; target=&quot;_blank&quot;&gt;https://discord.gg/PVscFHry&lt;/a&gt;&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Misc" /><summary type="html">I just opened a discord server for rules discussions, workshops and the like. People interested in thoughtful discussions on 5e or TTRPG rules, adventures or more are welcome to sign up. Please note that general rules of good social interactions and good-faith conversations apply. This will likely be a small server but anyone is welcome who wants to get into a deeper conversation than Twitter allows. Please feel free to share this link. The server just opened this weekend and is still getting set-up.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+**Invite Link:** [https://discord.gg/PVscFHry](https://discord.gg/PVscFHry){:target=&quot;_blank&quot;}</content><author><name>Scott Turnbull</name></author><category term="Misc" /><summary type="html">I just opened a discord server for rules discussions, workshops and the like. People interested in thoughtful discussions on 5e or TTRPG rules, adventures or more are welcome to sign up. Please note that general rules of good social interactions and good-faith conversations apply. This will likely be a small server but anyone is welcome who wants to get into a deeper conversation than Twitter allows. Please feel free to share this link. The server just opened this weekend and is still getting set-up.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
