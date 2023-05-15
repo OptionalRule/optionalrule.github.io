@@ -40,6 +40,13 @@ On windows PowerShell
 > docker run -v ${PWD}:/site bretfisher/jekyll jekyll build --incremental --destination docs/ .
 ```
 
+#### Note on building from docker container
+
+I've had some problems with the latest version of the Jekyll docker image and had to build from an attached terminal inside the running containers.  If this is the case I just attach to the terminal and run.
+```
+> bundle exec jekyll build --incremental --destination docs/
+```
+
 ### Custom Domain
 
 GitHub pages for the custom domain should be setup using both A Records and CNAME.  This is needed for GitHub Pages to create the cert to use for HTTPS.  Otherwise I'll get an error that the domain is configured correctly.  Note you can alternatively just setup a domain alias.

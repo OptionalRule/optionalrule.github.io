@@ -1,589 +1,537 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-14T16:01:54+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Design Goals of Etherea</title><link href="https://www.optionalrule.com/2023/05/14/design-goals-of-etherea/" rel="alternate" type="text/html" title="Design Goals of Etherea" /><published>2023-05-14T11:10:00+00:00</published><updated>2023-05-14T11:10:00+00:00</updated><id>https://www.optionalrule.com/2023/05/14/design-goals-of-etherea</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/14/design-goals-of-etherea/">&lt;p&gt;Yesterday, I posted some initial lore for &lt;a href=&quot;/2023/05/13/the-world-of-etherea/&quot;&gt;Etherea&lt;/a&gt; (Ah-Ther-ee-ah), a homebrew world am interested in developing for a setting I’m creating for a new &lt;a href=&quot;https://www.thearcanelibrary.com/pages/shadowdark&quot; target=&quot;_blank&quot;&gt;Shadowdark&lt;/a&gt; game. This is a personal endeavor, not intended for publication (other than on my blog here). I’m captivated by the idea of things manifesting in the world based on emotions, beliefs, etc., and the resulting chaos of magic surrounding it. The concept is akin to the Umbra from Werewolf: The Forsaken, Spren in the Stormlight Archives, or entities like the creature in the Babadook that manifests from fear or unfulfilled wishes.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-15T18:20:25+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Origins of the Astral and Ethereal Planes in D&amp;amp;D</title><link href="https://www.optionalrule.com/2023/05/15/origins-of-the-astral-and-etherial-planes-in-dnd/" rel="alternate" type="text/html" title="Origins of the Astral and Ethereal Planes in D&amp;amp;D" /><published>2023-05-15T13:03:00+00:00</published><updated>2023-05-15T13:03:00+00:00</updated><id>https://www.optionalrule.com/2023/05/15/origins-of-the-astral-and-etherial-planes-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/15/origins-of-the-astral-and-etherial-planes-in-dnd/"><![CDATA[<p>Recently, <a href="https://twitter.com/dmdavidblog/status/1658104726297165830" target="_blank">DMDavid</a> posed a fascinating question on Twitter about the origins of the <a href="https://www.dndbeyond.com/sources/basic-rules/appendix-d-the-planes-of-existence#TransitivePlanes" target="_blank">Astral and Ethereal Planes</a> in the early editions of Dungeons and Dragons (DnD). As a devoted Tabletop Roleplaying Game enthusiast, I’d like to delve into this intriguing query and shed some light on the cultural and historical influences that shaped these iconic facets of the game.</p>
 
-&lt;p&gt;An essential aspect of Etherea is its vibrant diversity. The gods are not a static, singular pantheon, but a fluid and dynamic reflection of the world’s diverse cultures, beliefs, and aspirations. The world doesn’t merely exist; it actively shapes itself in response to the collective imaginations, desires, and fears of its inhabitants. This mutable nature is a double-edged sword. It’s both the root of Etherea’s challenges and the source of its profound beauty and richness.&lt;/p&gt;
-
-&lt;p&gt;As a game setting, I’m interested in creating lore elements that:&lt;/p&gt;
-
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+<figure class="figure float-end ms-4 clearfix">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/design-of-etherea.jpg&quot; alt=&quot;A man sitting at a desk writing while surrounded by fantasy imagines from their imagination.&quot; height=&quot;480&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/transativeplanes.jpg" alt="A man sitting at a desk writing while surrounded by fantasy imagines from their imagination." height="480" />
         
     
-&lt;/figure&gt;
+</figure>
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Provide rich backstories and conflicts for characters:&lt;/strong&gt; The history and cultures of Etherea, the tensions between Weavers and the devout, and the looming threats of the Umbraweave all provide interesting hooks for character backstories and personal quests.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Facilitate immersive world-building:&lt;/strong&gt; The interplay between Etherea and the Umbraweave, the mystery of fallen civilizations, and the omnipresent influence of the gods create a rich tapestry for players to explore and interact with.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Drive interesting adventures and quests:&lt;/strong&gt; The dangers lurking in the shadows of the Umbraweave, the treasures hidden in the ruins of once-great empires, and the complex religious and magical dynamics of Etherea provide a myriad of opportunities for thrilling adventures.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Encourage exploration of thematic elements:&lt;/strong&gt; The nuances of harnessing emotions to shape magic, the ethical implications of manipulating the Umbraweave, and the balance between faith and personal power all offer players the chance to delve into deeper thematic discussions.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Promote varied gameplay styles:&lt;/strong&gt; The setting supports a wide range of gameplay styles, from combat-focused adventures battling Echoforms, to diplomatic missions negotiating religious tensions, to exploration and puzzle-solving in the remnants of fallen civilizations.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Foster dynamic NPC interactions:&lt;/strong&gt; The diverse cultures, religious beliefs, and attitudes towards magic in Etherea provide a rich cast of potential NPCs for players to interact with, each with their own unique perspectives and motivations.&lt;/li&gt;
-&lt;/ol&gt;
+<p>As an side, if you haven’t had a chance to check out <a href="https://dmdavid.com/" target="_blank">DMDavid’s Blog</a>, I highly recommend it.</p>
 
-&lt;p&gt;As a tool for driving adventures, I want Etherea to offer a wealth of in-game elements, directly woven into its lore. This should provide a cohesive narrative framework for diverse adventures:&lt;/p&gt;
+<p><strong>Understanding the Historical Context</strong>
+To truly appreciate the distinction between the Astral and Ethereal planes in DnD, we need to consider the historical context. The inception of DnD occurred during a transformative period in the United States, post the counter-culture revolution, which significantly influenced the game’s development.</p>
 
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+<p>This counter-culture era witnessed a surge in a form of pseudo-spiritualism, centered around mind enlightenment and contacting higher planes, starkly contrasting previous generations’ spiritual practices, which were more focused on spirit communication and ancient powers.</p>
+
+<p><strong>The Ethereal and Astral Planes: Inspired by Cultural Icons</strong>
+In the minds of the DnD creators, the Ethereal plane became a domain of ghosts and the dead, drawing inspiration from pop culture figures like Aleister Crowley and skeptics like Harry Houdini. Conversely, the Astral Plane symbolized the realm of the mind, influenced by counter-culture figures like Aldous Huxley and Timothy Leary, or popular culture authors like Carlos Castaneda.</p>
+
+<p>As DMDavid rightly noted, the depiction of these planes in DnD also heavily reflects the nerd pop-culture of that time, including elements from comic book characters like Doctor Strange or from movies like the Hammer Horror Films. However, rather than tracing back to a single source, it’s more accurate to understand these planes as a reflection of the era’s prevailing thoughts and influences.</p>
+
+<p><strong>The Game Design Perspective</strong>
+From a game design viewpoint, the Ethereal and Astral planes provided a neat division between the realm of ghosts and the realm of psionics. This division addressed two main issues. First, it offered thematic consistency, neatly categorizing monsters and adventure themes. Second, it helped differentiate the rules for magic and ghosts from those for psionics, which were distinct in early D&amp;D.</p>
+
+<p>Interestingly, the original Dungeon Master’s Guide had a staggering 24 planes, slicing not just along alignment lines but also across various narrative tones, such as emotion, thought, spirituality, and more.</p>
+
+<p><strong>The Modern Perspective</strong>
+Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal planes seems to have lost much of its significance. The 5th edition (5e) appears to lean towards streamlining gameplay, favoring reduced complexity over the detailed cosmological intricacies of early D&amp;D. For instance, Asmodeus has been elevated as the face of all devils, and the Nine Hells is now the most often cited plane.</p>
+
+<p>While 5e continues to reference other planes, its focus is more on simplifying references for seamless play. This approach contrasts with the early days of D&amp;D, where the cosmology’s complexity was part of the allure, sparking a sense of the unknown in its audience.</p>
+
+<p>In the end, each player must decide whether this shift towards simplification is beneficial. Regardless of the answer, the origins and historical context of the Astral and Ethereal planes in DnD provide a fascinating glimpse into the game’s rich and diverse influences, adding another layer of depth to this already immersive game.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A history of the origins of the astral and ethereal plans in DnD and why they exist.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/transativeplanes.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/transativeplanes.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Design Goals of Etherea</title><link href="https://www.optionalrule.com/2023/05/14/design-goals-of-etherea/" rel="alternate" type="text/html" title="Design Goals of Etherea" /><published>2023-05-14T11:10:00+00:00</published><updated>2023-05-14T11:10:00+00:00</updated><id>https://www.optionalrule.com/2023/05/14/design-goals-of-etherea</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/14/design-goals-of-etherea/"><![CDATA[<p>Yesterday, I posted some initial lore for <a href="/2023/05/13/the-world-of-etherea/">Etherea</a> (Ah-Ther-ee-ah), a homebrew world am interested in developing for a setting I’m creating for a new <a href="https://www.thearcanelibrary.com/pages/shadowdark" target="_blank">Shadowdark</a> game. This is a personal endeavor, not intended for publication (other than on my blog here). I’m captivated by the idea of things manifesting in the world based on emotions, beliefs, etc., and the resulting chaos of magic surrounding it. The concept is akin to the Umbra from Werewolf: The Forsaken, Spren in the Stormlight Archives, or entities like the creature in the Babadook that manifests from fear or unfulfilled wishes.</p>
+
+<p>An essential aspect of Etherea is its vibrant diversity. The gods are not a static, singular pantheon, but a fluid and dynamic reflection of the world’s diverse cultures, beliefs, and aspirations. The world doesn’t merely exist; it actively shapes itself in response to the collective imaginations, desires, and fears of its inhabitants. This mutable nature is a double-edged sword. It’s both the root of Etherea’s challenges and the source of its profound beauty and richness.</p>
+
+<p>As a game setting, I’m interested in creating lore elements that:</p>
+
+<figure class="figure float-end ms-4 clearfix">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/etherea-crystal-rain-ruin.jpg&quot; alt=&quot;A massive ruin in an overgrown forest glows from the inside while crystal rain falls from the sky.&quot; height=&quot;480&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/design-of-etherea.jpg" alt="A man sitting at a desk writing while surrounded by fantasy imagines from their imagination." height="480" />
         
     
-&lt;/figure&gt;
+</figure>
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Monster Encounters with Deep Lore:&lt;/strong&gt; Monsters in Etherea aren’t just random encounters. Each creature is a manifestation of the region’s history, emotions, and events, channeled through the Umbraweave. An abandoned ruin that fell victim to a cataclysmic event isn’t simply vacant; it teems with vile creatures such as goblins, ghasts, and gibbering mouthers, all born from the tragedy’s echo within the Umbraweave.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Enhanced Magic System:&lt;/strong&gt; The Umbraweave’s influence over magic allows for an amplification of the spell failure system already present in Shadowdark. Misshapen spells can take on a life of their own, turning against their caster, and creating both challenging and thrilling magic usage scenarios.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Adventure Hooks Rooted in World-Building:&lt;/strong&gt; The world encourages various adventuring themes. Echohunters serve as a &lt;em&gt;Witcher-esque&lt;/em&gt; professional class, hunting down dangerous Umbraweave manifestations. Delvers seek the mysteries and riches hidden within the ruins of the old world. Additionally, as Etherea rebuilds itself, emerging powers vie for dominance, creating a rich tapestry of political intrigue. The setting intentionally distances itself from the static “&lt;em&gt;Disneyland adventure&lt;/em&gt;” style, focusing instead on a dynamic, ever-evolving world.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+<ol>
+  <li><strong>Provide rich backstories and conflicts for characters:</strong> The history and cultures of Etherea, the tensions between Weavers and the devout, and the looming threats of the Umbraweave all provide interesting hooks for character backstories and personal quests.</li>
+  <li><strong>Facilitate immersive world-building:</strong> The interplay between Etherea and the Umbraweave, the mystery of fallen civilizations, and the omnipresent influence of the gods create a rich tapestry for players to explore and interact with.</li>
+  <li><strong>Drive interesting adventures and quests:</strong> The dangers lurking in the shadows of the Umbraweave, the treasures hidden in the ruins of once-great empires, and the complex religious and magical dynamics of Etherea provide a myriad of opportunities for thrilling adventures.</li>
+  <li><strong>Encourage exploration of thematic elements:</strong> The nuances of harnessing emotions to shape magic, the ethical implications of manipulating the Umbraweave, and the balance between faith and personal power all offer players the chance to delve into deeper thematic discussions.</li>
+  <li><strong>Promote varied gameplay styles:</strong> The setting supports a wide range of gameplay styles, from combat-focused adventures battling Echoforms, to diplomatic missions negotiating religious tensions, to exploration and puzzle-solving in the remnants of fallen civilizations.</li>
+  <li><strong>Foster dynamic NPC interactions:</strong> The diverse cultures, religious beliefs, and attitudes towards magic in Etherea provide a rich cast of potential NPCs for players to interact with, each with their own unique perspectives and motivations.</li>
+</ol>
 
-&lt;p&gt;The core lore of Etherea—its cataclysmic history, the mystical Umbraweave, and complex religious dynamics—lays the groundwork for expanding on these elements. This initial exploration is primarily focused on establishing the foundation for the setting. In the coming weeks, I aim to delve deeper into the practical applications of these elements within the game. I’ll further explore how they can be leveraged to craft engaging and immersive adventures in the world of Etherea.&lt;/p&gt;
+<p>As a tool for driving adventures, I want Etherea to offer a wealth of in-game elements, directly woven into its lore. This should provide a cohesive narrative framework for diverse adventures:</p>
 
-&lt;p&gt;Following this, I’ll take a stab at creating a few actual towns. I plan to use spiral world development for this task, building out from some core settlements.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Shadowdark" /><category term="Lore" /><summary type="html">Yesterday, I posted some initial lore for Etherea (Ah-Ther-ee-ah), a homebrew world am interested in developing for a setting I’m creating for a new Shadowdark game. This is a personal endeavor, not intended for publication (other than on my blog here). I’m captivated by the idea of things manifesting in the world based on emotions, beliefs, etc., and the resulting chaos of magic surrounding it. The concept is akin to the Umbra from Werewolf: The Forsaken, Spren in the Stormlight Archives, or entities like the creature in the Babadook that manifests from fear or unfulfilled wishes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/design-of-etherea.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/design-of-etherea.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Introduction to the World of Etherea</title><link href="https://www.optionalrule.com/2023/05/13/the-world-of-etherea/" rel="alternate" type="text/html" title="Introduction to the World of Etherea" /><published>2023-05-13T15:46:00+00:00</published><updated>2023-05-13T15:46:00+00:00</updated><id>https://www.optionalrule.com/2023/05/13/the-world-of-etherea</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/13/the-world-of-etherea/">&lt;p&gt;Etherea is the initial idea for a setting I’ve crafted for the &lt;a href=&quot;https://www.thearcanelibrary.com/pages/shadowdark&quot; target=&quot;_blank&quot;&gt;Shadowdark&lt;/a&gt; Tabletop Roleplaying game, designed to foster a sense of intrigue and danger inherent in the exploration of magic and the supernatural. The core concept of the world, the Umbraweave, is meant to evoke a persistent sense of mystery and unease, underlining the idea that behind the veil of reality, potent emotions and intense events birth spirits that drift in the shadows. The aim is to instill a constant sense of tension and wonder in the players, offering them a world where magic is as unpredictable and dangerous as it is powerful.&lt;/p&gt;
-
-&lt;p&gt;These initial freeform thoughts on Etherea’s history, the rationale behind its magic, and the intricate weave of its religious beliefs are intended to set the stage for an array of adventurous narratives. The remnants of once great empires and fallen civilizations provide a treasure trove of mysteries to unearth, ancient secrets to decipher, and lost treasures to claim. The omnipresent threat of the Umbraweave and its Echoforms, alongside the complex interplay between Weavers and the pious, further drive the sense of imminent danger and conflict. Overall, Etherea is a world shaped by its past, teeming with potential for daring exploits, and ripe for heroes to make their mark.&lt;/p&gt;
-
-&lt;p&gt;I plan to continue to chip away at this setting as I gear up to run some Shadowdark in the near future.&lt;/p&gt;
-
-&lt;h3 id=&quot;etherea-a-shattered-elegy&quot;&gt;Etherea: A Shattered Elegy&lt;/h3&gt;
-
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+<figure class="figure float-end ms-4 clearfix">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/etherea-setting-lineart.jpg&quot; alt=&quot;A massive ruined city overgrown in forest dwarfing a band of adventurers.&quot; height=&quot;480&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/etherea-crystal-rain-ruin.jpg" alt="A massive ruin in an overgrown forest glows from the inside while crystal rain falls from the sky." height="480" />
         
     
-&lt;/figure&gt;
+</figure>
 
-&lt;p&gt;Etherea is a shattered world that was once teeming with magic and wonder. Its landscape was adorned with grand citadels, crystal forests, and cities of floating spires that touched the stars. Etherea was home to mighty empires and enlightened civilizations whose command of magic was unrivaled. They had learned to dance with the Umbraweave, the mysterious realm of spirits, making it their partner in the grand performance of existence.&lt;/p&gt;
+<ol>
+  <li>
+    <p><strong>Monster Encounters with Deep Lore:</strong> Monsters in Etherea aren’t just random encounters. Each creature is a manifestation of the region’s history, emotions, and events, channeled through the Umbraweave. An abandoned ruin that fell victim to a cataclysmic event isn’t simply vacant; it teems with vile creatures such as goblins, ghasts, and gibbering mouthers, all born from the tragedy’s echo within the Umbraweave.</p>
+  </li>
+  <li>
+    <p><strong>Enhanced Magic System:</strong> The Umbraweave’s influence over magic allows for an amplification of the spell failure system already present in Shadowdark. Misshapen spells can take on a life of their own, turning against their caster, and creating both challenging and thrilling magic usage scenarios.</p>
+  </li>
+  <li>
+    <p><strong>Adventure Hooks Rooted in World-Building:</strong> The world encourages various adventuring themes. Echohunters serve as a <em>Witcher-esque</em> professional class, hunting down dangerous Umbraweave manifestations. Delvers seek the mysteries and riches hidden within the ruins of the old world. Additionally, as Etherea rebuilds itself, emerging powers vie for dominance, creating a rich tapestry of political intrigue. The setting intentionally distances itself from the static “<em>Disneyland adventure</em>” style, focusing instead on a dynamic, ever-evolving world.</p>
+  </li>
+</ol>
 
-&lt;p&gt;In the age known as the Aetherium, the Weavers of Legend, Etherea’s most powerful mages, sought to harness the Umbraweave’s power in unprecedented ways. In their ambition, they dared to pull the Umbraweave closer to Etherea, believing they could tame the wild energies of the spectral realm and bend them to their will.&lt;/p&gt;
+<p>The core lore of Etherea—its cataclysmic history, the mystical Umbraweave, and complex religious dynamics—lays the groundwork for expanding on these elements. This initial exploration is primarily focused on establishing the foundation for the setting. In the coming weeks, I aim to delve deeper into the practical applications of these elements within the game. I’ll further explore how they can be leveraged to craft engaging and immersive adventures in the world of Etherea.</p>
 
-&lt;p&gt;However, their hubris proved to be their downfall. This cataclysmic event, now known as the Echofall, triggered an uncontrolled flood of magic and spirits into Etherea. The once distant whisper of the Umbraweave became a deafening roar. Echoforms, both benevolent and malevolent, poured into the world, their unchecked power reshaping reality and wreaking havoc on the once-great civilizations.&lt;/p&gt;
+<p>Following this, I’ll take a stab at creating a few actual towns. I plan to use spiral world development for this task, building out from some core settlements.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Shadowdark" /><category term="Lore" /><summary type="html"><![CDATA[An introduction my homebrew setting of Etherea, for use with the Shadowdark RPG.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/design-of-etherea.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/design-of-etherea.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Introduction to the World of Etherea</title><link href="https://www.optionalrule.com/2023/05/13/the-world-of-etherea/" rel="alternate" type="text/html" title="Introduction to the World of Etherea" /><published>2023-05-13T15:46:00+00:00</published><updated>2023-05-13T15:46:00+00:00</updated><id>https://www.optionalrule.com/2023/05/13/the-world-of-etherea</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/13/the-world-of-etherea/"><![CDATA[<p>Etherea is the initial idea for a setting I’ve crafted for the <a href="https://www.thearcanelibrary.com/pages/shadowdark" target="_blank">Shadowdark</a> Tabletop Roleplaying game, designed to foster a sense of intrigue and danger inherent in the exploration of magic and the supernatural. The core concept of the world, the Umbraweave, is meant to evoke a persistent sense of mystery and unease, underlining the idea that behind the veil of reality, potent emotions and intense events birth spirits that drift in the shadows. The aim is to instill a constant sense of tension and wonder in the players, offering them a world where magic is as unpredictable and dangerous as it is powerful.</p>
 
-&lt;p&gt;Kingdoms fell overnight, their grand cities crumbling under the onslaught of wild magic. Forests grew and withered in the span of moments, and rivers flowed backwards, their waters turning into shimmering liquid light. Beings of pure emotion roamed the land, their mere presence inciting joy, despair, rage, and a thousand other emotions in those they encountered. The world was thrown into chaos, and the great cultures of Etherea were reduced to ruins and distant memories.&lt;/p&gt;
+<p>These initial freeform thoughts on Etherea’s history, the rationale behind its magic, and the intricate weave of its religious beliefs are intended to set the stage for an array of adventurous narratives. The remnants of once great empires and fallen civilizations provide a treasure trove of mysteries to unearth, ancient secrets to decipher, and lost treasures to claim. The omnipresent threat of the Umbraweave and its Echoforms, alongside the complex interplay between Weavers and the pious, further drive the sense of imminent danger and conflict. Overall, Etherea is a world shaped by its past, teeming with potential for daring exploits, and ripe for heroes to make their mark.</p>
 
-&lt;p&gt;For centuries, Etherea was a fractured realm, a shadow of its former glory. Yet, life is resilient, and the spark of civilization is not easily extinguished. Humanity, along with the other races of Etherea, slowly began to adapt to this new reality, learning to live among the Echoforms and the unpredictable forces of magic. New settlements began to sprout amidst the ruins of the old, like flowers blooming amidst the rubble.&lt;/p&gt;
+<p>I plan to continue to chip away at this setting as I gear up to run some Shadowdark in the near future.</p>
 
-&lt;p&gt;Now, hundreds of years after the Echofall, civilization is once again taking root in Etherea. The world is still wild and dangerous, but the people of Etherea have learned much from their tragic past. The Weavers have rekindled their ancient traditions, guiding their people in the delicate dance with the Umbraweave.&lt;/p&gt;
+<h3 id="etherea-a-shattered-elegy">Etherea: A Shattered Elegy</h3>
 
-&lt;p&gt;The echoes of the past still resonate in the Umbraweave, but Etherea stands poised at the dawn of a new age. It is a time of hope and fear, a time of magic and monsters, a time of heroes and legends yet to be born. The story of Etherea continues, written by those brave enough to shape their destiny in a world where thoughts and emotions can reshape reality.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore-of-the-shadow-spirits&quot;&gt;The Lore of the Shadow Spirits&lt;/h2&gt;
-
-&lt;p&gt;In the realm of Etherea, a world teetering on the precipice of light and darkness, the thoughts, emotions, and actions of every living being are far more potent than they appear. Unseen by mortal eyes, a shadowy realm lies adjacent to our own, a spectral echo of Etherea known as the Umbraweave. Here, spirits manifest and drift, formed and fueled by the potent emotions and events that transpire in the world of the living.&lt;/p&gt;
-
-&lt;p&gt;The Umbraweave is not just a reflection but an amplifier of our world. An argument between lovers might birth a minor spirit of discord, while a great battle may give rise to a terrifying spirit of destruction. These spirits, known as Echoforms, exist in a vast array, each embodying a different facet of mortal experience. From fleeting spirits of joy, born from laughter and merriment, to lingering spirits of sorrow, born from loss and grief, each Echoform is a testament to the emotional tapestry of Etherea.&lt;/p&gt;
-
-&lt;p&gt;The people of Etherea have developed intricate beliefs and rituals over centuries to contend with the influence of the Umbraweave. The threat of inadvertently creating or attracting malevolent Echoforms has shaped a society that values emotional balance and mindful action. Celebrations are tempered with moments of quiet reflection, and even in war, soldiers take moments to calm their anger and focus their intent, lest they birth spirits of uncontrolled wrath.&lt;/p&gt;
-
-&lt;p&gt;Warding off these spirits has become an essential part of life. People carry talismans imbued with positive emotions to shield against spirits of anger or sorrow. Homes are often adorned with intricate glyphs, prayers, and blessings to keep the dwelling safe from Echoforms. Mirrors, believed to be gateways to the Umbraweave, are covered at night to prevent spirits from crossing over into the physical world.&lt;/p&gt;
-
-&lt;p&gt;Despite the fear of the Umbraweave, not all spirits are seen as harmful. Some Echoforms are considered beneficial, such as spirits of inspiration born from creativity, or spirits of love born from deep affection. These spirits are often invited into homes and gatherings with specific rituals, offerings, and music.&lt;/p&gt;
-
-&lt;p&gt;It is the task of the Spiritseers, individuals gifted with the ability to perceive the Umbraweave and communicate with Echoforms, to navigate the delicate balance of this world. They work to placate harmful spirits, invite beneficial ones, and guide society in their complex dance with the Echoforms.&lt;/p&gt;
-
-&lt;p&gt;The Umbraweave’s existence has shaped the world of Etherea in profound ways. It is a testament to the power of emotion, a stark reminder of the consequences of actions, and a hauntingly beautiful mirror to the world of the living. In Etherea, one’s inner state is not just a personal affair; it can shape the world and echo through the shadowy reaches of the Umbraweave.&lt;/p&gt;
-
-&lt;h3 id=&quot;arcana-of-the-umbraweave&quot;&gt;Arcana of the Umbraweave&lt;/h3&gt;
-
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+<figure class="figure float-end ms-4 clearfix">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/etherea-magic-lineart.jpg&quot; alt=&quot;A man standing in the middle of a magical strom of lightning, his face twisting.&quot; height=&quot;480&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/etherea-setting-lineart.jpg" alt="A massive ruined city overgrown in forest dwarfing a band of adventurers." height="480" />
         
     
-&lt;/figure&gt;
+</figure>
 
-&lt;p&gt;Magic in Etherea is not merely a tool, but a profound expression of the inner self interacting with the vast, unseen forces of the Umbraweave. It is an art of intention and emotion, a delicate dance with the Echoforms, and a testament to the willpower of those who dare to shape reality through the shadow realm.&lt;/p&gt;
+<p>Etherea is a shattered world that was once teeming with magic and wonder. Its landscape was adorned with grand citadels, crystal forests, and cities of floating spires that touched the stars. Etherea was home to mighty empires and enlightened civilizations whose command of magic was unrivaled. They had learned to dance with the Umbraweave, the mysterious realm of spirits, making it their partner in the grand performance of existence.</p>
 
-&lt;p&gt;The practitioners of this art are known as Weavers. By fostering intense emotions, vivid thoughts, and unwavering intent within themselves, Weavers can resonate with the forces of the Umbraweave and give form to magic. These spells can range from minor enchantments, like kindling a spark of flame or whispering to the wind, to cataclysmic events, such as commanding a storm or shaking the very earth.&lt;/p&gt;
+<p>In the age known as the Aetherium, the Weavers of Legend, Etherea’s most powerful mages, sought to harness the Umbraweave’s power in unprecedented ways. In their ambition, they dared to pull the Umbraweave closer to Etherea, believing they could tame the wild energies of the spectral realm and bend them to their will.</p>
 
-&lt;p&gt;Weaving is a delicate process, requiring not just raw emotion but also precise control. A Weaver must learn to balance the intensity of their feelings with the clarity of their intentions. Too much emotion without control can result in a Wild Surge, an unpredictable burst of magic that resonates with the caster’s uncontrolled feelings. This often results in a rogue Echoform being birthed into the world, a force with desires and goals of its own, unbound and potentially harmful to the Weaver and those around them.&lt;/p&gt;
+<p>However, their hubris proved to be their downfall. This cataclysmic event, now known as the Echofall, triggered an uncontrolled flood of magic and spirits into Etherea. The once distant whisper of the Umbraweave became a deafening roar. Echoforms, both benevolent and malevolent, poured into the world, their unchecked power reshaping reality and wreaking havoc on the once-great civilizations.</p>
 
-&lt;p&gt;A Weaver’s path is one of constant self-discovery and discipline. They must learn to explore their inner emotional landscapes, confront their fears, and channel their passions. They must also learn to understand the Echoforms, for each spell is a conversation, a negotiation with the spirits of the Umbraweave.&lt;/p&gt;
+<p>Kingdoms fell overnight, their grand cities crumbling under the onslaught of wild magic. Forests grew and withered in the span of moments, and rivers flowed backwards, their waters turning into shimmering liquid light. Beings of pure emotion roamed the land, their mere presence inciting joy, despair, rage, and a thousand other emotions in those they encountered. The world was thrown into chaos, and the great cultures of Etherea were reduced to ruins and distant memories.</p>
 
-&lt;p&gt;There are many ways to become a Weaver. Some are born with an innate connection to the Umbraweave, while others study under experienced mentors. Some find their calling through near-death experiences, profound emotional events, or deep spiritual revelations.&lt;/p&gt;
+<p>For centuries, Etherea was a fractured realm, a shadow of its former glory. Yet, life is resilient, and the spark of civilization is not easily extinguished. Humanity, along with the other races of Etherea, slowly began to adapt to this new reality, learning to live among the Echoforms and the unpredictable forces of magic. New settlements began to sprout amidst the ruins of the old, like flowers blooming amidst the rubble.</p>
 
-&lt;p&gt;The Echo Codex, a sacred text among Weavers, details the known Echoforms and the emotions that give them form. It also outlines the techniques to master one’s emotional state and provides guidance on negotiating with Echoforms. The Codex is not just a book but a living record, continually updated with the discoveries and experiences of Weavers across Etherea.&lt;/p&gt;
+<p>Now, hundreds of years after the Echofall, civilization is once again taking root in Etherea. The world is still wild and dangerous, but the people of Etherea have learned much from their tragic past. The Weavers have rekindled their ancient traditions, guiding their people in the delicate dance with the Umbraweave.</p>
 
-&lt;p&gt;In Etherea, magic is not just an exercise of power; it’s a testament to one’s inner strength, a reflection of their deepest emotions, and a constant reminder of the delicate balance between control and chaos.&lt;/p&gt;
+<p>The echoes of the past still resonate in the Umbraweave, but Etherea stands poised at the dawn of a new age. It is a time of hope and fear, a time of magic and monsters, a time of heroes and legends yet to be born. The story of Etherea continues, written by those brave enough to shape their destiny in a world where thoughts and emotions can reshape reality.</p>
 
-&lt;h3 id=&quot;divinity-and-faith-in-etherea&quot;&gt;Divinity and Faith in Etherea&lt;/h3&gt;
+<h2 id="the-lore-of-the-shadow-spirits">The Lore of the Shadow Spirits</h2>
 
-&lt;p&gt;In the world of Etherea, the divine is not a distant concept but an integral part of life, woven into the fabric of existence itself. Above the Echo-laden Umbraweave, in realms of spiritual vision and celestial majesty, dwell the gods of Etherea.&lt;/p&gt;
+<p>In the realm of Etherea, a world teetering on the precipice of light and darkness, the thoughts, emotions, and actions of every living being are far more potent than they appear. Unseen by mortal eyes, a shadowy realm lies adjacent to our own, a spectral echo of Etherea known as the Umbraweave. Here, spirits manifest and drift, formed and fueled by the potent emotions and events that transpire in the world of the living.</p>
 
-&lt;p&gt;Each god embodies a grand ideal, a celestial echo of the aspirations, hopes, and fears of the mortal world. They range from Luminara, the goddess of Light and Hope, to Obsidia, the god of Shadows and Secrets. Their influences are as varied as the ideals they embody, their will projected into the world through the spiritual conduit of the Umbraweave.&lt;/p&gt;
+<p>The Umbraweave is not just a reflection but an amplifier of our world. An argument between lovers might birth a minor spirit of discord, while a great battle may give rise to a terrifying spirit of destruction. These spirits, known as Echoforms, exist in a vast array, each embodying a different facet of mortal experience. From fleeting spirits of joy, born from laughter and merriment, to lingering spirits of sorrow, born from loss and grief, each Echoform is a testament to the emotional tapestry of Etherea.</p>
 
-&lt;p&gt;The people of Etherea honor these gods in their daily lives. Grand temples and humble shrines dot the landscapes, each a testament to the devotion of the faithful. Most Ethereans practice a form of polytheism, offering prayers and sacrifices to multiple gods depending on their needs, desires, or fears. However, some individuals feel a deep connection to a single god and dedicate their lives to that deity’s service. This devotion might stem from a desire for protection, a quest for personal power, or a profound spiritual calling.&lt;/p&gt;
+<p>The people of Etherea have developed intricate beliefs and rituals over centuries to contend with the influence of the Umbraweave. The threat of inadvertently creating or attracting malevolent Echoforms has shaped a society that values emotional balance and mindful action. Celebrations are tempered with moments of quiet reflection, and even in war, soldiers take moments to calm their anger and focus their intent, lest they birth spirits of uncontrolled wrath.</p>
 
-&lt;p&gt;This deep faith has led to a tension between the devout and the Weavers. Many of the pious see Weavers as attempting to usurp the divine, their manipulation of the Umbraweave seen as an audacious challenge to the gods themselves. This tension sometimes leads to conflict, with Weavers facing persecution or mistrust in more devout communities.&lt;/p&gt;
+<p>Warding off these spirits has become an essential part of life. People carry talismans imbued with positive emotions to shield against spirits of anger or sorrow. Homes are often adorned with intricate glyphs, prayers, and blessings to keep the dwelling safe from Echoforms. Mirrors, believed to be gateways to the Umbraweave, are covered at night to prevent spirits from crossing over into the physical world.</p>
 
-&lt;p&gt;Yet the divine landscape of Etherea is not limited to these grand ideals. Just as the world is filled with Echoforms, so too is it filled with smaller gods, local deities born from intense Echoforms fostered by specific traditions, rites, or even locations. These deities might rule over a single river, a particular forest, or even a humble village. They are deeply tied to the communities that worship them, their fates and fortunes often seen as intertwined.&lt;/p&gt;
+<p>Despite the fear of the Umbraweave, not all spirits are seen as harmful. Some Echoforms are considered beneficial, such as spirits of inspiration born from creativity, or spirits of love born from deep affection. These spirits are often invited into homes and gatherings with specific rituals, offerings, and music.</p>
 
-&lt;p&gt;Such is the grand tapestry of faith in Etherea. It is a world where the divine is as varied and complex as the people who worship them, where the line between mortal and god can blur, and where the echoes of belief shape not just the Umbraweave, but the very fate of the world itself.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Shadowdark" /><category term="Lore" /><summary type="html">Etherea is the initial idea for a setting I’ve crafted for the Shadowdark Tabletop Roleplaying game, designed to foster a sense of intrigue and danger inherent in the exploration of magic and the supernatural. The core concept of the world, the Umbraweave, is meant to evoke a persistent sense of mystery and unease, underlining the idea that behind the veil of reality, potent emotions and intense events birth spirits that drift in the shadows. The aim is to instill a constant sense of tension and wonder in the players, offering them a world where magic is as unpredictable and dangerous as it is powerful.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/etherea-setting-lineart.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/etherea-setting-lineart.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Revised Injured Condition</title><link href="https://www.optionalrule.com/2023/05/13/revised-injury-condition/" rel="alternate" type="text/html" title="Revised Injured Condition" /><published>2023-05-13T10:30:00+00:00</published><updated>2023-05-13T10:30:00+00:00</updated><id>https://www.optionalrule.com/2023/05/13/revised-injury-condition</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/13/revised-injury-condition/">&lt;p&gt;Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.&lt;/p&gt;
+<p>It is the task of the Spiritseers, individuals gifted with the ability to perceive the Umbraweave and communicate with Echoforms, to navigate the delicate balance of this world. They work to placate harmful spirits, invite beneficial ones, and guide society in their complex dance with the Echoforms.</p>
 
-&lt;p&gt;The lasting injury mechanic fosters a sense of camaraderie among players as they must now invest in each other’s well-being, reinforcing the bonds of their adventuring party. By raising the stakes in this way, victories become even more rewarding, and surviving against the odds offers an unparalleled sense of accomplishment. In essence, this system deepens player engagement, making every encounter, decision, and dice roll truly matter in their shared story.&lt;/p&gt;
+<p>The Umbraweave’s existence has shaped the world of Etherea in profound ways. It is a testament to the power of emotion, a stark reminder of the consequences of actions, and a hauntingly beautiful mirror to the world of the living. In Etherea, one’s inner state is not just a personal affair; it can shape the world and echo through the shadowy reaches of the Umbraweave.</p>
 
-&lt;p&gt;Below is a revised version of the &lt;a href=&quot;/2022/10/01/injured-condition-onednd/&quot;&gt;original Injury Rules&lt;/a&gt; I created based on the OneDnD playtest changes to Exhaustion.&lt;/p&gt;
+<h3 id="arcana-of-the-umbraweave">Arcana of the Umbraweave</h3>
 
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+<figure class="figure float-end ms-4 clearfix">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/treating-injuries480x480.jpg&quot; alt=&quot;A man in armor kneeling next to a young woman who is holding her arm out to receive healing.&quot; height=&quot;480&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/etherea-magic-lineart.jpg" alt="A man standing in the middle of a magical strom of lightning, his face twisting." height="480" />
         
     
-&lt;/figure&gt;
+</figure>
 
-&lt;h3 id=&quot;injured-condition&quot;&gt;Injured [Condition]&lt;/h3&gt;
+<p>Magic in Etherea is not merely a tool, but a profound expression of the inner self interacting with the vast, unseen forces of the Umbraweave. It is an art of intention and emotion, a delicate dance with the Echoforms, and a testament to the willpower of those who dare to shape reality through the shadow realm.</p>
 
-&lt;p&gt;While you are subject to the Injured Condition, you experience the following effects:&lt;/p&gt;
+<p>The practitioners of this art are known as Weavers. By fostering intense emotions, vivid thoughts, and unwavering intent within themselves, Weavers can resonate with the forces of the Umbraweave and give form to magic. These spells can range from minor enchantments, like kindling a spark of flame or whispering to the wind, to cataclysmic events, such as commanding a storm or shaking the very earth.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Levels of Injury.&lt;/strong&gt; This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;d20 Rolls Affected.&lt;/strong&gt; When you make a d20 Test, you subtract your injury level from your d20 roll.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Spell Save DCs Affected.&lt;/strong&gt; Subtract your injury level from the Spell save DC of any Spell you cast.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Gaining the Condition.&lt;/strong&gt; A character gains 1 level of Injury whenever they fail a death save or if they are damaged by more than half their max hit points from a single source of damage. Characters killed through the Massive Damage rules gain 10 levels of Injury.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Recovering.&lt;/strong&gt; Immediately after finishing a Long Rest, the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. A character may gain advantage on a recovery roll if they are being provided medical care, provided hot meals, and in a restful environment, or other conditions as determined by the DM. Characters without adequate shelter or in a very stressful environment roll recovery at disadvantage. When their injury level reaches 0, the character is no longer injured.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<p>Weaving is a delicate process, requiring not just raw emotion but also precise control. A Weaver must learn to balance the intensity of their feelings with the clarity of their intentions. Too much emotion without control can result in a Wild Surge, an unpredictable burst of magic that resonates with the caster’s uncontrolled feelings. This often results in a rogue Echoform being birthed into the world, a force with desires and goals of its own, unbound and potentially harmful to the Weaver and those around them.</p>
 
-&lt;h4 id=&quot;class-ability&quot;&gt;Class Ability&lt;/h4&gt;
+<p>A Weaver’s path is one of constant self-discovery and discipline. They must learn to explore their inner emotional landscapes, confront their fears, and channel their passions. They must also learn to understand the Echoforms, for each spell is a conversation, a negotiation with the spirits of the Umbraweave.</p>
 
-&lt;p&gt;&lt;strong&gt;Shake it Off.&lt;/strong&gt; Fighters, Paladins, and Rangers gain the ‘Shake it off’ ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of Injury. They can use this ability once and regain the ability to do so after a Long Rest.&lt;/p&gt;
+<p>There are many ways to become a Weaver. Some are born with an innate connection to the Umbraweave, while others study under experienced mentors. Some find their calling through near-death experiences, profound emotional events, or deep spiritual revelations.</p>
 
-&lt;h4 id=&quot;magic&quot;&gt;Magic&lt;/h4&gt;
+<p>The Echo Codex, a sacred text among Weavers, details the known Echoforms and the emotions that give them form. It also outlines the techniques to master one’s emotional state and provides guidance on negotiating with Echoforms. The Codex is not just a book but a living record, continually updated with the discoveries and experiences of Weavers across Etherea.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Healing Injury with Magic.&lt;/strong&gt; One level of Injury may be removed by casting Lesser Restoration. Greater Restoration removes all levels of injury.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Bring Out Your Dead.&lt;/strong&gt; Any injury remains with a character brought back to life through Revivify, Raise Dead, or Resurrection, with a maximum of Injury level 9. True Resurrection and Wish bring characters back to life with 0 levels of injury.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<p>In Etherea, magic is not just an exercise of power; it’s a testament to one’s inner strength, a reflection of their deepest emotions, and a constant reminder of the delicate balance between control and chaos.</p>
 
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+<h3 id="divinity-and-faith-in-etherea">Divinity and Faith in Etherea</h3>
 
-&lt;p&gt;In conclusion, incorporating the Injury rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?</title><link href="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/" rel="alternate" type="text/html" title="The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?" /><published>2023-05-04T15:51:00+00:00</published><updated>2023-05-04T15:51:00+00:00</updated><id>https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/">&lt;p&gt;As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new &lt;a href=&quot;https://www.dndbeyond.com/sources/one-dnd/ph-playtest-5&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;playtest material&lt;/a&gt; the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.&lt;/p&gt;
+<p>In the world of Etherea, the divine is not a distant concept but an integral part of life, woven into the fabric of existence itself. Above the Echo-laden Umbraweave, in realms of spiritual vision and celestial majesty, dwell the gods of Etherea.</p>
 
-&lt;figure class=&quot;figure float-end mx-4&quot;&gt;
+<p>Each god embodies a grand ideal, a celestial echo of the aspirations, hopes, and fears of the mortal world. They range from Luminara, the goddess of Light and Hope, to Obsidia, the god of Shadows and Secrets. Their influences are as varied as the ideals they embody, their will projected into the world through the spiritual conduit of the Umbraweave.</p>
+
+<p>The people of Etherea honor these gods in their daily lives. Grand temples and humble shrines dot the landscapes, each a testament to the devotion of the faithful. Most Ethereans practice a form of polytheism, offering prayers and sacrifices to multiple gods depending on their needs, desires, or fears. However, some individuals feel a deep connection to a single god and dedicate their lives to that deity’s service. This devotion might stem from a desire for protection, a quest for personal power, or a profound spiritual calling.</p>
+
+<p>This deep faith has led to a tension between the devout and the Weavers. Many of the pious see Weavers as attempting to usurp the divine, their manipulation of the Umbraweave seen as an audacious challenge to the gods themselves. This tension sometimes leads to conflict, with Weavers facing persecution or mistrust in more devout communities.</p>
+
+<p>Yet the divine landscape of Etherea is not limited to these grand ideals. Just as the world is filled with Echoforms, so too is it filled with smaller gods, local deities born from intense Echoforms fostered by specific traditions, rites, or even locations. These deities might rule over a single river, a particular forest, or even a humble village. They are deeply tied to the communities that worship them, their fates and fortunes often seen as intertwined.</p>
+
+<p>Such is the grand tapestry of faith in Etherea. It is a world where the divine is as varied and complex as the people who worship them, where the line between mortal and god can blur, and where the echoes of belief shape not just the Umbraweave, but the very fate of the world itself.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Shadowdark" /><category term="Lore" /><summary type="html"><![CDATA[An introduction my homebrew setting of Etherea, for use with the Shadowdark RPG.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/etherea-setting-lineart.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/etherea-setting-lineart.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Revised Injured Condition</title><link href="https://www.optionalrule.com/2023/05/13/revised-injury-condition/" rel="alternate" type="text/html" title="Revised Injured Condition" /><published>2023-05-13T10:30:00+00:00</published><updated>2023-05-13T10:30:00+00:00</updated><id>https://www.optionalrule.com/2023/05/13/revised-injury-condition</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/13/revised-injury-condition/"><![CDATA[<p>Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.</p>
+
+<p>The lasting injury mechanic fosters a sense of camaraderie among players as they must now invest in each other’s well-being, reinforcing the bonds of their adventuring party. By raising the stakes in this way, victories become even more rewarding, and surviving against the odds offers an unparalleled sense of accomplishment. In essence, this system deepens player engagement, making every encounter, decision, and dice roll truly matter in their shared story.</p>
+
+<p>Below is a revised version of the <a href="/2022/10/01/injured-condition-onednd/">original Injury Rules</a> I created based on the OneDnD playtest changes to Exhaustion.</p>
+
+<figure class="figure float-end ms-4 clearfix">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/young_adult_wizard_scribing.jpg&quot; alt=&quot;A young adult wizard sitting at a desk and writing in a book with magic energy around them.&quot; height=&quot;480&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/treating-injuries480x480.jpg" alt="A man in armor kneeling next to a young woman who is holding her arm out to receive healing." height="480" />
         
     
-&lt;/figure&gt;
+</figure>
 
-&lt;p&gt;&lt;strong&gt;A Blast from the Past: The Origins of Write and Scribe Spell&lt;/strong&gt;&lt;/p&gt;
+<h3 id="injured-condition">Injured [Condition]</h3>
 
-&lt;p&gt;The Write spell first appeared in the earliest editions of Advanced Dungeons and Dragons. It allowed wizards to scribe spells into their spellbooks, with the interesting twist of having a chance of failure and explosion. This risk added a sense of danger and mystery to the process of acquiring new spells, making magic feel more esoteric and unpredictable.&lt;/p&gt;
+<p>While you are subject to the Injured Condition, you experience the following effects:</p>
 
-&lt;p&gt;Over time, this mechanic was streamlined, and from 3rd edition onward, scribing spells became a simple class ability for wizards. This made the process less risky and time-consuming, allowing players to focus more on adventuring and less on managing their spellbooks.&lt;/p&gt;
+<ul>
+  <li>
+    <p><strong>Levels of Injury.</strong> This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.</p>
+  </li>
+  <li>
+    <p><strong>d20 Rolls Affected.</strong> When you make a d20 Test, you subtract your injury level from your d20 roll.</p>
+  </li>
+  <li>
+    <p><strong>Spell Save DCs Affected.</strong> Subtract your injury level from the Spell save DC of any Spell you cast.</p>
+  </li>
+  <li>
+    <p><strong>Gaining the Condition.</strong> A character gains 1 level of Injury whenever they fail a death save or if they are damaged by more than half their max hit points from a single source of damage. Characters killed through the Massive Damage rules gain 10 levels of Injury.</p>
+  </li>
+  <li>
+    <p><strong>Recovering.</strong> Immediately after finishing a Long Rest, the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. A character may gain advantage on a recovery roll if they are being provided medical care, provided hot meals, and in a restful environment, or other conditions as determined by the DM. Characters without adequate shelter or in a very stressful environment roll recovery at disadvantage. When their injury level reaches 0, the character is no longer injured.</p>
+  </li>
+</ul>
 
-&lt;p&gt;&lt;strong&gt;A Return to OSR Thinking with Scribe Spell?&lt;/strong&gt;&lt;/p&gt;
+<h4 id="class-ability">Class Ability</h4>
 
-&lt;p&gt;Some might argue that the introduction of the Scribe Spell in the 5th edition playtest material is an attempt to return to the Old School Renaissance (OSR) style of play, where magic was more unpredictable and dangerous. This could be seen as a nostalgic callback to the early days of D&amp;amp;D, offering a more challenging and immersive experience for players who yearn for the good old days.&lt;/p&gt;
+<p><strong>Shake it Off.</strong> Fighters, Paladins, and Rangers gain the ‘Shake it off’ ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of Injury. They can use this ability once and regain the ability to do so after a Long Rest.</p>
 
-&lt;p&gt;&lt;strong&gt;But Is It Necessary?&lt;/strong&gt;&lt;/p&gt;
+<h4 id="magic">Magic</h4>
 
-&lt;p&gt;While it’s interesting to see the Scribe Spell make its debut in the playtest material as a callback to the original Write spell, its reintroduction raises the question of whether it adds meaningful depth to the game or just unnecessary complexity. It’s important for playtests to be experimental and push the boundaries of the game, but not every idea should make it into the final product.&lt;/p&gt;
+<ul>
+  <li>
+    <p><strong>Healing Injury with Magic.</strong> One level of Injury may be removed by casting Lesser Restoration. Greater Restoration removes all levels of injury.</p>
+  </li>
+  <li>
+    <p><strong>Bring Out Your Dead.</strong> Any injury remains with a character brought back to life through Revivify, Raise Dead, or Resurrection, with a maximum of Injury level 9. True Resurrection and Wish bring characters back to life with 0 levels of injury.</p>
+  </li>
+</ul>
 
-&lt;p&gt;Personally, I’m all for a spell system that adds danger or interesting management options to play, but this doesn’t do any of that. The Scribe Spell, in its current form, may be more of a designer’s pet project rather than something that will genuinely enhance the player experience. Adding a layer of complexity and potential danger to scribing spells might seem like a fun idea on paper, but in practice, it could detract from the core gameplay and frustrate players who just want to get on with their adventures.&lt;/p&gt;
+<h3 id="conclusion">Conclusion</h3>
 
-&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+<p>In conclusion, incorporating the Injury rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A simple and quick lasting injuries system for DnD based on the Exhausted playtest.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?</title><link href="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/" rel="alternate" type="text/html" title="The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?" /><published>2023-05-04T15:51:00+00:00</published><updated>2023-05-04T15:51:00+00:00</updated><id>https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/"><![CDATA[<p>As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new <a href="https://www.dndbeyond.com/sources/one-dnd/ph-playtest-5" target="_blank" rel="noreferrer noopener">playtest material</a> the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.</p>
 
-&lt;p&gt;The introduction of the Scribe Spell in the D&amp;amp;D 5th edition playtest material, as a callback to the original Write spell, is an intriguing nod to the game’s origins, but its practical value in the modern game is debatable. Personally, I don’t see what it adds to the game. While it’s great to see developers experimenting with different mechanics, it’s important to recognize when a design element might not be the best fit for the current edition. The Scribe Spell is a fascinating part of D&amp;amp;D history, but it may be best left in the past as we continue to evolve the game and focus on what makes it truly engaging for players.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new playtest material the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Injured Condition For Lasting Damage</title><link href="https://www.optionalrule.com/2022/10/01/injured-condition-onednd/" rel="alternate" type="text/html" title="Injured Condition For Lasting Damage" /><published>2022-10-01T11:38:00+00:00</published><updated>2022-10-01T11:38:00+00:00</updated><id>https://www.optionalrule.com/2022/10/01/injured-condition-onednd</id><content type="html" xml:base="https://www.optionalrule.com/2022/10/01/injured-condition-onednd/">&lt;p&gt;Injuries in Dungeons &amp;amp; Dragons are important for two reasons: they add realism to the game and they can be used to add humor. By making injuries last longer, it gives the players a sense of realism and danger that they may not feel if they simply healed back up to full hit points after every battle. It also allows for some interesting role-playing opportunities, such as a character with a permanent limp trying to negotiate a difficult terrain. Finally, it can be fun to see how creative the players can be in dealing with their injuries and add depth to a game.&lt;/p&gt;
-
-&lt;p&gt;With the release of the &lt;a href=&quot;https://media.dndbeyond.com/compendium-images/one-dnd/expert-classes/kpx0MvyfBGHe0XKk/UA2022-Expert-Classes.pdf?icid_source=house-ads&amp;amp;icid_medium=crosspromo&amp;amp;icid_campaign=playtest2&quot; target=&quot;_blank&quot;&gt;Exhausted condition in the new OneDnD Playtest&lt;/a&gt;, injuries can be tracked in a way common with other game rules.&lt;/p&gt;
-
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+<figure class="figure float-end mx-4">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/camping_party_475x633.jpg&quot; alt=&quot;A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted.&quot; height=&quot;475&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/young_adult_wizard_scribing.jpg" alt="A young adult wizard sitting at a desk and writing in a book with magic energy around them." height="480" />
         
     
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit Wizards of the Coast&lt;/figcaption&gt;
+</figure>
+
+<p><strong>A Blast from the Past: The Origins of Write and Scribe Spell</strong></p>
+
+<p>The Write spell first appeared in the earliest editions of Advanced Dungeons and Dragons. It allowed wizards to scribe spells into their spellbooks, with the interesting twist of having a chance of failure and explosion. This risk added a sense of danger and mystery to the process of acquiring new spells, making magic feel more esoteric and unpredictable.</p>
+
+<p>Over time, this mechanic was streamlined, and from 3rd edition onward, scribing spells became a simple class ability for wizards. This made the process less risky and time-consuming, allowing players to focus more on adventuring and less on managing their spellbooks.</p>
+
+<p><strong>A Return to OSR Thinking with Scribe Spell?</strong></p>
+
+<p>Some might argue that the introduction of the Scribe Spell in the 5th edition playtest material is an attempt to return to the Old School Renaissance (OSR) style of play, where magic was more unpredictable and dangerous. This could be seen as a nostalgic callback to the early days of D&amp;D, offering a more challenging and immersive experience for players who yearn for the good old days.</p>
+
+<p><strong>But Is It Necessary?</strong></p>
+
+<p>While it’s interesting to see the Scribe Spell make its debut in the playtest material as a callback to the original Write spell, its reintroduction raises the question of whether it adds meaningful depth to the game or just unnecessary complexity. It’s important for playtests to be experimental and push the boundaries of the game, but not every idea should make it into the final product.</p>
+
+<p>Personally, I’m all for a spell system that adds danger or interesting management options to play, but this doesn’t do any of that. The Scribe Spell, in its current form, may be more of a designer’s pet project rather than something that will genuinely enhance the player experience. Adding a layer of complexity and potential danger to scribing spells might seem like a fun idea on paper, but in practice, it could detract from the core gameplay and frustrate players who just want to get on with their adventures.</p>
+
+<p><strong>Conclusion</strong></p>
+
+<p>The introduction of the Scribe Spell in the D&amp;D 5th edition playtest material, as a callback to the original Write spell, is an intriguing nod to the game’s origins, but its practical value in the modern game is debatable. Personally, I don’t see what it adds to the game. While it’s great to see developers experimenting with different mechanics, it’s important to recognize when a design element might not be the best fit for the current edition. The Scribe Spell is a fascinating part of D&amp;D history, but it may be best left in the past as we continue to evolve the game and focus on what makes it truly engaging for players.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new playtest material the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Injured Condition For Lasting Damage</title><link href="https://www.optionalrule.com/2022/10/01/injured-condition-onednd/" rel="alternate" type="text/html" title="Injured Condition For Lasting Damage" /><published>2022-10-01T11:38:00+00:00</published><updated>2022-10-01T11:38:00+00:00</updated><id>https://www.optionalrule.com/2022/10/01/injured-condition-onednd</id><content type="html" xml:base="https://www.optionalrule.com/2022/10/01/injured-condition-onednd/"><![CDATA[<p>Injuries in Dungeons &amp; Dragons are important for two reasons: they add realism to the game and they can be used to add humor. By making injuries last longer, it gives the players a sense of realism and danger that they may not feel if they simply healed back up to full hit points after every battle. It also allows for some interesting role-playing opportunities, such as a character with a permanent limp trying to negotiate a difficult terrain. Finally, it can be fun to see how creative the players can be in dealing with their injuries and add depth to a game.</p>
+
+<p>With the release of the <a href="https://media.dndbeyond.com/compendium-images/one-dnd/expert-classes/kpx0MvyfBGHe0XKk/UA2022-Expert-Classes.pdf?icid_source=house-ads&amp;icid_medium=crosspromo&amp;icid_campaign=playtest2" target="_blank">Exhausted condition in the new OneDnD Playtest</a>, injuries can be tracked in a way common with other game rules.</p>
+
+<figure class="figure float-end ms-4 clearfix">
     
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;injured-condition&quot;&gt;Injured [Condition]&lt;/h3&gt;
-&lt;p&gt;While you are subject to the Injured Condition you experience the following effects:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Levels of Injury.&lt;/strong&gt; This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;d20 Rolls Affected.&lt;/strong&gt; When you make a d20 Test, you subtract your injury level from your d20 roll.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Spell Save DCs Affected.&lt;/strong&gt; Subtract your injury level from the Spell save DC of any Spell you cast.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gaining the Condition.&lt;/strong&gt; A character gains 1 level of Injury when they return from 0 hp if they have failed a death save or if they are damage by more than half their max hit points from a single source of damage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Recovering.&lt;/strong&gt; Immediately after finishing a Long Rest the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. Another character may make a Medicine Test DC 10 + Injury level to give the character advantage when rolling for recovery. When their injury level reaches 0, the character is no longer injured.&lt;/p&gt;
-
-&lt;h2 id=&quot;considerations&quot;&gt;Considerations&lt;/h2&gt;
-&lt;p&gt;Adding a new track for damage needs to be delt with smoothly in relation to other elements of the system. Natural healing and medicine checks are addressed in the condition. This leaves how you might interact with the design and intention of existing classes, spells, and magic items in the game.&lt;/p&gt;
-
-&lt;h3 id=&quot;design--running&quot;&gt;Design &amp;amp; Running&lt;/h3&gt;
-
-&lt;p&gt;While managing survival and risk elements can be fun with the right player, there are a few things a DM should be cautious of.  First, beware of creating a “death spiral” in your encounters where negative effects lead to more negative effects.  Second, the flow of an encounter is no longer about the number of resources used, and players will need an opportunity to retreat. Third, consider how the group will best deal with the die modifications. This system is simple enough that you could either rely on the player to modify their roll, or ask the DM to modify DCs instead.  Finally, be aware that this is suited for a particular style of play and not for every player.  Talk to your group about it.&lt;/p&gt;
-
-&lt;h3 id=&quot;classes&quot;&gt;Classes&lt;/h3&gt;
-
-&lt;p&gt;Think about what your expectations are for classes, particularly the Warrior Group to deal with Injuries. Likely they will need some way to deal with injuries unique to their role as they are most likely to get injured. As such a Warrior Feat or class ability could be added like so.&lt;/p&gt;
-
-&lt;h4 id=&quot;shrug-it-off&quot;&gt;Shrug it Off&lt;/h4&gt;
-&lt;p&gt;A character can choose to tap their deep reserves of fortitude to avoid taking an injury level from damage.  They can use this ability once, and regain the ability to do so after a Long Rest.&lt;/p&gt;
-
-&lt;h3 id=&quot;spells&quot;&gt;Spells&lt;/h3&gt;
-
-&lt;p&gt;Magical healing is a reality in DnD and choosing how Injuries interact with magic is an important management tool. The trick is not to introduce a risk that you immediately negate with a too easily accessible feature. I recommend adding an effect to the Lesser Restoration spell that allows it to remove 1 level of Injury from the target.&lt;/p&gt;
-
-&lt;h3 id=&quot;magic-items&quot;&gt;Magic Items&lt;/h3&gt;
-
-&lt;p&gt;Similar to spells, healing from magic items should be considered. As with spells, I would recommend adding a single Injury level removal effect to a potion of Lesser Restoration.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Lingering injuries and impact of choices beyond a single game day is one of the most discussed topics in DnD circles. It has been particularly difficult in 5e DnD because of the lack of granular minus. The playtested Exhausted condition provides an elegant way to introduce that and can easily be used for Injuries as well.  A simple status track like this does not add much overhead to the play experience, and adding a dimension of injury management can create more fun for players seeking a gritty game.  Furthermore the system provides an incremental injury system so players can look at their risk more strategically over the source of an encounter.&lt;/p&gt;
-
-&lt;p&gt;Now get out there and run some great games!&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Injuries in Dungeons &amp;amp; Dragons are important for two reasons: they add realism to the game and they can be used to add humor. By making injuries last longer, it gives the players a sense of realism and danger that they may not feel if they simply healed back up to full hit points after every battle. It also allows for some interesting role-playing opportunities, such as a character with a permanent limp trying to negotiate a difficult terrain. Finally, it can be fun to see how creative the players can be in dealing with their injuries and add depth to a game.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The WoTC Errata, Long Past Due</title><link href="https://www.optionalrule.com/2021/12/17/wotc-errata-debate/" rel="alternate" type="text/html" title="The WoTC Errata, Long Past Due" /><published>2021-12-17T10:47:00+00:00</published><updated>2021-12-17T10:47:00+00:00</updated><id>https://www.optionalrule.com/2021/12/17/wotc-errata-debate</id><content type="html" xml:base="https://www.optionalrule.com/2021/12/17/wotc-errata-debate/">&lt;p&gt;The recent errata issues for 5e D&amp;amp;D is a move to stop promoting the association of harmful real world biases with fantasy races. It also and frees worldbuilders to focus on the unique aspects of their setting. All of these are great steps forward and I whole heartedly support this move.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">The recent errata issues for 5e D&amp;amp;D is a move to stop promoting the association of harmful real world biases with fantasy races. It also and frees worldbuilders to focus on the unique aspects of their setting. All of these are great steps forward and I whole heartedly support this move.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tavern Games - Darts for your D&amp;amp;D Game</title><link href="https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame/" rel="alternate" type="text/html" title="Tavern Games - Darts for your D&amp;amp;D Game" /><published>2021-12-08T12:56:00+00:00</published><updated>2021-12-08T12:56:00+00:00</updated><id>https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame</id><content type="html" xml:base="https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame/">&lt;p&gt;Mini-games can be fun distraction for your players in any TTRPG campaign. Downtime or social sessions can create a lot of opportunities for this in your game. With the release of &lt;a href=&quot;https://dnd.wizards.com/products/wild-beyond-witchlight&quot; target=&quot;_blank&quot;&gt;The Wild Beyond the Witchlight&lt;/a&gt; adventure, players have asking about mini-games to use.  So I thought I’d share the rules for my simple mini-game for Darts.&lt;/p&gt;
-
-&lt;p&gt;In the most simple case, a series of opposed DEX (&lt;strong&gt;Athletics&lt;/strong&gt;) checks will suffice. However, I ended up with a play group that were Dart enthusiast and wanted a full on mini-game.  So I’m sharing the simple rules I used in hopes it might have some use in your sessions.&lt;/p&gt;
-
-&lt;figure class=&quot;figure float-end ms-4&quot;&gt;
-    
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/Gaston-Dart-Board_600x400.jpg&quot; alt=&quot;A dart board in a wooden frame and chalkboard for score mounted on an old tavern wall.&quot; height=&quot;600&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/camping_party_475x633.jpg" alt="A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted." height="475" />
         
     
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image from Gaston&apos;s Tavern by Disney.&lt;/figcaption&gt;
+        <figcaption class="figure-caption text-center">Image credit Wizards of the Coast</figcaption>
     
-&lt;/figure&gt;
+</figure>
 
-&lt;h2 id=&quot;the-rules&quot;&gt;The Rules&lt;/h2&gt;
-&lt;p&gt;A player rolls 2 separate color D20s, the first represents the segment of the board, the second the ring.  Like normal darts the segment the dart lands in (the number rolled on the die) determines the score. If you’re not familiar with darts, see the diagram below and it should make sense. The final score for the throw is modified by the result of the ring die like so.&lt;/p&gt;
+<h3 id="injured-condition">Injured [Condition]</h3>
+<p>While you are subject to the Injured Condition you experience the following effects:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;5 - double the score&lt;/li&gt;
-  &lt;li&gt;10 - triple the score&lt;/li&gt;
-  &lt;li&gt;15 - 25 pt Outer Bullseye if the segment die is above 10.&lt;/li&gt;
-  &lt;li&gt;20 - 50 pt Inner Bullseye if the segment die is a 20.&lt;/li&gt;
-&lt;/ul&gt;
+<p><strong>Levels of Injury.</strong> This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.</p>
 
-&lt;p&gt;The player may modify either or both die results by a total of their ranged attack modifier.&lt;/p&gt;
+<p><strong>d20 Rolls Affected.</strong> When you make a d20 Test, you subtract your injury level from your d20 roll.</p>
 
-&lt;h3 id=&quot;example&quot;&gt;Example&lt;/h3&gt;
+<p><strong>Spell Save DCs Affected.</strong> Subtract your injury level from the Spell save DC of any Spell you cast.</p>
 
-&lt;p&gt;Beau takes a turn at darts, rolls an 8 on the segment die, and a 13 on the ring die. They choose to user their 7 ranged attack bonus to add 3 to the segment die to make it a 12, and 2 to the ring die to make it a 15.  That’s an Inner Bullseye for 25 pts!&lt;/p&gt;
+<p><strong>Gaining the Condition.</strong> A character gains 1 level of Injury when they return from 0 hp if they have failed a death save or if they are damage by more than half their max hit points from a single source of damage.</p>
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;This level of mini-game isn’t for everyone, but groups looking to play out some downtime may enjoy it.  The system is simple enough to play out, but isn’t intended to be a balance game on it’s own.  It works best when players move along quickly, perhaps with a favorite libation, and make quick choices.  So keep it moving and have them create some character moments.  Now get out there and run some great games.&lt;/p&gt;
+<p><strong>Recovering.</strong> Immediately after finishing a Long Rest the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. Another character may make a Medicine Test DC 10 + Injury level to give the character advantage when rolling for recovery. When their injury level reaches 0, the character is no longer injured.</p>
 
-&lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
-&lt;p&gt;Structure of a Dart Board with slices and rings for scoring.&lt;/p&gt;
-&lt;figure class=&quot;figure clearfix&quot;&gt;
+<h2 id="considerations">Considerations</h2>
+<p>Adding a new track for damage needs to be delt with smoothly in relation to other elements of the system. Natural healing and medicine checks are addressed in the condition. This leaves how you might interact with the design and intention of existing classes, spells, and magic items in the game.</p>
+
+<h3 id="design--running">Design &amp; Running</h3>
+
+<p>While managing survival and risk elements can be fun with the right player, there are a few things a DM should be cautious of.  First, beware of creating a “death spiral” in your encounters where negative effects lead to more negative effects.  Second, the flow of an encounter is no longer about the number of resources used, and players will need an opportunity to retreat. Third, consider how the group will best deal with the die modifications. This system is simple enough that you could either rely on the player to modify their roll, or ask the DM to modify DCs instead.  Finally, be aware that this is suited for a particular style of play and not for every player.  Talk to your group about it.</p>
+
+<h3 id="classes">Classes</h3>
+
+<p>Think about what your expectations are for classes, particularly the Warrior Group to deal with Injuries. Likely they will need some way to deal with injuries unique to their role as they are most likely to get injured. As such a Warrior Feat or class ability could be added like so.</p>
+
+<h4 id="shrug-it-off">Shrug it Off</h4>
+<p>A character can choose to tap their deep reserves of fortitude to avoid taking an injury level from damage.  They can use this ability once, and regain the ability to do so after a Long Rest.</p>
+
+<h3 id="spells">Spells</h3>
+
+<p>Magical healing is a reality in DnD and choosing how Injuries interact with magic is an important management tool. The trick is not to introduce a risk that you immediately negate with a too easily accessible feature. I recommend adding an effect to the Lesser Restoration spell that allows it to remove 1 level of Injury from the target.</p>
+
+<h3 id="magic-items">Magic Items</h3>
+
+<p>Similar to spells, healing from magic items should be considered. As with spells, I would recommend adding a single Injury level removal effect to a potion of Lesser Restoration.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Lingering injuries and impact of choices beyond a single game day is one of the most discussed topics in DnD circles. It has been particularly difficult in 5e DnD because of the lack of granular minus. The playtested Exhausted condition provides an elegant way to introduce that and can easily be used for Injuries as well.  A simple status track like this does not add much overhead to the play experience, and adding a dimension of injury management can create more fun for players seeking a gritty game.  Furthermore the system provides an incremental injury system so players can look at their risk more strategically over the source of an encounter.</p>
+
+<p>Now get out there and run some great games!</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A simple and quick lasting injuries system for DnD based on the Exhausted playtest.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The WoTC Errata, Long Past Due</title><link href="https://www.optionalrule.com/2021/12/17/wotc-errata-debate/" rel="alternate" type="text/html" title="The WoTC Errata, Long Past Due" /><published>2021-12-17T10:47:00+00:00</published><updated>2021-12-17T10:47:00+00:00</updated><id>https://www.optionalrule.com/2021/12/17/wotc-errata-debate</id><content type="html" xml:base="https://www.optionalrule.com/2021/12/17/wotc-errata-debate/"><![CDATA[<p>The recent errata issues for 5e D&amp;D is a move to stop promoting the association of harmful real world biases with fantasy races. It also and frees worldbuilders to focus on the unique aspects of their setting. All of these are great steps forward and I whole heartedly support this move.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html"><![CDATA[A sinister and dynamic elevator trap you can use in your 5th edition game.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/mineshaft_480x643.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tavern Games - Darts for your D&amp;amp;D Game</title><link href="https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame/" rel="alternate" type="text/html" title="Tavern Games - Darts for your D&amp;amp;D Game" /><published>2021-12-08T12:56:00+00:00</published><updated>2021-12-08T12:56:00+00:00</updated><id>https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame</id><content type="html" xml:base="https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame/"><![CDATA[<p>Mini-games can be fun distraction for your players in any TTRPG campaign. Downtime or social sessions can create a lot of opportunities for this in your game. With the release of <a href="https://dnd.wizards.com/products/wild-beyond-witchlight" target="_blank">The Wild Beyond the Witchlight</a> adventure, players have asking about mini-games to use.  So I thought I’d share the rules for my simple mini-game for Darts.</p>
+
+<p>In the most simple case, a series of opposed DEX (<strong>Athletics</strong>) checks will suffice. However, I ended up with a play group that were Dart enthusiast and wanted a full on mini-game.  So I’m sharing the simple rules I used in hopes it might have some use in your sessions.</p>
+
+<figure class="figure float-end ms-4">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/Dartboard_diagram_637x473.jpg&quot; alt=&quot;A dart board with labels for different parts.&quot; height=&quot;637&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/Gaston-Dart-Board_600x400.jpg" alt="A dart board in a wooden frame and chalkboard for score mounted on an old tavern wall." height="600" />
         
     
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image Credit, Wikipedia.&lt;/figcaption&gt;
+        <figcaption class="figure-caption text-center">Image from Gaston's Tavern by Disney.</figcaption>
     
-&lt;/figure&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Mini-games can be fun distraction for your players in any TTRPG campaign. Downtime or social sessions can create a lot of opportunities for this in your game. With the release of The Wild Beyond the Witchlight adventure, players have asking about mini-games to use. So I thought I’d share the rules for my simple mini-game for Darts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sampling Random Ability Score Generation</title><link href="https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores/" rel="alternate" type="text/html" title="Sampling Random Ability Score Generation" /><published>2021-08-12T07:30:00+00:00</published><updated>2021-08-12T07:30:00+00:00</updated><id>https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores</id><content type="html" xml:base="https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores/">&lt;p&gt;Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons &amp;amp; Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn’t come out until Xanathar’s for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.&lt;/p&gt;
+</figure>
 
-&lt;p&gt;Like everything in 5e, it all comes down to what you want out of it.  So, I thought it would be fun to talk about why random ability scores can be fun and what games can expect from using different methods.&lt;/p&gt;
+<h2 id="the-rules">The Rules</h2>
+<p>A player rolls 2 separate color D20s, the first represents the segment of the board, the second the ring.  Like normal darts the segment the dart lands in (the number rolled on the die) determines the score. If you’re not familiar with darts, see the diagram below and it should make sense. The final score for the throw is modified by the result of the ring die like so.</p>
 
-&lt;h2 id=&quot;why-random-generation&quot;&gt;Why Random Generation?&lt;/h2&gt;
-&lt;p&gt;People can find fun in random ability scores for a few reasons. First, the feeling of discovering a character and playing within the constraints of random abilities can be exciting.  Second, players can feel this creates a more ‘realistic’ individual that has to deal with the hand nature as dealt them. Third, it can move the baseline of stats to create a more gritty or epic character, depending on the method selected. These can be fun, and I particularly enjoy the discovery and constraints element of rolling abilities. However, be aware that some method can create wild disparities between characters, which can ruin the fun in some groups.&lt;/p&gt;
+<ul>
+  <li>5 - double the score</li>
+  <li>10 - triple the score</li>
+  <li>15 - 25 pt Outer Bullseye if the segment die is above 10.</li>
+  <li>20 - 50 pt Inner Bullseye if the segment die is a 20.</li>
+</ul>
 
-&lt;p&gt;&lt;strong&gt;If you’re thinking about using randomly generated ability scores in your game, I have one piece of advice.&lt;/strong&gt; Know the difference between something you like other people doing, and what those other people actually like to do. That means that the group should not only buy into something like this but be excited about it. There’s a pitfall for DMs who get things into their head that they like to see the players do but ends up being no fun for the players. So, make sure to pick an option the whole party is going to enjoy when considering something like random ability score generation.&lt;/p&gt;
+<p>The player may modify either or both die results by a total of their ranged attack modifier.</p>
 
-&lt;h2 id=&quot;common-methods-of-random-generation&quot;&gt;Common Methods of Random Generation&lt;/h2&gt;
+<h3 id="example">Example</h3>
 
-&lt;p&gt;There are several methods used to generate random abilities.  In most cases it creates a set of 6 scores the player can arrange how they like. Some versions that let players only swap a limited number of scores. A few hardcore rulesets even go so far as to keep them in the order rolled. As with anything, no way is better than another, it all comes down to what you want out if it. The most common methods are:&lt;/p&gt;
+<p>Beau takes a turn at darts, rolls an 8 on the segment die, and a 13 on the ring die. They choose to user their 7 ranged attack bonus to add 3 to the segment die to make it a 12, and 2 to the ring die to make it a 15.  That’s an Inner Bullseye for 25 pts!</p>
 
-&lt;ul&gt;
-  &lt;li&gt;3d6 rolled for each ability. (3d6)&lt;/li&gt;
-  &lt;li&gt;3d6 rolled 7 times and keep the highest 6. (3d6 7x-k6)&lt;/li&gt;
-  &lt;li&gt;3d6, reroll any 1s. (3d6 r1)&lt;/li&gt;
-  &lt;li&gt;4d6 keep the highest 3. (4d6 h3)&lt;/li&gt;
-  &lt;li&gt;2d6+6 for each ability. (2d6+6)&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="conclusion">Conclusion</h2>
+<p>This level of mini-game isn’t for everyone, but groups looking to play out some downtime may enjoy it.  The system is simple enough to play out, but isn’t intended to be a balance game on it’s own.  It works best when players move along quickly, perhaps with a favorite libation, and make quick choices.  So keep it moving and have them create some character moments.  Now get out there and run some great games.</p>
 
-&lt;h3 id=&quot;break-down-of-ranges&quot;&gt;Break Down of Ranges&lt;/h3&gt;
-
-&lt;p&gt;The first thing to understand about any random ability score generation method is the range and probability. How high and low a range of rolls can be, versus how likely any individual roll is likely to be.  Different methods produce different results and a &lt;a href=&quot;https://anydice.com/program/237f0&quot; target=&quot;_blank&quot;&gt;Distribution Curve&lt;/a&gt; graph of the most common methods is presented below.&lt;/p&gt;
-
-&lt;p&gt;Common rules DMs use is to reroll abilities below a particular level, let players shift points around, or rerolling if you are below a particular score value. This kind of defeats the purpose of random abilities to me, but these are the base percentages you’ll get from different methods.&lt;/p&gt;
-
-&lt;figure class=&quot;figure clearfix&quot;&gt;
+<h2 id="reference">Reference</h2>
+<p>Structure of a Dart Board with slices and rings for scoring.</p>
+<figure class="figure clearfix">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/abilityscore_generation_chart_1419x826.jpg&quot; alt=&quot;line graph featuring the probabilities of different random generation methods&quot; height=&quot;475&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/Dartboard_diagram_637x473.jpg" alt="A dart board with labels for different parts." height="637" />
         
     
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Chart data compiled from &lt;a href=&quot;https://anydice.com/program/237f0&quot; target=&quot;_blank&quot;&gt;Any Dice&lt;/a&gt;&lt;/figcaption&gt;
+        <figcaption class="figure-caption text-center">Image Credit, Wikipedia.</figcaption>
     
-&lt;/figure&gt;
+</figure>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A mini-game to simulate darts for your TTRPG play group.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sampling Random Ability Score Generation</title><link href="https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores/" rel="alternate" type="text/html" title="Sampling Random Ability Score Generation" /><published>2021-08-12T07:30:00+00:00</published><updated>2021-08-12T07:30:00+00:00</updated><id>https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores</id><content type="html" xml:base="https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores/"><![CDATA[<p>Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons &amp; Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn’t come out until Xanathar’s for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.</p>
 
-&lt;h3 id=&quot;the-most-common-results&quot;&gt;The Most Common Results&lt;/h3&gt;
+<p>Like everything in 5e, it all comes down to what you want out of it.  So, I thought it would be fun to talk about why random ability scores can be fun and what games can expect from using different methods.</p>
 
-&lt;p&gt;While distributions curves are great, what people want to know is what the most likely set of abilities from a particular method are.  Again, since this is random it will vary but the table below presents the ideal set of stats produced from different generation methods.  Note I am presenting the Standard Array as a comparison, and that it essentially corresponds to the method for 3d6 rerolling 1s.  If a DM were just interested in shifting ability scores up or down, they could select one of these as a new standard array and avoid the random swings.  As should be apparent, these methods can produce very different types of characters.&lt;/p&gt;
+<h2 id="why-random-generation">Why Random Generation?</h2>
+<p>People can find fun in random ability scores for a few reasons. First, the feeling of discovering a character and playing within the constraints of random abilities can be exciting.  Second, players can feel this creates a more ‘realistic’ individual that has to deal with the hand nature as dealt them. Third, it can move the baseline of stats to create a more gritty or epic character, depending on the method selected. These can be fun, and I particularly enjoy the discovery and constraints element of rolling abilities. However, be aware that some method can create wild disparities between characters, which can ruin the fun in some groups.</p>
 
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Method&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://anydice.com/program/237f7&quot;&gt;2d6+6&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;16&lt;/td&gt;
-      &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://anydice.com/program/237f6&quot;&gt;4d6 Drop lowest&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;16&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;13&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Standard Array&lt;/td&gt;
-      &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;13&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://anydice.com/program/237f4&quot;&gt;3d6 reroll 1s&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;13&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://anydice.com/program/237f5&quot;&gt;3d6 7 times, drop lowest&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;13&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://anydice.com/program/237f3&quot;&gt;3d6&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<p><strong>If you’re thinking about using randomly generated ability scores in your game, I have one piece of advice.</strong> Know the difference between something you like other people doing, and what those other people actually like to do. That means that the group should not only buy into something like this but be excited about it. There’s a pitfall for DMs who get things into their head that they like to see the players do but ends up being no fun for the players. So, make sure to pick an option the whole party is going to enjoy when considering something like random ability score generation.</p>
 
-&lt;h2 id=&quot;the-bounded-accuracy-problem&quot;&gt;The Bounded Accuracy Problem&lt;/h2&gt;
-&lt;p&gt;One thing to note about ability score generation is that 5e was built heavily on the concept of ‘bounded accuracy’. That is to say that the game design intends to tightly control the number of bonuses and their progression throughout the game.  So, giving characters higher or lower abilities could slightly impact gameplay difficulty. This is likely not going to be a massive issue, but a group should take this into consideration, particularly the DM when balancing encounters.  Additionally, ending up with drastically different primary ability bonuses can be a let down in a group, and the bounded accuracy problem may feel larger than it is.&lt;/p&gt;
+<h2 id="common-methods-of-random-generation">Common Methods of Random Generation</h2>
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;There is no superior method when generating ability score, it all depends on what you want.  This not only includes the ability ranges, but the mystery of what a character will be during character creation.  Generally, I prefer standard array or point buy as a DM, but I’ll allow a party to select random scores if they ALL want to and agree.  I’ve had some fun with this in various games, notably having played a healer who rolled minimum strength, playing them as having a neuromuscular disability.  In all honesty, the striving to be heroic in the face of a setback was a lot of fun for me as it taps into my own emotions and experiences having a disability. I wouldn’t want to do that in every game however, but it is fun now and again.  Regardless, it’s good to know what the likely outcomes will be when choosing something like this, so I hope this post helped shed some light onto that.&lt;/p&gt;
+<p>There are several methods used to generate random abilities.  In most cases it creates a set of 6 scores the player can arrange how they like. Some versions that let players only swap a limited number of scores. A few hardcore rulesets even go so far as to keep them in the order rolled. As with anything, no way is better than another, it all comes down to what you want out if it. The most common methods are:</p>
 
-&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html">Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons &amp;amp; Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn’t come out until Xanathar’s for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/abilityscore_generation_chart_1419x826.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/abilityscore_generation_chart_1419x826.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Perilous Journeys in 5e Part 2</title><link href="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 2" /><published>2021-07-24T01:08:00+00:00</published><updated>2021-07-24T01:08:00+00:00</updated><id>https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/">&lt;p&gt;Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure.  Last week I posted &lt;a href=&quot;/2021/07/13/perilous-journeys-in-5e-p1/&quot;&gt;Perilous Journey’s Part 1&lt;/a&gt;, which turns travel into a series of encounters like any other dungeon. This week, I’ll look at defining some ways that party members can take meaningful actions during journeys.  These &lt;strong&gt;Journey Actions&lt;/strong&gt; provide gameplay for the travel experience, as well as create dependencies between members of the party.&lt;/p&gt;
+<ul>
+  <li>3d6 rolled for each ability. (3d6)</li>
+  <li>3d6 rolled 7 times and keep the highest 6. (3d6 7x-k6)</li>
+  <li>3d6, reroll any 1s. (3d6 r1)</li>
+  <li>4d6 keep the highest 3. (4d6 h3)</li>
+  <li>2d6+6 for each ability. (2d6+6)</li>
+</ul>
 
-&lt;p&gt;As with any rule or option, use when it add something to the game  and move along when it doesn’t.&lt;/p&gt;
+<h3 id="break-down-of-ranges">Break Down of Ranges</h3>
 
-&lt;h2 id=&quot;journey-actions&quot;&gt;Journey Actions&lt;/h2&gt;
+<p>The first thing to understand about any random ability score generation method is the range and probability. How high and low a range of rolls can be, versus how likely any individual roll is likely to be.  Different methods produce different results and a <a href="https://anydice.com/program/237f0" target="_blank">Distribution Curve</a> graph of the most common methods is presented below.</p>
 
-&lt;p&gt;When traveling, a character may take one Journey Action as part of travel.  Any actions taken during travel should be chosen prior to the start of travel. Multiple characters may attempt the same action and each roll separately. This has the same roll mechanic as advantage but they each apply their individual skill bonus. Additionally, The DM may want to consider the role of proficiency in these rules. Optionally, they may only allow a character to take a journey action if proficient in an indicated skills.&lt;/p&gt;
+<p>Common rules DMs use is to reroll abilities below a particular level, let players shift points around, or rerolling if you are below a particular score value. This kind of defeats the purpose of random abilities to me, but these are the base percentages you’ll get from different methods.</p>
 
-&lt;p&gt;&lt;strong&gt;Terrain Pace and DC Table&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Pace&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Speed&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Daily&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;DC&lt;/th&gt;
-      &lt;th&gt;Terrain&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fast&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;32 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;24 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
-      &lt;td&gt;Grasslands, plains, wastes etc.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Slow&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;16 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;15&lt;/td&gt;
-      &lt;td&gt;Forests, hills, tundra, sand desert, etc.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Crawl&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
-      &lt;td&gt;Mountains, swamps, jungle, etc.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;forage&quot;&gt;Forage&lt;/h3&gt;
-
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+<figure class="figure clearfix">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/kirk-langsea-wot-quarry-rox-02_475x475.jpg&quot; alt=&quot;A road through lonely woods.  Two mean guard a horse drawn wagon at the front and rear with bow and spear.&quot; height=&quot;475&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/abilityscore_generation_chart_1419x826.jpg" alt="line graph featuring the probabilities of different random generation methods" height="475" />
         
     
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit &lt;a href=&quot;https://www.artstation.com/artwork/baBQrr&quot; target=&quot;_blank&quot;&gt;Kirk Langsea&lt;/a&gt;&lt;/figcaption&gt;
+        <figcaption class="figure-caption text-center">Chart data compiled from <a href="https://anydice.com/program/237f0" target="_blank">Any Dice</a></figcaption>
     
-&lt;/figure&gt;
+</figure>
 
-&lt;p&gt;Foraging along the way for harvestable plants, or small game allows parties to eat hearty means.  Rather than keeping track of day-to-day rations in a group, this form of foraging gathers ingredients for a &lt;strong&gt;Hearty Meal&lt;/strong&gt;.  As mentioned in, part 1 of Perilous Journeys, a hearty meal may allow characters to recover a single hit die from after sleeping for eight hours when unable to take a long rest.&lt;/p&gt;
+<h3 id="the-most-common-results">The Most Common Results</h3>
 
-&lt;p&gt;Characters harvesting use the rules in Chapter 5 of the PHB and roll &lt;strong&gt;&lt;em&gt;Wisdom (Survival)&lt;/em&gt;&lt;/strong&gt;, at +5 DC to the table presented there. Again, with this method assume the party has enough food to sustain themselves and recover exhaustion.  Instead, this type of foraging focuses on higher quality food to help recover Hit Die as per the rules above.&lt;/p&gt;
+<p>While distributions curves are great, what people want to know is what the most likely set of abilities from a particular method are.  Again, since this is random it will vary but the table below presents the ideal set of stats produced from different generation methods.  Note I am presenting the Standard Array as a comparison, and that it essentially corresponds to the method for 3d6 rerolling 1s.  If a DM were just interested in shifting ability scores up or down, they could select one of these as a new standard array and avoid the random swings.  As should be apparent, these methods can produce very different types of characters.</p>
 
-&lt;p&gt;Alternatively, someone foraging could opt to gather herbs or ingredients for potions instead. If so, have them roll &lt;strong&gt;&lt;em&gt;Intelligence (Nature)&lt;/em&gt;&lt;/strong&gt; at the same DC used for foraging above.  Instead of pounds of good food, they recover the equivalent gold piece worth of ingredients. See the &lt;a href=&quot;/2021/01/24/summary-of-5e-alchemy-rules/&quot;&gt;Summary of 5e Alchemy Rules&lt;/a&gt; for options.&lt;/p&gt;
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://anydice.com/program/237f7">2d6+6</a></td>
+      <td>16</td>
+      <td>15</td>
+      <td>14</td>
+      <td>12</td>
+      <td>11</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href="https://anydice.com/program/237f6">4d6 Drop lowest</a></td>
+      <td>16</td>
+      <td>14</td>
+      <td>13</td>
+      <td>12</td>
+      <td>10</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Standard Array</td>
+      <td>15</td>
+      <td>14</td>
+      <td>13</td>
+      <td>12</td>
+      <td>10</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td><a href="https://anydice.com/program/237f4">3d6 reroll 1s</a></td>
+      <td>15</td>
+      <td>14</td>
+      <td>13</td>
+      <td>12</td>
+      <td>10</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td><a href="https://anydice.com/program/237f5">3d6 7 times, drop lowest</a></td>
+      <td>14</td>
+      <td>13</td>
+      <td>12</td>
+      <td>11</td>
+      <td>9</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td><a href="https://anydice.com/program/237f3">3d6</a></td>
+      <td>14</td>
+      <td>12</td>
+      <td>11</td>
+      <td>10</td>
+      <td>9</td>
+      <td>7</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;h3 id=&quot;guide&quot;&gt;Guide&lt;/h3&gt;
-&lt;p&gt;Guiding a party involves combining your knowledge of an area’s geography, history, and conditions to choose a safe and sure route. At the start of a day’s journey, the guide decides the best route and rolls either an &lt;strong&gt;&lt;em&gt;Intelligence (Nature)&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;Intelligence (History)&lt;/em&gt;&lt;/strong&gt; check at the DC presented on the Terrain Pace table. This roll is made with disadvantage if the guide is unfamiliar with the terrain, has no maps, or has not gathered enough information prior to travel. On a failure, the chances of a random encounter or hazard are doubled for the travel period and the party has disadvantage on any stealth checks. Parties without a guide automatically fail this check.&lt;/p&gt;
+<h2 id="the-bounded-accuracy-problem">The Bounded Accuracy Problem</h2>
+<p>One thing to note about ability score generation is that 5e was built heavily on the concept of ‘bounded accuracy’. That is to say that the game design intends to tightly control the number of bonuses and their progression throughout the game.  So, giving characters higher or lower abilities could slightly impact gameplay difficulty. This is likely not going to be a massive issue, but a group should take this into consideration, particularly the DM when balancing encounters.  Additionally, ending up with drastically different primary ability bonuses can be a let down in a group, and the bounded accuracy problem may feel larger than it is.</p>
 
-&lt;h3 id=&quot;scout&quot;&gt;Scout&lt;/h3&gt;
-&lt;p&gt;Scouting involves moving ahead of the party and using your keen senses spot danger or stealth to avoid it.  Scouts may always make active &lt;strong&gt;&lt;em&gt;Wisdom (Perception)&lt;/em&gt;&lt;/strong&gt; checks against hidden dangers.  Additionally, they can use their &lt;strong&gt;&lt;em&gt;Dexterity (Stealth)&lt;/em&gt;&lt;/strong&gt; skill to allow the entire party to avoid an encounter if the scout spotted it first. Parties staging an ambush on foes discovered by a scout have advantage on checks to catch them unaware.&lt;/p&gt;
+<h2 id="conclusion">Conclusion</h2>
+<p>There is no superior method when generating ability score, it all depends on what you want.  This not only includes the ability ranges, but the mystery of what a character will be during character creation.  Generally, I prefer standard array or point buy as a DM, but I’ll allow a party to select random scores if they ALL want to and agree.  I’ve had some fun with this in various games, notably having played a healer who rolled minimum strength, playing them as having a neuromuscular disability.  In all honesty, the striving to be heroic in the face of a setback was a lot of fun for me as it taps into my own emotions and experiences having a disability. I wouldn’t want to do that in every game however, but it is fun now and again.  Regardless, it’s good to know what the likely outcomes will be when choosing something like this, so I hope this post helped shed some light onto that.</p>
 
-&lt;h3 id=&quot;ward&quot;&gt;Ward&lt;/h3&gt;
-&lt;p&gt;Warding uses prowess and awareness to protect the party from hazards and ambush. If a character in the party performing the warding action is not surprised during an ambush, the entire party gets advantage on their roll to avoid surprise.&lt;/p&gt;
+<p>Now get out there and run some great games.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html"><![CDATA[Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons &amp; Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn’t come out until Xanathar’s for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/abilityscore_generation_chart_1419x826.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/abilityscore_generation_chart_1419x826.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Perilous Journeys in 5e Part 2</title><link href="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 2" /><published>2021-07-24T01:08:00+00:00</published><updated>2021-07-24T01:08:00+00:00</updated><id>https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/24/perilous-journeys-in-5e-p2/"><![CDATA[<p>Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure.  Last week I posted <a href="/2021/07/13/perilous-journeys-in-5e-p1/">Perilous Journey’s Part 1</a>, which turns travel into a series of encounters like any other dungeon. This week, I’ll look at defining some ways that party members can take meaningful actions during journeys.  These <strong>Journey Actions</strong> provide gameplay for the travel experience, as well as create dependencies between members of the party.</p>
 
-&lt;p&gt;Also, when encountering a natural hazard that requires a Strength or Dexterity save, the Warder may roll &lt;strong&gt;&lt;em&gt;Strength (Athletics)&lt;/em&gt;&lt;/strong&gt; and allow a character up to 10 feet away to use that roll instead of their own save.  The warding character may allow a number of characters up to their proficiency bonus to use their roll in this way. Examples of the kinds of hazards might be falling, avoiding an avalanche, stepping into a pit or the like.&lt;/p&gt;
+<p>As with any rule or option, use when it add something to the game  and move along when it doesn’t.</p>
 
-&lt;h2 id=&quot;spicing-things-up&quot;&gt;Spicing Things Up&lt;/h2&gt;
+<h2 id="journey-actions">Journey Actions</h2>
 
-&lt;p&gt;These rules mix well with several other house rules. By themselves they are not any more deadly or gritty than any dungeon encounter. In fact, these rules only bring journey encounters in alignment with dungeons. You can think of the entire track of a journey like a node-based set of encounters in a dungeon.&lt;/p&gt;
+<p>When traveling, a character may take one Journey Action as part of travel.  Any actions taken during travel should be chosen prior to the start of travel. Multiple characters may attempt the same action and each roll separately. This has the same roll mechanic as advantage but they each apply their individual skill bonus. Additionally, The DM may want to consider the role of proficiency in these rules. Optionally, they may only allow a character to take a journey action if proficient in an indicated skills.</p>
 
-&lt;p&gt;Mixing in other rules such as slower hit point recovery, or failed death saves only clearing on a long rest, should be approached with caution with a system like this.&lt;/p&gt;
+<p><strong>Terrain Pace and DC Table</strong></p>
 
-&lt;p&gt;Additionally, consider adding more opportunities for players to interact with locals during travel. Perhaps a well to do farmer would allow the party to sleep in their comfortable barn with food or supplies, or the rules might drive the party to seek out more Inns.  The goal is to spice up journeys with more meaningful actions and choices, so encourage players to lean into that.&lt;/p&gt;
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Pace</th>
+      <th style="text-align: center">Speed</th>
+      <th style="text-align: center">Daily</th>
+      <th style="text-align: center">DC</th>
+      <th>Terrain</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fast</td>
+      <td style="text-align: center">4 mph</td>
+      <td style="text-align: center">32 mi</td>
+      <td style="text-align: center">-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Normal</td>
+      <td style="text-align: center">3 mph</td>
+      <td style="text-align: center">24 mi</td>
+      <td style="text-align: center">10</td>
+      <td>Grasslands, plains, wastes etc.</td>
+    </tr>
+    <tr>
+      <td>Slow</td>
+      <td style="text-align: center">2 mph</td>
+      <td style="text-align: center">16 mi</td>
+      <td style="text-align: center">15</td>
+      <td>Forests, hills, tundra, sand desert, etc.</td>
+    </tr>
+    <tr>
+      <td>Crawl</td>
+      <td style="text-align: center">1 mph</td>
+      <td style="text-align: center">8 mi</td>
+      <td style="text-align: center">20</td>
+      <td>Mountains, swamps, jungle, etc.</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+<h3 id="forage">Forage</h3>
 
-&lt;p&gt;These actions and rules imply a healthy variety of hazards and challenges during Journeys, but DMs should use their discretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and game in the moment. There are several wilderness encounter generators available on the DMs Guild, as well as sites like &lt;a href=&quot;https://www.dndspeak.com/&quot; target=&quot;_blank&quot;&gt;DnDSpeak.com&lt;/a&gt; that offer lots of encounter ideas and tables.  I will eventually post systems here for journey-based encounters as well.&lt;/p&gt;
-
-&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure. Last week I posted Perilous Journey’s Part 1, which turns travel into a series of encounters like any other dungeon. This week, I’ll look at defining some ways that party members can take meaningful actions during journeys. These Journey Actions provide gameplay for the travel experience, as well as create dependencies between members of the party.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Perilous Journeys in 5e Part 1</title><link href="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/" rel="alternate" type="text/html" title="Perilous Journeys in 5e Part 1" /><published>2021-07-13T08:26:00+00:00</published><updated>2021-07-13T08:26:00+00:00</updated><id>https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1</id><content type="html" xml:base="https://www.optionalrule.com/2021/07/13/perilous-journeys-in-5e-p1/">&lt;p&gt;Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.&lt;/p&gt;
-
-&lt;figure class=&quot;figure float-end ms-4 clearfix&quot;&gt;
+<figure class="figure float-end ms-4 clearfix">
     
-    &lt;img class=&quot;img-fluid figure-img &quot; src=&quot;/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg&quot; alt=&quot;A horse drawn wagon traveling along a snowy road in the woods. A woman in heavy robes drives the cart while a man with a bow walks ahead of her on the road.&quot; height=&quot;475&quot; /&gt;
+    <img class="img-fluid figure-img " src="/assets/img/kirk-langsea-wot-quarry-rox-02_475x475.jpg" alt="A road through lonely woods.  Two mean guard a horse drawn wagon at the front and rear with bow and spear." height="475" />
         
     
-        &lt;figcaption class=&quot;figure-caption text-center&quot;&gt;Image credit &lt;a href=&quot;https://www.artstation.com/artwork/ykeEaQ&quot; target=&quot;_blank&quot;&gt;Alex Wilton&lt;/a&gt;&lt;/figcaption&gt;
+        <figcaption class="figure-caption text-center">Image credit <a href="https://www.artstation.com/artwork/baBQrr" target="_blank">Kirk Langsea</a></figcaption>
     
-&lt;/figure&gt;
+</figure>
 
-&lt;p&gt;Many of these rules draw inspiration from the very fine Journeys mechanic from Adventures in Middle Earth, which is unfortunately no longer published.  While mechanically different in places the core themes remain, and I recommend reading those rules for further inspiration.&lt;/p&gt;
+<p>Foraging along the way for harvestable plants, or small game allows parties to eat hearty means.  Rather than keeping track of day-to-day rations in a group, this form of foraging gathers ingredients for a <strong>Hearty Meal</strong>.  As mentioned in, part 1 of Perilous Journeys, a hearty meal may allow characters to recover a single hit die from after sleeping for eight hours when unable to take a long rest.</p>
 
-&lt;h2 id=&quot;havens--rests&quot;&gt;Havens &amp;amp; Rests&lt;/h2&gt;
+<p>Characters harvesting use the rules in Chapter 5 of the PHB and roll <strong><em>Wisdom (Survival)</em></strong>, at +5 DC to the table presented there. Again, with this method assume the party has enough food to sustain themselves and recover exhaustion.  Instead, this type of foraging focuses on higher quality food to help recover Hit Die as per the rules above.</p>
 
-&lt;p&gt;Characters may only gain the benefits of a Long Rest at a Haven or Base Camp. Havens are &lt;strong&gt;secure&lt;/strong&gt; locations with strong &lt;strong&gt;shelter&lt;/strong&gt;. enough &lt;strong&gt;supplies&lt;/strong&gt; and room to rest and study. So manors, well-furnished houses, or Inn rooms rated Comfortable or above work well as Havens. While temporary camps, common rooms, or unsafe locations may allow sleep or recovery from exhaustion, they are not adequate to gain the benefits of a Long Rest. However, with the right supplies and skills, characters may be able to setup Base Camps in the field that allow a proper Long Rest. Meaning the core of game play on the road is managing your supplies, camps, and connecting with settlements in a region to travel in a way that allows you to either move freely or sustain operations, but not both.&lt;/p&gt;
+<p>Alternatively, someone foraging could opt to gather herbs or ingredients for potions instead. If so, have them roll <strong><em>Intelligence (Nature)</em></strong> at the same DC used for foraging above.  Instead of pounds of good food, they recover the equivalent gold piece worth of ingredients. See the <a href="/2021/01/24/summary-of-5e-alchemy-rules/">Summary of 5e Alchemy Rules</a> for options.</p>
 
-&lt;h3 id=&quot;base-camps&quot;&gt;Base Camps&lt;/h3&gt;
-&lt;p&gt;Base camps are temporary locations that can be secured and setup to allow for long rests. Setting up a base camp requires a full workday, proper equipment and supplies, and a DC 15 Wisdom (Survival) check. The check can be made by a single character on behalf of the party, or as a Group Check by the party.  (See Chapter 7 of the PHB for more on Group Checks).  A success means the location can be used to take long rests, or a failure means they may try again the next day.  Also, a DM should ask the group for one major feature of their Base Camp they can invoke during encounters or play.  This should be something that makes sense given the location and provides them flavor during play. Examples of features might be “Close to game”, “Protected on three sides by a stream”, “Hidden from sight”, “Shelter from storms”, “Warm (or cool)”, “Hard to reach”, or anything that adds interesting flavor.&lt;/p&gt;
+<h3 id="guide">Guide</h3>
+<p>Guiding a party involves combining your knowledge of an area’s geography, history, and conditions to choose a safe and sure route. At the start of a day’s journey, the guide decides the best route and rolls either an <strong><em>Intelligence (Nature)</em></strong> or <strong><em>Intelligence (History)</em></strong> check at the DC presented on the Terrain Pace table. This roll is made with disadvantage if the guide is unfamiliar with the terrain, has no maps, or has not gathered enough information prior to travel. On a failure, the chances of a random encounter or hazard are doubled for the travel period and the party has disadvantage on any stealth checks. Parties without a guide automatically fail this check.</p>
 
-&lt;p&gt;Without proper equipment, or in hostile territory like a dungeon, a base camp can only be setup by someone proficient in the Survival skill and the roll is made with disadvantage.&lt;/p&gt;
+<h3 id="scout">Scout</h3>
+<p>Scouting involves moving ahead of the party and using your keen senses spot danger or stealth to avoid it.  Scouts may always make active <strong><em>Wisdom (Perception)</em></strong> checks against hidden dangers.  Additionally, they can use their <strong><em>Dexterity (Stealth)</em></strong> skill to allow the entire party to avoid an encounter if the scout spotted it first. Parties staging an ambush on foes discovered by a scout have advantage on checks to catch them unaware.</p>
 
-&lt;p&gt;After a major disruptive event like an attack or disaster, have the party immediately make the same roll to maintain the camp.  On a failure, the camp or location is damaged or compromised in a way that means it must be rebuilt.&lt;/p&gt;
+<h3 id="ward">Ward</h3>
+<p>Warding uses prowess and awareness to protect the party from hazards and ambush. If a character in the party performing the warding action is not surprised during an ambush, the entire party gets advantage on their roll to avoid surprise.</p>
 
-&lt;h3 id=&quot;sleep-medical-care--hearty-meals&quot;&gt;Sleep, Medical Care, &amp;amp; Hearty Meals.&lt;/h3&gt;
-&lt;p&gt;Characters who rest for eight hours outside of a Haven or Basecamp may still gain a few benefits provided they have the right conditions, supplies and skills. Characters recover one level of exhaustion if able to properly sleep, meditate, or the equivalent for their race. Additionally, they may recover one spent Hit Die through either medical care, or a hearty meal. Medical care requires spending one use of a healing kit and succeeding on a DC 15 Wisdom (Medicine) check from someone proficient in Medicine.  A hearty meal can be prepared by someone proficient in either Survival or with Cook’s Utensils by passing a DC 15 Wisdom (Survival) check. Hearty meals also require fresh or high quality ingredients. This means rations, conjured food, or Goodberries will keep you fed but are not sufficient enough to recover a Hit Die.  Characters may only recover a maximum of one spent Hit Die outside of a long rest.&lt;/p&gt;
+<p>Also, when encountering a natural hazard that requires a Strength or Dexterity save, the Warder may roll <strong><em>Strength (Athletics)</em></strong> and allow a character up to 10 feet away to use that roll instead of their own save.  The warding character may allow a number of characters up to their proficiency bonus to use their roll in this way. Examples of the kinds of hazards might be falling, avoiding an avalanche, stepping into a pit or the like.</p>
 
-&lt;h2 id=&quot;travel-pace&quot;&gt;Travel Pace&lt;/h2&gt;
+<h2 id="spicing-things-up">Spicing Things Up</h2>
 
-&lt;p&gt;With limited opportunities for long rests, the cumulative effects of life on the road become part of the adventure. Speed of travel depends mostly on the type of terrain being traversed, conditions along the way, chosen path, as well as the fickle nature of the environment.  The normal movement pace depends on the type of terrain as referenced below.&lt;/p&gt;
+<p>These rules mix well with several other house rules. By themselves they are not any more deadly or gritty than any dungeon encounter. In fact, these rules only bring journey encounters in alignment with dungeons. You can think of the entire track of a journey like a node-based set of encounters in a dungeon.</p>
 
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Pace&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Speed&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Daily&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;DC&lt;/th&gt;
-      &lt;th&gt;Terrain&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fast&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;32 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Normal&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;24 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
-      &lt;td&gt;Grasslands, plains, wastes etc.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Slow&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;16 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;15&lt;/td&gt;
-      &lt;td&gt;Forests, hills, tundra, sand desert, etc.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Crawl&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1 mph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8 mi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
-      &lt;td&gt;Mountains, swamps, jungle, etc.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<p>Mixing in other rules such as slower hit point recovery, or failed death saves only clearing on a long rest, should be approached with caution with a system like this.</p>
 
-&lt;p&gt;Paved roads make terrain one level faster, with a maximum pace of Fast.  Wagons make terrain one level slower and cannot travel in terrain that would slow to more than a crawl.  Difficult terrain applies to these paces as normal in Chapter 8 of the PHB. Special movement types or mounts such as pegasus or griffon, are handled as appropriate with guidance from the DMG.&lt;/p&gt;
+<p>Additionally, consider adding more opportunities for players to interact with locals during travel. Perhaps a well to do farmer would allow the party to sleep in their comfortable barn with food or supplies, or the rules might drive the party to seek out more Inns.  The goal is to spice up journeys with more meaningful actions and choices, so encourage players to lean into that.</p>
 
-&lt;p&gt;&lt;strong&gt;None of these elements interfere with the Rangers Natural Explorer ability.&lt;/strong&gt; While pace effects the base movement speed, difficult terrain still applies.&lt;/p&gt;
+<h2 id="conclusion">Conclusion</h2>
 
-&lt;h2 id=&quot;conclusion-of-part-1&quot;&gt;Conclusion of Part 1&lt;/h2&gt;
+<p>These actions and rules imply a healthy variety of hazards and challenges during Journeys, but DMs should use their discretion. Not every journey need be a gripping adventure, and DMs may choose to pass several days at a time rather than going day by day. Choose the style that best fits the pacing and game in the moment. There are several wilderness encounter generators available on the DMs Guild, as well as sites like <a href="https://www.dndspeak.com/" target="_blank">DnDSpeak.com</a> that offer lots of encounter ideas and tables.  I will eventually post systems here for journey-based encounters as well.</p>
 
-&lt;p&gt;These rules are a simple way to turn what had been disjointed day by day travel into a continuous adventure about life on the road.  It provides ways for players to engage with the environment and connects planning and travel to the greater story as it unfolds through meaningful actions and outcomes.&lt;/p&gt;
-
-&lt;p&gt;When writing this I decided to split it into two parts.  This part deals with what is essentially, the pacing element of travel. In the next part I will talk about how the party can interact with each other the road, as well as some simple modifications to healing and recovery.  So keep an eye out for that next week.&lt;/p&gt;
-
-&lt;p&gt;Now get out there and run some great games.&lt;/p&gt;</content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html">Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery. This is primarily because the system focuses on encounters per day, which limits long form narrative game elements. First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Now get out there and run some great games.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure. Last week I posted Perilous Journey’s Part 1, which turns travel into a series of encounters like any other dungeon. This week, I’ll look at defining some ways that party members can take meaningful actions during journeys. These Journey Actions provide gameplay for the travel experience, as well as create dependencies between members of the party.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
