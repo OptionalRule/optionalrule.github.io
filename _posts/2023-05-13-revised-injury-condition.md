@@ -42,7 +42,7 @@ While you are subject to the Injured Condition, you experience the following eff
 
 - **Healing Injury with Magic.** One level of Injury may be removed by casting Lesser Restoration. Greater Restoration removes all levels of injury.
 
-- **Bring Out Your Dead.** Any injury remains with a character brought back to life through Revivify, Raise Dead, or Resurrection, with a maximum of Injury level 9. True Resurrection and Wish bring characters back to life with 0 levels of injury.
+- **Bring Out Your Dead.** Any injury remains with a character brought back to life through Revivify, or Raise Dead, with a maximum of Injury level 9. Resurrection, True Resurrection, and Wish bring characters back to life with 0 levels of injury.
 
 ### Conclusion
 

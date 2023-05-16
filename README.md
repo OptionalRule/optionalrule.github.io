@@ -42,6 +42,11 @@ On windows PowerShell
 
 #### Note on building from docker container
 
+Attach to the docker container by finding the container ID and using
+```
+> docker exec -it <container id> bash
+```
+
 I've had some problems with the latest version of the Jekyll docker image and had to build from an attached terminal inside the running containers.  If this is the case I just attach to the terminal and run.
 ```
 > bundle exec jekyll build --incremental --destination docs/
