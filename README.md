@@ -39,6 +39,10 @@ On windows PowerShell
 ```
 > docker run -v ${PWD}:/site bretfisher/jekyll jekyll build --incremental --destination docs/ .
 ```
+Via docker-compose
+```
+> docker-compose exec jekyll bundle exec jekyll build --incremental --destination docs/
+```
 
 #### Note on building from docker container
 
