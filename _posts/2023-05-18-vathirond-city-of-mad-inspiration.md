@@ -1,16 +1,24 @@
 ---
 layout: post
 title: Vathirond City of Wild Inspiration
-date: 2023-05-17 16:38
+date: 2023-05-18 08:38
 categories:
     - RPG Resources
     - Lore
 author: Scott Turnbull
 tags: []
+image: /assets/img/VathirondInspiration4.png
 description: Lore for the City of Vathirond in the Eberron setting.
 ---
 
 Situated amidst the low, rolling hills of the northern Dunvar Valley, the city of Vathirond was once a vibrant hub of creativity and artistry, where inspiration flowed as freely as the wind. The city, renowned across Khorvaire for its extravagant displays of artistic prowess, was known to entice artists and creators from all corners of the continent. They were drawn not only by the vibrancy of Vathirond's culture but also by the city's minor manifest zone to Xoriat, the plane of madness, which imbued the city with an aura of wild inspiration.
+
+{% include imageframe.html
+  figure_class="float-end ms-4 clearfix"
+  src="/assets/img/VathirondInspiration4.png"
+  alt="A once elegant but now devistated city of complex and stacked buildings."
+  width="480" height="480"
+ %}
 
 However, the Last War has left the city a shadow of its former self, its once-gleaming Crowns now scarred by conflict and its streets haunted by memories of a brighter past. The Mournlands loom ominously on the eastern horizon, a stark, ever-present reminder of the devastation wrought by the Last War. From the city's highest points, one can see the unnatural, eerie glow that seems to perpetually hang over the scarred landscape. This spectral vista casts a pall over Vathirond, a constant reminder of a cataclysm yet to be fully understood. The very sight of it evokes a mix of dread, sorrow, and grim fascination among the city's inhabitants. Its unnerving presence fuels a sense of urgency among the residents of Vathirond, a constant reminder of the fragility of peace and the cost of conflict. Yet, in a testament to the indomitable spirit of the city's people, the looming specter of the Mournlands also inspires a defiant determination. They see the Mournlands not just as a symbol of past horrors, but also as a challenge to be overcome, a puzzle to be solved, and a destiny they must prevent for their own city.
 
@@ -44,7 +52,15 @@ However, the crescendo of the Last War proved too overwhelming. The Crown's defe
 
 Today, the Crown of Sirens stands as a testament to the impermanence of glory and the inevitable cycle of creation and ruin. The ward, though a shadow of its former self, has not been completely abandoned. The ruins of once great townhouses serve as a shelter for those displaced by the war. Migrants from Cyre, the Dunvar Valley, and veterans who could not leave the battlefield behind have found solace within its broken walls. Their stories of loss and longing lend a new, melancholic melody to the ward, as poignant as the songs once sung on the opera stage.
 
-Amidst the rubble and remnants of a glorious past, the spirit of the Crown of Sirens lives on. Its people, though marred by tragedy, continue to find a rhythm in the silence, a song in their hearts, echoing the resilience and enduring melody of Vathirond itself.
+House Tharashk, utilizing their unique dragonmarked talents for finding people and things, offer their services to refugees and travelers desperately searching for lost loved ones or belongings in the blighted expanses of the Dunvar Valley and the enigmatic Mournlands. The enclave, while a stark reminder of the tragedies of the past, embodies a spirit of resilience and the enduring hope of reconnection.
+
+{% include imageframe.html
+  figure_class="float-end ms-4 clearfix"
+  src="/assets/img/vathirondpinspriation2.png"
+  alt="A once elegant but now devistated city of complex and stacked buildings."
+  width="480" height="480"
+  caption="The Crown of Crafts"
+ %}
 
 ### Crown of Crafts: From Artistry to Industry
 
@@ -56,8 +72,6 @@ However, the Last War brought change - the vibrant strokes of paint and chisel s
 
 The Crown of Crafts, once under House Cannith's influential sway, found new leadership in independent crafters and salvage gangs following the house's abandonment during the final years of the Last War. House Cannith's attempts to return and reassert its authority meets strong resistance, as these crafters and gangs who filled the void fiercely defend their hard-earned independence. This struggle has created a cauldron of tension, as the Crown teeters between acknowledging House Cannith's legacy and embracing their newfound autonomy.
 
-The Crown of Crafts stands as a symbol of Vathirond's survival and resilience. Its transformation, though marked by hardship, serves as a testament to the city's adaptability and its people's unyielding spirit. In the hammering and the grit, they find a new form of artistry - the art of endurance and revival.
-
 ### Crown of Sphinxes: Watchful Sentries and Hidden Enigmas
 
 The Crown of Sphinxes was once a lyrical sanctuary, home to riddlers and poets who spun mysteries into verse and shrouded wisdom in enigma. Its labyrinthine streets held a mystique that whispered of cryptic puzzles and enticing riddles. However, the grandeur of this district was not immune to the ravages of the Last War. In the strategic turmoil, the Moonfox Brigade, soldiers from House Deneith under the command of the Brelish King, claimed this Crown as their military base.
@@ -68,7 +82,17 @@ Access to the Crown of Sphinxes is strictly regulated. Its streets are patrolled
 
 While the Crown of Sphinxes has lost some of its whimsical charm, it stands today as a symbol of resilience and adaptation, a testament to Vathirond's spirit in the face of adversity. Its layered history has left a rich tapestry of tales, a myriad of riddles yet to be solved.
 
-- **Crown of Jests:** Bars, taverns, and burlesque shows used to line the streets, but the echoes of laughter have long since faded.
+### The Crown of Jests: Echos of Laugher & Whispers of Pain
+
+The Crown of Jests once rang with peals of laughter and the clamor of revelry, its streets a lively theater of camaraderie and mirth. Where bars, taverns, and burlesque shows were once the heart of Vathirond's nightlife, an air of strained cheerfulness now prevails. Laughter and music still flow from its many establishments, but they serve more as a balm for the weary souls seeking an escape from the city's woes than genuine festivity.
+
+Despite the trials of war and its aftermath, the Crown of Jests sees the most traffic among all the Crowns. It offers a welcome respite for residents and visitors alike, a haven where they can briefly forget their troubles amidst the lively taverns, grand townhouses, and street performances.
+
+In this bustling district, House Ghallanda stands as a beacon of hospitality and resilience. Its enclave thrives amidst the revelry and recovery, the house members taking pride in their steadfast support of Vathirond throughout the hardships. The members of House Ghallanda are considered the unofficial caretakers of the Crown of Jests, their establishments serving as a haven for the city's weary.
+
+House Orien, on the other hand, holds a dwindling presence around the lightning rail line. Once a thriving nexus connecting the far reaches of Khorvaire, the rail line now ends abruptly at the outskirts of Vathirond, cut off by the hauntingly mysterious wall of mist that is the Mournland. Yet even in its decline, the outpost stands as a testament to a more connected era, a time before war and calamity shattered the unity of the continent. 
+
+While the Crown of Jests may have lost some of its former vibrancy, its spirit remains undeterred. It serves as a testament to Vathirond's enduring will to find joy amidst sorrow, to laugh in the face of despair, and to retain a spark of hope amidst the ruins.
 
 ### The Gutters: Resilience Amid Ruin
 
@@ -82,6 +106,13 @@ Many of the refugees from Cyre found a haven in The Gutters following The Mourni
 
 Now, The Gutters are a testament to the human will to endure. Amidst the battered and patched structures, in the narrow alleyways teeming with life, you find stories of courage, resilience, and the undying hope for a better tomorrow. Even in the bleakest of places, the spirit of Vathirond — indomitable and ever enduring — continues to shine.
 
+{% include imageframe.html
+  figure_class="float-end ms-4 clearfix"
+  src="/assets/img/VathirondWarSalvage.png"
+  alt="A human and dwarf woman resting amid piles of salvage."
+  width="480" height="480"
+  caption="Salvagers Resting"
+ %}
 
 ## Dunvar Valley: From Fertile Lands to Haunted Battlegrounds
 
@@ -121,14 +152,12 @@ Today, Vathirond is considered a cursed city by House Phiarlan. The scars of the
 
 In the wake of the Last War, new powers have risen within Vathirond:
 
-- The **Moonfox Brigade**, a group of House Deneith mercenaries, maintain security in the lands surrounding Vathirond and guard against threats from The Mournland. Answering directly to the crown of Breeland, there is considerable tension between the Moonfox Brigade, and the Firehawk Legion that patrols the city.
-  
-- The **Goonswarm**, the largest salvage gang in Vathirond, controls most of the mudfields and migrant worker camps south of the city. Their ruthless and cunning leader, Evalin MacTanni, keeps them in line and has turned the Dunvar Valley into her own treasure trove.
+**The Moonfox Brigade**, a formidable assembly of House Deneith mercenaries, operates as the bulwark between Vathirond and the ominous threats emanating from The Mournland. Commissioned directly by the Brelish crown, the Brigade's presence and authority reverberate across the surrounding lands, instilling a sense of guarded stability. Adorned in uniforms bearing their emblem, a fox silhouetted by a silver moon, these disciplined soldiers uphold their duty with unwavering commitment. Yet, beneath the surface of this professional alliance, an undercurrent of tension exists between the Moonfox Brigade, patrolling the rural outskirts, and the Firehawk Legion, who maintain order within the city's boundaries. This friction not only reflects conflicting methodologies and jurisdictions, but also the broader political complexities that engulf Vathirond.
 
-- The **Odd Fellows**, Vathirond's traditional Thieves Guild, has become an almost shadow government within the city. They control smuggling, gambling, and the city's black market, and have been clashing with the Goonswarm over territory and "salvaged" goods.
+**Narani Laseur**, the enigmatic figurehead of Vathirond, ascended to her position through a veneer of populism that belied her insatiable hunger for power and wealth. Possessing a shrewd ability to capitalize on the city's dire straits, she turned the tragedies of war into her own profiteering enterprise, harvesting the spoils from the devastated Dunvar Valley and the skeletal remains of The Mournlands. Such voracious exploitation bred deep fissures within the social fabric of Vathirond, exacerbating the divide between the haves and have-nots. Underpinning her reign, the **Firehawk Legion**, a cadre of Darguun Goblinoid mercenaries, serve as the city's ostensible protectors. Yet, beneath the surface, they are the clawed arm of Laseur's cabal, bending the rule of law to the will of their matron, enforcing her decrees without question, and ensuring her tainted prosperity thrives amidst the ruins.
 
-- The **Spiral Dancers**, a sect of druids, have found a home in the twisted Thornwood north of the city. There are rumors of a Warforged druid among them, a figure as enigmatic as the grove they inhabit.
+**The Goonswarm**, Vathirond's most formidable salvage gang, casts an imposing shadow over the battered expanse of the Dunvar Valley. Their territory spans the sprawling mudfields and makeshift camps that house scores of migrant workers, many refugees from The Mournlands or displaced from the ravages of the Last War. At the helm of this formidable operation is the indomitable Evalin MacTanni, a figure equally feared and respected. Her unyielding ruthlessness and sharp cunning transformed the Goonswarm from a ragtag assembly of scavengers into a well-oiled salvage machine. MacTanni's charisma has turned the Dunvar Valley into a kingdom of salvage, extracting wealth from the wreckage, remnants, and refuse of battles past. The scars of war have become her treasure trove, promising riches to those desperate enough to risk life and limb amidst the rusted debris and lingering dangers that permeate the region.
 
-- The **Korranberg Institute for Mournlands Research** (KIMR), a collaborative academic initiative, has been granted the ruins of the Lonteu Opera House in the Crown of Sirens. Their mission: to study the Mournlands and perhaps uncover how to heal the scars of the Last War.
+**The Odd Fellows** exert their influence in the labyrinthine alleys and shadowy corners of Vathirond. This once-disorganized Thieves Guild, composed of neighborhood gangs, banded together in the wake of the city's devastation during the Last War, forging order from chaos. Under their flag, smuggling routes thrived, clandestine gambling dens buzzed, and a vibrant black market emerged from the ashes. The Odd Fellows have become an intricate part of Vathirond's post-war fabric, operating as a shadow government within the city, navigating its underworld with unparalleled savvy. However, this rise to power has sparked tension and conflict, particularly with the Goonswarm. These two formidable entities now stand at odds, clashing over the invaluable territory and the highly lucrative market of "salvaged" goods that the ruined city and its surrounding landscapes provide. The Odd Fellows, masters of stealth and subterfuge, are always prepared to play the long game, their moves as unpredictable as the city's uncertain future.
 
-Vathirond, while a shadow of its former glory, remains a city of resilience and potential. Its people strive to reclaim their city's vibrant past while navigating the complexities of their present. The spirit of Vathirond, like the art it was known for, persists amidst the ruins - a testament to the enduring power of creativity, even in the face of devastation.
+**The Korranberg Institute for Mournlands Research (KIMR)** is a beacon of hope amidst the ruins of Vathirond. Occupying the remains of the once grand Lonteu Opera House in the Crown of Sirens, KIMR is a huddle of academic rigor and unwavering determination. Comprised of intrepid scholars, skilled wizards, and a cadre of brave souls unafraid to probe the enigmatic Mournlands, they have transformed this erstwhile cultural edifice into a nerve center of knowledge and discovery. Amidst the grandeur of fallen arches and dilapidated galleries, they pursue a mission that's as daunting as it is crucial: to understand the Mournlands, to peel back the layers of mystery shrouding it, and, ultimately, to unearth ways to heal the scars left by the Last War. The scholars of KIMR, though working in the face of unimaginable devastation and under the shadow of the Mournlands, persist, their pursuits lighting the path towards potential restoration and redemption for Vathirond and perhaps all of Khorvaire.
