@@ -22,6 +22,11 @@ setup.  To run the site locally just:
 ```
 The site is configured to run at localhost:4000
 
+To run the development site with drafts published run the following command.
+```
+> docker-compose exec jekyll bundle exec jekyll serve --drafts
+```
+
 ### Website Build Folder
 
 Github pages only offers me options for / (/'root') or /doc directories for the site source.  Jekyll defaults to _site for the subdir.  Either always build to /doc or use /_site normally for dev (and properly ignore it) and build to /doc to publish.
