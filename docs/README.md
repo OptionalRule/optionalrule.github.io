@@ -46,7 +46,7 @@ On windows PowerShell
 ```
 Via docker-compose
 ```
-> docker-compose exec jekyll bundle exec jekyll build --incremental --destination docs/
+> docker-compose exec jekyll bundle exec jekyll build --incremental --destination docs/ .
 ```
 
 #### Note on building from docker container

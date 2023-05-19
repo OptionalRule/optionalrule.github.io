@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vathirond City of Wild Inspiration
-date: 2023-05-18 08:38
+date: 2023-05-19 12:38
 categories:
     - RPG Resources
     - Lore
@@ -11,6 +11,10 @@ image: /assets/img/VathirondInspiration4.png
 description: Lore for the City of Vathirond in the Eberron setting.
 ---
 
+
+<div class="text-bg-light mb-3 p-3 lead">As a Dungeon Master, there's nothing quite as enticing as the prospect of molding a lesser-known city into a stage for unforgettable adventures. In 2019, I found myself drawn to the city of Vathirond, tucked away in far eastern Breeland, on the fringes of Eberron's haunting Mournlands. With the Brey River's southern bank underfoot and the specter of the Gray Mist as a backdrop, Vathirond was an irresistible canvas for my homebrew campaign. Yet, as fate would have it, our journey through this enigmatic city was cut short due to the COVID pandemic. Now, after a couple of years, I've dusted off my notes and decided to share them with the world. Whether you're a seasoned Dungeon Master or a curious reader, I hope you find these glimpses into Vathirond - the city on the edge of the Mournlands - as fascinating as I did while crafting them.
+</div>
+
 Situated amidst the low, rolling hills of the northern Dunvar Valley, the city of Vathirond was once a vibrant hub of creativity and artistry, where inspiration flowed as freely as the wind. The city, renowned across Khorvaire for its extravagant displays of artistic prowess, was known to entice artists and creators from all corners of the continent. They were drawn not only by the vibrancy of Vathirond's culture but also by the city's minor manifest zone to Xoriat, the plane of madness, which imbued the city with an aura of wild inspiration.
 
 {% include imageframe.html
@@ -18,6 +22,7 @@ Situated amidst the low, rolling hills of the northern Dunvar Valley, the city o
   src="/assets/img/VathirondInspiration4.png"
   alt="A once elegant but now devistated city of complex and stacked buildings."
   width="480" height="480"
+  caption="The Crown of Masks"
  %}
 
 However, the Last War has left the city a shadow of its former self, its once-gleaming Crowns now scarred by conflict and its streets haunted by memories of a brighter past. The Mournlands loom ominously on the eastern horizon, a stark, ever-present reminder of the devastation wrought by the Last War. From the city's highest points, one can see the unnatural, eerie glow that seems to perpetually hang over the scarred landscape. This spectral vista casts a pall over Vathirond, a constant reminder of a cataclysm yet to be fully understood. The very sight of it evokes a mix of dread, sorrow, and grim fascination among the city's inhabitants. Its unnerving presence fuels a sense of urgency among the residents of Vathirond, a constant reminder of the fragility of peace and the cost of conflict. Yet, in a testament to the indomitable spirit of the city's people, the looming specter of the Mournlands also inspires a defiant determination. They see the Mournlands not just as a symbol of past horrors, but also as a challenge to be overcome, a puzzle to be solved, and a destiny they must prevent for their own city.
@@ -96,7 +101,7 @@ While the Crown of Jests may have lost some of its former vibrancy, its spirit r
 
 ### The Gutters: Resilience Amid Ruin
 
-Nestled between the towering walls of Vathirond's Crowns, away from the majestic hilltops, lie "The Gutters." This labyrinth of alleyways and improvised dwellings sprawls across the lower depressions of the city, a stark contrast to the high walls and grand structures above.
+Nestled between the walls of Vathirond's Crowns, away from the majestic hilltops, lie "The Gutters." This labyrinth of alleyways and improvised dwellings sprawls across the lower depressions of the city, a stark contrast to the high walls and grand structures above.
 
 The Gutters were once home to the laborers and workers whose toil and sweat fueled the life and vibrancy of the Crowns. These hard-working individuals lived and thrived in the shadow of the hilltops, unshielded by the protective walls that enveloped the Crowns. During the Last War, this vulnerability was exploited, and the Gutters bore the brunt of destruction, time and time again. Buildings were razed, families were uprooted, and the streets echoed with the toll of loss.
 
@@ -122,7 +127,7 @@ As one of the most hotly contested frontlines, the Dunvar Valley was transformed
 
 Today, the Dunvar Valley is a treacherous expanse, a haunting vista of war's devastating aftermath. The skeletal remains of arcane constructs, broken weapons, and discarded munitions litter the land like grim monuments to the lives lost and the peace that was shattered. This battlefield-turned-graveyard is eerily silent, the quiet only broken by the occasional whistle of the wind or the distant cry of a scavenging bird.
 
-Despite its grim nature, the valley has become a source of livelihood for many of Vathirond's residents. Salvage crews, hardened by their grim work and driven by necessity, comb through the wreckage, risking their lives to recover anything of value. These individuals, often refugees or those unable to find other work, brave the hidden dangers of the valley - unstable magic, booby traps, rogue constructs, and more. Their bitter rivalries, often spilling over into violent confrontations, echo the conflicts of the past.
+Despite its grim nature, the valley has become a source of livelihood for many of Vathirond's residents. Salvage crews, hardened by their grim work and driven by necessity, comb through the wreckage, risking their lives to recover anything of value. These individuals, often refugees or those unable to find other work, brave the hidden dangers of the valley - unstable magic, booby traps, rogue constructs, and more. Bitter rivalries between salvage crews often spilling over into violent confrontations, echo the conflicts of the past.
 
 The Dunvar Valley serves as a harsh lesson and a bleak memorial to the Last War. Its shattered landscape is a testament to the destructive force of conflict, a warning of the price of ambition and aggression. Yet, amidst the ruins and desolation, the resilience of its people persists. Despite the hardships, they continue to find ways to survive and even hope for a brighter future. In this, the spirit of the Dunvar Valley, much like Vathirond itself, remains unbroken.
 
@@ -161,3 +166,9 @@ In the wake of the Last War, new powers have risen within Vathirond:
 **The Odd Fellows** exert their influence in the labyrinthine alleys and shadowy corners of Vathirond. This once-disorganized Thieves Guild, composed of neighborhood gangs, banded together in the wake of the city's devastation during the Last War, forging order from chaos. Under their flag, smuggling routes thrived, clandestine gambling dens buzzed, and a vibrant black market emerged from the ashes. The Odd Fellows have become an intricate part of Vathirond's post-war fabric, operating as a shadow government within the city, navigating its underworld with unparalleled savvy. However, this rise to power has sparked tension and conflict, particularly with the Goonswarm. These two formidable entities now stand at odds, clashing over the invaluable territory and the highly lucrative market of "salvaged" goods that the ruined city and its surrounding landscapes provide. The Odd Fellows, masters of stealth and subterfuge, are always prepared to play the long game, their moves as unpredictable as the city's uncertain future.
 
 **The Korranberg Institute for Mournlands Research (KIMR)** is a beacon of hope amidst the ruins of Vathirond. Occupying the remains of the once grand Lonteu Opera House in the Crown of Sirens, KIMR is a huddle of academic rigor and unwavering determination. Comprised of intrepid scholars, skilled wizards, and a cadre of brave souls unafraid to probe the enigmatic Mournlands, they have transformed this erstwhile cultural edifice into a nerve center of knowledge and discovery. Amidst the grandeur of fallen arches and dilapidated galleries, they pursue a mission that's as daunting as it is crucial: to understand the Mournlands, to peel back the layers of mystery shrouding it, and, ultimately, to unearth ways to heal the scars left by the Last War. The scholars of KIMR, though working in the face of unimaginable devastation and under the shadow of the Mournlands, persist, their pursuits lighting the path towards potential restoration and redemption for Vathirond and perhaps all of Khorvaire.
+
+<div class="text-bg-light mb-3 p-3 lead">
+And there you have it – the bones and sinews of a city teetering on the brink, waiting to rise from the ashes or be forever consumed. Should your curiosity be piqued by these broad strokes of Vathirond, I'd be more than willing to delve into the labyrinth of adventures and encounters that were conceived within its Crowns. It's a testament to the city's captivating allure that I find myself yearning to return to its scarred yet resilient streets in any future explorations of Eberron.
+
+Your thoughts and queries are the lifeblood that fuels this chronicle. Don't hesitate to reach out via Twitter if Vathirond has caught your imagination or if you're grappling with burning questions. Your engagement breathes life into these words. Here's to shared adventures and stories yet untold. Until next time, Cheers!
+</div>

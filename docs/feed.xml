@@ -1,4 +1,166 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-18T16:22:20+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Experience Matters - The benefits of XP in 5th edition</title><link href="https://www.optionalrule.com/2023/05/17/the-benefits-of-xp-in-5th-edition/" rel="alternate" type="text/html" title="Experience Matters - The benefits of XP in 5th edition" /><published>2023-05-17T11:00:00+00:00</published><updated>2023-05-17T11:00:00+00:00</updated><id>https://www.optionalrule.com/2023/05/17/the-benefits-of-xp-in-5th-edition</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/17/the-benefits-of-xp-in-5th-edition/"><![CDATA[<p>In the diverse world of Tabletop Role-Playing Games (TTRPGs), the progression system you choose can significantly influence the way your campaign unfolds. In 5th edition Dungeons &amp; Dragons (D&amp;D), two popular methods of character progression exist: Experience Points (XP) and Milestone Advancement. While Milestone Advancement has its merits, I am here to make a case for XP, an often overlooked, but immensely beneficial system.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-19T17:34:40+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Vathirond City of Wild Inspiration</title><link href="https://www.optionalrule.com/2023/05/19/vathirond-city-of-mad-inspiration/" rel="alternate" type="text/html" title="Vathirond City of Wild Inspiration" /><published>2023-05-19T12:38:00+00:00</published><updated>2023-05-19T12:38:00+00:00</updated><id>https://www.optionalrule.com/2023/05/19/vathirond-city-of-mad-inspiration</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/19/vathirond-city-of-mad-inspiration/"><![CDATA[<div class="text-bg-light mb-3 p-3 lead">As a Dungeon Master, there's nothing quite as enticing as the prospect of molding a lesser-known city into a stage for unforgettable adventures. In 2019, I found myself drawn to the city of Vathirond, tucked away in far eastern Breeland, on the fringes of Eberron's haunting Mournlands. With the Brey River's southern bank underfoot and the specter of the Gray Mist as a backdrop, Vathirond was an irresistible canvas for my homebrew campaign. Yet, as fate would have it, our journey through this enigmatic city was cut short due to the COVID pandemic. Now, after a couple of years, I've dusted off my notes and decided to share them with the world. Whether you're a seasoned Dungeon Master or a curious reader, I hope you find these glimpses into Vathirond - the city on the edge of the Mournlands - as fascinating as I did while crafting them.
+</div>
+
+<p>Situated amidst the low, rolling hills of the northern Dunvar Valley, the city of Vathirond was once a vibrant hub of creativity and artistry, where inspiration flowed as freely as the wind. The city, renowned across Khorvaire for its extravagant displays of artistic prowess, was known to entice artists and creators from all corners of the continent. They were drawn not only by the vibrancy of Vathirond’s culture but also by the city’s minor manifest zone to Xoriat, the plane of madness, which imbued the city with an aura of wild inspiration.</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/VathirondInspiration4.png" alt="A once elegant but now devistated city of complex and stacked buildings." height="480" />
+        
+    
+        <figcaption class="figure-caption text-center">The Crown of Masks</figcaption>
+    
+</figure>
+
+<p>However, the Last War has left the city a shadow of its former self, its once-gleaming Crowns now scarred by conflict and its streets haunted by memories of a brighter past. The Mournlands loom ominously on the eastern horizon, a stark, ever-present reminder of the devastation wrought by the Last War. From the city’s highest points, one can see the unnatural, eerie glow that seems to perpetually hang over the scarred landscape. This spectral vista casts a pall over Vathirond, a constant reminder of a cataclysm yet to be fully understood. The very sight of it evokes a mix of dread, sorrow, and grim fascination among the city’s inhabitants. Its unnerving presence fuels a sense of urgency among the residents of Vathirond, a constant reminder of the fragility of peace and the cost of conflict. Yet, in a testament to the indomitable spirit of the city’s people, the looming specter of the Mournlands also inspires a defiant determination. They see the Mournlands not just as a symbol of past horrors, but also as a challenge to be overcome, a puzzle to be solved, and a destiny they must prevent for their own city.</p>
+
+<h2 id="the-shattered-crowns">The Shattered Crowns</h2>
+
+<p>Nestled within the city of Vathirond, six semi-autonomous districts – known as the Crowns – stand prominently, each perched atop its own hill and fortified by formidable walls. This unique arrangement provided strategic defense throughout the ravages of The Last War, each Crown bearing the brunt of the conflict and experiencing a different outcome. Each Crown was originally dedicated to a particular artistic discipline, fostering a unique culture and identity that has persisted amidst turmoil. These districts are more than just geographic divisions; they represent the diverse tapestry of Vathirond’s spirit, embodying the resilience, creativity, and individuality of the city’s past and present. The Crowns serve as unique reminders of the city’s artistic heritage, even as they evolve in response to the aftermath of war.</p>
+
+<h3 id="crown-of-masks-applause-and-back-stage-deals">Crown of Masks: Applause and Back Stage Deals</h3>
+
+<p>The stage for stories, the canvas for compelling characters, and the sounding board for stirring soliloquies – the Crown of Masks has been the heart of theater and drama in Vathirond. Despite the ruinous touch of the war, it has retained a faded grandeur. Its buildings are reminiscent of an era of creativity and artistry, their embellished facades narrating tales of yesteryears. This Crown was fortunate to have survived the worst of the Last War, maintaining a semblance of its former glory.</p>
+
+<p>The ward now serves as the militaristic nucleus of Vathirond’s fragmented government. It’s a command hub for military logistics, but also a political stage that hosts heated debates on the city’s future. It is from here that the populist Narani Laseur has polarized the city’s sentiment over refugee resettlement and rebuilding rights.</p>
+
+<p>Laseur’s controversial administration is backed by a private security force, the Firehawk Legion. These goblinoid mercenaries from Darguun are a jarring sight against the backdrop of dramatic mosaics and grand theater facades. However, their presence is a stark reminder of the city’s current reality - a stage where the drama of survival unfolds daily.</p>
+
+<p>The Crown of Masks, once a hub of artistic endeavor, now mirrors the city’s resilience amidst adversity. It’s a poignant testament to the spirit of Vathirond - a city holding onto its identity, its memory of past glory, even as it faces an uncertain future.</p>
+
+<h3 id="crown-of-satyrs-twists-turns-and-triumph">Crown of Satyrs: Twists, Turns, and Triumph</h3>
+
+<p>Among the dance of shadows and the glow of the lantern light, the Crown of Satyrs spins a tale of grace in the face of ruin. The streets here twist and turn like a dancer mid-routine, unraveling onto expansive squares that once pulsated with the rhythm of impromptu performances. This Crown’s spirit proved as nimble as its inhabitants, retaining a significant portion of its population through the throes of The Last War. Community bonds, stronger than the aged stones of their homes, anchor the people in a warm embrace of shared experience and stubborn resilience.</p>
+
+<p>Here, House Phiarlan stands as an enduring symbol of the district’s tenacity, operating from a smaller yet still magnificent corner of their once sprawling complex. Their performers, the city’s mesmerizing heartbeats, still captivate with their tales of sorrow and survival. This Crown, however, does more than dance. It watches. From the city’s underbelly to the swelling tide of refugees, from the ghostly echoes of The Mournlands to the subtle shifts in power within Vathirond, nothing escapes the watchful eyes of the Satyrs.</p>
+
+<h3 id="crown-of-sirens-echoes-of-a-melodious-past">Crown of Sirens: Echoes of a Melodious Past</h3>
+
+<p>The Crown of Sirens, once the jewel of Vathirond’s vibrant music scene, now wears a cloak of desolation. The last notes of harmony faded away during the tumult of the Last War, replaced by the dissonant chords of silence and decay.</p>
+
+<p>In its prime, the Crown of Sirens echoed with melodies that transcended language and culture. It was home to the Lonteu Opera House, a grand stage where performers from across Khorvaire gathered to serenade audiences with their songs. Music was the lifeblood of the ward; it flowed from its concert halls, meandered through its streets, and suffused the air with a symphony of shared emotions - joy, sorrow, love, and longing.  Heavily damaged during the ware, the Opera House is not the headquarters for the Korranberg Institute for Mournlands Research (KIMR).</p>
+
+<p>However, the crescendo of the Last War proved too overwhelming. The Crown’s defenses were breached, and the once-thriving ward bore the brunt of relentless assaults. Its grand architecture was marred by the scars of war, its harmonious rhythm disrupted by the cacophony of destruction.</p>
+
+<p>Today, the Crown of Sirens stands as a testament to the impermanence of glory and the inevitable cycle of creation and ruin. The ward, though a shadow of its former self, has not been completely abandoned. The ruins of once great townhouses serve as a shelter for those displaced by the war. Migrants from Cyre, the Dunvar Valley, and veterans who could not leave the battlefield behind have found solace within its broken walls. Their stories of loss and longing lend a new, melancholic melody to the ward, as poignant as the songs once sung on the opera stage.</p>
+
+<p>House Tharashk, utilizing their unique dragonmarked talents for finding people and things, offer their services to refugees and travelers desperately searching for lost loved ones or belongings in the blighted expanses of the Dunvar Valley and the enigmatic Mournlands. The enclave, while a stark reminder of the tragedies of the past, embodies a spirit of resilience and the enduring hope of reconnection.</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/vathirondpinspriation2.png" alt="A once elegant but now devistated city of complex and stacked buildings." height="480" />
+        
+    
+        <figcaption class="figure-caption text-center">The Crown of Crafts</figcaption>
+    
+</figure>
+
+<h3 id="crown-of-crafts-from-artistry-to-industry">Crown of Crafts: From Artistry to Industry</h3>
+
+<p>Once a flourishing hub of creative expression, the Crown of Crafts served as the canvas for Vathirond’s sculptors and painters. Its streets were lined with grand architecture, adorned with vibrant murals and intricate statues that reflected the heart and soul of its citizens. Now, this Crown bears the telltale signs of war’s toll and the relentless march of industry.</p>
+
+<p>The Crown of Crafts, in its heyday, was a living testament to the artistic spirit of Vathirond. Every street corner boasted an artisan’s shop, and the air was suffused with the scent of fresh paint, chiseled stone, and the underlying sense of creation. The once-colorful facades were a riot of artistic expression, every mural telling a story, each statue capturing a moment frozen in time.</p>
+
+<p>However, the Last War brought change - the vibrant strokes of paint and chisel strokes gave way to the clang of metal and the grind of machinery. The Crown, once a sanctuary for artists, was transformed into a massive forge to fuel the war effort and, in its aftermath, the city’s reconstruction.</p>
+
+<p>The Crown of Crafts, once under House Cannith’s influential sway, found new leadership in independent crafters and salvage gangs following the house’s abandonment during the final years of the Last War. House Cannith’s attempts to return and reassert its authority meets strong resistance, as these crafters and gangs who filled the void fiercely defend their hard-earned independence. This struggle has created a cauldron of tension, as the Crown teeters between acknowledging House Cannith’s legacy and embracing their newfound autonomy.</p>
+
+<h3 id="crown-of-sphinxes-watchful-sentries-and-hidden-enigmas">Crown of Sphinxes: Watchful Sentries and Hidden Enigmas</h3>
+
+<p>The Crown of Sphinxes was once a lyrical sanctuary, home to riddlers and poets who spun mysteries into verse and shrouded wisdom in enigma. Its labyrinthine streets held a mystique that whispered of cryptic puzzles and enticing riddles. However, the grandeur of this district was not immune to the ravages of the Last War. In the strategic turmoil, the Moonfox Brigade, soldiers from House Deneith under the command of the Brelish King, claimed this Crown as their military base.</p>
+
+<p>This militarization has stripped the Crown of Sphinxes of some of its old-world charm. The dazzling and enigmatic architecture has been refitted to serve practical, utilitarian purposes, yet echoes of its former glory persist. Faded etchings, inscriptions of old poems, riddles, and sage wisdom, still adorn the worn stone, serving as a poignant reminder of the Crown’s vibrant past.</p>
+
+<p>Access to the Crown of Sphinxes is strictly regulated. Its streets are patrolled day and night by the ever-watchful eyes of the Moonfox Brigade, maintaining a tight rein on security and order. In this austere environment, House Kundarak maintains its presence, a stalwart amidst the change.</p>
+
+<p>While the Crown of Sphinxes has lost some of its whimsical charm, it stands today as a symbol of resilience and adaptation, a testament to Vathirond’s spirit in the face of adversity. Its layered history has left a rich tapestry of tales, a myriad of riddles yet to be solved.</p>
+
+<h3 id="the-crown-of-jests-echos-of-laugher--whispers-of-pain">The Crown of Jests: Echos of Laugher &amp; Whispers of Pain</h3>
+
+<p>The Crown of Jests once rang with peals of laughter and the clamor of revelry, its streets a lively theater of camaraderie and mirth. Where bars, taverns, and burlesque shows were once the heart of Vathirond’s nightlife, an air of strained cheerfulness now prevails. Laughter and music still flow from its many establishments, but they serve more as a balm for the weary souls seeking an escape from the city’s woes than genuine festivity.</p>
+
+<p>Despite the trials of war and its aftermath, the Crown of Jests sees the most traffic among all the Crowns. It offers a welcome respite for residents and visitors alike, a haven where they can briefly forget their troubles amidst the lively taverns, grand townhouses, and street performances.</p>
+
+<p>In this bustling district, House Ghallanda stands as a beacon of hospitality and resilience. Its enclave thrives amidst the revelry and recovery, the house members taking pride in their steadfast support of Vathirond throughout the hardships. The members of House Ghallanda are considered the unofficial caretakers of the Crown of Jests, their establishments serving as a haven for the city’s weary.</p>
+
+<p>House Orien, on the other hand, holds a dwindling presence around the lightning rail line. Once a thriving nexus connecting the far reaches of Khorvaire, the rail line now ends abruptly at the outskirts of Vathirond, cut off by the hauntingly mysterious wall of mist that is the Mournland. Yet even in its decline, the outpost stands as a testament to a more connected era, a time before war and calamity shattered the unity of the continent.</p>
+
+<p>While the Crown of Jests may have lost some of its former vibrancy, its spirit remains undeterred. It serves as a testament to Vathirond’s enduring will to find joy amidst sorrow, to laugh in the face of despair, and to retain a spark of hope amidst the ruins.</p>
+
+<h3 id="the-gutters-resilience-amid-ruin">The Gutters: Resilience Amid Ruin</h3>
+
+<p>Nestled between the walls of Vathirond’s Crowns, away from the majestic hilltops, lie “The Gutters.” This labyrinth of alleyways and improvised dwellings sprawls across the lower depressions of the city, a stark contrast to the high walls and grand structures above.</p>
+
+<p>The Gutters were once home to the laborers and workers whose toil and sweat fueled the life and vibrancy of the Crowns. These hard-working individuals lived and thrived in the shadow of the hilltops, unshielded by the protective walls that enveloped the Crowns. During the Last War, this vulnerability was exploited, and the Gutters bore the brunt of destruction, time and time again. Buildings were razed, families were uprooted, and the streets echoed with the toll of loss.</p>
+
+<p>In the war’s aftermath, however, The Gutters did not stay silent for long. The area quickly became a refuge for the displaced, the downtrodden, and those holding onto the memories of homes lost to the war. Its winding streets and damaged buildings filled up with makeshift homes, erected by refugees and the city’s poorest citizens. Each structure, no matter how frail or makeshift, stands as a monument to human resilience.</p>
+
+<p>Many of the refugees from Cyre found a haven in The Gutters following The Mourning. Struggling with the memory of their fallen kingdom and unable to move on, they have built a life among the ruins, infusing the area with the spirit of their lost homeland. Despite the hardship, or perhaps because of it, a strong sense of community binds the residents of The Gutters. This unity, borne out of shared suffering and hope, has turned The Gutters into a beating heart of survival within Vathirond.</p>
+
+<p>Now, The Gutters are a testament to the human will to endure. Amidst the battered and patched structures, in the narrow alleyways teeming with life, you find stories of courage, resilience, and the undying hope for a better tomorrow. Even in the bleakest of places, the spirit of Vathirond — indomitable and ever enduring — continues to shine.</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/VathirondWarSalvage.png" alt="A human and dwarf woman resting amid piles of salvage." height="480" />
+        
+    
+        <figcaption class="figure-caption text-center">Salvagers Resting</figcaption>
+    
+</figure>
+
+<h2 id="dunvar-valley-from-fertile-lands-to-haunted-battlegrounds">Dunvar Valley: From Fertile Lands to Haunted Battlegrounds</h2>
+
+<p>The Dunvar Valley, extending hundreds of miles southeast of Vathirond, is a poignant reminder of the cost of war. Once a lush, verdant gem, it was known for its fertile fields and abundant harvests. The valley was a symbol of prosperity, a testament to the bounty of Khorvaire’s heartlands. But the Last War changed everything.</p>
+
+<p>As one of the most hotly contested frontlines, the Dunvar Valley was transformed into a brutal battleground. The soil, once nurturing crops and life, was stained with the blood of soldiers, churned under the weight of war machines, and scarred by the devastating spells of battle mages. The once peaceful landscape was marred by trenches and fortifications, its tranquility shattered by the relentless drumbeat of conflict.</p>
+
+<p>Today, the Dunvar Valley is a treacherous expanse, a haunting vista of war’s devastating aftermath. The skeletal remains of arcane constructs, broken weapons, and discarded munitions litter the land like grim monuments to the lives lost and the peace that was shattered. This battlefield-turned-graveyard is eerily silent, the quiet only broken by the occasional whistle of the wind or the distant cry of a scavenging bird.</p>
+
+<p>Despite its grim nature, the valley has become a source of livelihood for many of Vathirond’s residents. Salvage crews, hardened by their grim work and driven by necessity, comb through the wreckage, risking their lives to recover anything of value. These individuals, often refugees or those unable to find other work, brave the hidden dangers of the valley - unstable magic, booby traps, rogue constructs, and more. Bitter rivalries between salvage crews often spilling over into violent confrontations, echo the conflicts of the past.</p>
+
+<p>The Dunvar Valley serves as a harsh lesson and a bleak memorial to the Last War. Its shattered landscape is a testament to the destructive force of conflict, a warning of the price of ambition and aggression. Yet, amidst the ruins and desolation, the resilience of its people persists. Despite the hardships, they continue to find ways to survive and even hope for a brighter future. In this, the spirit of the Dunvar Valley, much like Vathirond itself, remains unbroken.</p>
+
+<h2 id="faith-in-vathirond-a-beacon-amid-ruin">Faith in Vathirond: A Beacon Amid Ruin</h2>
+
+<p>Religion and faith play a crucial role in the daily lives of Vathirond’s citizens. The city, though shadowed by devastation and strife, remains a place of profound spiritual diversity and resilience. It is in their faith that many find the strength to face the trials of each day, the courage to endure, and the hope to rebuild.</p>
+
+<p>Vathirond boasts numerous temples dedicated to the Sovereign Host, a testament to the enduring popularity of Khorvaire’s principal religion. These grand structures, though weathered by war and time, continue to be places of comfort, guidance, and community. Worship of the Silver Flame, owing to Vathirond’s proximity to Thrane, is also strongly represented. Despite the damage suffered during the Last War, the city’s largest cathedral remains a shining beacon of faith and charity, a source of healing and solace for the weary and the wounded.</p>
+
+<p>In the wake of the refugee influx following the Last War, the city’s spiritual landscape has become even more diverse. Small shrines devoted to lesser deities have sprouted throughout Vathirond, each a testament to the steadfast faith of its followers. The blend of cultures and traditions brought by the refugees has added to the spiritual tapestry of the city, creating a mosaic of faiths living side by side.</p>
+
+<p>Adding to the city’s spiritual depth are the whispered legends of ancient Dhakaani runes and secret shrines to The Dark Six. These rumors speak of hidden places deep beneath the city, mystical relics from a bygone era. While few can confirm the truth of these tales, they continue to fuel the city’s folklore, piquing the interest of adventurers and scholars alike. Some fear the influence of The Dark Six, while others are drawn to the promise of ancient knowledge and power.</p>
+
+<p>Religion in Vathirond is not just a matter of personal belief, but a cornerstone of community identity and solidarity. Amid the ruins of their city, the people of Vathirond cling to their faith, drawing strength from their deities and from one another. Their unbroken spirit, reflected in their enduring religious practices, lights the way towards a hopeful future.</p>
+
+<h2 id="the-shadow-of-house-phiarlan">The Shadow of House Phiarlan</h2>
+
+<p>House Phiarlan’s schism, which gave rise to House Thuranni, was a wound inflicted on the very heart of Vathirond. With the house’s close ties to the arts, Vathirond was a stronghold for Phiarlan, its vibrant culture a camouflage for the house’s covert activities. The schism turned the city into a battlefield overnight, the conflict fought not on open fields but in shadowed corners and behind closed doors.</p>
+
+<p>This silent, deadly night is now referred to as the “Moonlight Murders” among Vathirond’s citizens. It was a ballet of death as spies and assassins moved like wraiths through the city, leaving a trail of bodies in their wake. The next morning, Vathirond woke to an unspoken horror, death having visited its homes, taverns, brothels, and bathhouses alike.</p>
+
+<p>Despite the horrific events of that night, many believe that not all of House Phiarlan’s secrets were laid bare. Whispers of lost dragonmarked artifacts or vaults of stolen knowlege persist, hidden throughout the city, lying in wait to be discovered by the worthy or the fortunate. These artifacts are said to hold immense power, their recovery a matter of pride and prestige within House Phiarlan.</p>
+
+<p>Today, Vathirond is considered a cursed city by House Phiarlan. The scars of the schism run deep, a constant reminder of the house’s internal strife and the lives lost. Despite this, a small outpost remains in the city, its members performing their duties with a bittersweet mix of resolve and resignation. Sent there as a form of punishment, these Phiarlan members continue their work, providing much-needed cheer through their artistic endeavors and keeping an eye on the developments at the edge of the Mournland. The presence of House Phiarlan, albeit nominal, is a testament to Vathirond’s importance and the house’s resilience in the face of adversity.</p>
+
+<h2 id="factions-in-the-fray">Factions in the Fray</h2>
+
+<p>In the wake of the Last War, new powers have risen within Vathirond:</p>
+
+<p><strong>The Moonfox Brigade</strong>, a formidable assembly of House Deneith mercenaries, operates as the bulwark between Vathirond and the ominous threats emanating from The Mournland. Commissioned directly by the Brelish crown, the Brigade’s presence and authority reverberate across the surrounding lands, instilling a sense of guarded stability. Adorned in uniforms bearing their emblem, a fox silhouetted by a silver moon, these disciplined soldiers uphold their duty with unwavering commitment. Yet, beneath the surface of this professional alliance, an undercurrent of tension exists between the Moonfox Brigade, patrolling the rural outskirts, and the Firehawk Legion, who maintain order within the city’s boundaries. This friction not only reflects conflicting methodologies and jurisdictions, but also the broader political complexities that engulf Vathirond.</p>
+
+<p><strong>Narani Laseur</strong>, the enigmatic figurehead of Vathirond, ascended to her position through a veneer of populism that belied her insatiable hunger for power and wealth. Possessing a shrewd ability to capitalize on the city’s dire straits, she turned the tragedies of war into her own profiteering enterprise, harvesting the spoils from the devastated Dunvar Valley and the skeletal remains of The Mournlands. Such voracious exploitation bred deep fissures within the social fabric of Vathirond, exacerbating the divide between the haves and have-nots. Underpinning her reign, the <strong>Firehawk Legion</strong>, a cadre of Darguun Goblinoid mercenaries, serve as the city’s ostensible protectors. Yet, beneath the surface, they are the clawed arm of Laseur’s cabal, bending the rule of law to the will of their matron, enforcing her decrees without question, and ensuring her tainted prosperity thrives amidst the ruins.</p>
+
+<p><strong>The Goonswarm</strong>, Vathirond’s most formidable salvage gang, casts an imposing shadow over the battered expanse of the Dunvar Valley. Their territory spans the sprawling mudfields and makeshift camps that house scores of migrant workers, many refugees from The Mournlands or displaced from the ravages of the Last War. At the helm of this formidable operation is the indomitable Evalin MacTanni, a figure equally feared and respected. Her unyielding ruthlessness and sharp cunning transformed the Goonswarm from a ragtag assembly of scavengers into a well-oiled salvage machine. MacTanni’s charisma has turned the Dunvar Valley into a kingdom of salvage, extracting wealth from the wreckage, remnants, and refuse of battles past. The scars of war have become her treasure trove, promising riches to those desperate enough to risk life and limb amidst the rusted debris and lingering dangers that permeate the region.</p>
+
+<p><strong>The Odd Fellows</strong> exert their influence in the labyrinthine alleys and shadowy corners of Vathirond. This once-disorganized Thieves Guild, composed of neighborhood gangs, banded together in the wake of the city’s devastation during the Last War, forging order from chaos. Under their flag, smuggling routes thrived, clandestine gambling dens buzzed, and a vibrant black market emerged from the ashes. The Odd Fellows have become an intricate part of Vathirond’s post-war fabric, operating as a shadow government within the city, navigating its underworld with unparalleled savvy. However, this rise to power has sparked tension and conflict, particularly with the Goonswarm. These two formidable entities now stand at odds, clashing over the invaluable territory and the highly lucrative market of “salvaged” goods that the ruined city and its surrounding landscapes provide. The Odd Fellows, masters of stealth and subterfuge, are always prepared to play the long game, their moves as unpredictable as the city’s uncertain future.</p>
+
+<p><strong>The Korranberg Institute for Mournlands Research (KIMR)</strong> is a beacon of hope amidst the ruins of Vathirond. Occupying the remains of the once grand Lonteu Opera House in the Crown of Sirens, KIMR is a huddle of academic rigor and unwavering determination. Comprised of intrepid scholars, skilled wizards, and a cadre of brave souls unafraid to probe the enigmatic Mournlands, they have transformed this erstwhile cultural edifice into a nerve center of knowledge and discovery. Amidst the grandeur of fallen arches and dilapidated galleries, they pursue a mission that’s as daunting as it is crucial: to understand the Mournlands, to peel back the layers of mystery shrouding it, and, ultimately, to unearth ways to heal the scars left by the Last War. The scholars of KIMR, though working in the face of unimaginable devastation and under the shadow of the Mournlands, persist, their pursuits lighting the path towards potential restoration and redemption for Vathirond and perhaps all of Khorvaire.</p>
+
+<div class="text-bg-light mb-3 p-3 lead">
+And there you have it – the bones and sinews of a city teetering on the brink, waiting to rise from the ashes or be forever consumed. Should your curiosity be piqued by these broad strokes of Vathirond, I'd be more than willing to delve into the labyrinth of adventures and encounters that were conceived within its Crowns. It's a testament to the city's captivating allure that I find myself yearning to return to its scarred yet resilient streets in any future explorations of Eberron.
+
+Your thoughts and queries are the lifeblood that fuels this chronicle. Don't hesitate to reach out via Twitter if Vathirond has caught your imagination or if you're grappling with burning questions. Your engagement breathes life into these words. Here's to shared adventures and stories yet untold. Until next time, Cheers!
+</div>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><category term="Lore" /><summary type="html"><![CDATA[Lore for the City of Vathirond in the Eberron setting.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/VathirondInspiration4.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/VathirondInspiration4.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Experience Matters - The benefits of XP in 5th edition</title><link href="https://www.optionalrule.com/2023/05/17/the-benefits-of-xp-in-5th-edition/" rel="alternate" type="text/html" title="Experience Matters - The benefits of XP in 5th edition" /><published>2023-05-17T11:00:00+00:00</published><updated>2023-05-17T11:00:00+00:00</updated><id>https://www.optionalrule.com/2023/05/17/the-benefits-of-xp-in-5th-edition</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/17/the-benefits-of-xp-in-5th-edition/"><![CDATA[<p>In the diverse world of Tabletop Role-Playing Games (TTRPGs), the progression system you choose can significantly influence the way your campaign unfolds. In 5th edition Dungeons &amp; Dragons (D&amp;D), two popular methods of character progression exist: Experience Points (XP) and Milestone Advancement. While Milestone Advancement has its merits, I am here to make a case for XP, an often overlooked, but immensely beneficial system.</p>
 
 <p>In a previous post I discussed the <a href="/2021/02/25/the-zen-of-awarding-experience-for-roleplaying/">Zen of Awarding Experience for Roleplaying</a> which demonstrates an easy method for awarding non-combat experience.  DMs can apply this to exploration or any activity beyond killing creatures. Chapters 8 and 3 of the 5e DMG also provide some guidance on this as well.  I had a recent exchange online that helped me summarize what I see the forgotten benefits of using XP are.  I thought I’d share them here.</p>
 
@@ -376,120 +538,4 @@ Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal 
     
         <figcaption class="figure-caption text-center">Image Credit, Wikipedia.</figcaption>
     
-</figure>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A mini-game to simulate darts for your TTRPG play group.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sampling Random Ability Score Generation</title><link href="https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores/" rel="alternate" type="text/html" title="Sampling Random Ability Score Generation" /><published>2021-08-12T07:30:00+00:00</published><updated>2021-08-12T07:30:00+00:00</updated><id>https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores</id><content type="html" xml:base="https://www.optionalrule.com/2021/08/12/sampling-random-ability-scores/"><![CDATA[<p>Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons &amp; Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn’t come out until Xanathar’s for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.</p>
-
-<p>Like everything in 5e, it all comes down to what you want out of it.  So, I thought it would be fun to talk about why random ability scores can be fun and what games can expect from using different methods.</p>
-
-<h2 id="why-random-generation">Why Random Generation?</h2>
-<p>People can find fun in random ability scores for a few reasons. First, the feeling of discovering a character and playing within the constraints of random abilities can be exciting.  Second, players can feel this creates a more ‘realistic’ individual that has to deal with the hand nature as dealt them. Third, it can move the baseline of stats to create a more gritty or epic character, depending on the method selected. These can be fun, and I particularly enjoy the discovery and constraints element of rolling abilities. However, be aware that some method can create wild disparities between characters, which can ruin the fun in some groups.</p>
-
-<p><strong>If you’re thinking about using randomly generated ability scores in your game, I have one piece of advice.</strong> Know the difference between something you like other people doing, and what those other people actually like to do. That means that the group should not only buy into something like this but be excited about it. There’s a pitfall for DMs who get things into their head that they like to see the players do but ends up being no fun for the players. So, make sure to pick an option the whole party is going to enjoy when considering something like random ability score generation.</p>
-
-<h2 id="common-methods-of-random-generation">Common Methods of Random Generation</h2>
-
-<p>There are several methods used to generate random abilities.  In most cases it creates a set of 6 scores the player can arrange how they like. Some versions that let players only swap a limited number of scores. A few hardcore rulesets even go so far as to keep them in the order rolled. As with anything, no way is better than another, it all comes down to what you want out if it. The most common methods are:</p>
-
-<ul>
-  <li>3d6 rolled for each ability. (3d6)</li>
-  <li>3d6 rolled 7 times and keep the highest 6. (3d6 7x-k6)</li>
-  <li>3d6, reroll any 1s. (3d6 r1)</li>
-  <li>4d6 keep the highest 3. (4d6 h3)</li>
-  <li>2d6+6 for each ability. (2d6+6)</li>
-</ul>
-
-<h3 id="break-down-of-ranges">Break Down of Ranges</h3>
-
-<p>The first thing to understand about any random ability score generation method is the range and probability. How high and low a range of rolls can be, versus how likely any individual roll is likely to be.  Different methods produce different results and a <a href="https://anydice.com/program/237f0" target="_blank">Distribution Curve</a> graph of the most common methods is presented below.</p>
-
-<p>Common rules DMs use is to reroll abilities below a particular level, let players shift points around, or rerolling if you are below a particular score value. This kind of defeats the purpose of random abilities to me, but these are the base percentages you’ll get from different methods.</p>
-
-<figure class="figure clearfix">
-    
-    <img class="img-fluid figure-img " src="/assets/img/abilityscore_generation_chart_1419x826.jpg" alt="line graph featuring the probabilities of different random generation methods" height="475" />
-        
-    
-        <figcaption class="figure-caption text-center">Chart data compiled from <a href="https://anydice.com/program/237f0" target="_blank">Any Dice</a></figcaption>
-    
-</figure>
-
-<h3 id="the-most-common-results">The Most Common Results</h3>
-
-<p>While distributions curves are great, what people want to know is what the most likely set of abilities from a particular method are.  Again, since this is random it will vary but the table below presents the ideal set of stats produced from different generation methods.  Note I am presenting the Standard Array as a comparison, and that it essentially corresponds to the method for 3d6 rerolling 1s.  If a DM were just interested in shifting ability scores up or down, they could select one of these as a new standard array and avoid the random swings.  As should be apparent, these methods can produce very different types of characters.</p>
-
-<table class="table table-striped table-hover">
-  <thead>
-    <tr>
-      <th>Method</th>
-      <th> </th>
-      <th> </th>
-      <th> </th>
-      <th> </th>
-      <th> </th>
-      <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://anydice.com/program/237f7">2d6+6</a></td>
-      <td>16</td>
-      <td>15</td>
-      <td>14</td>
-      <td>12</td>
-      <td>11</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td><a href="https://anydice.com/program/237f6">4d6 Drop lowest</a></td>
-      <td>16</td>
-      <td>14</td>
-      <td>13</td>
-      <td>12</td>
-      <td>10</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>Standard Array</td>
-      <td>15</td>
-      <td>14</td>
-      <td>13</td>
-      <td>12</td>
-      <td>10</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td><a href="https://anydice.com/program/237f4">3d6 reroll 1s</a></td>
-      <td>15</td>
-      <td>14</td>
-      <td>13</td>
-      <td>12</td>
-      <td>10</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td><a href="https://anydice.com/program/237f5">3d6 7 times, drop lowest</a></td>
-      <td>14</td>
-      <td>13</td>
-      <td>12</td>
-      <td>11</td>
-      <td>9</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td><a href="https://anydice.com/program/237f3">3d6</a></td>
-      <td>14</td>
-      <td>12</td>
-      <td>11</td>
-      <td>10</td>
-      <td>9</td>
-      <td>7</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="the-bounded-accuracy-problem">The Bounded Accuracy Problem</h2>
-<p>One thing to note about ability score generation is that 5e was built heavily on the concept of ‘bounded accuracy’. That is to say that the game design intends to tightly control the number of bonuses and their progression throughout the game.  So, giving characters higher or lower abilities could slightly impact gameplay difficulty. This is likely not going to be a massive issue, but a group should take this into consideration, particularly the DM when balancing encounters.  Additionally, ending up with drastically different primary ability bonuses can be a let down in a group, and the bounded accuracy problem may feel larger than it is.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-<p>There is no superior method when generating ability score, it all depends on what you want.  This not only includes the ability ranges, but the mystery of what a character will be during character creation.  Generally, I prefer standard array or point buy as a DM, but I’ll allow a party to select random scores if they ALL want to and agree.  I’ve had some fun with this in various games, notably having played a healer who rolled minimum strength, playing them as having a neuromuscular disability.  In all honesty, the striving to be heroic in the face of a setback was a lot of fun for me as it taps into my own emotions and experiences having a disability. I wouldn’t want to do that in every game however, but it is fun now and again.  Regardless, it’s good to know what the likely outcomes will be when choosing something like this, so I hope this post helped shed some light onto that.</p>
-
-<p>Now get out there and run some great games.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html"><![CDATA[Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons &amp; Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn’t come out until Xanathar’s for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/abilityscore_generation_chart_1419x826.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/abilityscore_generation_chart_1419x826.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</figure>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A mini-game to simulate darts for your TTRPG play group.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
