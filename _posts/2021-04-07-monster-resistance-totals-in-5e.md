@@ -5,6 +5,7 @@ layout: post
 description: A breakdown and analysis of monster resistances across all the 5th edition monster statblocks.
 categories:
   - Analysis
+  - Monsters
 
 ---
 Taking down monsters in 5th Edition Dungeons & Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn&#8217;t just a matter of damage, as many monsters will also have Weaknesses (**W**), Resistances (**R**), or Immunities (**I**). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM. 

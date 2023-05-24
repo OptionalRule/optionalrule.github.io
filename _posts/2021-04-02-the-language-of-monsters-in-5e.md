@@ -5,6 +5,7 @@ layout: post
 description: A count and analysis of languages listed for monsters in 5th edition statblocks.
 categories:
   - Analysis
+  - Monsters
 
 ---
 Many monsters in 5th Edition Dungeons & Dragons list a language in their stat block. Aside from its ability to hurl insults in combat, sharing a language can open options for lore or negtiation during play. But which languages to most monsters speak and understand? This isn&#8217;t an easy question to answer because DnD does not provide their monster stat blocks in an easily parsable format. So I found <a href="https://www.reddit.com/r/UnearthedArcana/comments/8zvr6s/the_great_dd5e_monster_spreadsheet/" target="_blank" rel="noreferrer noopener">The Great DnD 5e Monster Spreadsheet</a> online, cleaned up the data and began to parse out some of the the answers.
