@@ -26,7 +26,7 @@ Though they lack the refined psionic prowess of a typical Mind Flayer, these cre
 
 It's rumored that these creatures, despite their volatile and chaotic behavior, hold a profound hatred for their fully-formed Illithid brethren, and tales speak of them rallying other Underdark denizens to their cause. In rare instances, they have been known to form aberrant 'colonies' of their own, bringing together various misfit and outcast creatures of the Underdark under their warped rule.
 
-In the end, the Mind Reaver is a tragic figure. Born of a process meant to create perfection, they are instead left as imperfect beings in a world that shuns them. Yet it's this imperfection, this deviation from the norm, that makes them a force to be reckoned with. One should be wary when traversing the dark recesses of the Underdark, for you never know when you might cross paths with a Misshapen Mind Flayer.
+In the end, the Mind Reaver is a tragic figure. Born of a process meant to create perfection, they are instead left as imperfect beings in a world that shuns them. Yet it's this imperfection, this deviation from the norm, that makes them a force to be reckoned with. One should be wary when traversing the dark recesses of the Underdark, for you never know when you might cross paths with a Mind Reaver.
 
 {% include monsters/mind_reaver.md %}
 
