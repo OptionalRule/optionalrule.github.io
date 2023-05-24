@@ -1,4 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-19T17:38:13+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Vathirond City of Wild Inspiration</title><link href="https://www.optionalrule.com/2023/05/19/vathirond-city-of-wild-inspiration/" rel="alternate" type="text/html" title="Vathirond City of Wild Inspiration" /><published>2023-05-19T12:38:00+00:00</published><updated>2023-05-19T12:38:00+00:00</updated><id>https://www.optionalrule.com/2023/05/19/vathirond-city-of-wild-inspiration</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/19/vathirond-city-of-wild-inspiration/"><![CDATA[<div class="text-bg-light mb-3 p-3 lead">As a Dungeon Master, there's nothing quite as enticing as the prospect of molding a lesser-known city into a stage for unforgettable adventures. In 2019, I found myself drawn to the city of Vathirond, tucked away in far eastern Breeland, on the fringes of Eberron's haunting Mournlands. With the Brey River's southern bank underfoot and the specter of the Gray Mist as a backdrop, Vathirond was an irresistible canvas for my homebrew campaign. Yet, as fate would have it, our journey through this enigmatic city was cut short due to the COVID pandemic. Now, after a couple of years, I've dusted off my notes and decided to share them with the world. Whether you're a seasoned Dungeon Master or a curious reader, I hope you find these glimpses into Vathirond - the city on the edge of the Mournlands - as fascinating as I did while crafting them.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-24T15:39:28+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Malevolent Monsters - The Mind Reaver</title><link href="https://www.optionalrule.com/2023/05/24/monster-mind-reaver/" rel="alternate" type="text/html" title="Malevolent Monsters - The Mind Reaver" /><published>2023-05-24T08:43:00+00:00</published><updated>2023-05-24T08:43:00+00:00</updated><id>https://www.optionalrule.com/2023/05/24/monster-mind-reaver</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/24/monster-mind-reaver/"><![CDATA[<p>In the thrilling realm of Dungeons &amp; Dragons, where weI’ve crafted epic battles and monstrous foes, I’m thrilled to introduce my latest creation, the Mind Reaver. This new entity is a nightmarish variation of the classic Mind Flayer. It’s not just a twisted iteration but an entirely different beast that thrives in chaos and malice, unlike its lawful evil kin. The Mind Reaver promises to surprise, challenge, and instill a sense of dread in even the most seasoned adventurers. As I bring this unpredictable creature into our stories, I aim to add another layer of depth to our collective adventures. So get ready, fellow Dungeon Masters and players, as we dive headlong into the chaotic and terrifying world of the Mind Reaver.</p>
+
+<h2 id="the-mind-reaver">The Mind Reaver</h2>
+
+<p>The process of creating a Mind Flayer is a precise and delicate one, carefully conducted by Illithid elders in their dark and hidden laboratories beneath the earth. However, when this procedure is tainted by volatile energies, the resulting creature is a grotesque and chaotic aberration known as a Mind Reaver.</p>
+
+<p>Unlike their fully formed brethren, Mind Reavers bear the hideous marks of their flawed creation. Their bodies are twisted and warped, with elongated limbs, a disproportionate number of writhing tentacles, and skin mottled with pulsating patches of unnatural color. Their eyes, usually two in number, can vary in placement and quantity, giving them an unsettling gaze that seems to penetrate into one’s very soul.</p>
+
+<h3 id="lore">Lore</h3>
+
+<p>Mind Reavers are an anathema within Illithid society. Their chaotic tendencies make them unpredictable and dangerously volatile, both to enemies and their own kind. As such, they are typically exiled upon their creation, sent to wander the Underdark or any place far from the organized colonies of the Mind Flayers.</p>
+
+<p>Though they lack the refined psionic prowess of a typical Mind Flayer, these creatures are not to be underestimated. Their chaotic nature fuels a raw, unrestrained psychic power, making them erratic but potent foes. This, coupled with their innate bitterness towards a world that has rejected them, makes them exceedingly dangerous.</p>
+
+<p>It’s rumored that these creatures, despite their volatile and chaotic behavior, hold a profound hatred for their fully-formed Illithid brethren, and tales speak of them rallying other Underdark denizens to their cause. In rare instances, they have been known to form aberrant ‘colonies’ of their own, bringing together various misfit and outcast creatures of the Underdark under their warped rule.</p>
+
+<p>In the end, the Mind Reaver is a tragic figure. Born of a process meant to create perfection, they are instead left as imperfect beings in a world that shuns them. Yet it’s this imperfection, this deviation from the norm, that makes them a force to be reckoned with. One should be wary when traversing the dark recesses of the Underdark, for you never know when you might cross paths with a Misshapen Mind Flayer.</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/monsters/mind_reaver_500x500.jpg" alt="A twisted creature with tenticles." height="500" />
+        
+    
+        <figcaption class="figure-caption text-center">A Mind Reaver</figcaption>
+    
+</figure>
+
+<blockquote class="stat-block wide">
+  <h2 id="mind-reaver">Mind Reaver</h2>
+  <p><em>Medium aberration, chaotic evil</em></p>
+
+  <hr />
+
+  <ul>
+    <li><strong>Armor Class</strong> 14 (natural armor)</li>
+    <li><strong>Hit Points</strong> 45 (6d8 + 18)</li>
+    <li><strong>Speed</strong> 30 ft.</li>
+  </ul>
+
+  <hr />
+
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: center">STR</th>
+        <th style="text-align: center">DEX</th>
+        <th style="text-align: center">CON</th>
+        <th style="text-align: center">INT</th>
+        <th style="text-align: center">WIS</th>
+        <th style="text-align: center">CHA</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center">11 (+0)</td>
+        <td style="text-align: center">12 (+1)</td>
+        <td style="text-align: center">16 (+3)</td>
+        <td style="text-align: center">16 (+3)</td>
+        <td style="text-align: center">14 (+2)</td>
+        <td style="text-align: center">14 (+2)</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr />
+
+  <ul>
+    <li><strong>Saving Throws</strong> Int +5, Wis +4, Cha +4</li>
+    <li><strong>Skills</strong> Perception +4, Deception +4, Arcana +5</li>
+    <li><strong>Damage Resistances</strong> psychic</li>
+    <li><strong>Senses</strong> darkvision 120 ft., passive Perception 14</li>
+    <li><strong>Languages</strong> Deep Speech, Undercommon, telepathy 120 ft.</li>
+    <li><strong>Challenge</strong> 4 (1,100 XP)</li>
+  </ul>
+
+  <h3 id="abilities">Abilities</h3>
+  <p><strong>Innate Spellcasting (Psionics).</strong> The Mind Flayer’s innate spellcasting ability is Intelligence (spell save DC 13). It can innately cast the following spells, requiring no components:</p>
+
+  <p>At will: <em>detect thoughts, levitate</em></p>
+
+  <p>1/day each: <em>cause fear, sleep</em></p>
+
+  <p><strong>Magic Resistance.</strong> The Mind Reaver Hatchling has advantage on saving throws against spells and other magical effects.</p>
+  <h3 id="actions">Actions</h3>
+  <p><strong>Tentacles.</strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 13) and must succeed on a DC 13 Intelligence saving throw or be stunned until this grapple ends. The Mind Reaver Hatchling gains temporary hit points equal to the damage done to any creature that fails the Intelligence saving throw for being stunned.</p>
+
+  <p><strong>Psychic Scream (Recharge 6).</strong> The Mind Reaver Hatchling emits psychic energy in a 30-foot radius. Each creature in that area must succeed on a DC 13 Intelligence saving throw or take 16 (3d8 + 3) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
+</blockquote>
+
+<h2 id="using--mind-reavers">Using  Mind Reavers</h2>
+<p>The Mind Reaver, with its Challenge Rating (CR) of 5, serves as an ideal boss monster for low-level parties or as a group threat for more advanced players. It embodies the very essence of malevolent chaos, destruction, resentment, and bitter betrayal, providing a gripping and intense encounter in any campaign. Whether it’s the primary antagonist in a dark story arc or a surprise menace lurking in the depths of your dungeon, the Mind Reaver promises an unforgettable encounter.</p>
+
+<h3 id="adventure-seed-ideas">Adventure Seed Ideas</h3>
+
+<ol>
+  <li>
+    <p><strong>City of Nightmares</strong>: City leaders are experiencing sudden, violent episodes at night, instigating chaos, with a Mind Reaver secretly causing it all from the sewers. The party must brave the depths, confront the Mind Reaver, and halt the spreading pandemonium.</p>
+  </li>
+  <li>
+    <p><strong>The Lost Expedition</strong>: An adventuring party went missing in a series of mysterious caves. Their last message spoke of strange creatures with tentacles and psychic powers.</p>
+  </li>
+  <li>
+    <p><strong>Cult of Chaos</strong>: A cult has been attempting to summon a Mind Reaver to spread chaos and destruction in the region.</p>
+  </li>
+  <li>
+    <p><strong>The Mind-locked Prison</strong>: The heroes are imprisoned in a psychic jail by a Mind Reaver and must use their wits to escape.</p>
+  </li>
+  <li>
+    <p><strong>The Mad Mage</strong>: A mage driven to chaos and destruction by a Mind Reaver’s psychic influence threatens a peaceful village.</p>
+  </li>
+  <li>
+    <p><strong>Raiders from the Underdark</strong>: Mind Reavers lead a Drow Outcast raiding party from the Underdark, wreaking havoc in the countryside.</p>
+  </li>
+  <li>
+    <p><strong>The Bitter Betrayal</strong>: A once-trusted ally turns out to be controlled by a Mind Reaver disguised as servant, plotting the downfall of the local government.</p>
+  </li>
+  <li>
+    <p><strong>The Abyssal Portal</strong>: A Mind Reaver plans to open a portal to the Abyss, aiming to let chaotic entities into the realm.</p>
+  </li>
+  <li>
+    <p><strong>Revenge of the Mind Slaves</strong>: People who were once enthralled by a Mind Reaver are now free and seeking vengeance, but they fear the creature’s return. Can the party heal and integrate the former captives and end the thread of the Mind Reaver;s return.</p>
+  </li>
+  <li>
+    <p><strong>The Relic of Chaos</strong>: An ancient artifact that holds the essence of a powerful Mind Reaver has been stolen, threatening to unleash the beast if not recovered in time.</p>
+  </li>
+</ol>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><category term="Monsters" /><summary type="html"><![CDATA[The Mind Reaver, a chaos driven twisted creature from the Underdark.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/monsters/mind_reaver_500x500.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/monsters/mind_reaver_500x500.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Vathirond City of Wild Inspiration</title><link href="https://www.optionalrule.com/2023/05/19/vathirond-city-of-wild-inspiration/" rel="alternate" type="text/html" title="Vathirond City of Wild Inspiration" /><published>2023-05-19T12:38:00+00:00</published><updated>2023-05-19T12:38:00+00:00</updated><id>https://www.optionalrule.com/2023/05/19/vathirond-city-of-wild-inspiration</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/19/vathirond-city-of-wild-inspiration/"><![CDATA[<div class="text-bg-light mb-3 p-3 lead">As a Dungeon Master, there's nothing quite as enticing as the prospect of molding a lesser-known city into a stage for unforgettable adventures. In 2019, I found myself drawn to the city of Vathirond, tucked away in far eastern Breeland, on the fringes of Eberron's haunting Mournlands. With the Brey River's southern bank underfoot and the specter of the Gray Mist as a backdrop, Vathirond was an irresistible canvas for my homebrew campaign. Yet, as fate would have it, our journey through this enigmatic city was cut short due to the COVID pandemic. Now, after a couple of years, I've dusted off my notes and decided to share them with the world. Whether you're a seasoned Dungeon Master or a curious reader, I hope you find these glimpses into Vathirond - the city on the edge of the Mournlands - as fascinating as I did while crafting them.
 </div>
 
 <p>Situated amidst the low, rolling hills of the northern Dunvar Valley, the city of Vathirond was once a vibrant hub of creativity and artistry, where inspiration flowed as freely as the wind. The city, renowned across Khorvaire for its extravagant displays of artistic prowess, was known to entice artists and creators from all corners of the continent. They were drawn not only by the vibrancy of Vathirond’s culture but also by the city’s minor manifest zone to Xoriat, the plane of madness, which imbued the city with an aura of wild inspiration.</p>
@@ -497,45 +622,4 @@ Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal 
 
 <p>The rest of the errata presents a number of welcome clarifications that will surely enhance our gameplay, but it’s the alignment reference removal that truly feels long overdue. This change not only reflects a more modern and inclusive approach to fantasy gaming, but it also respects the creative autonomy of players and DMs alike.</p>
 
-<p>Here’s to the continued evolution of our beloved game, and the endless adventures that await us. Roll high, friends!</p>]]></content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html"><![CDATA[My take on teh recent Wizards of the Cost Dungeons and Dragons 5e errata.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tavern Games - Darts for your D&amp;amp;D Game</title><link href="https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame/" rel="alternate" type="text/html" title="Tavern Games - Darts for your D&amp;amp;D Game" /><published>2021-12-08T12:56:00+00:00</published><updated>2021-12-08T12:56:00+00:00</updated><id>https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame</id><content type="html" xml:base="https://www.optionalrule.com/2021/12/08/tavern-games-darts-minigame/"><![CDATA[<p>Mini-games can be fun distraction for your players in any TTRPG campaign. Downtime or social sessions can create a lot of opportunities for this in your game. With the release of <a href="https://dnd.wizards.com/products/wild-beyond-witchlight" target="_blank">The Wild Beyond the Witchlight</a> adventure, players have asking about mini-games to use.  So I thought I’d share the rules for my simple mini-game for Darts.</p>
-
-<p>In the most simple case, a series of opposed DEX (<strong>Athletics</strong>) checks will suffice. However, I ended up with a play group that were Dart enthusiast and wanted a full on mini-game.  So I’m sharing the simple rules I used in hopes it might have some use in your sessions.</p>
-
-<figure class="figure float-end ms-4">
-    
-    <img class="img-fluid figure-img " src="/assets/img/Gaston-Dart-Board_600x400.jpg" alt="A dart board in a wooden frame and chalkboard for score mounted on an old tavern wall." height="600" />
-        
-    
-        <figcaption class="figure-caption text-center">Image from Gaston's Tavern by Disney.</figcaption>
-    
-</figure>
-
-<h2 id="the-rules">The Rules</h2>
-<p>A player rolls 2 separate color D20s, the first represents the segment of the board, the second the ring.  Like normal darts the segment the dart lands in (the number rolled on the die) determines the score. If you’re not familiar with darts, see the diagram below and it should make sense. The final score for the throw is modified by the result of the ring die like so.</p>
-
-<ul>
-  <li>5 - double the score</li>
-  <li>10 - triple the score</li>
-  <li>15 - 25 pt Outer Bullseye if the segment die is above 10.</li>
-  <li>20 - 50 pt Inner Bullseye if the segment die is a 20.</li>
-</ul>
-
-<p>The player may modify either or both die results by a total of their ranged attack modifier.</p>
-
-<h3 id="example">Example</h3>
-
-<p>Beau takes a turn at darts, rolls an 8 on the segment die, and a 13 on the ring die. They choose to user their 7 ranged attack bonus to add 3 to the segment die to make it a 12, and 2 to the ring die to make it a 15.  That’s an Inner Bullseye for 25 pts!</p>
-
-<h2 id="conclusion">Conclusion</h2>
-<p>This level of mini-game isn’t for everyone, but groups looking to play out some downtime may enjoy it.  The system is simple enough to play out, but isn’t intended to be a balance game on it’s own.  It works best when players move along quickly, perhaps with a favorite libation, and make quick choices.  So keep it moving and have them create some character moments.  Now get out there and run some great games.</p>
-
-<h2 id="reference">Reference</h2>
-<p>Structure of a Dart Board with slices and rings for scoring.</p>
-<figure class="figure clearfix">
-    
-    <img class="img-fluid figure-img " src="/assets/img/Dartboard_diagram_637x473.jpg" alt="A dart board with labels for different parts." height="637" />
-        
-    
-        <figcaption class="figure-caption text-center">Image Credit, Wikipedia.</figcaption>
-    
-</figure>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A mini-game to simulate darts for your TTRPG play group.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/Gaston-Dart-Board_600x400.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Here’s to the continued evolution of our beloved game, and the endless adventures that await us. Roll high, friends!</p>]]></content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html"><![CDATA[My take on teh recent Wizards of the Cost Dungeons and Dragons 5e errata.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OR_Screenshot-870x570.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

@@ -1,0 +1,22 @@
+<figure class="figure {{ include.figure_class }}">
+    {% if include.href %}
+        <a href="{{ include.href }}">
+    {% endif %}
+    <img 
+        class="img-fluid figure-img {{include.img_class}}" 
+        src="{{ include.src }}" 
+        alt="{{ include.alt }}" 
+        {% if include.height %}
+            height="{{ include.height }}"
+        {% endif %}
+        {% if include.width %}
+            height="{{ include.width }}"
+        {% endif %}
+        />
+        {% if include.href %}
+    </a>
+    {% endif %}
+    {% if include.caption %}
+        <figcaption class="figure-caption text-center">{{ include.caption }}</figcaption>
+    {% endif %}
+</figure>

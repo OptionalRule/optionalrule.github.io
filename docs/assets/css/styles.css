@@ -2340,6 +2340,34 @@ textarea.form-control-lg { min-height: calc(1.5em + 1rem + 2px); }
 
 @media print { .d-print-inline { display: inline !important; } .d-print-inline-block { display: inline-block !important; } .d-print-block { display: block !important; } .d-print-grid { display: grid !important; } .d-print-table { display: table !important; } .d-print-table-row { display: table-row !important; } .d-print-table-cell { display: table-cell !important; } .d-print-flex { display: flex !important; } .d-print-inline-flex { display: inline-flex !important; } .d-print-none { display: none !important; } }
 
+/*
+Taken from https://codepen.io/retractedhack/pen/gPLpWe
+Unsure if poser is creator, no licsese or attribution information given.
+*/
+blockquote.stat-block { display: inline-block; padding-top: .9em; padding-bottom: .9em; padding-right: .6em; padding-left: .6em; background-color: #FDF1DC; border-style: solid; background-image: url(https://www.gmbinder.com/assets/img/blockquote-bg.png); border-image: url(https://www.gmbinder.com/assets/img/blockquote-wrap.png); background-position: center; border-width: 8px; border-image-slice: 20; }
+
+.stat-block.wide { width: 46.5%; min-width: 560px; }
+
+blockquote.stat-block table { margin-bottom: .5em; margin-top: .5em; }
+
+blockquote.stat-block table tbody tr td { vertical-align: bottom; padding-bottom: .3em; padding-right: .5em; padding-left: .5em; }
+
+@media screen and (max-width: 675px) { .stat-block.wide { min-width: 100%; } .stat-block.wide .section-left, .stat-block.wide .section-right { display: block; width: 100%; } .stat-block.wide .section-left { margin: 0; } .stat-block.wide .section-right { margin: 0; } }
+
+blockquote.stat-block ul { list-style-type: none; padding: 0; margin: 0; }
+
+blockquote.stat-block hr { visibility: visible; height: 6px; margin: 4px 0; background-image: url(https://www.gmbinder.com/assets/img/arrow-right.png); background-size: 100% 100%; border: none; box-sizing: content-box; display: block; unicode-bidi: isolate; margin-block-start: 0.5em; margin-block-end: 0.5em; margin-inline-start: auto; margin-inline-end: auto; overflow: hidden; }
+
+blockquote.stat-block h1, blockquote.stat-block .h1 { font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif; line-height: 1.2em; margin: 10px 0 0; letter-spacing: 1px; font-variant: small-caps; font-weight: bold; }
+
+blockquote.stat-block h2, blockquote.stat-block .h2 { font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif; font-size: .705cm; margin-bottom: 0; font-weight: normal; color: #58180D; line-height: 1.1; }
+
+blockquote.stat-block h3, blockquote.stat-block .h3 { margin-top: .2em; margin-bottom: .2em; border-bottom: 1px solid #822000; color: #822000; font-size: 24px; font-weight: normal; line-height: 1.4; }
+
+blockquote.stat-block p { display: block; margin-block-start: .35em; margin-block-end: .35em; margin-inline-start: 0px; margin-inline-end: 0px; line-height: 1.2em; }
+
+@media screen and (max-width: 575px) { .stat-block { margin: 20px 0; } }
+
 /*! Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) */
 .fa, .fas, .far, .fal, .fad, .fab { -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; line-height: 1; }
 
