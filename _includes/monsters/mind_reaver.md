@@ -4,7 +4,7 @@
   src="/assets/img/monsters/mind_reaver_500x500.jpg"
   alt="A twisted creature with tenticles."
   width="500" height="500"
-  caption="A Mind Reaver"
+  caption="A Mind Reaver (with jazz hands)"
  %}
 
 > ## Mind Reaver
