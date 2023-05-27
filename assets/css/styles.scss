@@ -10,21 +10,3 @@
 @import "fontawesome/brands";
 @import "fontawesome/regular";
 @import "main";
-
-.callout {
-    padding: 20px;
-    margin: 20px 0;
-    border: 1px solid #eee;
-    border-left-width: 5px;
-    border-radius: 3px;
-    border-left-color: #eee; /* Set this to whatever color you want */
-    background-color: #fafafa;
-}
-
-.callout-info {
-    border-left-color: #17a2b8;
-}
-.callout-parchment {
-    background-color: #EBD5B3;
-    border-left-color: #E0C9A6;
-}
