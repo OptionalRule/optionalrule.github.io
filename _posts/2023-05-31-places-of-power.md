@@ -1,12 +1,12 @@
 ---
 layout: post
 title: You Have the Power - Places of Power in D&D
-date: 2023-05-21 23:54
+date: 2023-05-31 08:54
 category: RPG Resources
 author: Scott Turnbull
 image: /assets/img/PlaceOfPower._480x720.jpg
 tags: []
-description: Dive into D&D's magic with our guide on Places of Power. Explore how to find, attune, and harness these unique locations to enhance spellcasting!
+description: Dive into D&D's magic with our guide on Places of Power. Explore how to find, attune, and harness these unique locations to enhance your game.
 ---
 The untamed forces of magic in Dungeons and Dragons have long held the power to both awe and terrify, a duality echoed in the narrative threads of fantasy literature. This house rule invites players to embrace this paradox, offering a high-stakes opportunity to amplify their spells beyond conventional limits. But, this isn't a risk to be taken lightly; mastery comes with potential for both magnificent success and cataclysmic failure. This high-risk, high-reward dynamic is not universal, but rather tethered to Places of Power - locations within the game world steeped in raw, wild magical energy. Here, spellcasters can attempt to weave this abundant power into their own spells, pushing the boundaries of what they could usually achieve. However, the road to arcane supremacy is fraught with peril, and the volatile energies of these places can lead to unexpected and dangerous consequences.
 
@@ -81,3 +81,113 @@ As always, adjust this system as necessary to fit your campaign and your players
 #### Sorcerer Metamagic in a Place of Power
 
 When a sorcerer attuned to a Place of Power uses a Metamagic ability, they reduce the Sorcery Point cost by 1. If this adjustment would bring the cost below 1, there's still a 50% chance they expend 1 Sorcery Point. Sorcerers can choose to use the standard Place of Power rules instead, particularly if they're out of Sorcery Points or willing to embrace the risk.
+
+___
+
+## Sample Places of Power
+The following examples offer a peek into what Places of Power might look like in your game. Remember, these descriptions aren't exhaustive, and we urge all Dungeon Masters to inject their own creativity into these magical locales. Our goal is for these sites to spark your imagination, providing your players with thrilling incentives to delve deeper into the world. Also, don't forget about the potential threats posed by creatures that might call these power-infused locales their home. Let's dive in!
+
+> ### Comforting Hearth
+> #### Common, Universal
+> *This welcoming place resonates with soothing energies, offering deep rest and restoration to those weary from their journeys.*
+>
+> A character attuned to this site can recover an extra level of exhaustion after completing a Long Rest here, feeling their weariness melt away faster than usual. This effect can be used once per Long Rest. Additionally, any attuned character may roll with advantage to recover from a disease or poison while resting here.
+{:.callout}
+
+> ### Shrine of Guided Grace
+> #### Common, Holy Site
+> *This humble shrine is steeped in divine favor, bestowing a touch of guidance on those who pray here.*
+> 
+> An attuned character who spends time in prayer or contemplation at this holy site can receive a divine boon: a 1d4 bonus to a single skill roll for a specific task. This blessing must be invoked before the character's next Long Rest or it dissipates, the divine favor waiting to be called upon another day.
+{:.callout}
+
+> ### Alchemist's Reservoir
+> #### Uncommon, Universal
+> *This enchanting site adorned with ancient, ornate distilleries, filled with swirling, shimmering vials of vibrant liquids, all bathed in the soft, multi-hued glow of arcane energy that pulses from the earth and air around it.*
+> 
+> Imbued with ancient alchemical energy, alchemists and herbalists attuned to this location can brew potions in half the time.
+{:.callout}
+
+> ### The Echoing Library
+> #### Uncommon, Leyline Node
+> *Echoes of arcane knowledge radiate from every shelf in this vast library, accelerating the study pace of those who delve into its treasures.*
+> 
+> Attuned spellcasters can prepare an additional spell of a level they can cast for each day they spend here, up to their proficiency bonus. This bonus lasts until the next long rest.
+{:.callout}
+
+> ### The Vibrant Henge
+> #### Uncommon, Universal
+> *Constructed from ancient monoliths, these stones hum with ley line energy, amplifying the powers of those attuned to them.*
+>
+> Arcane practitioners can draw on the raw power of this location to amplify their spells. Some Henges are aligned with a specific school of magic. When casting a spell within this school, practitioners can benefit from an advantageous Spell Weaving roll.
+{:.callout}
+
+> ### Haven of Healing
+> #### Uncommon, Holy Site, Primal Refuge
+> *Restorative energies suffuse this location, accelerating recovery and invigorating those who rest within.*
+>
+> Those attuned to this sanctuary recover one level of exhaustion following a short rest. Furthermore, any spell or potion that restores Hit Points, when used within the haven, yields its maximum possible value. These benefits can each be claimed once per long rest.
+{:.callout}
+
+> ### Sanctuary of Solitude
+> #### Uncommon, Universal
+> *Ancient wisdom lingers in this tranquil locale, inspiring profound insights for those who meditate here.*
+>
+> Individuals attuned to this place can inscribe scrolls or copy spells into their spell book in half the usual time.
+{:.callout}
+
+> ### Celestial Observatory
+> #### Rare, Universal
+> *This ancient observatory, filled with cryptic glyphs and celestial maps, resonates with whispers from the stars, enhancing the divination skills of those attuned to its energies.*
+>
+> Attuned individuals within the Celestial Observatory gain a deep connection with the cosmos. They can channel this bond to cast the spell Message once per day. Attuned spellcasters in this location also gain the ability to use Spell Weaving, with divination spells providing an advantage to their Spell Weaving checks, enhancing their pursuit of knowledge and insights.
+{:.callout}
+
+> ### Feywild Glade
+> #### Rare, Universal
+> *Mystical energies from the Feywild permeate this location, empowering those who are attuned to it.*
+>
+> Attuned characters may utilize the Spell Weaving ability here. When casting enchantment spells, they can apply Spell Weaving with an advantage.
+{:.callout}
+
+> ### Mana Oasis
+> #### Rare, Universal
+> *Overflowing with raw magical energy, this place replenishes the reserves of any attuned spellcaster resting here.*
+>
+> Spellcasters attuned to this location can recover a number of spell slots after a short rest. They regain one spell slot of a level up to their proficiency bonus at the end of a short rest or an hour into a long rest. This benefit is limited to once per long rest.
+{:.callout}
+
+> ### Moonshadow Glenn
+> #### Rare, Primal Refuge
+> *As a nexus of raw, wild power, this place resonates with the primal aspects of nature.*
+>
+> Attuned characters can use their Wild Shape ability to transform into a beast with a Challenge Rating 1 higher than they normally could, once per long rest.
+{:.callout}
+
+> ### Stoneheart Bastion
+> #### Rare, Universal
+> *Deep beneath the mountain's roots, this subterranean bastion imbues those within with resilience, mirroring the earth's unyielding strength.*
+>
+> Any character or beast attuned to this place of power, or who has laired here for more than a full moon cycle, gains the fortitude of the earth itself. This manifests as resistance to non-magical bludgeoning, piercing, and slashing damage. The boon fades if they leave the site for more than a day or if their attunement is broken.
+{:.callout}
+
+> ### Primordial Nexus
+> #### Very Rare, Primal Refuge
+> *A verdant haven echoing with the vibrant life force of nature, this place empowers attuned druids to embody a vast range of creatures inhabiting these lands.*
+>
+> The Primordial Nexus allows attuned characters who can Wildshape to form deeper connections with creatures in the region. By performing a ritual with a trophy from a Monstrosity or Fey, the character can add that creature to their Wildshape options, as long as it falls within the normal Hit Dice and movement restrictions of their Wildshape ability.
+{:.callout}
+
+> ### Sanctuary of Spirits
+> #### Very Rare, Universal
+> *The spirits of the departed are bound to this sacred refuge, allowing them to linger beyond their natural existence.*
+>
+> When an attuned spellcaster casts Animate Dead on beings that met their end within this sanctuary, it doesn't count towards their control limit. Instead, they can control a number of undead equal to their primary casting ability score. These undead are bound to the sanctuary and cannot leave its confines; the caster loses control if they lose their attunement.
+{:.callout}
+
+> ### Echoing Cavern of The Berzerker
+> #### Very Rare, Universal
+> *Legend speaks of a place where reality and illusion refuse to merge; this echoing cavern bolsters mental fortitude and instils clarity amidst deceptive influences.*
+>
+> Characters or beasts that are attuned to this place, or have made it their lair for more than a lunar cycle, become extremely difficult to mislead. They gain advantage on saving throws against illusion spells and mind control effects. Furthermore, those capable of raging can maintain their rage for an additional round without taking damage or attacking an opponent, their resolve empowered by the steadfast spirit of the cavern.
+{:.callout}
