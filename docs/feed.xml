@@ -1,4 +1,218 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-31T02:41:26+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Reimagining the Mark Option in D&amp;amp;D 5E - Empowering Martial Characters</title><link href="https://www.optionalrule.com/2023/05/27/improved-mark-option/" rel="alternate" type="text/html" title="Reimagining the Mark Option in D&amp;amp;D 5E - Empowering Martial Characters" /><published>2023-05-27T10:28:00+00:00</published><updated>2023-05-27T10:28:00+00:00</updated><id>https://www.optionalrule.com/2023/05/27/improved-mark-option</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/27/improved-mark-option/"><![CDATA[<p>Dungeons and Dragons 5th Edition’s Dungeon Master’s Guide (DMG) presents an array of optional rules that, regrettably, often recede into obscurity. One such overlooked provision, nestled within Chapter 9 of the DMG, is the “Mark” option. This rule, seemingly promising on the surface, is burdened with unnecessary complexities, offering marginal benefit.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-05-31T12:23:49+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">You Have the Power - Places of Power in D&amp;amp;D</title><link href="https://www.optionalrule.com/2023/05/31/places-of-power/" rel="alternate" type="text/html" title="You Have the Power - Places of Power in D&amp;amp;D" /><published>2023-05-31T08:54:00+00:00</published><updated>2023-05-31T08:54:00+00:00</updated><id>https://www.optionalrule.com/2023/05/31/places-of-power</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/31/places-of-power/"><![CDATA[<p>The untamed forces of magic in Dungeons and Dragons have long held the power to both awe and terrify, a duality echoed in the narrative threads of fantasy literature. This house rule invites players to embrace this paradox, offering a high-stakes opportunity to amplify their spells beyond conventional limits. But, this isn’t a risk to be taken lightly; mastery comes with potential for both magnificent success and cataclysmic failure. This high-risk, high-reward dynamic is not universal, but rather tethered to Places of Power - locations within the game world steeped in raw, wild magical energy. Here, spellcasters can attempt to weave this abundant power into their own spells, pushing the boundaries of what they could usually achieve. However, the road to arcane supremacy is fraught with peril, and the volatile energies of these places can lead to unexpected and dangerous consequences.</p>
+
+<p>As a Dungeon Master, this house rule offers a unique narrative tool to manage the use of these amplified abilities and build compelling encounters. Villains, drawn to the immense power offered by these locations, might set up their lairs in Places of Power, adding an extra layer of challenge and strategy to confrontations. Moreover, these magical nexuses can become focal points in your campaign, driving the narrative as players might actively seek these places out, eager to tap into their vast potential. This is not just a rule - it is a lore, a plot device, and a tantalizing challenge all rolled into one, offering new avenues for character development and world-building. Embark on this arcane journey, and let your game be infused with the volatile and awe-inspiring power of raw magic.</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/PlaceOfPower._480x720.jpg" alt="A ruin teaming with magical energy." height="480" />
+        
+    
+</figure>
+
+<h2 id="places-of-power">Places of Power</h2>
+
+<p>Places of Power are distinctive locations saturated with arcane or divine energies. A competent spellcaster can tap into these energies, enhancing their own spells and abilities. To utilize a Place of Power, a spellcaster must first identify a location that aligns with their specific magical or divine influence. Following discovery, the caster must engage in a period of study and attunement to effectively harness the location’s power. Place types may or may not make a difference in terms of access and attunement, as determined by the DM.</p>
+
+<p>Here are the common types of Places of Power:</p>
+
+<ul>
+  <li>
+    <p><strong>Leyline Nodes:</strong> Leyline Nodes serve as focal points where natural currents of arcane energy converge, forming reservoirs of magical energy. Wizards can utilize these nodes, but only if their school of magic aligns with the particular energy of the node.</p>
+  </li>
+  <li>
+    <p><strong>Holy Sites:</strong> These locations bear a distinct significance to a specific god, religion, or holy ideal. Clerics can tap into these sites, provided their divine domain aligns with the site’s sacred affiliation.</p>
+  </li>
+  <li>
+    <p><strong>Primal Refuges:</strong> These are areas that brim with the untouched, primal energies of nature, drawing power directly from the Feywild. Druids can utilize these refuges, but their Circle must align with the refuge’s primal energy.</p>
+  </li>
+  <li>
+    <p><strong>Pure Essence:</strong> These locations have been previously inhabited by potent supernatural entities, and their residual essence remains infused within these places. Sorcerers can tap into these locations, but their bloodline must correspond to the essence of the entity that once inhabited the location.</p>
+  </li>
+</ul>
+
+<h2 id="finding-and-attuning-to-a-place-of-power">Finding and Attuning to a Place of Power</h2>
+<p>Places of power may be detected with the Detect Magic spell. Alternatively a combination of a study of the history of the place or careful examination may allow a History or Investigation check to realize a location is a place of power.</p>
+
+<p>Once discovered, a spellcaster can take a short rest and attempt to attune to a Place of Power by making a check using their primary spellcasting ability. The DC for this check is set by the DM and typically ranges from 10 for common or well-known Places of Power, to 20 or more for extremely rare or unique locations. Importantly, attuning to a location does not count against the character’s maximum item attunement limit. However, this attunement isn’t permanent and may fade over time, necessitating reattunement after a significant period.</p>
+
+<p>Remember, Places of Power should be treated as significant elements within your world, and their discovery and utilization should carry corresponding narrative weight.</p>
+
+<h2 id="rarity--effects">Rarity &amp; Effects</h2>
+<p>Places of Power in D&amp;D can enhance, modify or even provide entirely new abilities, offering a boost to spellcasters and creatures alike. DMs are encouraged to get creative with the effects of these power locations, making their campaigns even more engaging. Many wizards position their towers, creatures make lairs, and churches build their foundations upon these mystical spots, all seeking to harness their power.</p>
+
+<p>Places of Power have a rarity system, akin to that of magic items, ranging from Common to Legendary. Here’s a brief overview of each category:</p>
+
+<ol>
+  <li>
+    <p><strong>Common:</strong> These Places of Power are frequently encountered, and their effects, while beneficial, are relatively minor. Examples might include an area providing something akin to the Guidance spell or Song of Rest ability once per day. Roadside inns, small shrines, and minor monster lairs often occupy these sites.</p>
+  </li>
+  <li>
+    <p><strong>Uncommon:</strong> Less common than their counterparts, these Places of Power provide slightly more potent effects or a broader range of minor effects. Typical examples might include Spell Weaving (see below), halving the time of spell scribing or alchemical production, providing an extra hit die of healing during a short rest once a day, or a small bonus to attack. Large shrines or small chapels, houses of healing, fortifications, libraries, and lairs often occupy these sites.</p>
+  </li>
+  <li>
+    <p><strong>Rare:</strong> Rare Places of Power are challenging to find, but their beneficial effects are considerably more potent and impactful. Typical effects might include providing an increase to hit points, resistance to a type of damage, sustaining low-level spell effects, doubling healing, and more. Churches, organizational headquarters, strong castles, and powerful monster lairs often occupy these sites.</p>
+  </li>
+  <li>
+    <p><strong>Very Rare:</strong> These Places of Power are seldom encountered. Their effects are significantly powerful, offering substantial benefits to those able to tap into them. These sites may provide regeneration, multiple resistances, spell resistance, control of regional weather, and more. Grand temples, state capitals, powerful citadels, and ancient dragon lairs often occupy these sites.</p>
+  </li>
+  <li>
+    <p><strong>Legendary:</strong> The most elusive of all, Legendary Places of Power offer truly awe-inspiring and mind-bending abilities. They’re often tied to significant historical or world events and form the stuff of myths and legends. These sites provide total damage resistance or some damage immunities, combinations of spell-like abilities, the ability to alter terrain or control animals or beings in the region. Locations are almost always unique and heavily contested, leaving a legacy of woe.</p>
+  </li>
+</ol>
+
+<p>The possibilities are truly limitless, and Dungeon Masters are encouraged to get creative. Perhaps these locations house portals, serve as communion points for Warlocks and their patrons, or even provide coveted power sources for diligent Wizards. They could also imbue lair-dwelling monsters with abilities they might not typically possess. Use these Places of Power to enhance your game, provide players with intriguing new goals and mysteries, and above all, enjoy the journey. Gear up to elevate your gaming experience!</p>
+
+<h3 id="spell-weaving-uncommon">Spell Weaving (Uncommon)</h3>
+
+<p>When a spellcaster is within an attuned Place of Power, they may tap into its energy to enhance their spellcasting. As part of casting a spell, the caster can choose add one or more Metamagic-like effects. To do so, the caster must make a spellcasting ability check. The DC for this check is 10 + the level of the spell being cast + 2 for each Metamagic effect selected.</p>
+
+<p>The available effects at a Place of Power typically include Distant Spell, Empower Spell, Extended Spell, and Subtle Spell, as per the descriptions provided in the Sorcerer class, but with references to Charisma replaced by the caster’s primary spellcasting ability.</p>
+
+<p>If the character fails the check, the spell fails and the caster loses the spell slot. Additionally, if they fail the roll by 5 or more, they suffer one randomly rolled spell failure plus one additional failure effect for every additional 5 points they fail the Check by.</p>
+
+<p>Roll a d6 to determine the type of failure:</p>
+
+<p><strong>Spell Failure</strong></p>
+
+<ol>
+  <li><strong>Mana Burn:</strong> The caster loses a spell slot of the spell’s level. If they have no more spell slots of that level, the player may choose to lose a spell slot of the next highest level, or two slots from the level below - it’s the player’s choice. If none are available, roll again.</li>
+  <li><strong>Exhaustion:</strong> The caster gains a level of exhaustion as they’ve overtaxed their body.</li>
+  <li><strong>Soul Shock:</strong> The caster has disadvantage on all checks with their primary casting ability until they complete a long rest. Rolling this effect again extends the duration by one additional long rest.</li>
+  <li><strong>Sensory Overload:</strong> The caster is blinded, deafened, or loses the ability to speak (player’s choice) until the end of their next long rest. Rolling this effect again allows the player to select another effect or extends the duration of an existing effect by one additional long rest.</li>
+  <li><strong>System Shock:</strong> The caster must succeed on a Constitution saving throw (DC 10 + spell level) or become stunned until the end of their next turn. Rolling this effect again means the condition lasts until the wizard makes a successful save, repeating this save at the end of each turn. If this effect is rolled a 3rd time, roll again instead.</li>
+  <li><strong>Mana Feedback:</strong> The caster takes 1d8 force damage per level of the spell they attempted to cast.</li>
+</ol>
+
+<p>As always, adjust this system as necessary to fit your campaign and your players’ preferences.</p>
+
+<h4 id="sorcerer-metamagic-in-a-place-of-power">Sorcerer Metamagic in a Place of Power</h4>
+
+<p>When a sorcerer attuned to a Place of Power uses a Metamagic ability, they reduce the Sorcery Point cost by 1. If this adjustment would bring the cost below 1, there’s still a 50% chance they expend 1 Sorcery Point. Sorcerers can choose to use the standard Place of Power rules instead, particularly if they’re out of Sorcery Points or willing to embrace the risk.</p>
+
+<hr />
+
+<h2 id="sample-places-of-power">Sample Places of Power</h2>
+<p>The following examples offer a peek into what Places of Power might look like in your game. Remember, these descriptions aren’t exhaustive, and we urge all Dungeon Masters to inject their own creativity into these magical locales. Our goal is for these sites to spark your imagination, providing your players with thrilling incentives to delve deeper into the world. Also, don’t forget about the potential threats posed by creatures that might call these power-infused locales their home. Let’s dive in!</p>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="comforting-hearth">Comforting Hearth</h3>
+  <h4 id="common-universal">Common, Universal</h4>
+  <p><em>This welcoming place resonates with soothing energies, offering deep rest and restoration to those weary from their journeys.</em></p>
+
+  <p>A character attuned to this site can recover an extra level of exhaustion after completing a Long Rest here, feeling their weariness melt away faster than usual. This effect can be used once per Long Rest. Additionally, any attuned character may roll with advantage to recover from a disease or poison while resting here.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="shrine-of-guided-grace">Shrine of Guided Grace</h3>
+  <h4 id="common-holy-site">Common, Holy Site</h4>
+  <p><em>This humble shrine is steeped in divine favor, bestowing a touch of guidance on those who pray here.</em></p>
+
+  <p>An attuned character who spends time in prayer or contemplation at this holy site can receive a divine boon: a 1d4 bonus to a single skill roll for a specific task. This blessing must be invoked before the character’s next Long Rest or it dissipates, the divine favor waiting to be called upon another day.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="alchemists-reservoir">Alchemist’s Reservoir</h3>
+  <h4 id="uncommon-universal">Uncommon, Universal</h4>
+  <p><em>This enchanting site adorned with ancient, ornate distilleries, filled with swirling, shimmering vials of vibrant liquids, all bathed in the soft, multi-hued glow of arcane energy that pulses from the earth and air around it.</em></p>
+
+  <p>Imbued with ancient alchemical energy, alchemists and herbalists attuned to this location can brew potions in half the time.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="the-echoing-library">The Echoing Library</h3>
+  <h4 id="uncommon-leyline-node">Uncommon, Leyline Node</h4>
+  <p><em>Echoes of arcane knowledge radiate from every shelf in this vast library, accelerating the study pace of those who delve into its treasures.</em></p>
+
+  <p>Attuned spellcasters can prepare an additional spell of a level they can cast for each day they spend here, up to their proficiency bonus. This bonus lasts until the next long rest.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="the-vibrant-henge">The Vibrant Henge</h3>
+  <h4 id="uncommon-universal-1">Uncommon, Universal</h4>
+  <p><em>Constructed from ancient monoliths, these stones hum with ley line energy, amplifying the powers of those attuned to them.</em></p>
+
+  <p>Arcane practitioners can draw on the raw power of this location to amplify their spells. Some Henges are aligned with a specific school of magic. When casting a spell within this school, practitioners can benefit from an advantageous Spell Weaving roll.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="haven-of-healing">Haven of Healing</h3>
+  <h4 id="uncommon-holy-site-primal-refuge">Uncommon, Holy Site, Primal Refuge</h4>
+  <p><em>Restorative energies suffuse this location, accelerating recovery and invigorating those who rest within.</em></p>
+
+  <p>Those attuned to this sanctuary recover one level of exhaustion following a short rest. Furthermore, any spell or potion that restores Hit Points, when used within the haven, yields its maximum possible value. These benefits can each be claimed once per long rest.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="sanctuary-of-solitude">Sanctuary of Solitude</h3>
+  <h4 id="uncommon-universal-2">Uncommon, Universal</h4>
+  <p><em>Ancient wisdom lingers in this tranquil locale, inspiring profound insights for those who meditate here.</em></p>
+
+  <p>Individuals attuned to this place can inscribe scrolls or copy spells into their spell book in half the usual time.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="celestial-observatory">Celestial Observatory</h3>
+  <h4 id="rare-universal">Rare, Universal</h4>
+  <p><em>This ancient observatory, filled with cryptic glyphs and celestial maps, resonates with whispers from the stars, enhancing the divination skills of those attuned to its energies.</em></p>
+
+  <p>Attuned individuals within the Celestial Observatory gain a deep connection with the cosmos. They can channel this bond to cast the spell Message once per day. Attuned spellcasters in this location also gain the ability to use Spell Weaving, with divination spells providing an advantage to their Spell Weaving checks, enhancing their pursuit of knowledge and insights.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="feywild-glade">Feywild Glade</h3>
+  <h4 id="rare-universal-1">Rare, Universal</h4>
+  <p><em>Mystical energies from the Feywild permeate this location, empowering those who are attuned to it.</em></p>
+
+  <p>Attuned characters may utilize the Spell Weaving ability here. When casting enchantment spells, they can apply Spell Weaving with an advantage.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="mana-oasis">Mana Oasis</h3>
+  <h4 id="rare-universal-2">Rare, Universal</h4>
+  <p><em>Overflowing with raw magical energy, this place replenishes the reserves of any attuned spellcaster resting here.</em></p>
+
+  <p>Spellcasters attuned to this location can recover a number of spell slots after a short rest. They regain one spell slot of a level up to their proficiency bonus at the end of a short rest or an hour into a long rest. This benefit is limited to once per long rest.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="moonshadow-glenn">Moonshadow Glenn</h3>
+  <h4 id="rare-primal-refuge">Rare, Primal Refuge</h4>
+  <p><em>As a nexus of raw, wild power, this place resonates with the primal aspects of nature.</em></p>
+
+  <p>Attuned characters can use their Wild Shape ability to transform into a beast with a Challenge Rating 1 higher than they normally could, once per long rest.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="stoneheart-bastion">Stoneheart Bastion</h3>
+  <h4 id="rare-universal-3">Rare, Universal</h4>
+  <p><em>Deep beneath the mountain’s roots, this subterranean bastion imbues those within with resilience, mirroring the earth’s unyielding strength.</em></p>
+
+  <p>Any character or beast attuned to this place of power, or who has laired here for more than a full moon cycle, gains the fortitude of the earth itself. This manifests as resistance to non-magical bludgeoning, piercing, and slashing damage. The boon fades if they leave the site for more than a day or if their attunement is broken.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="primordial-nexus">Primordial Nexus</h3>
+  <h4 id="very-rare-primal-refuge">Very Rare, Primal Refuge</h4>
+  <p><em>A verdant haven echoing with the vibrant life force of nature, this place empowers attuned druids to embody a vast range of creatures inhabiting these lands.</em></p>
+
+  <p>The Primordial Nexus allows attuned characters who can Wildshape to form deeper connections with creatures in the region. By performing a ritual with a trophy from a Monstrosity or Fey, the character can add that creature to their Wildshape options, as long as it falls within the normal Hit Dice and movement restrictions of their Wildshape ability.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="sanctuary-of-spirits">Sanctuary of Spirits</h3>
+  <h4 id="very-rare-universal">Very Rare, Universal</h4>
+  <p><em>The spirits of the departed are bound to this sacred refuge, allowing them to linger beyond their natural existence.</em></p>
+
+  <p>When an attuned spellcaster casts Animate Dead on beings that met their end within this sanctuary, it doesn’t count towards their control limit. Instead, they can control a number of undead equal to their primary casting ability score. These undead are bound to the sanctuary and cannot leave its confines; the caster loses control if they lose their attunement.</p>
+</blockquote>
+
+<blockquote class="d-flex flex-column rule simple-rule">
+  <h3 id="echoing-cavern-of-the-berzerker">Echoing Cavern of The Berzerker</h3>
+  <h4 id="very-rare-universal-1">Very Rare, Universal</h4>
+  <p><em>Legend speaks of a place where reality and illusion refuse to merge; this echoing cavern bolsters mental fortitude and instils clarity amidst deceptive influences.</em></p>
+
+  <p>Characters or beasts that are attuned to this place, or have made it their lair for more than a lunar cycle, become extremely difficult to mislead. They gain advantage on saving throws against illusion spells and mind control effects. Furthermore, those capable of raging can maintain their rage for an additional round without taking damage or attacking an opponent, their resolve empowered by the steadfast spirit of the cavern.</p>
+</blockquote>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Dive into D&D's magic with our guide on Places of Power. Explore how to find, attune, and harness these unique locations to enhance your game.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/PlaceOfPower._480x720.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/PlaceOfPower._480x720.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Reimagining the Mark Option in D&amp;amp;D 5E - Empowering Martial Characters</title><link href="https://www.optionalrule.com/2023/05/27/improved-mark-option/" rel="alternate" type="text/html" title="Reimagining the Mark Option in D&amp;amp;D 5E - Empowering Martial Characters" /><published>2023-05-27T10:28:00+00:00</published><updated>2023-05-27T10:28:00+00:00</updated><id>https://www.optionalrule.com/2023/05/27/improved-mark-option</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/27/improved-mark-option/"><![CDATA[<p>Dungeons and Dragons 5th Edition’s Dungeon Master’s Guide (DMG) presents an array of optional rules that, regrettably, often recede into obscurity. One such overlooked provision, nestled within Chapter 9 of the DMG, is the “Mark” option. This rule, seemingly promising on the surface, is burdened with unnecessary complexities, offering marginal benefit.</p>
 
 <figure class="figure float-end ms-4 clearfix">
     
@@ -582,56 +796,4 @@ Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal 
 
 <p><strong>Conclusion</strong></p>
 
-<p>The introduction of the Scribe Spell in the D&amp;D 5th edition playtest material, as a callback to the original Write spell, is an intriguing nod to the game’s origins, but its practical value in the modern game is debatable. Personally, I don’t see what it adds to the game. While it’s great to see developers experimenting with different mechanics, it’s important to recognize when a design element might not be the best fit for the current edition. The Scribe Spell is a fascinating part of D&amp;D history, but it may be best left in the past as we continue to evolve the game and focus on what makes it truly engaging for players.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new playtest material the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Injured Condition For Lasting Damage</title><link href="https://www.optionalrule.com/2022/10/01/injured-condition-onednd/" rel="alternate" type="text/html" title="Injured Condition For Lasting Damage" /><published>2022-10-01T11:38:00+00:00</published><updated>2022-10-01T11:38:00+00:00</updated><id>https://www.optionalrule.com/2022/10/01/injured-condition-onednd</id><content type="html" xml:base="https://www.optionalrule.com/2022/10/01/injured-condition-onednd/"><![CDATA[<p>Injuries in Dungeons &amp; Dragons are important for two reasons: they add realism to the game and they can be used to add humor. By making injuries last longer, it gives the players a sense of realism and danger that they may not feel if they simply healed back up to full hit points after every battle. It also allows for some interesting role-playing opportunities, such as a character with a permanent limp trying to negotiate a difficult terrain. Finally, it can be fun to see how creative the players can be in dealing with their injuries and add depth to a game.</p>
-
-<p>With the release of the <a href="https://media.dndbeyond.com/compendium-images/one-dnd/expert-classes/kpx0MvyfBGHe0XKk/UA2022-Expert-Classes.pdf?icid_source=house-ads&amp;icid_medium=crosspromo&amp;icid_campaign=playtest2" target="_blank">Exhausted condition in the new OneDnD Playtest</a>, injuries can be tracked in a way common with other game rules.</p>
-
-<figure class="figure float-end ms-4 clearfix">
-    
-    <img class="img-fluid figure-img " src="/assets/img/camping_party_475x633.jpg" alt="A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted." height="475" />
-        
-    
-        <figcaption class="figure-caption text-center">Image credit Wizards of the Coast</figcaption>
-    
-</figure>
-
-<h3 id="injured-condition">Injured [Condition]</h3>
-<p>While you are subject to the Injured Condition you experience the following effects:</p>
-
-<p><strong>Levels of Injury.</strong> This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.</p>
-
-<p><strong>d20 Rolls Affected.</strong> When you make a d20 Test, you subtract your injury level from your d20 roll.</p>
-
-<p><strong>Spell Save DCs Affected.</strong> Subtract your injury level from the Spell save DC of any Spell you cast.</p>
-
-<p><strong>Gaining the Condition.</strong> A character gains 1 level of Injury when they return from 0 hp if they have failed a death save or if they are damage by more than half their max hit points from a single source of damage.</p>
-
-<p><strong>Recovering.</strong> Immediately after finishing a Long Rest the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. Another character may make a Medicine Test DC 10 + Injury level to give the character advantage when rolling for recovery. When their injury level reaches 0, the character is no longer injured.</p>
-
-<h2 id="considerations">Considerations</h2>
-<p>Adding a new track for damage needs to be delt with smoothly in relation to other elements of the system. Natural healing and medicine checks are addressed in the condition. This leaves how you might interact with the design and intention of existing classes, spells, and magic items in the game.</p>
-
-<h3 id="design--running">Design &amp; Running</h3>
-
-<p>While managing survival and risk elements can be fun with the right player, there are a few things a DM should be cautious of.  First, beware of creating a “death spiral” in your encounters where negative effects lead to more negative effects.  Second, the flow of an encounter is no longer about the number of resources used, and players will need an opportunity to retreat. Third, consider how the group will best deal with the die modifications. This system is simple enough that you could either rely on the player to modify their roll, or ask the DM to modify DCs instead.  Finally, be aware that this is suited for a particular style of play and not for every player.  Talk to your group about it.</p>
-
-<h3 id="classes">Classes</h3>
-
-<p>Think about what your expectations are for classes, particularly the Warrior Group to deal with Injuries. Likely they will need some way to deal with injuries unique to their role as they are most likely to get injured. As such a Warrior Feat or class ability could be added like so.</p>
-
-<h4 id="shrug-it-off">Shrug it Off</h4>
-<p>A character can choose to tap their deep reserves of fortitude to avoid taking an injury level from damage.  They can use this ability once, and regain the ability to do so after a Long Rest.</p>
-
-<h3 id="spells">Spells</h3>
-
-<p>Magical healing is a reality in DnD and choosing how Injuries interact with magic is an important management tool. The trick is not to introduce a risk that you immediately negate with a too easily accessible feature. I recommend adding an effect to the Lesser Restoration spell that allows it to remove 1 level of Injury from the target.</p>
-
-<h3 id="magic-items">Magic Items</h3>
-
-<p>Similar to spells, healing from magic items should be considered. As with spells, I would recommend adding a single Injury level removal effect to a potion of Lesser Restoration.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>Lingering injuries and impact of choices beyond a single game day is one of the most discussed topics in DnD circles. It has been particularly difficult in 5e DnD because of the lack of granular minus. The playtested Exhausted condition provides an elegant way to introduce that and can easily be used for Injuries as well.  A simple status track like this does not add much overhead to the play experience, and adding a dimension of injury management can create more fun for players seeking a gritty game.  Furthermore the system provides an incremental injury system so players can look at their risk more strategically over the source of an encounter.</p>
-
-<p>Now get out there and run some great games!</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A simple and quick lasting injuries system for DnD based on the Exhausted playtest.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/camping_party_475x633.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>The introduction of the Scribe Spell in the D&amp;D 5th edition playtest material, as a callback to the original Write spell, is an intriguing nod to the game’s origins, but its practical value in the modern game is debatable. Personally, I don’t see what it adds to the game. While it’s great to see developers experimenting with different mechanics, it’s important to recognize when a design element might not be the best fit for the current edition. The Scribe Spell is a fascinating part of D&amp;D history, but it may be best left in the past as we continue to evolve the game and focus on what makes it truly engaging for players.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new playtest material the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
