@@ -28,7 +28,9 @@ twitter:
             {% if page.author %}
                 , by <span class="post-author">{{ page.author }}</span>
             {% endif %}
+            ; {% include sharepost.html %}
         </div>
+
         <div class="post-content">
             {{ content }}
         </div>
