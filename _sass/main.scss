@@ -125,3 +125,63 @@ tbody tr td:first-child {
     background-color: #EBD5B3;
     border-left-color: #E0C9A6;
 }
+
+.callout h3{
+    margin-top: .2em;
+    margin-bottom: .2em;
+    border-bottom: 1px solid #822000;
+    color: #822000;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 1.4;
+  }
+
+  .rule {
+    margin:20px auto;
+    padding: 1.5em;
+    border-radius:5px;
+    box-shadow:0 0 15px 5px #ccc;
+  }
+
+  @mixin rule($name,$bgColor){
+    $accentColor:darken($bgColor,50);
+    .#{$name}{
+      background-color:#{$bgColor};
+      border-left:5px solid $accentColor;
+      .close{
+        border-color:$accentColor;
+        color:$accentColor;
+      }
+    }
+  }
+  @include rule(simple-rule,#ebebeb);
+  @include rule(success-rule,#a8f0c6);
+  @include rule(danger-rule,#f7a7a3);
+  @include rule(warning-rule,#ffd48a);
+
+  .rule h2 {
+    font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
+    font-size: .705cm;
+    // margin-top: -8px;
+     margin-bottom: 0;
+    font-weight: normal;
+    color: #58180D;
+    line-height: 1.1;
+  }
+  .rule h3 {
+    margin-top: .2em;
+    margin-bottom: .2em;
+    border-bottom: 1px solid #822000;
+    color: #822000;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 1.4;
+  }
+  .rule h4 {
+    margin-top: .2em;
+    margin-bottom: .2em;
+    font-size:18px;
+    font-weight: normal;
+    line-height: 1.2;
+  }
+  

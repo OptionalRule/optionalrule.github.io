@@ -24,8 +24,11 @@ Nevertheless, with a sprinkle of creativity and modification, we believe this ru
 > ## Mark (Improved)
 > This option amplifies the capability of melee combatants to challenge each other with opportunity attacks.
 >
-> An Opportunity Attack against a creature that the attacker has struck with a Melee Attack since their last turn does not consume the attacker's reaction. Characters are still limited to one Opportunity Attack per turn.
-{:.callout}
+> An Opportunity Attack against a creature that the attacker has struck with a Melee Attack since their last turn does not consume the attacker's reaction. Characters are still limited to one Opportunity Attack per round.
+{:.d-flex}
+{:.flex-column}
+{:.rule}
+{:.simple-rule}
 
 This alteration doesn't bog down gameplay with added choices, applies uniformly to all melee characters, provides the most substantial impact to characters with multiple attacks, and spares the added complexity of tracking marked targets. It retains the viability of Opportunity Attacks while synergizing well with abilities such as Protect, Intercept, Hide in Plain Sight, and many others, making martial characters, particularly fighters, far more dynamic.
 
