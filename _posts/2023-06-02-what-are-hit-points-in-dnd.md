@@ -84,6 +84,4 @@ Trying to define Hit Points is like grappling with a Mind Flayer — it's a sure
 
 In my humble opinion, D&D intends for players to embrace the vagueness of Hit Points. They're not 'meat points' or a measure of your plot armor, but more an abstraction of your character's struggle to survive. Like most time travel plotlines, it's nonsensical. So, just wave your hand, enjoy the game, and let the Hit Points fall where they may. Their purpose is to serve the adventure, the narrative, and ultimately, the fun. Because, in the end, who needs a physics lesson in the thermal dynamics of lava when you can have a daring escape from a volcano instead? 
 
-That's my take, but what about yours?  Hit me up on [Twitter](https://twitter.com/optionalrule){:target="_blank"} and do me a solid and share this if you find it interesting!
-
 Now get out there and run some great games!
