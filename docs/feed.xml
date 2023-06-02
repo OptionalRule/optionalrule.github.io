@@ -1,11 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-06-01T03:06:10+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">You Have the Power - Places of Power in D&amp;amp;D</title><link href="https://www.optionalrule.com/2023/05/31/places-of-power/" rel="alternate" type="text/html" title="You Have the Power - Places of Power in D&amp;amp;D" /><published>2023-05-31T08:54:00+00:00</published><updated>2023-05-31T08:54:00+00:00</updated><id>https://www.optionalrule.com/2023/05/31/places-of-power</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/31/places-of-power/"><![CDATA[<p>The untamed forces of magic in Dungeons and Dragons have long held the power to both awe and terrify, a duality echoed in the narrative threads of fantasy literature. This house rule invites players to embrace this paradox, offering a high-stakes opportunity to amplify their spells beyond conventional limits. But, this isn’t a risk to be taken lightly; mastery comes with potential for both magnificent success and cataclysmic failure. This high-risk, high-reward dynamic is not universal, but rather tethered to Places of Power - locations within the game world steeped in raw, wild magical energy. Here, spellcasters can attempt to weave this abundant power into their own spells, pushing the boundaries of what they could usually achieve. However, the road to arcane supremacy is fraught with peril, and the volatile energies of these places can lead to unexpected and dangerous consequences.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-06-02T13:46:32+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Decoding D&amp;amp;D - What the heck are Hit Points Anyway?</title><link href="https://www.optionalrule.com/2023/06/02/what-are-hit-points-in-dnd/" rel="alternate" type="text/html" title="Decoding D&amp;amp;D - What the heck are Hit Points Anyway?" /><published>2023-06-02T08:51:00+00:00</published><updated>2023-06-02T08:51:00+00:00</updated><id>https://www.optionalrule.com/2023/06/02/what-are-hit-points-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/06/02/what-are-hit-points-in-dnd/"><![CDATA[<p>The conversation around what Hit Points (HP) are and what they represent in Dungeons &amp; Dragons (D&amp;D) is a cyclical one. It’s a concept that periodically bubbles up in the tabletop role-playing game (TTRPG) community, like an ancient dragon in its cyclical slumber, and we seem to be in the midst of another awakening.</p>
+
+<p>It’s no surprise that understanding HP often seems like trying to learn Draconic without a spell of Comprehend Languages. Table Top Roleplaying Games are narrative adventures, so we naturally want to weave a compelling story around every game element. And therein lies the enigma of Hit Points - no matter how you narrate them, you’re likely to walk into a wall of confusion and pile of contradictions.</p>
+
+<div class="d-inline-flex flex-column float-end">
+<figure class="figure float-end ms-4 clearfix shadow p-3 mb-5 bg-body-tertiary rounded">
+    
+    <img class="img-fluid figure-img " src="/assets/img/hitpoints/ODnD_p18_480.png" alt="Text on HP from the original DnD book." width="480" />
+    
+    
+        <figcaption class="figure-caption text-center">Original and B/X D&amp;D</figcaption>
+    
+</figure>
+
+<figure class="figure float-end ms-4 clearfix shadow p-3 mb-5 bg-body-tertiary rounded">
+    
+    <img class="img-fluid figure-img " src="/assets/img/hitpoints/1stEditionDnD480.png" alt="Text on HP from AD&amp;D." width="480" />
+    
+    
+        <figcaption class="figure-caption text-center">The AD&amp;D PHB</figcaption>
+    
+</figure>
+
+<figure class="figure float-end ms-4 clearfix shadow p-3 mb-5 bg-body-tertiary rounded">
+    
+    <img class="img-fluid figure-img " src="/assets/img/hitpoints/2ndEditionDnD480.png" alt="Text on HP from 2nd Edition AD&amp;D." width="480" />
+    
+    
+        <figcaption class="figure-caption text-center">The 2nd Edition AD&amp;D PHB</figcaption>
+    
+</figure>
+
+<figure class="figure float-end ms-4 clearfix shadow p-3 mb-5 bg-body-tertiary rounded">
+    
+    <img class="img-fluid figure-img " src="/assets/img/hitpoints/5thEditionDnD480.png" alt="Text on HP from 5E D&amp;D." width="480" />
+    
+    
+        <figcaption class="figure-caption text-center">The 5e PHB</figcaption>
+    
+</figure>
+</div>
+
+<h2 id="a-historical-perspective">A Historical Perspective</h2>
+
+<p>Many D&amp;D elements, including HP, sprung from the hobby’s wargaming roots. In those days, units usually had a defensive score and an offensive score. The outcomes were binary: units either lived or died. But when these concepts morphed into the individual tactical combat that defined Original D&amp;D (OD&amp;D), there was a need for a way to track the progress towards defeat, thus giving birth to Armor Class (AC) and Hit Points (HP).</p>
+
+<p>In OD&amp;D, AC denoted how challenging you were to hit, and HP showed how close you were to defeat. The game simply states, “Your hit points determine how hard your character is to kill.” And that’s it. That’s the HP origin story. They’re an arbitrary, abstract measurement of how difficult you are to kill and how far along the game is in achieving that.</p>
+
+<h2 id="the-evolution-of-hp">The Evolution of HP</h2>
+
+<p>Later D&amp;D editions got increasingly philosophical about HP. Advanced D&amp;D acknowledged physical punishment, but clarified that “a significant portion of hit points, especially at higher levels, stands for skill, luck, and/or magical factors.” It even said it would be “ridiculous” to assume characters could endure such physical punishment, further emphasizing that HP are not intended to be taken literally.</p>
+
+<p>2nd Edition D&amp;D kept the abstract theme, defining damage as an abstract concept that allows characters to be heroic. It didn’t dwell on the semantics of HP. 3rd Edition, on the other hand, leaned into the mechanics and didn’t provide a narrative explanation for HP and damage at all. 4th Edition tried to have the best of both worlds, setting a base number of hit points representing “real” damage, while anything over was the old dance of skill, luck, and magic.</p>
+
+<p>By the time 5th edition D&amp;D came around, we’re back in the abstract realm, with the game stating, “Hit Points represent a combination of physical and mental durability, the will to live, and luck.”</p>
+
+<h2 id="the-hp-conundrum">The HP Conundrum</h2>
+
+<p>Trying to define Hit Points is like grappling with a Mind Flayer — it’s a sure path to madness. Make it too abstract, and you create a narrative disconnect. Make it too literal, and you grapple with the absurdities of surviving a lava bath or healing from the brink of death overnight.</p>
+
+<p>In my humble opinion, D&amp;D intends for players to embrace the vagueness of Hit Points. They’re not ‘meat points’ or a measure of your plot armor, but more an abstraction of your character’s struggle to survive. Like most time travel plotlines, it’s nonsensical. So, just wave your hand, enjoy the game, and let the Hit Points fall where they may. Their purpose is to serve the adventure, the narrative, and ultimately, the fun. Because, in the end, who needs a physics lesson in the thermal dynamics of lava when you can have a daring escape from a volcano instead?</p>
+
+<p>Now get out there and run some great games!</p>]]></content><author><name>Scott Turnbull</name></author><category term="Analysis" /><category term="RPG Resources" /><summary type="html"><![CDATA[The conversation around what Hit Points (HP) are and what they represent in Dungeons &amp; Dragons (D&amp;D) is a cyclical one. It’s a concept that periodically bubbles up in the tabletop role-playing game (TTRPG) community, like an ancient dragon in its cyclical slumber, and we seem to be in the midst of another awakening.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/mandy-jurgens-female-plate_475x672.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/mandy-jurgens-female-plate_475x672.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">You Have the Power - Places of Power in D&amp;amp;D</title><link href="https://www.optionalrule.com/2023/05/31/places-of-power/" rel="alternate" type="text/html" title="You Have the Power - Places of Power in D&amp;amp;D" /><published>2023-05-31T08:54:00+00:00</published><updated>2023-05-31T08:54:00+00:00</updated><id>https://www.optionalrule.com/2023/05/31/places-of-power</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/31/places-of-power/"><![CDATA[<p>The untamed forces of magic in Dungeons and Dragons have long held the power to both awe and terrify, a duality echoed in the narrative threads of fantasy literature. This house rule invites players to embrace this paradox, offering a high-stakes opportunity to amplify their spells beyond conventional limits. But, this isn’t a risk to be taken lightly; mastery comes with potential for both magnificent success and cataclysmic failure. This high-risk, high-reward dynamic is not universal, but rather tethered to Places of Power - locations within the game world steeped in raw, wild magical energy. Here, spellcasters can attempt to weave this abundant power into their own spells, pushing the boundaries of what they could usually achieve. However, the road to arcane supremacy is fraught with peril, and the volatile energies of these places can lead to unexpected and dangerous consequences.</p>
 
 <p>As a Dungeon Master, this house rule offers a unique narrative tool to manage the use of these amplified abilities and build compelling encounters. Villains, drawn to the immense power offered by these locations, might set up their lairs in Places of Power, adding an extra layer of challenge and strategy to confrontations. Moreover, these magical nexuses can become focal points in your campaign, driving the narrative as players might actively seek these places out, eager to tap into their vast potential. This is not just a rule - it is a lore, a plot device, and a tantalizing challenge all rolled into one, offering new avenues for character development and world-building. Embark on this arcane journey, and let your game be infused with the volatile and awe-inspiring power of raw magic.</p>
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/PlaceOfPower._480x720.jpg" alt="A ruin teaming with magical energy." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/PlaceOfPower._480x720.jpg" alt="A ruin teaming with magical energy." height="720" width="480" />
+    
     
 </figure>
 
@@ -216,8 +278,8 @@
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/OpportunityAttack_480x720.jpg" alt="A fighter slashing at the back of an enemy as they run away. Black and white line art." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/OpportunityAttack_480x720.jpg" alt="A fighter slashing at the back of an enemy as they run away. Black and white line art." height="720" width="480" />
+    
     
         <figcaption class="figure-caption text-center">No Running!</figcaption>
     
@@ -256,8 +318,8 @@
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/monsters/mind_reaver_500x500.jpg" alt="A twisted creature with tenticles." height="500" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/monsters/mind_reaver_500x500.jpg" alt="A twisted creature with tenticles." height="500" width="500" />
+    
     
         <figcaption class="figure-caption text-center">A Mind Reaver (with jazz hands)</figcaption>
     
@@ -368,8 +430,8 @@
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/VathirondInspiration4.png" alt="A once elegant but now devistated city of complex and stacked buildings." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/VathirondInspiration4.png" alt="A once elegant but now devistated city of complex and stacked buildings." height="480" width="480" />
+    
     
         <figcaption class="figure-caption text-center">The Crown of Masks</figcaption>
     
@@ -411,8 +473,8 @@
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/vathirondpinspriation2.png" alt="A once elegant but now devistated city of complex and stacked buildings." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/vathirondpinspriation2.png" alt="A once elegant but now devistated city of complex and stacked buildings." height="480" width="480" />
+    
     
         <figcaption class="figure-caption text-center">The Crown of Crafts</figcaption>
     
@@ -464,8 +526,8 @@
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/VathirondWarSalvage.png" alt="A human and dwarf woman resting amid piles of salvage." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/VathirondWarSalvage.png" alt="A human and dwarf woman resting amid piles of salvage." height="480" width="480" />
+    
     
         <figcaption class="figure-caption text-center">Salvagers Resting</figcaption>
     
@@ -529,8 +591,8 @@ Your thoughts and queries are the lifeblood that fuels this chronicle. Don't hes
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/PlayerWithDiceAndPaper.jpg" alt="A player rolling dice and looking over their character sheets." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/PlayerWithDiceAndPaper.jpg" alt="A player rolling dice and looking over their character sheets." height="480" width="480" />
+    
     
 </figure>
 
@@ -565,8 +627,8 @@ In conclusion, XP is more than just a mechanic for character progression. It’s
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/transativeplanes.jpg" alt="A man sitting at a desk writing while surrounded by fantasy imagines from their imagination." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/transativeplanes.jpg" alt="A man sitting at a desk writing while surrounded by fantasy imagines from their imagination." height="480" width="480" />
+    
     
 </figure>
 
@@ -600,8 +662,8 @@ Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal 
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/design-of-etherea.jpg" alt="A man sitting at a desk writing while surrounded by fantasy imagines from their imagination." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/design-of-etherea.jpg" alt="A man sitting at a desk writing while surrounded by fantasy imagines from their imagination." height="480" width="480" />
+    
     
 </figure>
 
@@ -618,8 +680,8 @@ Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal 
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/etherea-crystal-rain-ruin.jpg" alt="A massive ruin in an overgrown forest glows from the inside while crystal rain falls from the sky." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/etherea-crystal-rain-ruin.jpg" alt="A massive ruin in an overgrown forest glows from the inside while crystal rain falls from the sky." height="480" width="480" />
+    
     
 </figure>
 
@@ -647,8 +709,8 @@ Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal 
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/etherea-setting-lineart.jpg" alt="A massive ruined city overgrown in forest dwarfing a band of adventurers." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/etherea-setting-lineart.jpg" alt="A massive ruined city overgrown in forest dwarfing a band of adventurers." height="480" width="480" />
+    
     
 </figure>
 
@@ -686,8 +748,8 @@ Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal 
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/etherea-magic-lineart.jpg" alt="A man standing in the middle of a magical strom of lightning, his face twisting." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/etherea-magic-lineart.jpg" alt="A man standing in the middle of a magical strom of lightning, his face twisting." height="480" width="480" />
+    
     
 </figure>
 
@@ -725,8 +787,8 @@ Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal 
 
 <figure class="figure float-end ms-4 clearfix">
     
-    <img class="img-fluid figure-img " src="/assets/img/treating-injuries480x480.jpg" alt="A man in armor kneeling next to a young woman who is holding her arm out to receive healing." height="480" />
-        
+    <img class="img-fluid figure-img " src="/assets/img/treating-injuries480x480.jpg" alt="A man in armor kneeling next to a young woman who is holding her arm out to receive healing." height="480" width="480" />
+    
     
 </figure>
 
@@ -769,31 +831,4 @@ Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal 
 
 <h3 id="conclusion">Conclusion</h3>
 
-<p>In conclusion, incorporating the Injury rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A simple and quick lasting injuries system for DnD based on the Exhausted playtest.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?</title><link href="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/" rel="alternate" type="text/html" title="The Return of the Write Spell - A Nostalgic Callback or Unnecessary Complexity?" /><published>2023-05-04T15:51:00+00:00</published><updated>2023-05-04T15:51:00+00:00</updated><id>https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/04/return-of-the-write-spell-in-dnd/"><![CDATA[<p>As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new <a href="https://www.dndbeyond.com/sources/one-dnd/ph-playtest-5" target="_blank" rel="noreferrer noopener">playtest material</a> the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.</p>
-
-<figure class="figure float-end mx-4">
-    
-    <img class="img-fluid figure-img " src="/assets/img/young_adult_wizard_scribing.jpg" alt="A young adult wizard sitting at a desk and writing in a book with magic energy around them." height="480" />
-        
-    
-</figure>
-
-<p><strong>A Blast from the Past: The Origins of Write and Scribe Spell</strong></p>
-
-<p>The Write spell first appeared in the earliest editions of Advanced Dungeons and Dragons. It allowed wizards to scribe spells into their spellbooks, with the interesting twist of having a chance of failure and explosion. This risk added a sense of danger and mystery to the process of acquiring new spells, making magic feel more esoteric and unpredictable.</p>
-
-<p>Over time, this mechanic was streamlined, and from 3rd edition onward, scribing spells became a simple class ability for wizards. This made the process less risky and time-consuming, allowing players to focus more on adventuring and less on managing their spellbooks.</p>
-
-<p><strong>A Return to OSR Thinking with Scribe Spell?</strong></p>
-
-<p>Some might argue that the introduction of the Scribe Spell in the 5th edition playtest material is an attempt to return to the Old School Renaissance (OSR) style of play, where magic was more unpredictable and dangerous. This could be seen as a nostalgic callback to the early days of D&amp;D, offering a more challenging and immersive experience for players who yearn for the good old days.</p>
-
-<p><strong>But Is It Necessary?</strong></p>
-
-<p>While it’s interesting to see the Scribe Spell make its debut in the playtest material as a callback to the original Write spell, its reintroduction raises the question of whether it adds meaningful depth to the game or just unnecessary complexity. It’s important for playtests to be experimental and push the boundaries of the game, but not every idea should make it into the final product.</p>
-
-<p>Personally, I’m all for a spell system that adds danger or interesting management options to play, but this doesn’t do any of that. The Scribe Spell, in its current form, may be more of a designer’s pet project rather than something that will genuinely enhance the player experience. Adding a layer of complexity and potential danger to scribing spells might seem like a fun idea on paper, but in practice, it could detract from the core gameplay and frustrate players who just want to get on with their adventures.</p>
-
-<p><strong>Conclusion</strong></p>
-
-<p>The introduction of the Scribe Spell in the D&amp;D 5th edition playtest material, as a callback to the original Write spell, is an intriguing nod to the game’s origins, but its practical value in the modern game is debatable. Personally, I don’t see what it adds to the game. While it’s great to see developers experimenting with different mechanics, it’s important to recognize when a design element might not be the best fit for the current edition. The Scribe Spell is a fascinating part of D&amp;D history, but it may be best left in the past as we continue to evolve the game and focus on what makes it truly engaging for players.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[As fans of Dungeons and Dragons 5th edition, we’re always excited to see what new playtest material the developers come up with. Recently, there’s been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&amp;D community. The change involves introducing a spell called “Scribe Spell” to handle the scribing process, a concept that harkens back to an earlier spell called “Write” from the first edition of Advanced Dungeons and Dragons. In this blog post, we’ll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>In conclusion, incorporating the Injury rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A simple and quick lasting injuries system for DnD based on the Exhausted playtest.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

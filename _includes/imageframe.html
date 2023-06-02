@@ -10,11 +10,11 @@
             height="{{ include.height }}"
         {% endif %}
         {% if include.width %}
-            height="{{ include.width }}"
+            width="{{ include.width }}"
         {% endif %}
         />
-        {% if include.href %}
-    </a>
+    {% if include.href %}
+        </a>
     {% endif %}
     {% if include.caption %}
         <figcaption class="figure-caption text-center">{{ include.caption }}</figcaption>
