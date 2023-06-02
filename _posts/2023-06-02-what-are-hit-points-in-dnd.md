@@ -62,13 +62,23 @@ Later D&D editions got increasingly philosophical about HP. Advanced D&D acknowl
 
 By the time 5th edition D&D came around, we're back in the abstract realm, with the game stating, "Hit Points represent a combination of physical and mental durability, the will to live, and luck."
 
-## Hit Points: Setting the Stage, Not the Genre
+## Hit Points: Setting the Stage, Not defining the Genre
 
 Hit Point mechanics are integral, but the presence of HP doesn't force your game into a specific genre. That job is for the Dungeon Master, who tailors how this mechanic comes into play. For instance, early D&D editions painted a grim, risky scene with low HP and tight damage thresholds, providing a sword-and-sorcery feel. In contrast, 5th Edition, with its generous HP pools and high-damage exploits, resonates with high-fantasy heroics.
 
 Remember, it's not the existence of HP that set these styles; it's their application. As the DM, you have the freedom to adjust this tool to shape your campaign's tone, from injecting grimdark elements into a 5th Edition game by reducing HP, to amping up the heroics in a 1st Edition game by increasing HP totals. At the end of the day, HP is a vital but flexible aspect of the D&D universe.
 
-## The HP Conundrum
+## Hit Points: Tools, Not Shackles
+
+It's crucial to remember that Hit Points are a mechanic, not a set of shackles for the DM. They have their boundaries and are not designed to simulate everything could befall a character. Every edition of D&D underscores this, suggesting that the DM delineates these limits.
+
+For instance, if a character decides to take a dip in a lava pool or plunge from a mile-high cliff, many DMs might opt not to roll damage, deeming these situations unsurvivable. In such cases, the official material often advises DMs to declare character death outright, instead of getting tangled in the mire of damage dice. *However, if these drastic scenarios occur frequently in your game, it might be worth reassessing your game design.*
+
+On the flip side, some DMs might channel a superhero vibe, letting characters brush off falls from great heights. That's equally valid. As with any ruling in a tabletop RPG, maintaining an internally consistent world is the important part.
+
+The bottom line? Understanding the tone of your game and setting appropriate limits is key when navigating the world of Hit Points. Keep this in mind as you weave your epic tales of adventure.
+
+## Living with the HP Conundrum
 
 Trying to define Hit Points is like grappling with a Mind Flayer — it's a sure path to madness. Make it too abstract, and you create a narrative disconnect. Make it too literal, and you grapple with the absurdities of surviving a lava bath or healing from the brink of death overnight.
 
