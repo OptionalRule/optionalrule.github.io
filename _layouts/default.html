@@ -10,6 +10,22 @@ twitter:
 <!doctype html>
 <html lang="en">
 <head>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        
+        if(localStorage.getItem('consentMode') === null){
+            gtag('consent', 'default', {
+                'ad_storage': 'denied',
+                'analytics_storage': 'denied',
+                'personalization_storage': 'denied',
+                'functionality_storage': 'denied',
+                'security_storage': 'denied',
+            });
+        } else {
+            gtag('consent', 'default', JSON.parse(localStorage.getItem('consentMode')));
+        }
+    </script>
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -97,5 +113,7 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
 </footer>
 <!-- Footer JavaScript -->
 {% include footer_scripts.html %}
+<!-- Google Tag Manager Concent Form -->
+{% include consent.html %}
 </body>
 </html>
