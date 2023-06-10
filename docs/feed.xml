@@ -1,4 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-06-03T02:30:03+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Decoding D&amp;amp;D - What the heck are Hit Points Anyway?</title><link href="https://www.optionalrule.com/2023/06/02/what-are-hit-points-in-dnd/" rel="alternate" type="text/html" title="Decoding D&amp;amp;D - What the heck are Hit Points Anyway?" /><published>2023-06-02T08:51:00+00:00</published><updated>2023-06-02T08:51:00+00:00</updated><id>https://www.optionalrule.com/2023/06/02/what-are-hit-points-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/06/02/what-are-hit-points-in-dnd/"><![CDATA[<p>The conversation around what Hit Points (HP) are and what they represent in Dungeons &amp; Dragons (D&amp;D) is a cyclical one. It’s a concept that periodically bubbles up in the tabletop role-playing game (TTRPG) community, like an ancient dragon in its cyclical slumber, and we seem to be in the midst of another awakening.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-06-10T17:41:02+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help pepole run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Pitch Perfect - Using a Pitch Deck for Your D&amp;amp;D Campaign</title><link href="https://www.optionalrule.com/2023/06/10/campaign-pitch-decks/" rel="alternate" type="text/html" title="Pitch Perfect - Using a Pitch Deck for Your D&amp;amp;D Campaign" /><published>2023-06-10T10:46:00+00:00</published><updated>2023-06-10T10:46:00+00:00</updated><id>https://www.optionalrule.com/2023/06/10/campaign-pitch-decks</id><content type="html" xml:base="https://www.optionalrule.com/2023/06/10/campaign-pitch-decks/"><![CDATA[<p>Launching a new Dungeons &amp; Dragons campaign is no small feat. It requires not only the arduous task of finding players, but also identifying those who are the perfect fit for your envisioned adventure. Even before delving into character backgrounds, safety tools, or other vital session zero elements, a Dungeon Master’s first hurdle is convincing potential players to invest their precious time and energy into the unfolding saga. This initial step bears striking similarity to pitching a fresh product or service. Just as entrepreneurs entice investors with the promise of innovation and value, DMs need to captivate potential players with a compelling campaign concept. Enter the Pitch Deck - a tool commonly used in the business world, but equally potent in setting the stage for a thrilling D&amp;D campaign.</p>
+
+<p>Indeed, a Pitch Deck isn’t mandatory. You could create a written summary instead. The advantage of a deck, however, is its brevity and focus on essentials. Regardless of format, the aim stays the same. We’ll conclude with a template to help you craft your own pitch, be it a Deck or a Summary.</p>
+
+<figure class="figure float-end ms-4 clearfix p-3 mb-5">
+    
+    <img class="img-fluid figure-img " src="/assets/img/CharactersCelebratingAtTable_480x480.png" alt="A group of adventurers in a tavern with a leader giving an inspirational speech." height="480" width="480" />
+    
+    
+        <figcaption class="figure-caption text-center">Run the game in your heart.</figcaption>
+    
+</figure>
+
+<h2 id="what-is-a-pitch-deck">What is a Pitch Deck?</h2>
+
+<p>A pitch deck is a short presentation that shows off your unique game idea. It gives people a sneak peek into your game’s style, story, changes to rules, schedule, and other key parts that make your game special.</p>
+
+<p>Although your D&amp;D game doesn’t need money from investors, a pitch deck is still very useful. It helps you get people excited to play and willing to spend their valuable time on your game.</p>
+
+<h2 id="creating-a-dd-campaign-pitch-deck">Creating a D&amp;D Campaign Pitch Deck</h2>
+
+<p>The contents of a pitch deck can vary based on firm a concept the DM has for the game they’re looking to run, but it often includes several key elements. First, it establishes the premise, tone, and style of the game, providing relevant examples. Second, it delves into how the party will interact with each other and their surrounding world. Third, it outlines how the game will engage with its mechanics. Finally, it sets certain baseline boundaries and expected norms within the group, laying the groundwork for future collaboration or safety tools.</p>
+
+<h3 id="the-campaign-pitch-summary">The Campaign Pitch Summary</h3>
+
+<p><strong>The essence of your pitch lies in just one slide - this is it!</strong> Captivating your audience involves inciting curiosity for more, so focus on broad strokes and highlights. Tease the plot, evoke the action, and convey the tone of the game. If the players you’re pitching to aren’t familiar with each other, share a few insights about your DMing style, the humor at the table, and the particular rules you’re implementing. Save the details for follow-up questions or Session Zero. Your primary goal is to pique the players’ interest and steer their thinking in the right direction from the start.</p>
+
+<p>Here’s what I recommend:</p>
+
+<ul>
+  <li><strong>Campaign Title and Tagline:</strong> Consider examples like “Rime of the Frostmaiden: A chilling struggle for survival in the heart of fantasy horror” or “Trouble on the Triboar Trail: Frontier justice meets rugged survival in the untamed Sword Mountains.”</li>
+  <li><strong>Setting:</strong> Include a brief mention of the setting, landscape, travel logistics, or how players will interact with the world.</li>
+  <li><strong>System:</strong> Outline the system, edition, any specific versions, and sources the game will use. Example: “5e D&amp;D, minor house rules apply. Core books, Xanathar’s, &amp; Tasha’s acceptable. No Unearthed Arcana, please.”</li>
+  <li><strong>Inspiration:</strong> Reference a few films, books, or other media that capture the campaign’s intended ambiance. If relevant, consider including a film-like rating for the campaign.</li>
+  <li><strong>Campaign Style:</strong> Indicate how Roleplaying, Lore, Action, and Combat will factor into the campaign. You might also want to mention the degree of consequence in the game. Adding a note about humor’s place can be helpful – e.g., “Significant lore and roleplay. Light humor. Minimize metagaming.” or “Intense lore and roleplaying, grim-dark setting, no phones at the table.”</li>
+  <li><strong>Schedule &amp; Venue:</strong> Be upfront about your proposed schedule, as this can often be a hurdle for campaigns. Also, specify whether the game will be online, in-person, or a mix. This is akin to “the ask” in pitches - be explicit. E.g., “Online via Roll20, weekly for 3 hours, Saturdays 5pm EST. Please commit to regular attendance”, “In-person at my home, biweekly Sundays at 2pm, flexible attendance.”</li>
+</ul>
+
+<h3 id="additional-topics">Additional Topics</h3>
+
+<p>The Campaign Pitch Summary is the essential part of your game pitch. Ideally, if your presentation includes more than one slide, the first one should captivate your players enough to prompt them to view the subsequent slides. The following are some additional slides that could provide players with more context. Out of these, I’d highly recommend “Game Boundaries &amp; Tools.” While many TTRPG players refer to these as Safety &amp; Consent, I believe the term “Boundaries” is more apt.</p>
+
+<p><strong>Suggested Additional Slides or Topics:</strong></p>
+
+<ul>
+  <li>
+    <p><strong>Tools &amp; Resources:</strong> If your game is online or employs extensive tooling, this is the place to list those out. DnDBeyond, VTT, Text Chat, Voice Chat, and any other tools players will be using during the game. Differentiate between optional and mandatory tools. You might also consider mentioning your boundaries regarding other tools.</p>
+  </li>
+  <li>
+    <p><strong>Table Styles:</strong> If you have specific expectations about game flow or table norms, outline them here. Whether you use an hourglass during play, ask players not to offer advice during others’ turns, or expect players to select their spells before their turn - these details belong on this slide.</p>
+  </li>
+  <li>
+    <p><strong>Optional and House Rules:</strong> House Rules are quite common in D&amp;D, and even the core rules offer different variations a DM might adopt. Highlight these here, especially if a rule significantly impacts certain classes or players.</p>
+  </li>
+  <li>
+    <p><strong>Baseline Boundaries:</strong> As touched on earlier, this would be my first choice for an additional slide after the summary. Boundaries are crucial in TTRPGs and can significantly affect the game’s enjoyment. While DMs should undoubtedly discuss player boundaries in session zero, it’s also essential to establish baseline expectations or non-negotiables ahead of that discussion. This sets a clear foundation and prevents any false sense of flexibility during session zero. For instance, I’m not fond of overly sexualized or evil play; it doesn’t mesh with my style. Your preferences and the nature of your game may differ. If you plan to run a particularly grim setting like Dark Sun, players should be aware of that before session zero. This slide is the place for such disclosures.</p>
+  </li>
+</ul>
+
+<figure class="figure float-end ms-4 clearfix p-3 mb-5">
+    
+        <a href="https://docs.google.com/presentation/d/1kjaK9Q9p90P54E2ITZPf0DHGyaZZMHXYAg52Ar19zp4/edit?usp=sharing" target="_blank">
+    
+    <img class="img-fluid figure-img " src="/assets/img/ROTFM_PitchDeck.gif" alt="Animated GIF of the pitch deck I used in my Rime of the Frostmaiden Campaign." width="480" />
+    
+        </a>
+    
+    
+        <figcaption class="figure-caption text-center">Example Pitch for my RotF Campaign</figcaption>
+    
+</figure>
+
+<h2 id="other-resources">Other Resources</h2>
+
+<p>Creating a TTRPG Pitch Deck can be as elaborate or as straightforward as the DM prefers. Personally, I enjoy developing a deck adorned with images to add a bit of flair to the pitch. However, a text summary could be just as effective. Choose the format that suits you, your game, and the target players best.</p>
+
+<p>Here are a few useful resources:</p>
+
+<ul>
+  <li><a href="/assets/downloads/TTRPG_Pitch_Deck_Template.pptx"><strong>Pitch Deck Template</strong></a> I’ve designed this simple pitch deck template, complete with prompts for a one-page summary. It’s provided in PowerPoint format, but you can upload it to Google Drive or open it with LibreOffice.
+    <ul>
+      <li>For a real-world example, take a look at this <a href="https://docs.google.com/presentation/d/1kjaK9Q9p90P54E2ITZPf0DHGyaZZMHXYAg52Ar19zp4/edit?usp=sharing" target="_blank">Rime of the Frostmaiden Pitch Deck</a> I used for my campaign.</li>
+    </ul>
+  </li>
+  <li><a href="https://slyflourish.com/one_page_campaign_guide.html" target="_blank"><strong>Writing a One-Page Campaign Guide</strong></a> by Mike ‘Sly Flourish’ Shea offers another perspective. While I prefer using the pitch to pique interest and then this tool to provide more context prior to session zero, you could begin with this if you’ve already garnered sufficient interest.</li>
+  <li><a href="https://youtu.be/MtH1SP1grxo" target="_blank"><strong>Pitching Your Campaign</strong></a> by Matt Colville is a fantastic video from his Running the Game series.</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Getting player investment from the start can be a powerful tool for launching your campaign on the right foot. It not only helps identify players who are a good fit for your style of game,  but also directs their creative energies from the get-go. While session zero tends to get the limelight, we shouldn’t overlook engaging the right players even before we reach that point. Pitching your game in a fun and engaging way can help you navigate past common challenges by aligning with the right players from the beginning.</p>
+
+<p>Now get out there and run some great games!</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Launching a new Dungeons &amp; Dragons campaign is no small feat. It requires not only the arduous task of finding players, but also identifying those who are the perfect fit for your envisioned adventure. Even before delving into character backgrounds, safety tools, or other vital session zero elements, a Dungeon Master’s first hurdle is convincing potential players to invest their precious time and energy into the unfolding saga. This initial step bears striking similarity to pitching a fresh product or service. Just as entrepreneurs entice investors with the promise of innovation and value, DMs need to captivate potential players with a compelling campaign concept. Enter the Pitch Deck - a tool commonly used in the business world, but equally potent in setting the stage for a thrilling D&amp;D campaign.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/CharactersCelebratingAtTable_480x480.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/CharactersCelebratingAtTable_480x480.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Decoding D&amp;amp;D - What the heck are Hit Points Anyway?</title><link href="https://www.optionalrule.com/2023/06/02/what-are-hit-points-in-dnd/" rel="alternate" type="text/html" title="Decoding D&amp;amp;D - What the heck are Hit Points Anyway?" /><published>2023-06-02T08:51:00+00:00</published><updated>2023-06-02T08:51:00+00:00</updated><id>https://www.optionalrule.com/2023/06/02/what-are-hit-points-in-dnd</id><content type="html" xml:base="https://www.optionalrule.com/2023/06/02/what-are-hit-points-in-dnd/"><![CDATA[<p>The conversation around what Hit Points (HP) are and what they represent in Dungeons &amp; Dragons (D&amp;D) is a cyclical one. It’s a concept that periodically bubbles up in the tabletop role-playing game (TTRPG) community, like an ancient dragon in its cyclical slumber, and we seem to be in the midst of another awakening.</p>
 
 <p>It’s no surprise that understanding HP often seems like trying to learn Draconic without a spell of Comprehend Languages. Table Top Roleplaying Games are narrative adventures, so we naturally want to weave a compelling story around every game element. And therein lies the enigma of Hit Points - no matter how you narrate them, you’re likely to walk into a wall of confusion and pile of contradictions.</p>
 
@@ -795,56 +887,4 @@ Fast forward to modern D&amp;D, the distinction between the Astral and Ethereal 
 
 <p>Yet the divine landscape of Etherea is not limited to these grand ideals. Just as the world is filled with Echoforms, so too is it filled with smaller gods, local deities born from intense Echoforms fostered by specific traditions, rites, or even locations. These deities might rule over a single river, a particular forest, or even a humble village. They are deeply tied to the communities that worship them, their fates and fortunes often seen as intertwined.</p>
 
-<p>Such is the grand tapestry of faith in Etherea. It is a world where the divine is as varied and complex as the people who worship them, where the line between mortal and god can blur, and where the echoes of belief shape not just the Umbraweave, but the very fate of the world itself.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Shadowdark" /><category term="Lore" /><summary type="html"><![CDATA[An introduction my homebrew setting of Etherea, for use with the Shadowdark RPG.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/etherea-setting-lineart.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/etherea-setting-lineart.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Revised Injured Condition</title><link href="https://www.optionalrule.com/2023/05/13/revised-injury-condition/" rel="alternate" type="text/html" title="Revised Injured Condition" /><published>2023-05-13T10:30:00+00:00</published><updated>2023-05-13T10:30:00+00:00</updated><id>https://www.optionalrule.com/2023/05/13/revised-injury-condition</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/13/revised-injury-condition/"><![CDATA[<p>Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.</p>
-
-<p>The lasting injury mechanic fosters a sense of camaraderie among players as they must now invest in each other’s well-being, reinforcing the bonds of their adventuring party. By raising the stakes in this way, victories become even more rewarding, and surviving against the odds offers an unparalleled sense of accomplishment. In essence, this system deepens player engagement, making every encounter, decision, and dice roll truly matter in their shared story.</p>
-
-<p>Below is a revised version of the <a href="/2022/10/01/injured-condition-onednd/">original Injury Rules</a> I created based on the OneDnD playtest changes to Exhaustion.</p>
-
-<figure class="figure float-end ms-4 clearfix">
-    
-    <img class="img-fluid figure-img " src="/assets/img/treating-injuries480x480.jpg" alt="A man in armor kneeling next to a young woman who is holding her arm out to receive healing." height="480" width="480" />
-    
-    
-</figure>
-
-<h3 id="injured-condition">Injured [Condition]</h3>
-
-<p>While you are subject to the Injured Condition, you experience the following effects:</p>
-
-<ul>
-  <li>
-    <p><strong>Levels of Injury.</strong> This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.</p>
-  </li>
-  <li>
-    <p><strong>d20 Rolls Affected.</strong> When you make a d20 Test, you subtract your injury level from your d20 roll.</p>
-  </li>
-  <li>
-    <p><strong>Spell Save DCs Affected.</strong> Subtract your injury level from the Spell save DC of any Spell you cast.</p>
-  </li>
-  <li>
-    <p><strong>Gaining the Condition.</strong> A character gains 1 level of Injury whenever they fail a death save or if they are damaged by more than half their max hit points from a single source of damage. Characters killed through the Massive Damage rules gain 10 levels of Injury.</p>
-  </li>
-  <li>
-    <p><strong>Recovering.</strong> Immediately after finishing a Long Rest, the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. A character may gain advantage on a recovery roll if they are being provided medical care, provided hot meals, and in a restful environment, or other conditions as determined by the DM. Characters without adequate shelter or in a very stressful environment roll recovery at disadvantage. When their injury level reaches 0, the character is no longer injured.</p>
-  </li>
-</ul>
-
-<h4 id="class-ability">Class Ability</h4>
-
-<p><strong>Shake it Off.</strong> Fighters, Paladins, and Rangers gain the ‘Shake it off’ ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of Injury. They can use this ability once and regain the ability to do so after a Long Rest.</p>
-
-<h4 id="magic">Magic</h4>
-
-<ul>
-  <li>
-    <p><strong>Healing Injury with Magic.</strong> One level of Injury may be removed by casting Lesser Restoration. Greater Restoration removes all levels of injury.</p>
-  </li>
-  <li>
-    <p><strong>Bring Out Your Dead.</strong> Any injury remains with a character brought back to life through Revivify, or Raise Dead, with a maximum of Injury level 9. Resurrection, True Resurrection, and Wish bring characters back to life with 0 levels of injury.</p>
-  </li>
-</ul>
-
-<h3 id="conclusion">Conclusion</h3>
-
-<p>In conclusion, incorporating the Injury rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A simple and quick lasting injuries system for DnD based on the Exhausted playtest.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/treating-injuries480x480.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Such is the grand tapestry of faith in Etherea. It is a world where the divine is as varied and complex as the people who worship them, where the line between mortal and god can blur, and where the echoes of belief shape not just the Umbraweave, but the very fate of the world itself.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Shadowdark" /><category term="Lore" /><summary type="html"><![CDATA[An introduction my homebrew setting of Etherea, for use with the Shadowdark RPG.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/etherea-setting-lineart.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/etherea-setting-lineart.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
