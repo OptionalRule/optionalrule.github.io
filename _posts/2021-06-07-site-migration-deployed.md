@@ -3,7 +3,7 @@ layout: post
 title: Site Migration Complete
 category: Misc
 author: Scott Turnbull
-summary: Notice of the completion of our site migration to a faster hosting service.
+description: Notice of the completion of our site migration to a faster hosting service.
 description: The site has been updated and under new hosting.
 image: /assets/img/lighthouse-results-1092x921.jpg
 ---

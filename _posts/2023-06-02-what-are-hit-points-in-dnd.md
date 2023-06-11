@@ -8,7 +8,7 @@ categories:
 image: /assets/img/mandy-jurgens-female-plate_475x672.jpg
 author: Scott Turnbull
 tags: []
-summary: This post unravels the history of D&D's Hit Points (HP), from wargaming roots to 5th Ed's abstract system. And it looks into what the heck hit points are supposed to be anyway.
+description: This post unravels the history of D&D's Hit Points (HP), from wargaming roots to 5th Ed's abstract system. And it looks into what the heck hit points are supposed to be anyway.
 ---
 The conversation around what Hit Points (HP) are and what they represent in Dungeons & Dragons (D&D) is a cyclical one. It's a concept that periodically bubbles up in the tabletop role-playing game (TTRPG) community, like an ancient dragon in its cyclical slumber, and we seem to be in the midst of another awakening.
 

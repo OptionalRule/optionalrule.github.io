@@ -7,7 +7,7 @@ category: RPG Resources
 author: Scott Turnbull
 image: /assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg
 tags: []
-summary: A set of 5e house rules that make journeys fun by limiting long rests on the road and providing some rules for camps.
+description: A set of 5e house rules that make journeys fun by limiting long rests on the road and providing some rules for camps.
 ---
 
 Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.

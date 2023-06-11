@@ -7,7 +7,7 @@ category: RPG Resources
 author: Scott Turnbull
 image: /assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg
 tags: []
-summary: Adding journey actions to make travel exciting again in 5th edition Dungeons & Dragons.
+description: Adding journey actions to make travel exciting again in 5th edition Dungeons & Dragons.
 ---
 
 Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure.  Last week I posted [Perilous Journey's Part 1]({% link _posts/2021-07-13-perilous-journeys-in-5e-p1.md %}), which turns travel into a series of encounters like any other dungeon. This week, I'll look at defining some ways that party members can take meaningful actions during journeys.  These **Journey Actions** provide gameplay for the travel experience, as well as create dependencies between members of the party. 

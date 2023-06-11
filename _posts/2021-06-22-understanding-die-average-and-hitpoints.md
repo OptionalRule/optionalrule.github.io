@@ -4,7 +4,7 @@ title: On Die Averages and Hit Points in 5e
 date: 2021-06-22 09:32
 category: Analysis
 author: Scott Turnbull
-summary: A breakdown of how we arrive at die result average numbers, and how that can cause errors in rolling HP and designing monsters.
+description: A breakdown of how we arrive at die result average numbers, and how that can cause errors in rolling HP and designing monsters.
 image: /assets/img/skillcheck-480x363.jpg
 ---
 I've had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff.  However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results.  The solution isn't as complex as this is going to make it seem, I'm just laying out the specifics so it's all apparent.

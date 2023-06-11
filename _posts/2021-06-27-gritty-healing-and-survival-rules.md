@@ -5,7 +5,7 @@ date: 2021-06-27 10:26
 category: RPG Resources
 author: Scott Turnbull
 tags: []
-summary: My simple gritty healing rules for 5e DnD to attend healing and add strategic gameplay.
+description: My simple gritty healing rules for 5e DnD to attend healing and add strategic gameplay.
 image: /assets/img/camping_party_475x633.jpg
 ---
 

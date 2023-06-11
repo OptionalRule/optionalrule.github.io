@@ -5,7 +5,7 @@ date: 2021-06-30 08:00
 category: RPG Resources
 author: Scott Turnbull
 tags: []
-summary: Part 2 of my Gritty Healing and Survival Rules for 5e address mechanics for spells and potions.
+description: Part 2 of my Gritty Healing and Survival Rules for 5e address mechanics for spells and potions.
 image: /assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg
 ---
 

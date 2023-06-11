@@ -5,7 +5,7 @@ image: /assets/img/young_adult_wizard_scribing.jpg
 date: 2023-05-04 15:51
 category: RPG Resources
 author: Scott Turnbull
-summary: This blog post explores the reintroduction of the Write spell in the D&D 5th edition playtest material, discussing its origins, potential purpose, and whether it adds meaningful depth or unnecessary complexity to the game.
+description: This blog post explores the reintroduction of the Write spell in the D&D 5th edition playtest material, discussing its origins, potential purpose, and whether it adds meaningful depth or unnecessary complexity to the game.
 ---
 
 As fans of Dungeons and Dragons 5th edition, we're always excited to see what new <a href="https://www.dndbeyond.com/sources/one-dnd/ph-playtest-5" target="_blank" rel="noreferrer noopener">playtest material</a> the developers come up with. Recently, there's been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&D community. The change involves introducing a spell called "Scribe Spell" to handle the scribing process, a concept that harkens back to an earlier spell called "Write" from the first edition of Advanced Dungeons and Dragons. In this blog post, we'll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.

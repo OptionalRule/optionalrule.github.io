@@ -6,7 +6,7 @@ category: Analysis
 author: Scott Turnbull
 image: /assets/img/abilityscore_generation_chart_1419x826.jpg
 tags: []
-summary: Comparing different methods of random ability score generation in your 5th edition game.
+description: Comparing different methods of random ability score generation in your 5th edition game.
 ---
 
 Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons & Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn't come out until Xanathar's for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.

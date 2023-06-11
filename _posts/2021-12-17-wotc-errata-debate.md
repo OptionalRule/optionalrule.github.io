@@ -5,7 +5,7 @@ date: 2021-12-17 10:47
 category: Analysis
 author: Scott Turnbull
 tags: []
-summary: My take on the recent Wizards of the Coast Dungeons and Dragons 5e errata.
+description: My take on the recent Wizards of the Coast Dungeons and Dragons 5e errata.
 description: My take on teh recent Wizards of the Cost Dungeons and Dragons 5e errata.
 ---
 

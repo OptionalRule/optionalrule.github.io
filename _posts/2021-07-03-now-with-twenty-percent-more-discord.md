@@ -5,7 +5,7 @@ date: 2021-07-03 16:52
 category: Misc
 author: Scott Turnbull
 tags: []
-summary: I've put up a discord server for rpg and 5e rules discussion, advice for games, and other TTRPG Talk.
+description: I've put up a discord server for rpg and 5e rules discussion, advice for games, and other TTRPG Talk.
 ---
 
 I just opened a discord server for rules discussions, workshops and the like.  People interested in thoughtful 
