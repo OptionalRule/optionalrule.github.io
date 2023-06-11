@@ -1,0 +1,11 @@
+---
+layout: post
+title: This is a new article
+date: YYYY-MM-DD HH:MM
+category: Category
+author: Scott Turnbull
+image: /assets/img/OR_Screenshot-870x570.jpg
+summary: Summary of the article
+description: Description of the article
+
+---
