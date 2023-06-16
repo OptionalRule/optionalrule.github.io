@@ -24,7 +24,8 @@
             <ul class="nav navbar-nav ms-auto w-100 justify-content-end">
                 <li class="nav-item">
                     {% for social in site.data.socials%}
-                    <a class="nav-link d-inline" href="{{ social.link}}">
+                    <a class="nav-link d-inline" href="{{ social.link}}" aria-label="Optional Rule on {{ social.name }}" 
+                    target="_blank">
                         <i class="fab fa-{{ social.name }}"></i>
                         <span class="d-none">{{ social.name | capitalize }}</span>
                     </a>

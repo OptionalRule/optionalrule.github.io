@@ -2,25 +2,39 @@
 <ul class="social-media-list">
     {%- if social.facebook -%}<li><a rel="me icoTwitter"
             href="https://www.facebook.com/{{ social.facebook | cgi_escape | escape }}"
+            aria-label="Optional Rule on Facebook"
+            target="_blank"
             title="{{ social.facebook | escape }}"><i class="fab fa-facebook"></i></a></li>{%- endif -%}
     {%- if social.github -%}<li><a rel="me" href="https://github.com/{{ social.github | cgi_escape | escape }}"
-            title="{{ social.github | escape }}"><i class="fab fa-facebook"></i></a></li>{%- endif -%}
+            title="{{ social.github | escape }}"
+            aria-label="Optional Rule on GitHub"
+            ><i class="fab fa-facebook"></i></a></li>{%- endif -%}
     {%- if social.instagram -%}<li><a rel="me"
             href="https://www.instagram.com/{{ social.instagram | cgi_escape | escape }}"
+            aria-label="Optional Rule on Instagram"
+            target="_blank"
             title="{{ social.instagram | escape }}"><i class="fab fa-facebook"></i></a></li>{%- endif -%}
     {%- if social.linkedin -%}<li><a rel="me"
             href="https://www.linkedin.com/in/{{ social.linkedin | cgi_escape | escape }}"
+            aria-label="Optional Rule on LinkedIn"
+            target="_blank"
             title="{{ social.linkedin | escape }}"><i class="fab fa-facebook"></i></a></li>{%- endif -%}
     {%- if social.pinterest -%}<li><a rel="me"
             href="https://www.pinterest.com/{{ social.pinterest | cgi_escape | escape }}"
+            aria-label="Optional Rule on Pinterest"
+            target="_blank"
             title="{{ social.pinterest | escape }}"><i class="fab fa-facebook"></i></a></li>{%- endif -%}
     {%- if social.twitter -%}<li><a rel="me" href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}"
+            aria-label="Optional Rule on Twitter"
+            target="_blank"
             title="{{ social.twitter | escape }}"><i class="fab fa-twitter"></i></a></li>{%- endif -%}
     {%- if social.youtube -%}<li><a rel="me" href="https://www.youtube.com/{{ social.youtube | cgi_escape | escape }}"
+            aria-label="Optional Rule on YouTube"
+            target="_blank"
             title="{{ social.youtube | escape }}"><i class="fab fa-facebook"></i></a></li>{%- endif -%}
     {%- if social.youtube_channel -%}<li><a rel="me"
             href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}"
+            aria-label="Optional Rule Challen on youtube_channel_name"
+            target="_blank"
             title="{{ social.youtube_channel_name | escape | default: 'YouTube' }}"><i class="fab fa-facebook"></i></a></li>{%- endif -%}
-    {%- if social.keybase -%}<li><a rel="me" href="https://keybase.io/{{ social.keybase | cgi_escape | escape }}"
-            title="{{ social.keybase | escape }}"><i class="fab fa-facebook"></i></a></li>{%- endif -%}
 </ul>

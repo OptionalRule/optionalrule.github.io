@@ -5,7 +5,7 @@ date: 2023-06-10 10:46
 category: RPG Resources
 image: /assets/img/CharactersCelebratingAtTable_480x480.png
 author: Scott Turnbull
-tags: []
+tags: [TTRPG, DnD, Player Recruitment, Safety Tools]
 description: Pitch your D&D campaign like a start-up. Use a pitch deck to attract the right players, align expectations and kickstart a successful game.
 ---
 Launching a new Dungeons & Dragons campaign is no small feat. It requires not only the arduous task of finding players, but also identifying those who are the perfect fit for your envisioned adventure. Even before delving into character backgrounds, safety tools, or other vital session zero elements, a Dungeon Master's first hurdle is convincing potential players to invest their precious time and energy into the unfolding saga. This initial step bears striking similarity to pitching a fresh product or service. Just as entrepreneurs entice investors with the promise of innovation and value, DMs need to captivate potential players with a compelling campaign concept. Enter the Pitch Deck - a tool commonly used in the business world, but equally potent in setting the stage for a thrilling D&D campaign.

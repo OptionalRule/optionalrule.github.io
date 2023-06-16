@@ -13,11 +13,15 @@ a.site-title, .post-title a {
         color: $night-rider !important;
 }
 
+.post-title a:hover {
+    color: $black !important;
+}
+
 .post-content > p {
     text-align: justify;
 }
 .post-meta {
-    color: $noble-gray;
+    color: $dark;
     font-style: italic;
 }
 

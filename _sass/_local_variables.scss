@@ -1,7 +1,10 @@
 /* Declairations */ 
 $very-dark-gray: #464646;
-$noble-gray: #a1a1a1;
+$noble-gray:  #a1a1a1;
 $night-rider: #333333;
+$dnd-title: #58180D;
+$dnd-meta: #583e0d;
+$black: #000000;
 
 $body-color: $very-dark-gray;
 $font-family-sans-serif:      system-ui, -apple-system, "Segoe UI", "Open Sans", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
@@ -11,9 +14,9 @@ $headings-font-family: "Playfair Display" !default;
 $link-decoration: none !default;
 
 /* colors */
-$primary: #ca9b52;
+$primary: #6e3000; // #ca9b52;
 $success: #566E3D;
-$info: #C0D6DF;
+$info: #e0e5c1;
 $dark: #333333;
 $danger: #440D13;
 
