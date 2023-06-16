@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Malevolent Monsters - Rage Husk
+date: 2023-06-16 11:45
 categories:
     - RPG Resources
     - Monsters
