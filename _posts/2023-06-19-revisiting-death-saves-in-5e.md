@@ -27,11 +27,15 @@ While this system allows for players to quickly rejoin the action, it doesn't ne
 
 ## House Rule: Positive Experiences through Negative Hit Points
 
-I used a House Rule in my 3d days that I think could easily be adapted in 5e. This rule ties the risk of death more closely to the level of action, buts more managed uncertainty back into an encounter, and encourages collective responsibility for the group's survival.
+I used a House Rule in my 3E days that I think could easily be adapted in 5E. This rule ties the risk of death more closely to the level of action, buts more managed uncertainty back into an encounter, and encourages collective responsibility for the group's survival.
 
-A character can drop to negative HP up to their Constitution (CON), without immediately dying. Once in this negative HP state, they lose 1 HP at the start of each subsequent round until they stabilize. The player rolls a D20 at the end of each of their turns - rolling higher than their current negative damage keeps them in the game, whereas rolling lower means they die. A roll of 20 always succeeds, and two successes stabilize the character.
+A character can drop negative HP up to their Constitution (CON) score plus level, before they succumb to death. When a character's HP drop below 0 and they haven't yet stabilized, they need to make a CON save. The difficulty class (DC) for this save is equal to their current negative hit point total. Failure results in the character's demise, while a successful save inflicts 1 point of damage. Achieving success on two saves stabilizes the character at their present negative HP value.
 
-Characters who are negative less than their CON modifier must remain prone and cannot take Bonus Actions or Reactions. Any healing received, if it doesn't bring you above 0 HP, counts as one success towards stabilization.
+Any healing received that doesn't elevate the character to 0 HP or above, counts as a single successful save towards stabilization.
+
+Characters with a negative HP value up to their CON modifier must remain prone and are unable to take bonus actions or reactions until their hit points return  above 0.
+
+*DMs may want to consider removing the Healing Word spell from the game or reducing it to just 1d4 of healing, otherwise this is needless complexity without changing things much.*
 
 ## Effect on Play
 
