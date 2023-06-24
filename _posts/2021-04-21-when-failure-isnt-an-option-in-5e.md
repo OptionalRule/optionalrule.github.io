@@ -3,12 +3,19 @@ title: When Failure Isn’t an Option in 5e
 author: Scott Turnbull Turnbull
 layout: post
 date: 2021-04-21T16:18:12+00:00
+image: /assets/img/depressed_thief_480x637.jpg
 description: Make failing skill rolls fun in 5th edition and why it is important to fail.
 categories:
   - RPG Resources
 ---
 Handling failure is something people seem to struggle with in 5th edition Dungeons & Dragons. When to fail, what happens when you do, and how to keep the game moving are constant topics of discussions. In my view, [Progressive Failure and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %}) is a very useful technique, but it&#8217;s just one of many in the DMs toolbox. As a discussion topic, people often seem to misunderstand the role of failure in RPGs. Worse, a small sub-population has begun to take terms like &#8216;failing-forward&#8217; to mean failure shouldn&#8217;t be possible. So taking a moment to consider the options and tools available can make even failure a fun experience in TTRPGs.
-
+{% include imageframe.html
+  figure_class="float-end ms-4 clearfix p-3 mb-5"
+  src="/assets/img/depressed_thief_480x637.jpg"
+  alt="A wounded warrior crawling on the ground with an arrow sticking out of their side."
+  width="480"
+  height="720"
+%}
 ## Failing to Fail
 
 The first order problem many DMs have with failure is introducing it at the wrong time. Mystery scenarios are a great example of this, where players must uncover a clue to move the game forward. Likewise, an NPC might need to be influenced to allow the plot to progress. While DMs might think this is a moment of tension that needs a skill roll, these are exactly the kinds of situations you do NOT want to roll for. Anything that can bring a game to a stop shouldn&#8217;t be subject to failure.
