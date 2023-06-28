@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-06-24T23:17:04+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Gritty Survival in 5e - Breathing life into Death Saves</title><link href="https://www.optionalrule.com/2023/06/19/revisiting-death-saves-in-5e/" rel="alternate" type="text/html" title="Gritty Survival in 5e - Breathing life into Death Saves" /><published>2023-06-19T14:59:00+00:00</published><updated>2023-06-19T14:59:00+00:00</updated><id>https://www.optionalrule.com/2023/06/19/revisiting-death-saves-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2023/06/19/revisiting-death-saves-in-5e/"><![CDATA[<p>Ever found yourself scratching your head over the peculiarities of the Death Save system in Dungeons and Dragons (DnD) 5e? In particular, how the system seems disconnected from the gameplay and action. It can seem counter-intuitive when zero hit points result in the same outcome for any character, regardless of how they arrived there. The Death Save min-game is the same, whether you’ve taken a single point of damage, or sustained a catastrophic 150-foot fall. In this post, I aim to dissect the effects of this system on the game and propose a house rule that could shake things up to make the prospect of death an exciting part of the action again.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-06-28T14:32:40+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Summon the Unusual - 3 New Spells for DnD 5e</title><link href="https://www.optionalrule.com/2023/06/28/arcane-servant-spells/" rel="alternate" type="text/html" title="Summon the Unusual - 3 New Spells for DnD 5e" /><published>2023-06-28T09:40:00+00:00</published><updated>2023-06-28T09:40:00+00:00</updated><id>https://www.optionalrule.com/2023/06/28/arcane-servant-spells</id><content type="html" xml:base="https://www.optionalrule.com/2023/06/28/arcane-servant-spells/"><![CDATA[<p>As a fan of magically animated minions, I’ve always felt somewhat limited by the options available in the 5th edition of Dungeons and Dragons. If you’re intrigued by the idea of a “pet” class in D&amp;D, your primary option is to become a Necromancer and use Animate Dead. However, the image of a group of shambling undead isn’t always what players envision. Given the rich narrative tradition of casters animating objects, constructs, or elements, it’s perplexing that these options aren’t more prevalent in the game.</p>
+
+<p>To address this conundrum, I’ve incorporated three new spells into my games. They maintain balance with Animate Dead, offer compelling options for casters, and inject an element of arcane flavor into the gameplay. Allow me to share these additions with you.</p>
+
+<blockquote class="stat-block">
+  <h4 id="animated-weapon">Animated Weapon</h4>
+  <p><em>3rd-level Transmutation</em></p>
+
+  <hr />
+
+  <ul>
+    <li><strong>Casting Time:</strong> 1 minute</li>
+    <li><strong>Attack/Save:</strong> None</li>
+    <li><strong>Range:</strong> 10 ft</li>
+    <li><strong>Components:</strong> V, S, M (A target one-handed melee weapon)</li>
+    <li><strong>Duration:</strong>  24 hours</li>
+  </ul>
+
+  <hr />
+
+  <p>This spell imbues a mundane, one-handed melee weapon with potent magical energy, bringing it to life as an animated weapon. The weapon’s statistics and abilities are based on the Flying Sword as described in the Monster Manual, with the following exceptions: The damage and damage type of the animated weapon are determined by the mundane weapon type on which the spell is cast. Additionally, the caster may add their main casting ability modifier to the damage, and the weapon attacks using the caster’s melee spell attack bonus.</p>
+
+  <p>Once the spell is cast, the animated weapon becomes sentient and recognizes you as its master. It will dutifully follow your commands and fight on your behalf. As a bonus action on your turn, you can mentally command the weapon to move and attack a target within its reach. The weapon will continue attacking that target until it is defeated, it is given a new command, or your concentration on the spell ends. If the weapon’s hit points are reduced to 0, it is destroyed, and the spell ends.</p>
+
+  <p>The animated weapon remains under your control for the duration of the spell, but it requires your concentration while being commanded. If your concentration is broken, the weapon falls to the ground and becomes an ordinary inanimate weapon until you regain concentration to command it once more.</p>
+
+  <p>At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by one weapon die for every two slot levels above 3rd.</p>
+</blockquote>
+
+<blockquote class="stat-block">
+  <h4 id="clockwork-servant">Clockwork Servant</h4>
+  <p><em>3rd-level Conjuration</em></p>
+
+  <hr />
+
+  <ul>
+    <li><strong>Casting Time:</strong> 1 minute</li>
+    <li><strong>Attack/Save:</strong> None</li>
+    <li><strong>Range:</strong> 10 ft</li>
+    <li><strong>Components:</strong> V, S, M (10 gp scrap metal and parts)</li>
+    <li><strong>Duration:</strong>  24 hours</li>
+  </ul>
+
+  <hr />
+
+  <p>This spell creates a loyal clockwork servant, imbuing a significant source of scrap metal. The servant takes on the form and aesthetics determined by the caster’s wishes, while inheriting the abilities and characteristics of a Modron. Consult with the game master for the specific statistics of the construct servant.</p>
+
+  <p>On each of your turns, you can use a bonus action to mentally command any clockwork servant created by this spell, as long as it is within 60 feet of you. If you control multiple servants, you can command any or all of them simultaneously, issuing the same command to each one. You decide the construct’s actions and movement for its next turn, or you can give a general command, such as guarding a specific area. In the absence of specific commands, the construct defends itself against hostile creatures. Once a command is given, the servant continues to follow it until its task is complete.</p>
+
+  <p>The construct servant remains under your control for 24 hours. After this duration, it degrades into component parts. To maintain control of a construct servant for an additional 24 hours, you must cast this spell on it again before the current 24-hour period ends. When you do so, you can reassert your control over up to four servants you have created with this spell, instead of creating new ones.</p>
+
+  <p>If the spell expires, or when destroyed, a caster may recover 1d10 gp worth of material from the remnants of a servant.</p>
+
+  <p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 4th level or higher, you can create or reassert control over two additional construct servants for each slot level above 3rd.</p>
+</blockquote>
+
+<blockquote class="stat-block">
+  <h4 id="elemental-servant">Elemental Servant</h4>
+  <p><em>3rd-level Evocation</em></p>
+
+  <hr />
+
+  <ul>
+    <li><strong>Casting Time:</strong> 1 minute</li>
+    <li><strong>Attack/Save:</strong> None</li>
+    <li><strong>Range:</strong> 10 ft</li>
+    <li><strong>Components:</strong> V, S, M (source element of creature)</li>
+    <li><strong>Duration:</strong>  24 hours</li>
+  </ul>
+
+  <hr />
+
+  <p>This spell creates a loyal elemental servant, imbuing a significant source of earth, fire, air, or water within range with arcane animus and the semblance of life. The servant takes the form of a Mud, Steam, or Smoke Mephit, determined by the element used during the casting of the spell. Refer to the game master for the creature’s statistics.</p>
+
+  <p>On each of your turns, you can use a bonus action to mentally command any servant created by this spell as long as it is within 60 feet of you. If you control multiple servants, you can command any or all of them simultaneously, issuing the same command to each one. You decide the creature’s actions and movement for its next turn, or you can give a general command, such as guarding a specific chamber or corridor. In the absence of specific commands, the creature defends itself against hostile creatures. Once a command is given, the servant continues to follow it until its task is complete.</p>
+
+  <p>The servant remains under your control for 24 hours. After this duration, it no longer obeys your commands. To maintain control of a servant for an additional 24 hours, you must cast this spell on it again before the current 24-hour period ends. When you do so, you can reassert your control over up to four creatures you have animated with this spell, rather than creating new ones.</p>
+
+  <p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 4th level or higher, you can animate or reassert control over two additional creatures for each slot level above 3rd.</p>
+</blockquote>
+
+<h2 id="integration-and-discovery">Integration and Discovery:</h2>
+<p>To amplify the sense of adventure and discovery, I weave these spells into the fabric of the narrative instead of presenting them as standard spells accessible to all. I create opportunities for players to uncover these spells through their in-game actions. They might discover them as forgotten wisdom within a concealed library, earn them as accolades for gaining admission into a renowned wizard’s guild, or retrieve them from the ancient scrolls nestled in a formidable dragon’s treasure trove. By tying the procurement of these spells to the storyline, I instill an extra layer of intrigue and thrill, enriching my players’ journey. I think you can too.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>These spells open some fun possibilities for arcane spellcasters, providing players the opportunity to control flavorful arcane servants. With a sprinkle of creativity, you could even extend these spells to encompass additional schools of magic. Remember to find fun ways to weave these into your campaign, making them a rewarding part of the adventure. If concerns about power creep arise, you can always introduce a material component cost or other means to regulate the spell’s use within the world. Ultimately, I believe players seeking this type of interaction will find these spells tremendously enjoyable.</p>
+
+<p>Now get out there and run some great games!</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Explore new servant summoning spells for DnD 5e! This post introduces three innovative spells, adding depth and fun to your arcane gameplay.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gritty Survival in 5e - Breathing life into Death Saves</title><link href="https://www.optionalrule.com/2023/06/19/revisiting-death-saves-in-5e/" rel="alternate" type="text/html" title="Gritty Survival in 5e - Breathing life into Death Saves" /><published>2023-06-19T14:59:00+00:00</published><updated>2023-06-19T14:59:00+00:00</updated><id>https://www.optionalrule.com/2023/06/19/revisiting-death-saves-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2023/06/19/revisiting-death-saves-in-5e/"><![CDATA[<p>Ever found yourself scratching your head over the peculiarities of the Death Save system in Dungeons and Dragons (DnD) 5e? In particular, how the system seems disconnected from the gameplay and action. It can seem counter-intuitive when zero hit points result in the same outcome for any character, regardless of how they arrived there. The Death Save min-game is the same, whether you’ve taken a single point of damage, or sustained a catastrophic 150-foot fall. In this post, I aim to dissect the effects of this system on the game and propose a house rule that could shake things up to make the prospect of death an exciting part of the action again.</p>
 
 <figure class="figure float-end ms-4 clearfix p-3 mb-5">
     
@@ -900,42 +987,4 @@
 And there you have it – the bones and sinews of a city teetering on the brink, waiting to rise from the ashes or be forever consumed. Should your curiosity be piqued by these broad strokes of Vathirond, I'd be more than willing to delve into the labyrinth of adventures and encounters that were conceived within its Crowns. It's a testament to the city's captivating allure that I find myself yearning to return to its scarred yet resilient streets in any future explorations of Eberron.
 
 Your thoughts and queries are the lifeblood that fuels this chronicle. Don't hesitate to reach out via Twitter if Vathirond has caught your imagination or if you're grappling with burning questions. Your engagement breathes life into these words. Here's to shared adventures and stories yet untold. Until next time, Cheers!
-</div>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><category term="Lore" /><summary type="html"><![CDATA[Lore for the City of Vathirond in the Eberron setting.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/VathirondInspiration4.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/VathirondInspiration4.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Experience Matters - The benefits of XP in 5th edition</title><link href="https://www.optionalrule.com/2023/05/17/the-benefits-of-xp-in-5th-edition/" rel="alternate" type="text/html" title="Experience Matters - The benefits of XP in 5th edition" /><published>2023-05-17T11:00:00+00:00</published><updated>2023-05-17T11:00:00+00:00</updated><id>https://www.optionalrule.com/2023/05/17/the-benefits-of-xp-in-5th-edition</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/17/the-benefits-of-xp-in-5th-edition/"><![CDATA[<p>In the diverse world of Tabletop Role-Playing Games (TTRPGs), the progression system you choose can significantly influence the way your campaign unfolds. In 5th edition Dungeons &amp; Dragons (D&amp;D), two popular methods of character progression exist: Experience Points (XP) and Milestone Advancement. While Milestone Advancement has its merits, I am here to make a case for XP, an often overlooked, but immensely beneficial system.</p>
-
-<p>In a previous post I discussed the <a href="/2021/02/25/the-zen-of-awarding-experience-for-roleplaying/">Zen of Awarding Experience for Roleplaying</a> which demonstrates an easy method for awarding non-combat experience.  DMs can apply this to exploration or any activity beyond killing creatures. Chapters 8 and 3 of the 5e DMG also provide some guidance on this as well.  I had a recent exchange online that helped me summarize what I see the forgotten benefits of using XP are.  I thought I’d share them here.</p>
-
-<figure class="figure float-end ms-4 clearfix">
-    
-    <img class="img-fluid figure-img " src="/assets/img/PlayerWithDiceAndPaper.jpg" alt="A player rolling dice and looking over their character sheets." height="480" width="480" />
-    
-    
-</figure>
-
-<p><strong>Building a World One XP at a Time</strong> <br />
-XP connects characters to their actions within the world. Each monster slain, each trap disarmed, every cleverly negotiated encounter, earns the characters XP, helping them grow stronger and more skilled. This system offers a tangible reward for engaging with the world, breathing life into the setting and making it matter to the players.</p>
-
-<p>Milestone advancement, on the other hand, rewards characters simply for reaching certain points in the narrative. While this can create a clear path of progression, it misses a fundamental aspect of immersive role-play: the player’s interaction with the world. Milestone Advancement risks reducing the world to a mere backdrop against which the narrative unfolds, rather than an integral part of the story.</p>
-
-<p><strong>Pacing and Enjoying the Adventure with XP</strong>   <br />
-An often overlooked benefit of using XP is its influence on the game’s pacing. By linking character progression to actions within the game, XP allows the pace to ebb and flow naturally. It’s not a rigid timer, but a flexible measure of progress that reflects the story’s rhythm and the players’ actions. This fluidity also encourages players to immerse themselves in the unfolding events rather than racing to level up every few sessions.</p>
-
-<p>Moreover, the XP system allows players to savor the charm of lower level play. Personally, I find D&amp;D 5e most enjoyable at levels 7 or below, with a sweet spot between levels 3 to 5. Using XP slows down the game just enough to let players fully experience the content. It provides players, particularly newcomers, with ample time to familiarize themselves with their class abilities, deepening their connection to the game and enhancing their overall experience.</p>
-
-<p><strong>A Diversity of Incentives</strong>   <br />
-XP offers a flexible incentive system that can be tailored to the style of your campaign. Too often, DMs limit XP rewards to combat encounters. However, XP can be a motivating factor for a variety of actions. Award XP for clever problem-solving, negotiating with NPCs, or even for great role-playing moments. This diversity of incentives can drive engagement, encouraging players to think creatively and interact with the world in unique ways.</p>
-
-<p><strong>A Log of Memories</strong>  <br />
-Tracking XP can also provide an unexpected benefit: a log of your campaign’s major events. By noting down the sources of XP, you create a record of the group’s achievements and memorable moments. This can add depth to your campaign, fostering a sense of nostalgia and achievement as players look back on their journey.</p>
-
-<p><strong>Addressing D&amp;D’s Reward Structure</strong> <br />
-However, it’s also crucial to critique the overall reward structure in D&amp;D 5e. Wizards of the Coast, in their bid to make the game more appealing, have filled character classes with numerous abilities. While this empowers players and adds complexity, it also creates a potential issue.</p>
-
-<p>The plethora of class features reduces the need for external rewards such as magical items or gold, thus diminishing the need for characters to interact with the world. This can lead to characters feeling disconnected from the setting or campaign.</p>
-
-<p>Using XP is a small tool to combat this issue. By tying character progression to specific actions and outcomes, XP can reestablish a tangible connection between the characters and the world. It reintroduces the necessity of exploring, negotiating, and engaging with the campaign setting, fostering a more immersive role-playing experience.</p>
-
-<p><strong>A Word of Caution</strong> <br />
-While XP offers numerous benefits, it’s essential to be mindful of what you award XP for. Avoid giving XP for actions that undermine the spirit of the game, such as unnecessary aggression or disruptive behavior. XP is a tool to guide your players, encouraging them to engage in ways that enrich the campaign. Also, don’t fall into the trap of awarding XP to correct <strong>bad</strong> behavior at the table.  Many DMs who use XP look at negative player behavior and think and easy solution is to award experience for things like collaborating or showing up on time.  This seems attractive, but using in game incentives to address out of game issues will always come back to bite you. If there is behavior that needs to be address, do that, but don’t fall into the trap of thinking in game rules will correct bad player behavior.</p>
-
-<p><strong>Conclusion</strong>  <br />
-In conclusion, XP is more than just a mechanic for character progression. It’s a tool that, when used correctly, can foster engagement, enhance immersion, and create a richer, more rewarding D&amp;D experience. In 5th edition, our tools for connecting players to the world are few. Finding fun ways to do that can help build a more holistic narrative and immersive experience for all.  What do you think though?  How has experience worked for you in the past? Would you be tempted to give XP a try after reading this or are you ride-or-die on Milestone?  Drop me a comment <a href="https://twitter.com/optionalrule" target="_blank">over on twitter</a> to let me know what you think.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Advocating for XP in D&D 5e. this post discusses its role in boosting engagement, diversifying actions, and improving game immersion.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/PlayerWithDiceAndPaper.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/PlayerWithDiceAndPaper.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</div>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><category term="Lore" /><summary type="html"><![CDATA[Lore for the City of Vathirond in the Eberron setting.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/VathirondInspiration4.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/VathirondInspiration4.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

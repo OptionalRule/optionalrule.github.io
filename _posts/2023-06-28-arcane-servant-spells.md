@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Unleashing Arcane Servants
-date: 2023-06-26 16:40
+title: Summon the Unusual - 3 New  Spells for DnD 5e
+date: 2023-06-28 09:40
 category: RPG Resources
 author: Scott Turnbull
-image: /assets/img/OR_Screenshot-870x570.jpg
-description: Description of the article
+image: /assets/img/young_adult_wizard_scribing.jpg
+description: Explore new servant summoning spells for DnD 5e! This post introduces three innovative spells, adding depth and fun to your arcane gameplay.
 ---
-The captivating world of Dungeons and Dragons (DnD) 5e is filled with countless spells and abilities. Among these, the Animate Dead spell has always stood out for me. It's unique because it allows the caster to turn into a quintessential pet-controlling class for an extended period. This characteristic is uncommon as the 5e version has significantly toned down summoning spells compared to its previous versions. Moreover, the creature array available to the caster has also been pared down, making the persistence of servant summoning spells a peculiar phenomenon.
+As a fan of magically animated minions, I've always felt somewhat limited by the options available in the 5th edition of Dungeons and Dragons. If you're intrigued by the idea of a "pet" class in D&D, your primary option is to become a Necromancer and use Animate Dead. However, the image of a group of shambling undead isn't always what players envision. Given the rich narrative tradition of casters animating objects, constructs, or elements, it's perplexing that these options aren't more prevalent in the game.
 
-What strikes me as odder still is that the surviving spell summons undead creatures. However, the idea of a long-term summoned servant, pet, or companion originating from other schools of magic seems quite balanced and straightforward. Therefore, I propose a few additional spells to broaden the possibilities of summoning and binding servants for casters.
+To address this conundrum, I've incorporated three new spells into my games. They maintain balance with Animate Dead, offer compelling options for casters, and inject an element of arcane flavor into the gameplay. Allow me to share these additions with you.
 
 > #### Animated Weapon
 > *3rd-level Transmutation*
@@ -80,7 +80,9 @@ What strikes me as odder still is that the surviving spell summons undead creatu
 {:.stat-block}
 
 ## Integration and Discovery:
-To enhance the sense of adventure and discovery, we recommend incorporating these spells into your campaign as part of the narrative. Rather than offering them as standard spells available to all, allow players to stumble upon these spells through exciting encounters. They might uncover them as lost knowledge within a hidden library, receive them as rewards for joining a prestigious wizard's guild, or even recover them from the ancient scrolls of a mighty dragon's hoard. By making the acquisition of these spells a part of the story, you can add a layer of intrigue and excitement to your players' journey.
+To amplify the sense of adventure and discovery, I weave these spells into the fabric of the narrative instead of presenting them as standard spells accessible to all. I create opportunities for players to uncover these spells through their in-game actions. They might discover them as forgotten wisdom within a concealed library, earn them as accolades for gaining admission into a renowned wizard's guild, or retrieve them from the ancient scrolls nestled in a formidable dragon's treasure trove. By tying the procurement of these spells to the storyline, I instill an extra layer of intrigue and thrill, enriching my players' journey. I think you can too.
 
 ## Conclusion
-By expanding the possibilities for arcane spellcasters, these new spells offer players a chance to summon their own unique arcane servants. Whether it's an animated weapon, a construct servant, or an elemental ally, these spells add depth and versatility to spellcasting classes. Remember to integrate them into your campaign as part of the adventure, allowing your players to unearth these powerful spells and shape their destiny in the magical world of Dungeons and Dragons.
+These spells open some fun possibilities for arcane spellcasters, providing players the opportunity to control flavorful arcane servants. With a sprinkle of creativity, you could even extend these spells to encompass additional schools of magic. Remember to find fun ways to weave these into your campaign, making them a rewarding part of the adventure. If concerns about power creep arise, you can always introduce a material component cost or other means to regulate the spell's use within the world. Ultimately, I believe players seeking this type of interaction will find these spells tremendously enjoyable.
+
+Now get out there and run some great games!
