@@ -59,3 +59,5 @@ These rules are a simple way to turn what had been disjointed day by day travel 
 When writing this I decided to split it into two parts.  This part deals with what is essentially, the pacing element of travel. In the next part I will talk about how the party can interact with each other the road, as well as some simple modifications to healing and recovery.  So keep an eye out for that next week.
 
 Now get out there and run some great games.
+
+Continue this article is continued in [Perilous Journey's Part 2]({% link _posts/2021-07-24-perilous-journeys-in-5e-p2.md %})
