@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-07-23T18:32:52+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Narrative Landscapes - More Engaging TTRPG Travel</title><link href="https://www.optionalrule.com/2023/07/23/painting-geography-with-narrative/" rel="alternate" type="text/html" title="Narrative Landscapes - More Engaging TTRPG Travel" /><published>2023-07-23T12:00:00+00:00</published><updated>2023-07-23T12:00:00+00:00</updated><id>https://www.optionalrule.com/2023/07/23/painting-geography-with-narrative</id><content type="html" xml:base="https://www.optionalrule.com/2023/07/23/painting-geography-with-narrative/"><![CDATA[<p>The art of travel in Tabletop Roleplaying Games remains a perennial favorite in community discussions. Despite my earlier posts on constructing <a href="/2021/07/13/perilous-journeys-in-5e-p1/">Perilous Journeys in D&amp;D 5e</a>, the conversation must go beyond mere obstacles and challenges. The true crux lies in the marriage of narrative and geography - a fusion that is underscored yet often lacks actionable guidance. So, how can we elevate the routine task of terrain description into a thrilling spark for player immersion? Let’s dive in.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-11-04T16:18:37+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Dungeon of the Grieving Mind - Not Your Typical Dungeon!</title><link href="https://www.optionalrule.com/2023/11/04/dungeon-of-the-grieving-mind/" rel="alternate" type="text/html" title="Dungeon of the Grieving Mind - Not Your Typical Dungeon!" /><published>2023-11-04T00:00:00+00:00</published><updated>2023-11-04T00:00:00+00:00</updated><id>https://www.optionalrule.com/2023/11/04/dungeon-of-the-grieving-mind</id><content type="html" xml:base="https://www.optionalrule.com/2023/11/04/dungeon-of-the-grieving-mind/"><![CDATA[<p>Crafting dungeons that deeply resonate with the consequences of character choices? Now, that’s what I call top-notch Dungeon Mastering in Dungeons and Dragons. Inspired by a spirited discussion over on Reddit, I’ve crafted the dungeon you’re about to delve into. My hope? That you’ll find it a thrilling addition to your campaign. The premise is versatile enough to slide right into numerous D&amp;D storylines, whenever innocents have perished in the course of an adventure. An all too common occurrence in most campaigns.</p>
+
+<p><strong>Setup</strong>: Your players, in the thick of battle or perhaps a morally grey situation, have inadvertently caused the death of innocent bystanders. Little do they know, one of the fallen had a sibling: a devoted warlock bound to a mysterious fey from the <a href="https://forgottenrealms.fandom.com/wiki/Shadowfell" target="_blank">Shadowfell</a>. Recognizing the warlock’s anguish, this fey bestows the dungeon you’re about to explore as a “gift” to their loyal servant. Whether your players stumble upon it by sheer chance, through haunting dreams, or any other creative twist you fancy, is all up to you.</p>
+
+<p>This small dungeon is set up assuming a party of 5th level characters but mix and match to your group’s needs.</p>
+
+<figure class="figure float-end ms-4 clearfix p-3 mb-3">
+    
+    <img class="img-fluid figure-img " src="/assets/img/dungon-entrance_480x600.png" alt="A dark cave leading into a shadowy dungeon." height="600" width="480" />
+    
+    
+</figure>
+
+<p><strong>Dungeon Theme</strong>: <em>A Grieving Mind</em> - The dungeon is a representation of the vengeful sibling’s psyche. Each section is a manifestation of his grief, anger, and quest for vengeance. This gives you the chance to use environmental dangers, narrative encounters, and emotional challenges instead of relying heavily on traps.</p>
+
+<ol>
+  <li><strong>Entrance - Mourning</strong>:
+    <ul>
+      <li>The entrance is surrounded by soft weeping echoes. Ghostly apparitions of the deceased peasant show their last moments, playing on a loop.</li>
+      <li><strong>Enemies</strong> - 5 <a href="https://www.dndbeyond.com/monsters/17010-shadow" target="_blank">Shadows</a> (Yes, the CR is low but with the environmental effect I think it’s fine. Particularly for the first encounter.)</li>
+      <li><strong>Environmental Hazard</strong>: A fog slows movement by half, and characters must make a DC 10 Wisdom saving throw at the start of each round or be overwhelmed by feelings of guilt (disadvantage on attacks and checks).</li>
+    </ul>
+  </li>
+  <li><strong>Second Chamber - Anger</strong>:
+    <ul>
+      <li>The large chamber pulses with a fiery rage. Walls appear to be made of burning embers, and the heat is stifling. A guttural sound of someone screaming in rage periodically emanates from a random location in the room where flame erupts.</li>
+      <li><strong>Enemies</strong>: None</li>
+      <li><strong>Environmental Hazard</strong>: A jagged and uneven chamber, the players must succeed on 3 DC 13 Athletics or Acrobatics checks to successfully cross the room.  Each failure results in 1d10 fire damage.</li>
+    </ul>
+  </li>
+  <li><strong>Third Chamber - Reflection</strong>:
+    <ul>
+      <li>A vast underground lake where the surface acts as a mirror, showing each adventurer their reflection committing their worst mistakes or sins. The players must traverse a narrow stone pathway that sits just at the lakes water level.</li>
+      <li><strong>Enemies</strong>: <a href="https://www.dndbeyond.com/monsters/17208-water-weird" target="_blank">Water Weird</a> (see below)</li>
+      <li><strong>Encounter</strong>: Each character sees their reflection in the surface of the water and is challenged by it, not as combatants but with questions and accusations, challenging their morals and decisions. If the character tries to respond and defend themselves, they must pass a DC 13 Persuasion check. For every 2 characters that either fail the check, or do not attempt to defend themselves, 1 Water Weird appears and tries to drag a character into the water and drown them. (min 1)</li>
+    </ul>
+  </li>
+  <li><strong>Fourth Chamber - Descent into Madness</strong>:
+    <ul>
+      <li>A twisting labyrinth filled with whispering voices that doubt and belittle the adventurers, trying to make them doubt themselves. The environment and encounter are a recreation of whatever scene originally initiated this dungeon. For example, a party that fights a group of Kobolds but failed to stop them from sacrificing a group of peasants will encounter that scenario again.</li>
+      <li><strong>Enemies</strong>: (Whatever enemy the group originally fought)</li>
+      <li><strong>Encounter</strong>: The core of this encounter is for the players to relive the original encounter, this time randomly being transformed into the bystanders that lost their lives to realize the experience those people went through.  The characters have a hard time holding onto their sense of self. At the beginning of each round, the player must pass a DC 13 CHA save or be turned into a bystander for a round and are limited to the Commoners stat block.  If they are killed in this form, they return to their true self, prone on the ground, minus whatever damage they took, but can act normally.</li>
+    </ul>
+  </li>
+  <li><strong>Final Chamber - Heart of Darkness</strong>:
+    <ul>
+      <li>The center of the sibling’s grief. A blackened stone room where the shadow horror resides.</li>
+      <li><strong>Enemies</strong>: Shadow Horror (use the <a href="https://www.dndbeyond.com/monsters/16971-oni" target="_blank">Oni</a> stat-block), 2 <a href="https://www.dndbeyond.com/monsters/17131-shadow-demon" target="_blank">Shadow Demons</a>.</li>
+      <li><strong>Encounter</strong>: The sibling is there, having been transformed into a shadowy horror, a manifestation of their grief and desire for revenge turned into a dark entity. There is an opportunity for the DM to get creative here in how they want to end this, it should match whatever common theme is used in the campaign.  For example, upon being defeated the soul of the sibling rises and is confronted by the souls of their lost family who look at them with disappointment and grief as the siblings soul is dragged away to the Shadowfell by shadowy creatures.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>That’s it, with a bit of tweaking this is a simple adventure a DM could drop into almost any campaign.  Personally, I enjoy themed adventures that are a bit different and have a narrative undertone.  I hope you might find this useful as well.</p>
+
+<p>Now get out there and run some great games.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Encounters" /><summary type="html"><![CDATA[Explore a dynamic Dungeons and Dragons dungeon inspired by player choices, where a warlock seeks retribution for their fallen kin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/dungon-entrance_480x600.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/dungon-entrance_480x600.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Narrative Landscapes - More Engaging TTRPG Travel</title><link href="https://www.optionalrule.com/2023/07/23/painting-geography-with-narrative/" rel="alternate" type="text/html" title="Narrative Landscapes - More Engaging TTRPG Travel" /><published>2023-07-23T12:00:00+00:00</published><updated>2023-07-23T12:00:00+00:00</updated><id>https://www.optionalrule.com/2023/07/23/painting-geography-with-narrative</id><content type="html" xml:base="https://www.optionalrule.com/2023/07/23/painting-geography-with-narrative/"><![CDATA[<p>The art of travel in Tabletop Roleplaying Games remains a perennial favorite in community discussions. Despite my earlier posts on constructing <a href="/2021/07/13/perilous-journeys-in-5e-p1/">Perilous Journeys in D&amp;D 5e</a>, the conversation must go beyond mere obstacles and challenges. The true crux lies in the marriage of narrative and geography - a fusion that is underscored yet often lacks actionable guidance. So, how can we elevate the routine task of terrain description into a thrilling spark for player immersion? Let’s dive in.</p>
 
 <p>Traditional narrative often falls into one of two traps: outlining the minutiae of geography or focusing heavily on terrain-oriented challenges. But both miss out on an essential element: potential adventure and side quests within the landscape. This bridge is exactly what we aim to build today.</p>
 <figure class="figure float-end ms-4 clearfix p-3 mb-3">
@@ -729,129 +784,4 @@
 
 <p>This alteration doesn’t bog down gameplay with added choices, applies uniformly to all melee characters, provides the most substantial impact to characters with multiple attacks, and spares the added complexity of tracking marked targets. It retains the viability of Opportunity Attacks while synergizing well with abilities such as Protect, Intercept, Hide in Plain Sight, and many others, making martial characters, particularly fighters, far more dynamic.</p>
 
-<p>That’s my take on this potential enhancement to the Mark rule, but what about you? Do you see the value this could bring to your game? We’re all ears for your thoughts, so let’s start a conversation.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Explore a proposed revision to D&D 5E's "Mark" option to boost martial gameplay, simplifying rules and enriching combat dynamics.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OpportunityAttack_480x720.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OpportunityAttack_480x720.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Malevolent Monsters - The Mind Reaver</title><link href="https://www.optionalrule.com/2023/05/24/monster-mind-reaver/" rel="alternate" type="text/html" title="Malevolent Monsters - The Mind Reaver" /><published>2023-05-24T08:43:00+00:00</published><updated>2023-05-24T08:43:00+00:00</updated><id>https://www.optionalrule.com/2023/05/24/monster-mind-reaver</id><content type="html" xml:base="https://www.optionalrule.com/2023/05/24/monster-mind-reaver/"><![CDATA[<p>In the thrilling realm of Dungeons &amp; Dragons, where weI’ve crafted epic battles and monstrous foes, I’m thrilled to introduce my latest creation, the Mind Reaver. This new entity is a nightmarish variation of the classic Mind Flayer. It’s not just a twisted iteration but an entirely different beast that thrives in chaos and malice, unlike its lawful evil kin. The Mind Reaver promises to surprise, challenge, and instill a sense of dread in even the most seasoned adventurers. As I bring this unpredictable creature into our stories, I aim to add another layer of depth to our collective adventures. So get ready, fellow Dungeon Masters and players, as we dive headlong into the chaotic and terrifying world of the Mind Reaver.</p>
-
-<h2 id="the-mind-reaver">The Mind Reaver</h2>
-
-<p>The process of creating a Mind Flayer is a precise and delicate one, carefully conducted by Illithid elders in their dark and hidden laboratories beneath the earth. However, when this procedure is tainted by volatile energies, the resulting creature is a grotesque and chaotic aberration known as a Mind Reaver.</p>
-
-<p>Unlike their fully formed brethren, Mind Reavers bear the hideous marks of their flawed creation. Their bodies are twisted and warped, with elongated limbs, a disproportionate number of writhing tentacles, and skin mottled with pulsating patches of unnatural color. Their eyes, usually two in number, can vary in placement and quantity, giving them an unsettling gaze that seems to penetrate into one’s very soul.</p>
-
-<h3 id="lore">Lore</h3>
-
-<p>Mind Reavers are an anathema within Illithid society. Their chaotic tendencies make them unpredictable and dangerously volatile, both to enemies and their own kind. As such, they are typically exiled upon their creation, sent to wander the Underdark or any place far from the organized colonies of the Mind Flayers.</p>
-
-<p>Though they lack the refined psionic prowess of a typical Mind Flayer, these creatures are not to be underestimated. Their chaotic nature fuels a raw, unrestrained psychic power, making them erratic but potent foes. This, coupled with their innate bitterness towards a world that has rejected them, makes them exceedingly dangerous.</p>
-
-<p>It’s rumored that these creatures, despite their volatile and chaotic behavior, hold a profound hatred for their fully-formed Illithid brethren, and tales speak of them rallying other Underdark denizens to their cause. In rare instances, they have been known to form aberrant ‘colonies’ of their own, bringing together various misfit and outcast creatures of the Underdark under their warped rule.</p>
-
-<p>In the end, the Mind Reaver is a tragic figure. Born of a process meant to create perfection, they are instead left as imperfect beings in a world that shuns them. Yet it’s this imperfection, this deviation from the norm, that makes them a force to be reckoned with. One should be wary when traversing the dark recesses of the Underdark, for you never know when you might cross paths with a Mind Reaver.</p>
-
-<figure class="figure float-end ms-4 clearfix">
-    
-    <img class="img-fluid figure-img " src="/assets/img/monsters/mind_reaver_500x500.jpg" alt="A twisted creature with tenticles." height="500" width="500" />
-    
-    
-        <figcaption class="figure-caption text-center">A Mind Reaver (with jazz hands)</figcaption>
-    
-</figure>
-
-<blockquote class="stat-block wide">
-  <h2 id="mind-reaver">Mind Reaver</h2>
-  <p><em>Medium aberration, chaotic evil</em></p>
-
-  <hr />
-
-  <ul>
-    <li><strong>Armor Class</strong> 14 (natural armor)</li>
-    <li><strong>Hit Points</strong> 45 (6d8 + 18)</li>
-    <li><strong>Speed</strong> 30 ft.</li>
-  </ul>
-
-  <hr />
-
-  <table>
-    <thead>
-      <tr>
-        <th style="text-align: center">STR</th>
-        <th style="text-align: center">DEX</th>
-        <th style="text-align: center">CON</th>
-        <th style="text-align: center">INT</th>
-        <th style="text-align: center">WIS</th>
-        <th style="text-align: center">CHA</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="text-align: center">11 (+0)</td>
-        <td style="text-align: center">12 (+1)</td>
-        <td style="text-align: center">16 (+3)</td>
-        <td style="text-align: center">16 (+3)</td>
-        <td style="text-align: center">14 (+2)</td>
-        <td style="text-align: center">14 (+2)</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <hr />
-
-  <ul>
-    <li><strong>Saving Throws</strong> Int +5, Wis +4, Cha +4</li>
-    <li><strong>Skills</strong> Perception +4, Deception +4, Arcana +5</li>
-    <li><strong>Damage Resistances</strong> psychic</li>
-    <li><strong>Senses</strong> darkvision 120 ft., passive Perception 14</li>
-    <li><strong>Languages</strong> Deep Speech, Undercommon, telepathy 120 ft.</li>
-    <li><strong>Challenge</strong> 4 (1,100 XP)</li>
-  </ul>
-
-  <h3 id="abilities">Abilities</h3>
-  <p><strong>Innate Spellcasting (Psionics).</strong> The Mind Reaver’s innate spellcasting ability is Intelligence (spell save DC 13). It can innately cast the following spells, requiring no components:</p>
-
-  <p>At will: <em>detect thoughts, levitate</em></p>
-
-  <p>1/day each: <em>cause fear, sleep</em></p>
-
-  <p><strong>Magic Resistance.</strong> The Mind Reaver has advantage on saving throws against spells and other magical effects.</p>
-  <h3 id="actions">Actions</h3>
-  <p><strong>Tentacles.</strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 13) and must succeed on a DC 13 Intelligence saving throw or be stunned until this grapple ends. The Mind Reaver gains temporary hit points equal to the damage done to any creature that fails the Intelligence saving throw for being stunned.</p>
-
-  <p><strong>Psychic Scream (Recharge 6).</strong> The Mind Reaver emits psychic energy in a 30-foot radius. Each creature in that area must succeed on a DC 13 Intelligence saving throw or take 16 (3d8 + 3) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
-</blockquote>
-
-<h2 id="using--mind-reavers">Using  Mind Reavers</h2>
-<p>The Mind Reaver, with its Challenge Rating (CR) of 5, serves as an ideal boss monster for low-level parties or as a group threat for more advanced players. It embodies the very essence of malevolent chaos, destruction, resentment, and bitter betrayal, providing a gripping and intense encounter in any campaign. Whether it’s the primary antagonist in a dark story arc or a surprise menace lurking in the depths of your dungeon, the Mind Reaver promises an unforgettable encounter.</p>
-
-<h3 id="adventure-seed-ideas">Adventure Seed Ideas</h3>
-
-<ol>
-  <li>
-    <p><strong>City of Nightmares</strong>: City leaders are experiencing sudden, violent episodes at night, instigating chaos, with a Mind Reaver secretly causing it all from the sewers. The party must brave the depths, confront the Mind Reaver, and halt the spreading pandemonium.</p>
-  </li>
-  <li>
-    <p><strong>The Lost Expedition</strong>: An adventuring party went missing in a series of mysterious caves. Their last message spoke of strange creatures with tentacles and psychic powers.</p>
-  </li>
-  <li>
-    <p><strong>Cult of Chaos</strong>: A cult has been attempting to summon a Mind Reaver to spread chaos and destruction in the region.</p>
-  </li>
-  <li>
-    <p><strong>The Mind-locked Prison</strong>: The heroes are imprisoned in a psychic jail by a Mind Reaver and must use their wits to escape.</p>
-  </li>
-  <li>
-    <p><strong>The Mad Mage</strong>: A mage driven to chaos and destruction by a Mind Reaver’s psychic influence threatens a peaceful village.</p>
-  </li>
-  <li>
-    <p><strong>Raiders from the Underdark</strong>: Mind Reavers lead a Drow Outcast raiding party from the Underdark, wreaking havoc in the countryside. They have been kidnapping victims to create more of their vile kind.</p>
-  </li>
-  <li>
-    <p><strong>The Bitter Betrayal</strong>: A once-trusted ally turns out to be controlled by a Mind Reaver disguised as servant, plotting the downfall of the local government.</p>
-  </li>
-  <li>
-    <p><strong>The Abyssal Portal</strong>: Strange creatures are terrorizing the countryside, seemingly appearing out of nowhere. A Mind Reaver plans to open a portal to the Abyss, aiming to let chaotic entities into the realm.</p>
-  </li>
-  <li>
-    <p><strong>Revenge of the Mind Slaves</strong>: People who were once enthralled by a Mind Reaver are now free and seeking vengeance, but they fear the creature’s return. Can the party heal and integrate the former captives and end the threat of the Mind Reaver’s return.</p>
-  </li>
-  <li>
-    <p><strong>The Relic of Chaos</strong>: An ancient artifact that holds the essence of a powerful Mind Reaver has been stolen, threatening to unleash the beast if not recovered in time.</p>
-  </li>
-</ol>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><category term="Monsters" /><summary type="html"><![CDATA[The Mind Reaver, a chaos driven twisted creature from the Underdark.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/monsters/mind_reaver_500x500.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/monsters/mind_reaver_500x500.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>That’s my take on this potential enhancement to the Mark rule, but what about you? Do you see the value this could bring to your game? We’re all ears for your thoughts, so let’s start a conversation.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Explore a proposed revision to D&D 5E's "Mark" option to boost martial gameplay, simplifying rules and enriching combat dynamics.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/OpportunityAttack_480x720.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/OpportunityAttack_480x720.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
