@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dungeon of the Grieving Mind - Not Your Typical Dungeon!
+date: 2023-11-04 12:00
 category: Encounters
 author: Scott Turnbull
 image: /assets/img/dungon-entrance_480x600.png
