@@ -5391,7 +5391,9 @@ readers do not read off random characters that represent icons */
 
 a.site-title, .post-title a { color: #333333 !important; }
 
-.post-title a:hover { color: #000000 !important; }
+.post-title a:hover { color: #000000 !important; filter: brightness(1.2); }
+
+.post-subtitle { color: #a1a1a1; font-size: 1.5rem; font-weight: 400; margin-bottom: 1rem; }
 
 .post-content > p { text-align: justify; }
 

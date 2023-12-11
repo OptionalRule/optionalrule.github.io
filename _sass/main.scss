@@ -15,6 +15,13 @@ a.site-title, .post-title a {
 
 .post-title a:hover {
     color: $black !important;
+    filter: brightness(1.2);
+}
+.post-subtitle {
+    color: $noble-gray;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
 }
 
 .post-content > p {
