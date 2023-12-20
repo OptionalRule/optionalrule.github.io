@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-12-11T18:15:35+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Unlocking the Magic of TTRPG Design</title><link href="https://www.optionalrule.com/2023/12/11/guidelines-for-great-ttrpg-design/" rel="alternate" type="text/html" title="Unlocking the Magic of TTRPG Design" /><published>2023-12-11T12:00:00+00:00</published><updated>2023-12-11T12:00:00+00:00</updated><id>https://www.optionalrule.com/2023/12/11/guidelines-for-great-ttrpg-design</id><content type="html" xml:base="https://www.optionalrule.com/2023/12/11/guidelines-for-great-ttrpg-design/"><![CDATA[<p>Brandon Sanderson, celebrated for his exceptional worldbuilding and intricate <a href="https://faq.brandonsanderson.com/knowledge-base/what-are-sandersons-laws-of-magic/" target="_blank">magic system design</a>, stands out as a titan in modern fantasy literature. His principles, while crafted for literary creation, offer invaluable insights for TTRPG design. In an era brimming with new TTRPG systems being developed and crowdfunded, I frequently ponder how Sanderson’s concepts could shape better game design, or at least preserve a diversity in gaming experiences rather than  yet another play on heroic-fantasy without risk of failure. Specifically, I contemplate the potential of these foundational ideas to captivate players through effective game design—a crucial aspect often missed in the foundational design of many emerging games.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-12-20T19:44:14+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Yes, if … the true secret of crafting adventures</title><link href="https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if/" rel="alternate" type="text/html" title="Yes, if … the true secret of crafting adventures" /><published>2023-12-20T14:00:00+00:00</published><updated>2023-12-20T14:00:00+00:00</updated><id>https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if</id><content type="html" xml:base="https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if/"><![CDATA[<p>In Dungeons &amp; Dragons, a common practice among Dungeon Masters (DMs) is to hand-wave new rulings for the sake of convenience, or with the belief that they’re enhancing the game by simply saying yes. However, I’ve come to realize that this approach, while seemingly beneficial, may actually be more limiting than many of us think. Simple answers keep things moving but ignore the fundamental truth about creating adventures. Running a TTRPG isn’t just about adjudicating the rules, it’s about creating opportunities for characters to risk it all to pursue their goals. Every question asked in a game is an opportunity to create a new adventure, so let’s talk a bit about this.</p>
+
+<figure class="figure float-end ms-4">
+    
+    <img class="img-fluid figure-img " src="/assets/img/A_group_playing_a_TTRPG_togeher_480x581.png" alt="A group of adventurers researching something magical." height="581" width="480" />
+    
+    
+</figure>
+
+<h3 id="the-underappreciated-art-of-saying-no">The Underappreciated Art of Saying No</h3>
+
+<p>The art of saying “no” in modern D&amp;D doesn’t get the appreciation it deserves. A straightforward “yes” can be a quick fix, a way to feel good in the moment because it seems like we’re enabling our players, who in turn feel gratified for getting their way. But this isn’t the kind of gameplay that fosters deep enjoyment or lasting investment. It’s a basic facet of human psychology: the easy win often fails to satisfy in the long run.</p>
+
+<p>Additionally, it ignores the very important role the rules play. That is to define a common core experience for everyone at the table. Establishing a common and consistent vision of how the world works is an extremely important element of creating any shared experience. Tossing that aside with a simple yes, while easier, undermines the shared experience.</p>
+
+<p><strong>But while “No” is a complete sentence, it also doesn’t mean things have to end there.</strong></p>
+
+<h3 id="the-missed-opportunity-in-the-simple-answer">The Missed Opportunity in the Simple Answer</h3>
+
+<p>While saying “yes” or “no” can keep the game moving and be an adequate solution in some cases, I believe we’re missing a significant opportunity. Rulings that fall into the grey areas – the edge cases – offer a golden chance to weave new elements into the world and present challenges to players by creating new adventures. Imagine a scenario where learning a new technique, acquiring a magical item, or forming a bond with a key character becomes part of the quest. These are opportunities to use abilities in innovative ways, enriching the game’s narrative.</p>
+
+<p><strong>From a DM’s point of view, the best answer to every question isn’t a yes or no, it’s a new adventure.</strong></p>
+
+<h3 id="yes-if-vs-yes-and-and-yes-but">“Yes, If…” vs. “Yes, And” and “Yes, But”</h3>
+
+<p>Many advocate for “Yes, and” or “Yes, but” as the secret sauce to effective GMing. While these approaches have their merits, I propose that “Yes, if…” holds significantly more potential value for a game. The phrases “and” and “but” often lead to immediate, transactional outcomes, which, though useful, don’t contribute substantially to the overall adventure. On the other hand, <strong>“Yes, if…” places the onus back on the players, challenging them to pursue something more, to push their boundaries and achieve new results.</strong></p>
+
+<p><em>As a single example, I had a player in my D&amp;D game who believed they could counterspell an ability if they had the same spell prepared. That’s not how it works, and I wasn’t going to rewrite the entire counterspell system on a whim. However, the player was communicating something they thought was interesting to me, so I would be a fool to ignore it. So, I had them make a history roll to recall writings of wizards who seemed to have been able to do this, and they could find out more by researching in the library at Candlekeep. This led to an entire adventure to recover lost lore of that Wizard order who could modify their spell focus to give them this ability. Ruling-wise, it was just a bound magic item. The whole thing worked out very well and it gave the entire party a new adventure to pursue.</em></p>
+
+<p>(For the record, I realize ‘Yes, if…’ is just ‘No, but …’ in disguise but keeping things framed as a yes is powerful to frame things in the players mind as an opportunity.)</p>
+
+<h3 id="the-real-thrill-of-dd-beyond-convenience">The Real Thrill of D&amp;D: Beyond Convenience</h3>
+
+<p>By resorting to easy rulings for the sake of convenience, we risk diluting the true excitement of D&amp;D. The essence of the game lies in using every opportunity to create new adventures, presenting challenges that players can overcome and be rewarded for. “Yes, if…” is more than just a response; it’s a philosophy that encourages deeper engagement, creativity, and a richer gaming experience.</p>
+
+<p>In conclusion, embracing the “Yes, if…” approach can transform our D&amp;D sessions from simple pastimes into epic adventures filled with meaningful challenges and rewarding experiences.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Discover how flexible D&D rulings enhance gameplay, as a DM turns a player's unique counterspell idea into an exciting new adventure.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/A_group_playing_a_TTRPG_togeher_480x581.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/A_group_playing_a_TTRPG_togeher_480x581.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Unlocking the Magic of TTRPG Design</title><link href="https://www.optionalrule.com/2023/12/11/guidelines-for-great-ttrpg-design/" rel="alternate" type="text/html" title="Unlocking the Magic of TTRPG Design" /><published>2023-12-11T12:00:00+00:00</published><updated>2023-12-11T12:00:00+00:00</updated><id>https://www.optionalrule.com/2023/12/11/guidelines-for-great-ttrpg-design</id><content type="html" xml:base="https://www.optionalrule.com/2023/12/11/guidelines-for-great-ttrpg-design/"><![CDATA[<p>Brandon Sanderson, celebrated for his exceptional worldbuilding and intricate <a href="https://faq.brandonsanderson.com/knowledge-base/what-are-sandersons-laws-of-magic/" target="_blank">magic system design</a>, stands out as a titan in modern fantasy literature. His principles, while crafted for literary creation, offer invaluable insights for TTRPG design. In an era brimming with new TTRPG systems being developed and crowdfunded, I frequently ponder how Sanderson’s concepts could shape better game design, or at least preserve a diversity in gaming experiences rather than  yet another play on heroic-fantasy without risk of failure. Specifically, I contemplate the potential of these foundational ideas to captivate players through effective game design—a crucial aspect often missed in the foundational design of many emerging games.</p>
 
 <figure class="figure float-end ms-4">
     
@@ -455,96 +490,4 @@
   </li>
 </ol>
 
-<p>Now get out there and run some great games!</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><category term="Monsters" /><summary type="html"><![CDATA[Unearth the chilling world of Rage Husks in DnD! Discover lore, encounter tactics, and adventure seeds for these psychic zombies of the Underdark.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/monsters/RageHusk_407x610.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/monsters/RageHusk_407x610.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pitch Perfect - Using a Pitch Deck for Your D&amp;amp;D Campaign</title><link href="https://www.optionalrule.com/2023/06/10/campaign-pitch-decks/" rel="alternate" type="text/html" title="Pitch Perfect - Using a Pitch Deck for Your D&amp;amp;D Campaign" /><published>2023-06-10T10:46:00+00:00</published><updated>2023-06-10T10:46:00+00:00</updated><id>https://www.optionalrule.com/2023/06/10/campaign-pitch-decks</id><content type="html" xml:base="https://www.optionalrule.com/2023/06/10/campaign-pitch-decks/"><![CDATA[<p>Launching a new Dungeons &amp; Dragons campaign is no small feat. It requires not only the arduous task of finding players, but also identifying those who are the perfect fit for your envisioned adventure. Even before delving into character backgrounds, safety tools, or other vital session zero elements, a Dungeon Master’s first hurdle is convincing potential players to invest their precious time and energy into the unfolding saga. This initial step bears striking similarity to pitching a fresh product or service. Just as entrepreneurs entice investors with the promise of innovation and value, DMs need to captivate potential players with a compelling campaign concept. Enter the Pitch Deck - a tool commonly used in the business world, but equally potent in setting the stage for a thrilling D&amp;D campaign.</p>
-
-<p>Indeed, a Pitch Deck isn’t mandatory. You could create a written summary instead. The advantage of a deck, however, is its brevity and focus on essentials. Regardless of format, the aim stays the same. We’ll conclude with a template to help you craft your own pitch, be it a Deck or a Summary.</p>
-
-<figure class="figure float-end ms-4 clearfix p-3 mb-5">
-    
-    <img class="img-fluid figure-img " src="/assets/img/CharactersCelebratingAtTable_480x480.png" alt="A group of adventurers in a tavern with a leader giving an inspirational speech." height="480" width="480" />
-    
-    
-        <figcaption class="figure-caption text-center">Run the game in your heart.</figcaption>
-    
-</figure>
-
-<h2 id="what-is-a-pitch-deck">What is a Pitch Deck?</h2>
-
-<p>A pitch deck is a short presentation that shows off your unique game idea. It gives people a sneak peek into your game’s style, story, changes to rules, schedule, and other key parts that make your game special.</p>
-
-<p>Although your D&amp;D game doesn’t need money from investors, a pitch deck is still very useful. It helps you get people excited to play and willing to spend their valuable time on your game.</p>
-
-<h2 id="creating-a-dd-campaign-pitch-deck">Creating a D&amp;D Campaign Pitch Deck</h2>
-
-<p>The contents of a pitch deck can vary based on firm a concept the DM has for the game they’re looking to run, but it often includes several key elements. First, it establishes the premise, tone, and style of the game, providing relevant examples. Second, it delves into how the party will interact with each other and their surrounding world. Third, it outlines how the game will engage with its mechanics. Finally, it sets certain baseline boundaries and expected norms within the group, laying the groundwork for future collaboration or safety tools.</p>
-
-<h3 id="the-campaign-pitch-summary">The Campaign Pitch Summary</h3>
-
-<p><strong>The essence of your pitch lies in just one slide - this is it!</strong> Captivating your audience involves inciting curiosity for more, so focus on broad strokes and highlights. Tease the plot, evoke the action, and convey the tone of the game. If the players you’re pitching to aren’t familiar with each other, share a few insights about your DMing style, the humor at the table, and the particular rules you’re implementing. Save the details for follow-up questions or Session Zero. Your primary goal is to pique the players’ interest and steer their thinking in the right direction from the start.</p>
-
-<p>Here’s what I recommend:</p>
-
-<ul>
-  <li><strong>Campaign Title and Tagline:</strong> Consider examples like “Rime of the Frostmaiden: A chilling struggle for survival in the heart of fantasy horror” or “Trouble on the Triboar Trail: Frontier justice meets rugged survival in the untamed Sword Mountains.”</li>
-  <li><strong>Setting:</strong> Include a brief mention of the setting, landscape, travel logistics, or how players will interact with the world.</li>
-  <li><strong>System:</strong> Outline the system, edition, any specific versions, and sources the game will use. Example: “5e D&amp;D, minor house rules apply. Core books, Xanathar’s, &amp; Tasha’s acceptable. No Unearthed Arcana, please.”</li>
-  <li><strong>Inspiration:</strong> Reference a few films, books, or other media that capture the campaign’s intended ambiance. If relevant, consider including a film-like rating for the campaign.</li>
-  <li><strong>Campaign Style:</strong> Indicate how Roleplaying, Lore, Action, and Combat will factor into the campaign. You might also want to mention the degree of consequence in the game. Adding a note about humor’s place can be helpful – e.g., “Significant lore and roleplay. Light humor. Minimize metagaming.” or “Intense lore and roleplaying, grim-dark setting, no phones at the table.”</li>
-  <li><strong>Schedule &amp; Venue:</strong> Be upfront about your proposed schedule, as this can often be a hurdle for campaigns. Also, specify whether the game will be online, in-person, or a mix. This is akin to “the ask” in pitches - be explicit. E.g., “Online via Roll20, weekly for 3 hours, Saturdays 5pm EST. Please commit to regular attendance”, “In-person at my home, biweekly Sundays at 2pm, flexible attendance.”</li>
-</ul>
-
-<h3 id="additional-topics">Additional Topics</h3>
-
-<p>The Campaign Pitch Summary is the essential part of your game pitch. Ideally, if your presentation includes more than one slide, the first one should captivate your players enough to prompt them to view the subsequent slides. The following are some additional slides that could provide players with more context. Out of these, I’d highly recommend “Game Boundaries &amp; Tools.” While many TTRPG players refer to these as Safety &amp; Consent, I believe the term “Boundaries” is more apt.</p>
-
-<p><strong>Suggested Additional Slides or Topics:</strong></p>
-
-<ul>
-  <li>
-    <p><strong>Tools &amp; Resources:</strong> If your game is online or employs extensive tooling, this is the place to list those out. DnDBeyond, VTT, Text Chat, Voice Chat, and any other tools players will be using during the game. Differentiate between optional and mandatory tools. You might also consider mentioning your boundaries regarding other tools.</p>
-  </li>
-  <li>
-    <p><strong>Table Styles:</strong> If you have specific expectations about game flow or table norms, outline them here. Whether you use an hourglass during play, ask players not to offer advice during others’ turns, or expect players to select their spells before their turn - these details belong on this slide.</p>
-  </li>
-  <li>
-    <p><strong>Optional and House Rules:</strong> House Rules are quite common in D&amp;D, and even the core rules offer different variations a DM might adopt. Highlight these here, especially if a rule significantly impacts certain classes or players.</p>
-  </li>
-  <li>
-    <p><strong>Baseline Boundaries:</strong> As touched on earlier, this would be my first choice for an additional slide after the summary. Boundaries are crucial in TTRPGs and can significantly affect the game’s enjoyment. While DMs should undoubtedly discuss player boundaries in session zero, it’s also essential to establish baseline expectations or non-negotiables ahead of that discussion. This sets a clear foundation and prevents any false sense of flexibility during session zero. For instance, I’m not fond of overly sexualized or evil play; it doesn’t mesh with my style. Your preferences and the nature of your game may differ. If you plan to run a particularly grim setting like Dark Sun, players should be aware of that before session zero. This slide is the place for such disclosures.</p>
-  </li>
-</ul>
-
-<figure class="figure float-end ms-4 clearfix p-3 mb-5">
-    
-        <a href="https://docs.google.com/presentation/d/1kjaK9Q9p90P54E2ITZPf0DHGyaZZMHXYAg52Ar19zp4/edit?usp=sharing" target="_blank">
-    
-    <img class="img-fluid figure-img " src="/assets/img/ROTFM_PitchDeck.gif" alt="Animated GIF of the pitch deck I used in my Rime of the Frostmaiden Campaign." width="480" />
-    
-        </a>
-    
-    
-        <figcaption class="figure-caption text-center">Example Pitch for my RotF Campaign</figcaption>
-    
-</figure>
-
-<h2 id="other-resources">Other Resources</h2>
-
-<p>Creating a TTRPG Pitch Deck can be as elaborate or as straightforward as the DM prefers. Personally, I enjoy developing a deck adorned with images to add a bit of flair to the pitch. However, a text summary could be just as effective. Choose the format that suits you, your game, and the target players best.</p>
-
-<p>Here are a few useful resources:</p>
-
-<ul>
-  <li><a href="/assets/downloads/TTRPG_Pitch_Deck_Template.pptx"><strong>Pitch Deck Template</strong></a> I’ve designed this simple pitch deck template, complete with prompts for a one-page summary. It’s provided in PowerPoint format, but you can upload it to Google Drive or open it with LibreOffice.
-    <ul>
-      <li>For a real-world example, take a look at this <a href="https://docs.google.com/presentation/d/1kjaK9Q9p90P54E2ITZPf0DHGyaZZMHXYAg52Ar19zp4/edit?usp=sharing" target="_blank">Rime of the Frostmaiden Pitch Deck</a> I used for my campaign.</li>
-    </ul>
-  </li>
-  <li><a href="https://slyflourish.com/one_page_campaign_guide.html" target="_blank"><strong>Writing a One-Page Campaign Guide</strong></a> by Mike ‘Sly Flourish’ Shea offers another perspective. While I prefer using the pitch to pique interest and then this tool to provide more context prior to session zero, you could begin with this if you’ve already garnered sufficient interest.</li>
-  <li><a href="https://youtu.be/MtH1SP1grxo" target="_blank"><strong>Pitching Your Campaign</strong></a> by Matt Colville is a fantastic video from his Running the Game series.</li>
-</ul>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>Getting player investment from the start can be a powerful tool for launching your campaign on the right foot. It not only helps identify players who are a good fit for your style of game,  but also directs their creative energies from the get-go. While session zero tends to get the limelight, we shouldn’t overlook engaging the right players even before we reach that point. Pitching your game in a fun and engaging way can help you navigate past common challenges by aligning with the right players from the beginning.</p>
-
-<p>Now get out there and run some great games!</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><category term="TTRPG" /><category term="DnD" /><category term="Player Recruitment" /><category term="Safety Tools" /><summary type="html"><![CDATA[Pitch your D&D campaign like a start-up. Use a pitch deck to attract the right players, align expectations and kickstart a successful game.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/CharactersCelebratingAtTable_480x480.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/CharactersCelebratingAtTable_480x480.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Now get out there and run some great games!</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><category term="Monsters" /><summary type="html"><![CDATA[Unearth the chilling world of Rage Husks in DnD! Discover lore, encounter tactics, and adventure seeds for these psychic zombies of the Underdark.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/monsters/RageHusk_407x610.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/monsters/RageHusk_407x610.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
