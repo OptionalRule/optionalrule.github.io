@@ -1,51 +1,16 @@
----
-title: 'RotF Remix: Houlen’s Tomb'
-author: Scott Turnbull
-layout: post
-image: https://i.redd.it/c7hhvkh7st961.jpg
-description: Battlemap of a natural cavern with hidden tomb for use in your TTRPGs and 5th edition games.
-categories:
-  - Maps
+# 'RotF Remix: Houlen’s Tomb'
 
----
-I created this map for a custom scenario in my Rime of the Frostmaiden Campaign using <a href="https://dungeondraft.net/" target="_blank" rel="noreferrer noopener">DungeonDraft</a>.
+I created this map for a custom scenario in my Rime of the Frostmaiden Campaign using DungeonDraft.
 
-{% include imageframe.html
-  figure_class="my-5"
-  src="https://i.redd.it/c7hhvkh7st961.jpg"
-  alt="Battlemap of a natural cavern with hidden tomb in the back."
-  href="https://i.redd.it/c7hhvkh7st961.jpg"
-%}
 
----
-title: Tresendar Manor Above Ground
-author: Scott Turnbull
-layout: post
-image: https://i.redd.it/66rci2cg5cx51.jpg
-description: Above group battlemap of Tresendar Manor in Phandalin from 5th edition Lost Mines of Phandever or Dragon of Icespire Peak.
-categories:
-  - Maps
 
----
-I created this map for a one-shot I created as a prequil to Lost Mines of Phandelver, about the recovery of <a href="https://forgottenrealms.fandom.com/wiki/Tresendar_Mano" target="_blank" rel="noreferrer noopener">Tresendar Manor</a>. It&#8217;s a fairly large map. Created using <a rel="noreferrer noopener" href="https://dungeondraft.net/" target="_blank">DungeonDraft</a>.
+# Tresendar Manor Above Ground
 
-{% include imageframe.html
-  figure_class="my-5"
-  src="https://i.redd.it/66rci2cg5cx51.jpg"
-  alt="Battlemap of a ruined manor atop a small hill, surrounded by countryside."
-  href="https://i.redd.it/66rci2cg5cx51.jpg"
-%}
+I created this map for a one-shot I created as a prequil to Lost Mines of Phandelver, about the recovery of Tresendar Manor. It’s a fairly large map. Created using DungeonDraft.
 
----
-title: 'RotF Remix:  The Inkwell Taphouse, Termalaine'
-author: Scott Turnbull
-layout: post
-image: https://i.redd.it/awg4bpr3st961.jpg
-description: A rundown library in an old bar, fantastic location for use in your 5th edition Icewind Dale Rime of the Frostmaiden game.
-categories:
-  - Encounters
-  - Maps
----
+
+
+# 'RotF Remix:  The Inkwell Taphouse, Termalaine'
 
 A ramshackle and squat two story stone building made held together by rotting timbers, with opaque frosted windows and a dilapidated tiled roof. It sits on a side road along the edge of town slightly northeast of the road to Targos.  This is a standard 25x25 battlemap I created for my Rime of the Frostmaiden camapgin, I hope you can use it too.
 
@@ -55,56 +20,25 @@ The current proprietor is a bleary eyed halfling named Tricork Barrelbounder (ne
 
 Library users have advantage on any Intelligence based skill checks involving local lore while using library resources. Because of the lack of organization, research takes twice as long as normal if Tricork is not helping characters navigate the collection.
 
-I created this map using <a href="https://dungeondraft.net/" target="_blank" rel="noreferrer noopener">DungeonDraft</a> for use in my version of Rime of the Frostmaiden.
-
-{% include imageframe.html
-  figure_class="my-5"
-  src="https://i.redd.it/awg4bpr3st961.jpg"
-  alt="Battlemap of a small tavern and snowly streets. Inside maps and books litter the tables."
-  href="https://i.redd.it/awg4bpr3st961.jpg"
-%}
+I created this map using DungeonDraft for use in my version of Rime of the Frostmaiden.
 
 
----
-title: Winter Camp Map
-author: Scott Turnbull
-layout: post
-image: https://i.redd.it/1f1t9adlst961.jpg
-description: A winter camp battlemap for use in your TTRPG and 5th edition games.
-categories:
-  - Maps
----
-I created this map for a camp based random encounter from my Rime of the Frostmaiden campaign using <a href="https://dungeondraft.net/" target="_blank" rel="noreferrer noopener">DungeonDraft</a>.  It's a standard 25x25 battlemap with five feet distance per 100 px. I hope you'll get some use out of this for your game too.
-
-{% include imageframe.html
-  figure_class="my-5"
-  src="https://i.redd.it/1f1t9adlst961.jpg"
-  alt="Battlemap of a snowly field with a small camp setup."
-  href="https://i.redd.it/1f1t9adlst961.jpg"
-%}
 
 
----
-title: 'Icewind Dale NPC: Beldora Nine-Dogs'
-author: Scott Turnbull
-layout: post
-image: /assets/img/beldrora_ninedogs-414x585.jpg
-description: Silent and mysterious leader of The Harpers faction in Bryn Shander for your 5th edition Icewind Dale Rime of the Frostmaiden game.
-categories:
-  - Encounters
----
- 
- An NPC I fleshed out for my Icewind Dale: Rime of the Frostmaiden campaign.  She is the silent and secretive leader of The Harpers in Icewind dale, dedicated to keeping the faction members safe in the wake of assassinations years ago.
+# Winter Camp Map
+
+I created this map for a camp based random encounter from my Rime of the Frostmaiden campaign using DungeonDraft.  It's a standard 25x25 battlemap with five feet distance per 100 px. I hope you'll get some use out of this for your game too.
+
+
+
+
+# 'Icewind Dale NPC: Beldora Nine-Dogs'
+
+An NPC I fleshed out for my Icewind Dale: Rime of the Frostmaiden campaign.  She is the silent and secretive leader of The Harpers in Icewind dale, dedicated to keeping the faction members safe in the wake of assassinations years ago.
 
 ## Description
 
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/beldrora_ninedogs-414x585.jpg"
-  alt="Headshot of a middle aged woman with a hard look, steal gray eyes, and long curly hair with beads sewn in."
-  width="414" height="585"
-  caption="Art by Miguel Regodón Harkness"
- %}
+
 
 This late middle-aged human woman wears thick furs crudely sewed together from random small animal pelts. Her movements are strong and steady, giving her an air of firm assurance. Her graying golden hair tumbles loosely around her head with shells and beads sewn in. She walks with a stiff gait, mainly in her right leg, which is covered in burn scars. Clear and piercing amber eyes and her weathered face carry an air of stoic discipline.
 
@@ -126,24 +60,16 @@ Sled Dog Trainer, she operates a small kennel of dogs in constant rotation in Br
 
 ## History
 
-Beldora was born in Bryn Shander. just as her father became increasingly distant from her family, instead choosing to pursue power in Luskan among the Arcane Brotherhood. Beldora&#8217;s father didn&#8217;t care for her much, and the feeling was mutual. Their relationship strained all the more each time he returned to Icewind Dale to seek some magical artifact or power.
+Beldora was born in Bryn Shander. just as her father became increasingly distant from her family, instead choosing to pursue power in Luskan among the Arcane Brotherhood. Beldora’s father didn’t care for her much, and the feeling was mutual. Their relationship strained all the more each time he returned to Icewind Dale to seek some magical artifact or power.
 
 She studied with the Druids near Lonelywood but days after completing her studies, she received word that a band of Skortchclaw Orcs were attacking Bryn Shander. Beldora was horrified and rushed home out of concern for her mother, sneaking back into town she discovered her father was leading a conspiracy by the Arcane Brotherhood that caused the Orc attack. In a fight with her father and his conspirators, she was badly burned and wounded, losing most of her voice, but the Orcish attack was repelled.
 
 It is during the fight against her father and the Arcane Brotherhood that recruited by The Harpers. Since then she has risen to be a prominent leader of the faction in Icewind Dale, a detail which she has maintained as a carefully guarded secret, as she has with the identities of any Harper agent in the area. She is cautious to a fault, and primarily uses the animal messengers to communicate with other agents in the region and has a complex system for other physical communication.
 
 
----
-title: Character Voices Reference
-author: Scott Turnbull
-layout: post
-description: Random table for spicing up character and NPC voices in your TTRPG game.
-image: /assets/img/voicereferencpreview_800x631.jpg
-categories:
-  - RPG Resources
+# Character Voices Reference
 
----
-Doing in-character voices is a hit or miss prospect for some games, and by no means required in a table-top RPG. As a DM that enjoys doing voices for various NPCs in my world I find this table helpful to develop different inspiration for voice types I might use, and having a reference like this lets me make a quick note so I can be sure to use the same voice next time. I compiled this list from a few descriptions for theater actors around the web and hope you&#8217;ll find it useful for your game as well.
+Doing in-character voices is a hit or miss prospect for some games, and by no means required in a table-top RPG. As a DM that enjoys doing voices for various NPCs in my world I find this table helpful to develop different inspiration for voice types I might use, and having a reference like this lets me make a quick note so I can be sure to use the same voice next time. I compiled this list from a few descriptions for theater actors around the web and hope you’ll find it useful for your game as well.
 
 |d100|Voice|
 |--- |--- |
@@ -199,43 +125,38 @@ Doing in-character voices is a hit or miss prospect for some games, and by no me
 |99-100|Wobbly – Unstable tone due to fright or emotions.|
 {: .table .table-striped .table-hover .full-first }
 
----
-title: 'D&D Essentials Kit Giveaway!'
-author: Scott Turnbull
-layout: post
-categories:
-  - Misc
----
+# 'D&D Essentials Kit Giveaway!'
+
 **This giveaway is now concluded, congratulations to the users selected. Follow me on twitter and watch this blog for future giveaways.**
 
 On Friday, December 11th 2020, we will be selecting three lucky individuals to receive a copy of the Dungeons & Dragons Essentials Kit. This kit makes a great gift for any D&D fan and is an excellent way to start your journey into the greatest table-top roleplaying game of all time!
 
 
-<div class="alert alert-warning p-5 m-3 text-center">Note this giveaway has concluded, thank you everyone for participating.</div>
+Note this giveaway has concluded, thank you everyone for participating.
 
-<div class="wp-block-columns">
-  <div class="wp-block-column" style="flex-basis:33.33%">
-    <figure class="wp-block-image size-large"><img loading="lazy" width="543" height="700" src="https://optionalrule.com/wp-content/uploads/2020/12/EssentialsKit.jpg" alt="Boxed set with an image of adventurers fighting a dragon." class="wp-image-79" srcset="https://optionalrule.com/wp-content/uploads/2020/12/EssentialsKit.jpg 543w, https://optionalrule.com/wp-content/uploads/2020/12/EssentialsKit-233x300.jpg 233w" sizes="(max-width: 543px) 100vw, 543px" /><figcaption>The D&D Essentials Kit</figcaption></figure>
-  </div>
+
   
-  <div class="wp-block-column" style="flex-basis:66.66%">
-    <h2>
+    The D&D Essentials Kit
+  
+  
+  
+    
       To Enter
-    </h2>
     
-    <p>
-      To enter you must <strong>follow </strong>OptionalRule on Twitter (me!) and <a rel="noreferrer noopener" href="https://twitter.com/optionalrule/status/1335993222120747014" target="_blank"><strong>retweet the giveaway</strong></a> as is. Entrants must meet and comply with all terms and conditions below.
-    </p>
     
-    <h2>
+    
+      To enter you must follow OptionalRule on Twitter (me!) and retweet the giveaway as is. Entrants must meet and comply with all terms and conditions below.
+    
+    
+    
       About the D&D Essentials Kit
-    </h2>
     
-    <p>
-      &#8220;This box contains the essentials you need to run a D&D game with one Dungeon Master and one to five adventurers. A newly designed rulebook on-boards players by teaching them how to make characters, and the included adventure,&nbsp;<em>Dragon of Icespire Peak</em>, introduces a new 1-on-1 rules variant.&#8221; More information can be found on the <a href="https://dnd.wizards.com/products/tabletop-games/rpg-products/essentials-kit" target="_blank" rel="noreferrer noopener">official website</a>.
-    </p>
-  </div>
-</div>
+    
+    
+      “This box contains the essentials you need to run a D&D game with one Dungeon Master and one to five adventurers. A newly designed rulebook on-boards players by teaching them how to make characters, and the included adventure, Dragon of Icespire Peak, introduces a new 1-on-1 rules variant.” More information can be found on the official website.
+    
+  
+
 
 ## Terms & Conditions
 
@@ -244,57 +165,38 @@ On Friday, December 11th 2020, we will be selecting three lucky individuals to r
   3. Bulk, automated, or third party entries are prohibited and will be disqualified.
   4. **Twitter:** Use of multiple accounts or different identities to enter is prohibited.
   5. **Twitter:** Do not repeatedly retweet or repost this tweet. Doing so will disqualify you from the drawing.
-  6. This giveaway is subject to all <a rel="noreferrer noopener" href="https://help.twitter.com/en/rules-and-policies/twitter-contest-rules" data-type="URL" data-id="https://help.twitter.com/en/rules-and-policies/twitter-contest-rules" target="_blank">Twitter Rules and Policies</a>. See below for more information:
+  6. This giveaway is subject to all Twitter Rules and Policies. See below for more information:
 
-_Twitter does not sponsor or endorse Optional Rule Games or the Giveaway. This promotion is in no way sponsored, endorsed or administered by, or associated with Twitter. You understand that you are providing your information to Optional Rule Games and not to Twitter. By participating via the Twitter platform, participants are also subject to Twitter’s privacy policy and terms of use, which can be found at <a rel="noreferrer noopener" href="https://www.twitter.com/privacy" target="_blank">https://www.twitter.com/privacy</a> and <a rel="noreferrer noopener" href="https://twitter.com/tos" target="_blank">https://twitter.com/tos</a>._
+_Twitter does not sponsor or endorse Optional Rule Games or the Giveaway. This promotion is in no way sponsored, endorsed or administered by, or associated with Twitter. You understand that you are providing your information to Optional Rule Games and not to Twitter. By participating via the Twitter platform, participants are also subject to Twitter’s privacy policy and terms of use, which can be found at https://www.twitter.com/privacy and https://twitter.com/tos._
 
 **Optional Rule Games does not share information provided with any third party and will only use contact details for prize shipments.**
 
----
-title: Rime of the Frostmaiden Remixes
-author: Scott Turnbull
-layout: post
-image: https://media.dnd.wizards.com/styles/product_image_left_scale/public/images/product/YiKwcXaQkJ.png
-description: Thoughts on why remixes are so important for 5th edition Icewind Dale Rime of the Frostmaiden.
-categories:
-  - Encounters
----
+# Rime of the Frostmaiden Remixes
+
 Remixes have become a great way for DMs to talk about how they are using published content in the wild for their actual 5th edition games. It focuses on how you arrange or change the elements to suit your individual game and style, and avoids the o-so-very-internet thing of labeling things as broken or awesome.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="https://media.dnd.wizards.com/styles/product_image_left_scale/public/images/product/YiKwcXaQkJ.png"
-  alt="Book cover.  An icy wasteland.  A person falling in the snow.  Behind them a monsterous being reaching toward them and wolves in pursuit"
-  caption="Image Credit Wizards of the Coast"
- %}
 
-I am currently running a <a href="https://dnd.wizards.com/products/tabletop-games/rpg-products/icewind-dale-rime-frostmaiden" target="_blank" rel="noreferrer noopener">D&D Icewind Dale: Rime of the Frostmaiden</a> campaign and I&#8217;m enjoying it very much. I like the module, I think it has great atmosphere and an interesting take on pacing and the adventure as a whole. The module has taken a lot of heat for things like balance, pacing, editing, etc, and all the things people love to complain about online. I have to say that I think these concerns and complaints are significantly overblow, a number of people are now running this module and it seem to be working out for them. 
+
+I am currently running a D&D Icewind Dale: Rime of the Frostmaiden campaign and I’m enjoying it very much. I like the module, I think it has great atmosphere and an interesting take on pacing and the adventure as a whole. The module has taken a lot of heat for things like balance, pacing, editing, etc, and all the things people love to complain about online. I have to say that I think these concerns and complaints are significantly overblow, a number of people are now running this module and it seem to be working out for them. 
 
 _The key to realize is that most of the things people complain need work in the module, are things I would have changed in the module anyway._
 
-I have yet to meet a module or piece of content, even ones I&#8217;ve written myself, that I don&#8217;t change, adjust, or tweak to my liking for a particular game or situation. That&#8217;s kind of what running a game is about. Creating a customized experience not just based on your own taste and style as a DM, but to the individual pacing, playstyles and story of an individual game. All games need adjustment, and by their nature, campaigns are a derivative work at best.
+I have yet to meet a module or piece of content, even ones I’ve written myself, that I don’t change, adjust, or tweak to my liking for a particular game or situation. That’s kind of what running a game is about. Creating a customized experience not just based on your own taste and style as a DM, but to the individual pacing, playstyles and story of an individual game. All games need adjustment, and by their nature, campaigns are a derivative work at best.
 
-So that leads me back to the idea of Remixes. I love seeing the real world experiences of DMs at-the-table and how they are adjusting the module to run well for their sessions. I&#8217;ll be posting a series here in the near future of my own remixes. Little vignettes for different elements and how I&#8217;ve readjusted them to fit my own needs in hopes that you find some utility in it yourself. Stay tuned and watch the blog or follow me on <a rel="noreferrer noopener" href="https://twitter.com/optionalrule" target="_blank">Twitter</a> to follow this and all the content I&#8217;m generating. I also do a lot of theorycrafting for these remixes in my <a rel="noreferrer noopener" href="https://www.twitch.tv/optionalrule" target="_blank">weekly game-prep and D&D discussion livestream</a> on Twitch at noon on Saturdays so I hope you&#8217;ll join me there.
+So that leads me back to the idea of Remixes. I love seeing the real world experiences of DMs at-the-table and how they are adjusting the module to run well for their sessions. I’ll be posting a series here in the near future of my own remixes. Little vignettes for different elements and how I’ve readjusted them to fit my own needs in hopes that you find some utility in it yourself. Stay tuned and watch the blog or follow me on Twitter to follow this and all the content I’m generating. I also do a lot of theorycrafting for these remixes in my weekly game-prep and D&D discussion livestream on Twitch at noon on Saturdays so I hope you’ll join me there.
 
 Happy Gaming!
 
----
-title: No, racism is not required in a fantasy world
-author: Scott Turnbull
-layout: post
-description: A discussion of why racial essentialism is not needed, does not add anything, and hurts in 5th edition TTRPGs
-categories:
-  - Misc
+# No, racism is not required in a fantasy world
 
----
-I had one of those unpleasant exchanges on a Dungeons & Dragons 5e group the other day, where you offer some resource that works for you and someone comes out of left field and goes on a racist tirade. It&#8217;s social media and I&#8217;m pretty good at ignore things like that personally, but the idea that folks new to the hobby might not realize the cheap tactics and toxic behavior behind replies like the one I got.
+I had one of those unpleasant exchanges on a Dungeons & Dragons 5e group the other day, where you offer some resource that works for you and someone comes out of left field and goes on a racist tirade. It’s social media and I’m pretty good at ignore things like that personally, but the idea that folks new to the hobby might not realize the cheap tactics and toxic behavior behind replies like the one I got.
 
-I&#8217;m not going to go too far into it but the core of the issue was someone posted asking if anyone actually uses hard and soft limits as discussed in the recently released Tasha&#8217;s Caldron of Everything. (Bravo to WotC for including this in an official book btw). My reply was to say that I do use this and have been for awhile, and how it&#8217;s been very effective for me. By way of example I included a bullet list of the Baseline Safety & Consent guidelines I created for this for my most recent campaign using Rime of the Frostmaiden. The guidelines are pretty straightforward:
+I’m not going to go too far into it but the core of the issue was someone posted asking if anyone actually uses hard and soft limits as discussed in the recently released Tasha’s Caldron of Everything. (Bravo to WotC for including this in an official book btw). My reply was to say that I do use this and have been for awhile, and how it’s been very effective for me. By way of example I included a bullet list of the Baseline Safety & Consent guidelines I created for this for my most recent campaign using Rime of the Frostmaiden. The guidelines are pretty straightforward:
 
-  * Horror, Mental/Physical Health &#8211; Describe as needed, part of module, not gratuitous or dwelled on.
-  * Harm to children &#8211; Not an element, implied or indirect.
-  * Mind Control &#8211; Not in RP, encounter based (i.e. confusion spell).
-  * Sexual Content &#8211; Implied, part of background, fade to black.
+  * Horror, Mental/Physical Health – Describe as needed, part of module, not gratuitous or dwelled on.
+  * Harm to children – Not an element, implied or indirect.
+  * Mind Control – Not in RP, encounter based (i.e. confusion spell).
+  * Sexual Content – Implied, part of background, fade to black.
   * Not part of the game: Homophobia, Abuse, Racism, Real-world religion, Sexism, gratuitous cruelty, etc.
   * Local cultural conflicts or prejudices may exist.
   * Racial essentialism is not a part of play, comes down to local culture as appropriate for The Forgotten Realms.
@@ -303,37 +205,19 @@ I&#8217;m not going to go too far into it but the core of the issue was someone 
   * Players will have a consent list they can fill out in session 0.
   * Please bring up any topics we should be aware of.
 
-The trigger for this person was the line &#8220;_Racial essentialism is not a part of play, comes down to local culture as appropriate for The Forgotten Realms._&#8221; This was too much for them and it launched a reply thread at forty and growing ,of this person trying claim that racism is an inseparable part of any fantasy world and that the game must be unplayable if it does not include it. It&#8217;s not my way to generally engaged in fights on social media, particularly when the person is simply trying to score points and acting in bad faith while trying to hide behind a veneer of intellectualism. However I wanted to add a reply for the folks in the thread that might be new to D&D so they did not buy into this line of thinking.
+The trigger for this person was the line “_Racial essentialism is not a part of play, comes down to local culture as appropriate for The Forgotten Realms._” This was too much for them and it launched a reply thread at forty and growing ,of this person trying claim that racism is an inseparable part of any fantasy world and that the game must be unplayable if it does not include it. It’s not my way to generally engaged in fights on social media, particularly when the person is simply trying to score points and acting in bad faith while trying to hide behind a veneer of intellectualism. However I wanted to add a reply for the folks in the thread that might be new to D&D so they did not buy into this line of thinking.
 
 Here is what I added:
 
-{% include quote.html
-quote="'I do not intend for this to be a discussion about race in games. The topic is too expansive to cover properly on Facebook. Instead I will address the general misconception that racism is so ingrained into a world view that you cannot even imagine a fantasy world where it&#8217;s not a significant part of play. One need only read an author like Ursula K Le Guin, who so elegantly presented a popular and dangerous fantasy setting free of the idea that you must have racism baked into it to be valid. One could argue that even a series as violent as The Song of Ice and Fire is largely free or racism. Obviously not free of culture conflict or other problems, but somehow they managed to present a fantasy world where nobody ever screams something simply based on someone&#8217;s race or skin color, never has the town guard killed someone simply because of their skin color, and never get into discussions of plummeting house prices simply because a dwarf moved into the neighborhood. So if you&#8217;re new to TTRPGs, please don&#8217;t fall for the lie that fantasy worlds can&#8217;t be separated from this thinking and please don&#8217;t fall for the ploy that this must absolutely be true and now it&#8217;s your responsibility to prove them wrong. It&#8217;s just toxic.'"
-caption = "My reply to Facebook Dungeons & Dragons 5th Edition group post."
- %}'
+'
 
-That&#8217;s it, there&#8217;s no great insight in this post. This is one of those things that either you immediately get or you have a lot of personal work to do. Those of us who have been in the hobby for a long time however, should have some go to reasoning to help newer members from getting caught up in all of that.
+That’s it, there’s no great insight in this post. This is one of those things that either you immediately get or you have a lot of personal work to do. Those of us who have been in the hobby for a long time however, should have some go to reasoning to help newer members from getting caught up in all of that.
 
----
-title: 'Thrilling Heroics Rules for D&D 5e'
-author: Scott Turnbull
-layout: post
-image: /assets/img/grog_by_nickroblesart-384x301.jpg
-description: Add more dynamic and thrilling heroics to your 5th edition game with these rules.
-categories:
-  - RPG Resources
-
----
+# 'Thrilling Heroics Rules for D&D 5e'
 
 Thrilling heroics have always been an important part of adventuring in table-top roleplaying games. The rules of 5th edition are great for covering most basic action but occasionally players want something more exciting to happen. The swashbuckler may want to distract opponents by kicking the table at them, or the cavalier leaps from their charging horse to make a more devastating attack, this is all part of thrilling heroic action at the heart of adventure based roleplaying games.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/grog_by_nickroblesart-384x301.jpg"
-  alt="A goliath barbarian leaping in the air about to strike with their axe."
-  width="384" height="301"
-  caption="Image Credit Nick Robles"
- %}
+
 
 Spectacular heroic action itself adds a lot to an encounter, but what makes an action thrilling is the risk that goes along with it. Players who want to attempt some daring action that creates an extra effect, should offer some option for how they do it and what the drawback is if they fail. As with most things in 5th edition, this usually takes the form of stating some goal, picking a skill and stating what the outcome is for success or failure and rolls against a difficulty set by the DM.
 
@@ -341,7 +225,7 @@ The most simple case is the player asks for some action to create a bonus to an 
 
 ## Heroic Action!
 
-Heroics are some action that grants a bonus, advantage, or some condition that isn&#8217;t normally allowed or available through the normal rules. Some examples of things players might try to gain from a heroic action are:
+Heroics are some action that grants a bonus, advantage, or some condition that isn’t normally allowed or available through the normal rules. Some examples of things players might try to gain from a heroic action are:
 
 ### Example Heroics
 
@@ -358,7 +242,7 @@ Heroics are some action that grants a bonus, advantage, or some condition that i
 
 ## Thrilling Risks!
 
-Heroics are some action that grants a bonus, advantage, or some condition that isn&#8217;t normally allowed or available through the normal rules. Some examples of things players might try to gain from a heroic action are:
+Heroics are some action that grants a bonus, advantage, or some condition that isn’t normally allowed or available through the normal rules. Some examples of things players might try to gain from a heroic action are:
 
 |Risk|Impact|
 |--- |--- |
@@ -376,50 +260,41 @@ Heroics are some action that grants a bonus, advantage, or some condition that i
 
 ## Difficulty
 
-By their very nature, an action the generates new options would be difficult or hard to pull off. Otherwise it wouldn&#8217;t be very spectacular and anyone would do it. The DC for a roll typically starts at DC 15 or higher depending on the difficulty of the situation and effect they are trying to achieve. The DM should declare the difficulty before the player decides to proceed with the action so they can determine if this is a risk they are willing to take.
+By their very nature, an action the generates new options would be difficult or hard to pull off. Otherwise it wouldn’t be very spectacular and anyone would do it. The DC for a roll typically starts at DC 15 or higher depending on the difficulty of the situation and effect they are trying to achieve. The DM should declare the difficulty before the player decides to proceed with the action so they can determine if this is a risk they are willing to take.
 
 ## Balancing Things Out
 
 The core idea of Thrilling Heroics is that they balance risks with rewards in 5th edition games. These are not intended to create new mechanics, imply a new contract with the DM and are always expected to be adhoc actions to add excitement to a game, not be a replacement for the rules or cause action creep into the game.
 
-When requesting some sort of heroic action there are a few things to keep in mind to keep this from going off the rails. Heroics are generally creating an opportunity for something they might reasonably have access too. It&#8217;s generally a good idea to avoid allowing access to features or abilities not available until later in the game, such as multiple attacks. Likewise it&#8217;s generally good to avoid granting a character access to some ability or feature that is a unique aspect of another characters class or role.
+When requesting some sort of heroic action there are a few things to keep in mind to keep this from going off the rails. Heroics are generally creating an opportunity for something they might reasonably have access too. It’s generally a good idea to avoid allowing access to features or abilities not available until later in the game, such as multiple attacks. Likewise it’s generally good to avoid granting a character access to some ability or feature that is a unique aspect of another characters class or role.
 
-It can&#8217;t be emphasised enough that balancing these requests is not only important to maintain the challenge of a game, but for inclusion of play styles as well. Some players are naturally more introverted and, others might be more talkative and coming up with Thrilling Heroics more often. Granting more advantages to players who just talk more is a disservice to players with a more introverted or cautious style of play. Balancing these advantages with potential risks maintains a healthy respect for different play-styles.
+It can’t be emphasised enough that balancing these requests is not only important to maintain the challenge of a game, but for inclusion of play styles as well. Some players are naturally more introverted and, others might be more talkative and coming up with Thrilling Heroics more often. Granting more advantages to players who just talk more is a disservice to players with a more introverted or cautious style of play. Balancing these advantages with potential risks maintains a healthy respect for different play-styles.
 
 ## Examples
 
 The types and variations of possible requests are near infinite and limited only by the groups imagination. This is what is so fantastic about table-top roleplaying games and what sets them apart from something like a video game. It does make it difficult however and for this to work, everyone needs to be bought into this as a fun addition to the game. Some examples of a Thrilling Heroic action might be:
 
-  * &#8220;Can I kick the table in front of us at the enemy to block their vision for a moment before I attack? I&#8217;ll roll Deception to try to give me advantage on so I can sneak attack, if I fail I lose my attack.&#8221;
-  * &#8220;Can I leap off my charging horse and attack the enemy with an extra die of damage. I&#8217;ll roll athletics and if I fail I fall prone and take one die off damage.&#8221;
-  * &#8220;Can I throw the lantern in front of the archers to create smoke that gives them disadvantage on shooting at us. If I miss I might hit one of the PCs?&#8221;
-  * &#8220;Can I use my whip to try to grab the weapon out of their hands so I have it if I sacrifice my actin surge?&#8221;
-  * &#8220;Can I use acrobatics to tumble through the group of enemies and avoid attacks of opportunities, if I fail I&#8217;ll stop in the middle and the first attack on me has advantage.&#8221;
-  * &#8220;Can I try to wake up an unconscious character at 1 hp with a Medicine Check, if I fail they will start to make death saves again, starting with 1 failed save?&#8221; (Note this would require consent of the other character)
-  * &#8220;With my rope tied to my ice axe, can I throw it and try to pull the hag down off of the wall? I&#8217;ll roll and shove attack, and the rope snaps if I fail and I lose my weapon.&#8221;
+  * “Can I kick the table in front of us at the enemy to block their vision for a moment before I attack? I’ll roll Deception to try to give me advantage on so I can sneak attack, if I fail I lose my attack.”
+  * “Can I leap off my charging horse and attack the enemy with an extra die of damage. I’ll roll athletics and if I fail I fall prone and take one die off damage.”
+  * “Can I throw the lantern in front of the archers to create smoke that gives them disadvantage on shooting at us. If I miss I might hit one of the PCs?”
+  * “Can I use my whip to try to grab the weapon out of their hands so I have it if I sacrifice my actin surge?”
+  * “Can I use acrobatics to tumble through the group of enemies and avoid attacks of opportunities, if I fail I’ll stop in the middle and the first attack on me has advantage.”
+  * “Can I try to wake up an unconscious character at 1 hp with a Medicine Check, if I fail they will start to make death saves again, starting with 1 failed save?” (Note this would require consent of the other character)
+  * “With my rope tied to my ice axe, can I throw it and try to pull the hag down off of the wall? I’ll roll and shove attack, and the rope snaps if I fail and I lose my weapon.”
 
----
-title: 'RotF Remix: Lake Monster'
-author: Scott Turnbull
-layout: post
-image: https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/01-006.monster.png
-description: A reworking of the Lake Monster quest from 5th edition Icewind Dale Rime of the Frostmaiden.
-categories:
-  - Encounters
+# 'RotF Remix: Lake Monster'
 
----
+This post contains the remixes and changes I used for the Lake Monster quest picked up in the town of Bremen in Icewind Dale: Rime of the Frostmaiden. It runs similarly to what is written in the module with a different backstory, delivery and climax. You can likely use this remix as an independent encounter in any game, but to get the most out of it you will need the module.
 
-This post contains the remixes and changes I used for the Lake Monster quest picked up in the town of Bremen in <a href="https://dnd.wizards.com/products/tabletop-games/rpg-products/icewind-dale-rime-frostmaiden">Icewind Dale: Rime of the Frostmaiden</a>. It runs similarly to what is written in the module with a different backstory, delivery and climax. You can likely use this remix as an independent encounter in any game, but to get the most out of it you will need the module.
-
-<div class="alert alert-secondary">Contains some spoilers for the Lake Monster question in Rime of the Frostmaiden. The content focuses on new or changed materials but comments may imply spoilers.</div>
+Contains some spoilers for the Lake Monster question in Rime of the Frostmaiden. The content focuses on new or changed materials but comments may imply spoilers.
 
 ## Overview
 
-A frost druid (see appendix C of RotF) named Arson (NE, genderless Water Genasi) is awakening animals in and along the shores of Maur Dualdon. They have recently awakened a plesiosaurus and are forcing it to help with their goal of ridding Maur Dualdon of humanoid influence by holding its clutch of eggs hostage in a cavern grotto. The plesiosaur has been told to attack and kill the fisherfolk on the lake to drive them out, but has no real desire to fight or kill. So far it has managed to harass and drive away fisherfolk, primarily near it&#8217;s former home along the eastern shore near Bremen. The frost druid circle is growing impatient with the beast, insisting that only death will send the proper message and threatening the plesiosaur&#8217;s eggs if it does not obey soon.
+A frost druid (see appendix C of RotF) named Arson (NE, genderless Water Genasi) is awakening animals in and along the shores of Maur Dualdon. They have recently awakened a plesiosaurus and are forcing it to help with their goal of ridding Maur Dualdon of humanoid influence by holding its clutch of eggs hostage in a cavern grotto. The plesiosaur has been told to attack and kill the fisherfolk on the lake to drive them out, but has no real desire to fight or kill. So far it has managed to harass and drive away fisherfolk, primarily near it’s former home along the eastern shore near Bremen. The frost druid circle is growing impatient with the beast, insisting that only death will send the proper message and threatening the plesiosaur’s eggs if it does not obey soon.
 
-This quest runs similar to the original. The PCs get to Bremen and hear of a monster harassing and attacking fisherfolk on the lake. They are hired by Grynsky Berylborn, aging fishmaster of Bremen (see module for more details), to find and kill the creature before it is too late and someone dies. They will get a bit more foreshadowing that there might be more to the creature&#8217;s story and an opportunity to interact with it if they choose. The players can decide if they want to take a straight run and kill the creature, gather more information and get to the bottom of things, hear the creature out, or even work to help free it from the influence of the frost druids and save the creatures eggs.
+This quest runs similar to the original. The PCs get to Bremen and hear of a monster harassing and attacking fisherfolk on the lake. They are hired by Grynsky Berylborn, aging fishmaster of Bremen (see module for more details), to find and kill the creature before it is too late and someone dies. They will get a bit more foreshadowing that there might be more to the creature’s story and an opportunity to interact with it if they choose. The players can decide if they want to take a straight run and kill the creature, gather more information and get to the bottom of things, hear the creature out, or even work to help free it from the influence of the frost druids and save the creatures eggs.
 
-_**Note to pendants**: Plesiosaurs didn&#8217;t lay eggs. This breed does._
+_**Note to pendants**: Plesiosaurs didn’t lay eggs. This breed does._
 
 ## Getting the Quest
 
@@ -438,24 +313,18 @@ If the PCs spend some time questing the townsfolk they can roll Charisma (Invest
 |25+|The players discover the Del’Ladderans, if the players can earn their trust they may reveal the information in their section below.|
 {: .table .table-striped .table-hover .full-first }
 
-## Unsafe Waters<figure class="wp-block-image size-large">
-
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/01-006.monster.png"
-  alt="A rustic town forzen in ice."
-  width="425" height="284"
-  caption="Image Credit Wizards of the Coast"
- %}
+## Unsafe Waters
 
 
-This encounter runs much as it does in the module with additions or modifications listed here. I recommend not depending on the late events table, unless your group would enjoy that sort of thing, and instead moving to an encounter with the plesiosaur after a few hours on the water. The beast will begin by ramming and pushing the boat (see Plesiosaurus Behavior option 2 in the module), this continues for several minutes, if the players attack the creature it responds in kind (moving to Plesiosaurus Behavior option 3 in the module). If the creature takes more than half it&#8217;s hitpoints in damage, it swims away. Players may be surprised that it speaks in a pleading tone as it departs, &#8220;Please, just go away!&#8221;. If somehow, the players can get the creatures attention
 
-### Talking to the Del&#8217;Ladderans
 
-An elderly couple living just north of Bremen, Igmar (M, human 78) and Darcia (F, human 75) Del&#8217;Ladderan, will approach the players shortly after returning to Bremen or find them at any location they travel to after encountering the creature. They will urgently ask to speak to the players in private on an important matter. If the players agree they will relate the following information.
+This encounter runs much as it does in the module with additions or modifications listed here. I recommend not depending on the late events table, unless your group would enjoy that sort of thing, and instead moving to an encounter with the plesiosaur after a few hours on the water. The beast will begin by ramming and pushing the boat (see Plesiosaurus Behavior option 2 in the module), this continues for several minutes, if the players attack the creature it responds in kind (moving to Plesiosaurus Behavior option 3 in the module). If the creature takes more than half it’s hitpoints in damage, it swims away. Players may be surprised that it speaks in a pleading tone as it departs, “Please, just go away!”. If somehow, the players can get the creatures attention
 
-  * They were fishing on the lake some months back when the creature began harassing them much like it did the other boats. They reflexively asked &#8220;Please don&#8217;t do this.&#8221; and the creature stopped, emerged from the water and began talking to them about it&#8217;s situation.
+### Talking to the Del’Ladderans
+
+An elderly couple living just north of Bremen, Igmar (M, human 78) and Darcia (F, human 75) Del’Ladderan, will approach the players shortly after returning to Bremen or find them at any location they travel to after encountering the creature. They will urgently ask to speak to the players in private on an important matter. If the players agree they will relate the following information.
+
+  * They were fishing on the lake some months back when the creature began harassing them much like it did the other boats. They reflexively asked “Please don’t do this.” and the creature stopped, emerged from the water and began talking to them about it’s situation.
   * They have befriended the creature, visiting it on the lakeshore where it brings them the occasional fish to eat.
   * They know the thing is being forced to attack the townsfolks and why, they have not spoken of this to anyone out of fear of putting the creature in danger.
   * They are talking to the group because the situation is becoming more desperate and the druids are threatening to destroy the eggs if the creature does not begin to kill people as they ask.
@@ -465,11 +334,11 @@ If the players wish to pursue this plotline and help the beast, the couple will 
 
 ### Talking to the Plesiosaurus
 
-This encounter runs much as it does in the module with additions or modifications listed here. The storyline that it does the bidding of the druids out of ignorance of the awaken condition is replaced with the situation that Revisin&#8217;s Druid Circle found the lakeshore cavern it uses as a lair and is holding the creatures clutch of eggs hostage to force it to do it&#8217;s bidding. The conversation can offer the following information:
+This encounter runs much as it does in the module with additions or modifications listed here. The storyline that it does the bidding of the druids out of ignorance of the awaken condition is replaced with the situation that Revisin’s Druid Circle found the lakeshore cavern it uses as a lair and is holding the creatures clutch of eggs hostage to force it to do it’s bidding. The conversation can offer the following information:
 
   * “The human who gave me this gift is named Ravisin and claimed to serve the Frostmaiden. Ravisin said I must do my part to help rid the shores of this lake from the corruption of humanoids.”
-  * &#8220;Rasvisin threatens my eggs, they will harm my brood if I do not do as they say.
-  * &#8220;My home is north along the shore where Rasvisin and their followers now dewell, keeping my eggs hostage.&#8221;
+  * “Rasvisin threatens my eggs, they will harm my brood if I do not do as they say.
+  * “My home is north along the shore where Rasvisin and their followers now dewell, keeping my eggs hostage.”
 
 The plesiosaur has little understanding of commerce and value, but it can offer a treasure it knows to lay at the bottom of the lake if the players will help. It describes it as a wrecked boat, inside is a glowing orb (drift globe), and a chest with shiny coins (75gp in various coins). It can offer to retrieve these items for the players if they help it drive the druids from its lair.
 
@@ -479,7 +348,7 @@ If the players agree, proceed to Encounter at the Lakeside Cavern.
 
 ## Encounter at the Lakeside Cavern
 
-In a small, half submerged cave two miles north of Bremen along the lakeshore, a small group of druids have occupied the former lair of the Plesiosaur and are holding it&#8217;s eggs hostage. Neither the players, nor the plesiosaur are aware the druid have no intention of destroying the eggs and are merely using them as leverage against the creature. Ultimately if the creature does not do their biding they intend to kill it in an ambush, hatch and raise the broodlings after awakening them, in hopes they will be more compliant to the druids goals.
+In a small, half submerged cave two miles north of Bremen along the lakeshore, a small group of druids have occupied the former lair of the Plesiosaur and are holding it’s eggs hostage. Neither the players, nor the plesiosaur are aware the druid have no intention of destroying the eggs and are merely using them as leverage against the creature. Ultimately if the creature does not do their biding they intend to kill it in an ambush, hatch and raise the broodlings after awakening them, in hopes they will be more compliant to the druids goals.
 
 The encounter itself is straight-forward. There is 1 acolyte per 2 PCs and 1 tribal warrior for each PC (2 tribal warriors if they are 2nd level) held up in the cavern who hold an inattentive guard at a small break near the back that emerges above ground. The main entrance to the cavern is underwater, below the ice. The chamber itself is a large irregular shaped oval, two thirds of the the southern side is water leading to the exit, and the northern water smoothed cavern rocks and with a thin roof of stalactites. The cavern itself is a somewhat comfortable temperature due to geothermal energy far below. There are half a dozen eggs against the warmest wall on the far northern side.
 
@@ -489,31 +358,24 @@ The members of the druid circle are fanatics who will give their lives for the F
 
 As with any adventure, the players can choose how they want to approach it, so choose the outcome that best fits their actions. Some of the broad possibilities are listed below.
 
-  * If they pass on this mission, the town will become very unwelcoming to the party. The beast attacks will continue to escalate until finally some townsfolk die. In more time the townsfolk eventually hire some whalers who trap and kill the beast, it&#8217;s carcase washes up on shore, mourned by the Del&#8217;Ladderan&#8217;s.
+  * If they pass on this mission, the town will become very unwelcoming to the party. The beast attacks will continue to escalate until finally some townsfolk die. In more time the townsfolk eventually hire some whalers who trap and kill the beast, it’s carcase washes up on shore, mourned by the Del’Ladderan’s.
   * If the players kill the beast, they collect the reward from the townsfolk as promised. If they take notes for Tali and include any information that the beast was intelligent, she will be horrified and only begrudgingly give half the reward to the players.
   * If the players defeat the acolytes and druids in the lakeside cavern, they will receive the reward promised, the gratitude of the creature who will say it is moving the eggs to a new location it will not disclose. 
-      * The players are welcome at the Del&#8217;Laddern&#8217;s at any time who will let them share in their meager supplies.
+      * The players are welcome at the Del’Laddern’s at any time who will let them share in their meager supplies.
       * The townsfolk will be skeptical of giving a reward with no proof of a body, but will agree to pay if a month passes with no further attacks.
-  * Resvisin will remember and eventually learn of the players betrayal. This sets up a possible revenge plot later if you&#8217;re inclined, or you could tie them to The White Moose quest in Lonelywood to setup a series of encounters with Resvisin as a BBG for it all.
+  * Resvisin will remember and eventually learn of the players betrayal. This sets up a possible revenge plot later if you’re inclined, or you could tie them to The White Moose quest in Lonelywood to setup a series of encounters with Resvisin as a BBG for it all.
 
-So that&#8217;s it. My remix of this encounter. I hope you get something out of it and enjoy!
+So that’s it. My remix of this encounter. I hope you get something out of it and enjoy!
 
  [1]: https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/01-006.monster.png
 
----
-title: 'Tools to Affect Rolls in D&D'
-author: Scott Turnbull
-layout: post
-description: An analysis and ranking of different roll effecting mechanisms in 5th edition TTRPGs.
-categories:
-  - Analysis
+# 'Tools to Affect Rolls in D&D'
 
----
-Owing to a small thread on <a rel="noreferrer noopener" href="https://twitter.com/optionalrule/status/1345183662703337472" target="_blank">twitter</a> earlier this week, I listed out the options 5th Edition Dungeons and Dragons provides for effecting rolls. This is useful for creating your own roll effecting homebrew rules, if you want to understand the relative power level compared to other elements in the ruleset.
+Owing to a small thread on twitter earlier this week, I listed out the options 5th Edition Dungeons and Dragons provides for effecting rolls. This is useful for creating your own roll effecting homebrew rules, if you want to understand the relative power level compared to other elements in the ruleset.
 
-Before diving into the list it&#8217;s important to draw a distinction between two different meta-classes of roll modifications in 5th edition. Those are modifications that **add to the result** of a die roll, and modifications that **replace the value** of the die roll. This is important for rolls that can produce a critical success, as rolls that replace a value give more opportunities to score a critical. So when ranking the value of a role modification, it&#8217;s important to know if the roll can critically succeed or not.
+Before diving into the list it’s important to draw a distinction between two different meta-classes of roll modifications in 5th edition. Those are modifications that **add to the result** of a die roll, and modifications that **replace the value** of the die roll. This is important for rolls that can produce a critical success, as rolls that replace a value give more opportunities to score a critical. So when ranking the value of a role modification, it’s important to know if the roll can critically succeed or not.
 
-It&#8217;s also worth noting that not all roll benefits are equal so it&#8217;s not as straightforward to compare benefits. Advantage for instance would seem to provide a statistical equivalent lower then the +5 referenced in the system, however advantage doesn&#8217;t just provide a bonus to the roll, it turns a linear probably distribution to a slightly curved one. See the posts I link near the bottom of the article since the importance of this depends largely on the DC of the roll. The point here being not all benefits are so easily compared and it speaks a bit to the wonderful complexity of making things work in a 5th edition game.
+It’s also worth noting that not all roll benefits are equal so it’s not as straightforward to compare benefits. Advantage for instance would seem to provide a statistical equivalent lower then the +5 referenced in the system, however advantage doesn’t just provide a bonus to the roll, it turns a linear probably distribution to a slightly curved one. See the posts I link near the bottom of the article since the importance of this depends largely on the DC of the roll. The point here being not all benefits are so easily compared and it speaks a bit to the wonderful complexity of making things work in a 5th edition game.
 
 These are the levels of dials and levers for 5th edition rolls to consider to guide your house rule design: 
 
@@ -529,76 +391,62 @@ These are the levels of dials and levers for 5th edition rolls to consider to gu
 
 **Ranked by effect on rolls that can have a critical success.**
 
-<ul>
-  <li>
+
+  
     Elven Accuracy
-  </li>
-  <li>
+  
+  
     Advantage
-  </li>
-  <li>
+  
+  
     Bardic Inspiration (All)
-  </li>
-  <li>
+  
+  
     Guidance/Bless: +d4
-  </li>
-  <li>
+  
+  
     Luck: (reroll 1s)
-  </li>
-  <li>
+  
+  
     Bane: -d4 (and Half Cover)
-  </li>
-  <li>
+  
+  
     Three-Quarters Cover
-  </li>
-  <li>
+  
+  
     Disadvantage
-  </li>
-</ul>
+  
 
-Note I&#8217;m including cover here, which doesn&#8217;t actually modify the die roll but adds to AC, which is an indirect way to modify an attack roll so I&#8217;m including it as a relative comparison.
 
-Further note, in terms of its benefit to a roll that can critically hit, Luck is rather hard to rank as a rerolled one might actually result in a critical so there&#8217;s a good argument to be made to putting this higher on the list.
+Note I’m including cover here, which doesn’t actually modify the die roll but adds to AC, which is an indirect way to modify an attack roll so I’m including it as a relative comparison.
 
-In a debate about what the actual outcome of Elven Accuracy might be, I did some quick scripting to simulate 100k rolls to find out what the median result would be of a roll, and what percentage of rolls would crit if it were an attack. Anyone interested in the sloppy code I put together to do this simulation can view it online <a rel="noreferrer noopener" href="https://onlinegdb.com/BJi8LL06D" target="_blank">here</a>. The results of that were interesting to me and might help you assess the various impact of roll modifications you might be considering for your house rules.
+Further note, in terms of its benefit to a roll that can critically hit, Luck is rather hard to rank as a rerolled one might actually result in a critical so there’s a good argument to be made to putting this higher on the list.
+
+In a debate about what the actual outcome of Elven Accuracy might be, I did some quick scripting to simulate 100k rolls to find out what the median result would be of a roll, and what percentage of rolls would crit if it were an attack. Anyone interested in the sloppy code I put together to do this simulation can view it online here. The results of that were interesting to me and might help you assess the various impact of roll modifications you might be considering for your house rules.
 
   * Median roll with Eleven Accuracy is 16.0 and 14% are crits.
   * Median roll with Advantage is 15.0 and 10% are crits.
   * Median roll on a normal 1d20 is 11.0 and 5% are crits.
   * Median roll with Disadvantage is 6.0 and 0% are crits.
 
-Just a note on criticals and disadvantage, since I get the question. It&#8217;s just reading as 0%, there is actually some minimal number rounding to zero. Locally, at disadvantage the only way you crit is by rolling double 20s which is a 1 in 400 chance, so roughly 0.25%.
+Just a note on criticals and disadvantage, since I get the question. It’s just reading as 0%, there is actually some minimal number rounding to zero. Locally, at disadvantage the only way you crit is by rolling double 20s which is a 1 in 400 chance, so roughly 0.25%.
 
-There&#8217;s a great additional take on rolls and outcomes by <a rel="noreferrer noopener" href="https://twitter.com/thedicemechanic" target="_blank">@TheDiceMechanic</a> over on their blog you might want to check out titled <a rel="noreferrer noopener" href="https://dicemechanic.wordpress.com/2014/09/23/advantage-to-the-max/" target="_blank">Advantage to the Max</a> as well. It explores another important consideration in roll modifications, how many rolls would be below 10.
+There’s a great additional take on rolls and outcomes by @TheDiceMechanic over on their blog you might want to check out titled Advantage to the Max as well. It explores another important consideration in roll modifications, how many rolls would be below 10.
 
----
-title: 'D&D Livestream Discussion'
-author: Scott Turnbull
-layout: post
-categories:
-  - Misc
+# 'D&D Livestream Discussion'
 
----
-Livestream of my discussion on 5e D&D campaign prep, talking about Failures and Rising Tension, creating Thrilling Heroics and more. Join me every Saturday at Noon EST on <a rel="noreferrer noopener" href="https://www.twitch.tv/optionalrule" target="_blank">Twitch</a> and <a rel="noreferrer noopener" href="https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw" target="_blank">YouTube</a> to join in the conversation.
+Livestream of my discussion on 5e D&D campaign prep, talking about Failures and Rising Tension, creating Thrilling Heroics and more. Join me every Saturday at Noon EST on Twitch and YouTube to join in the conversation.
 
-<hr class="wp-block-separator is-style-dots" />
 
-<div class="ose-youtube wp-block-embed-youtube aligncenter">
-</div>
 
----
-title: Progressive Failures and Rising Tension in 5th Edition
-author: Scott Turnbull
-layout: post
-image: /assets/img/skillcheck-480x363.jpg
-description: Methods to build tension and excitement with failures and successes in your 5th edition TTRPG.
-categories:
-  - RPG Resources
 
----
-5th edition Dungeons and Dragons has a bit of a rough patch with its skill checks model. Given the variability of a d20, all or nothing skill checks can be a fairly harsh mechanic. Indeed, there&#8217;s some evidence all or nothing checks is not the designers intent. The DMG Chapter 8 provides some alternative methods to consider with skill resolution under [Resolution and Consequences](https://www.dndbeyond.com/sources/dmg/running-the-game#ResolutionandConsequences) which all hinge on a single die roll mechanic. In cases, there may be some utility using a progressive success or failure system instead of a single checks. Particularly in non-combat encounters, it is best to build skill checks in a way to build tension from failure rather than a collapse. <a href="https://dmdavid.com/" rel="noreferrer noopener" target="_blank">DMDavid</a> sparked a thought after a specific example <a href="https://twitter.com/optionalrule/status/1345790204758679556" rel="noreferrer noopener" target="_blank">posted on twitter</a>, how to handle falling with failed climbing checks. Progressive failure and rising tension meshes well with the [Thrilling Heroics Rules]({% link _posts/2020-12-22-thrilling-heroics-rules-for-dd-5e.md %}) I posted awhile back. In fact, it compliments it enough that I thought it useful to post some examples here.
 
-Before I dig too deep, I intend this to be used as another option mixed in with some of the excellent options presented in <a href="https://www.dndbeyond.com/sources/dmg/running-the-game#ResolutionandConsequences" target="_blank" rel="noreferrer noopener">Resolution and Consequences</a> in Chapter 8 of the DMG.
+
+# Progressive Failures and Rising Tension in 5th Edition
+
+5th edition Dungeons and Dragons has a bit of a rough patch with its skill checks model. Given the variability of a d20, all or nothing skill checks can be a fairly harsh mechanic. Indeed, there’s some evidence all or nothing checks is not the designers intent. The DMG Chapter 8 provides some alternative methods to consider with skill resolution under [Resolution and Consequences](https://www.dndbeyond.com/sources/dmg/running-the-game#ResolutionandConsequences) which all hinge on a single die roll mechanic. In cases, there may be some utility using a progressive success or failure system instead of a single checks. Particularly in non-combat encounters, it is best to build skill checks in a way to build tension from failure rather than a collapse. DMDavid sparked a thought after a specific example posted on twitter, how to handle falling with failed climbing checks. Progressive failure and rising tension meshes well with the [Thrilling Heroics Rules]() I posted awhile back. In fact, it compliments it enough that I thought it useful to post some examples here.
+
+Before I dig too deep, I intend this to be used as another option mixed in with some of the excellent options presented in Resolution and Consequences in Chapter 8 of the DMG.
 
 ## Progressive Rolls in a Nutshell
 
@@ -610,19 +458,13 @@ The core game principle is fairly simple, wherever possible the DM can create mo
 
 At each stage along the way, the DM should increase the stakes more. Players can turn the failure around by changing something or accepting some additional risk. The idea is to keep agency in the hands of the the players. In this way, they are able to make decisions and manage their risk as the tension builds.
 
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/skillcheck-480x363.jpg"
-  alt="A group of adventurers leaning over a table, seemingly confused by a map they are looking at"
-  height="363" width="480"
-  caption="Image credit Wizards of the Coast"
- %}
+
 
 ## Why this is Useful
 
 Single roll success or failure models can be bad when failure is catastrophic. For instance, a climbing check that causes you to fall if you fail the roll by more than five. This is a bad model because the variability of a d20 is so high that putting everything onto a single roll is a bad idea. This is particularly bad if failure means they plummet to their death. 
 
-Instead, let&#8217;s use an example with the rule of three model.  
+Instead, let’s use an example with the rule of three model.  
   
 **Example with Climb Check:** The first athletics fail results in no progress. The second failure means the character is stuck and cannot progress without help or significant risk. At this point something needs to change to allow them to progress, meaning either another character climbs over to help them, or some new spell or equipment comes into play. **_Alternatively, the character can now choose to try to climb again, but this time the risk is if they fail, they fall!_**
 
@@ -630,40 +472,25 @@ Instead, let&#8217;s use an example with the rule of three model.
 
 ## General Use 
 
-You can extend this thinking to many types of skill checks. For instance, investigations don&#8217;t progress and getting unstuck risks offending, alerting, or misunderstanding something. Disabling traps might risk sealing a passageway, alerting nearby creatures, or triggering it at an auto failed save or critical damage. It can vary by skill but it&#8217;s worth thinking about, particularly for scenarios where combat is not the main focus.
+You can extend this thinking to many types of skill checks. For instance, investigations don’t progress and getting unstuck risks offending, alerting, or misunderstanding something. Disabling traps might risk sealing a passageway, alerting nearby creatures, or triggering it at an auto failed save or critical damage. It can vary by skill but it’s worth thinking about, particularly for scenarios where combat is not the main focus.
 
-Obviously, these are fuzzy situations, as with most rulings in 5th edition, the DM has to choose the right method for determining outcome based on pacing and the situation. Too often though, DMs reach for the pass/fail mechanic. There&#8217;s some work to do on the DMs part to determine what a success means, is it a reset back to zero, does it just progress the character back to being stuck? Are the risky third rolls made at disadvantage? There&#8217;s no way to tell, and this part of the craft of the DM as they reach for the proper tool to manage tension in the game. In my own case, remembering to do it in the midst of trying to keep the game moving can work against me, but if you have a situation where you want to build tension around non-combat action in game, a DM might consider this method of resolution.
+Obviously, these are fuzzy situations, as with most rulings in 5th edition, the DM has to choose the right method for determining outcome based on pacing and the situation. Too often though, DMs reach for the pass/fail mechanic. There’s some work to do on the DMs part to determine what a success means, is it a reset back to zero, does it just progress the character back to being stuck? Are the risky third rolls made at disadvantage? There’s no way to tell, and this part of the craft of the DM as they reach for the proper tool to manage tension in the game. In my own case, remembering to do it in the midst of trying to keep the game moving can work against me, but if you have a situation where you want to build tension around non-combat action in game, a DM might consider this method of resolution.
 
 **Update 1/6/2021**
 
-Several folks have linked Matt Colville&#8217;s video &#8220;Many Fail States&#8221; which compliments this as well. Thank you so much for the folks that reached out to send me this link. Adding the video here and recommend you check it out for additional thoughts on the topic. 
+Several folks have linked Matt Colville’s video “Many Fail States” which compliments this as well. Thank you so much for the folks that reached out to send me this link. Adding the video here and recommend you check it out for additional thoughts on the topic. 
 
-{% include video/youtube.html id="l1zaNJrXi5Y" %}
 
----
-title: 'RotF Remix: Heart of Winter Supernatural Regions'
-author: Scott Turnbull
-layout: post
-image: https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/00-001.png
-description: Winter themed supernatural region effects to use in your 5th edition Icewind Dale Rime of the Frostmaiden game.
-categories:
-  - Encounters
 
----
+# 'RotF Remix: Heart of Winter Supernatural Regions'
 
-With the publication of Tasha&#8217;s Caldron of Everything, the game introduced the concepts of Supernatural Regions to 5th edition Dungeons and Dragons. Areas that have variable and mysterious effects that might be invoked by specific actions or conditions. Within Icewind Dale are localized arcane phenomenon zones said to manifest The Heart of Winter, that is the conjunction of planar regions brought into alignment with Icewind Dale as a function of Auril&#8217;s ongoing enchantments. Small clusters of these supernatural phenomenon ebb and flow across the region and it has been growing in frequency, intensity, and size as time progresses.
+With the publication of Tasha’s Caldron of Everything, the game introduced the concepts of Supernatural Regions to 5th edition Dungeons and Dragons. Areas that have variable and mysterious effects that might be invoked by specific actions or conditions. Within Icewind Dale are localized arcane phenomenon zones said to manifest The Heart of Winter, that is the conjunction of planar regions brought into alignment with Icewind Dale as a function of Auril’s ongoing enchantments. Small clusters of these supernatural phenomenon ebb and flow across the region and it has been growing in frequency, intensity, and size as time progresses.
 
 Arcane scholars suspect casting of spells such as Control Weather, Magnificent Mansion, or similar spells may cause one of these regions to manifest.
 
 ## The Heart of Winter Supernatural Region
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/00-001.png"
-  alt="A rustic town forzen in ice."
-  width="425" height="284"
-  caption="Image Credit Wizards of the Coast"
- %}
+
 
 
 Consider rolling on the Heart of Winter Magical Effects table when the following circumstances occur in one of these regions. 
@@ -705,30 +532,15 @@ Consider rolling on the Heart of Winter Magical Effects table when the following
 |96-00|The eyes of one random creature turn completely blue, for the next hour they have darkvision. Creatures already possessing darkvision have their range doubled for the duration. Additionally they appear invisible to any creature with darkvision for the duration.|
 {: .table .table-striped .table-hover .full-first }
 
----
-title: 'RotF Remix: The Far North & Ten-Towns'
-author: Scott Turnbull
-layout: post
-image: https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/01-001.easthaven.png
-description: Enhance your 5th edition Rime of the Frostmaiden campaign with these additions to the Ten Towns in Icewind Dale.
-categories:
-  - Encounters
+# 'RotF Remix: The Far North & Ten-Towns'
 
----
- 
-The Ten-Towns of <a rel="noreferrer noopener" href="https://dnd.wizards.com/products/tabletop-games/rpg-products/icewind-dale-rime-frostmaiden" target="_blank">Icewind Dale: Rime of the Frostmaiden</a> provide rich plot, roleplaying, and excellent modular encounters for your 5th edition Dungeons and Dragons game. These early adventures setup the core tension of the adventure, and provide some of the most obvious ways to allow heroes make an impact on the region. What follows here are a few updates, changes, or additions to Ten-Towns to spice up your sessions in different ways. The factions section below provide a bit more political context to the adventure, the Sacrifices to Auril section provides a bit more background and context for the dangers faced and how each town is adapting, the Winter Survival Gear and Travel section enhance the survival mechanics in the setting. Like any remix, this is just a skew toward a specific style of running the game, use what you find useful and ignore the rest. Many of these core components setup remixes for individual encounters I will post over time.
+The Ten-Towns of Icewind Dale: Rime of the Frostmaiden provide rich plot, roleplaying, and excellent modular encounters for your 5th edition Dungeons and Dragons game. These early adventures setup the core tension of the adventure, and provide some of the most obvious ways to allow heroes make an impact on the region. What follows here are a few updates, changes, or additions to Ten-Towns to spice up your sessions in different ways. The factions section below provide a bit more political context to the adventure, the Sacrifices to Auril section provides a bit more background and context for the dangers faced and how each town is adapting, the Winter Survival Gear and Travel section enhance the survival mechanics in the setting. Like any remix, this is just a skew toward a specific style of running the game, use what you find useful and ignore the rest. Many of these core components setup remixes for individual encounters I will post over time.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/01-001.easthaven.png"
-  alt="A rustic town forzen in ice."
-  width="425" height="284"
-  caption="Image Credit Wizards of the Coast"
- %}
+
 
 ## Access to Icewind Dale
 
-Travel in and out of the region is all but blocked. The mountain passes are buried in heavy snow and carry the ever present danger of avalanche from two years of snowfall, The passages through the underdark are controlled by the Duergar, who have the upper hand in their war with <a rel="noreferrer noopener" href="https://forgottenrealms.fandom.com/wiki/Mithral_Hall" target="_blank">Mithral Hall</a>. Sea ice has continued to build up, making passage by ship a very dangerous affair. The only regular means of travel in and out of the region since the start of Auril&#8217;s Reign of Terror, has been the monthly trek of The Bright Moon Caravan helping people flee the region and bringing in much needed supplies.
+Travel in and out of the region is all but blocked. The mountain passes are buried in heavy snow and carry the ever present danger of avalanche from two years of snowfall, The passages through the underdark are controlled by the Duergar, who have the upper hand in their war with Mithral Hall. Sea ice has continued to build up, making passage by ship a very dangerous affair. The only regular means of travel in and out of the region since the start of Auril’s Reign of Terror, has been the monthly trek of The Bright Moon Caravan helping people flee the region and bringing in much needed supplies.
 
 As mentioned much of this information establishes a baseline for other elements of the remix I will be posting, so I am providing this summary here for a central reference.
 
@@ -736,38 +548,38 @@ As mentioned much of this information establishes a baseline for other elements 
 
 ### The Bright Moon Caravan
 
-Lead by dwarves of <a rel="noreferrer noopener" href="https://forgottenrealms.fandom.com/wiki/Clan_Battlehammer" target="_blank">Clan Battlehammer</a>, the Bright Moon Caravan is the main supply line for Ten-Towns. Just before the full moon each month, traders and travelers gather in the square of Bryn Shander to join the caravan. Trained <a rel="noreferrer noopener" href="https://forgottenrealms.fandom.com/wiki/Bulette" target="_blank">Bulettes</a> are used to plow through the mountain pass along [Ten-Trail][1] toward the town of <a rel="noreferrer noopener" href="https://forgottenrealms.fandom.com/wiki/Hundelstone" target="_blank">HundleStone</a> where southern traders gather every month. The caravan is a vital supply line, allowing the Ten-Towns to hang on. It serves as an excellent way for player characters to enter the region in the early game, and one of the few ways for the unfortunate to leave.
+Lead by dwarves of Clan Battlehammer, the Bright Moon Caravan is the main supply line for Ten-Towns. Just before the full moon each month, traders and travelers gather in the square of Bryn Shander to join the caravan. Trained Bulettes are used to plow through the mountain pass along [Ten-Trail][1] toward the town of HundleStone where southern traders gather every month. The caravan is a vital supply line, allowing the Ten-Towns to hang on. It serves as an excellent way for player characters to enter the region in the early game, and one of the few ways for the unfortunate to leave.
 
 ### The Chardalyn Syndicate
 
-The Chardalyn Syndicate is a lose confederation of affluent people and business owners in Ten-Towns. They began coordinating before Auril&#8217;s reign of terror, with the goal of taking over the Council of Speakers. Their goals vary by member, but largely involve control of commerce within the Ten-Towns to control trade of the unique resources found in the region. Since the long winter has fallen, members have become more militant and actively seek to undermine and control the council, either because they feel they can make the &#8220;hard decisions&#8221; needed to survive or because they see an opportunity to prosper from the chaos. Members use various means to undermine the local speaker and gain public support for efforts in their town. The most effective means of late has been smuggling additional supplies to the townspeople through a secret alliance with the Duragar, while helping their allies attack the Bright Moon Caravan to ensure they are the only reliable suppliers.
+The Chardalyn Syndicate is a lose confederation of affluent people and business owners in Ten-Towns. They began coordinating before Auril’s reign of terror, with the goal of taking over the Council of Speakers. Their goals vary by member, but largely involve control of commerce within the Ten-Towns to control trade of the unique resources found in the region. Since the long winter has fallen, members have become more militant and actively seek to undermine and control the council, either because they feel they can make the “hard decisions” needed to survive or because they see an opportunity to prosper from the chaos. Members use various means to undermine the local speaker and gain public support for efforts in their town. The most effective means of late has been smuggling additional supplies to the townspeople through a secret alliance with the Duragar, while helping their allies attack the Bright Moon Caravan to ensure they are the only reliable suppliers.
 
 Members have taken to wearing a small broach of Chardalyn crystal shaped into a rose, frequently send messages back and forth in code, and meet only rarely.
 
 #### Intrigue & Survival: The Duergar Alliance
 
-Seizing on the opportunity to make the townsfolks more dependent on them and to undermine the authority of The Speakers Council, The Chardalyn Syndicate has formed an alliance with Xardorok Sunblight of the Duergar. From their point of view, they can use Xardorok to bring in supplies and he will become a reliable market for Chardalyn crystals once they fully control the region. Though this alliance they secretly smuggle in supplies each month and make a show of distributing them in the town when they arrive, few have asked questions of how they get these supplies. At the same time, they provide information to the Duergar who have begun ambushing the Bright Moon Caravan in hopes of shutting down that supply line and further strengthening their position. In this remix, I&#8217;ll provide some scenarios related to unravelling this alliance.
+Seizing on the opportunity to make the townsfolks more dependent on them and to undermine the authority of The Speakers Council, The Chardalyn Syndicate has formed an alliance with Xardorok Sunblight of the Duergar. From their point of view, they can use Xardorok to bring in supplies and he will become a reliable market for Chardalyn crystals once they fully control the region. Though this alliance they secretly smuggle in supplies each month and make a show of distributing them in the town when they arrive, few have asked questions of how they get these supplies. At the same time, they provide information to the Duergar who have begun ambushing the Bright Moon Caravan in hopes of shutting down that supply line and further strengthening their position. In this remix, I’ll provide some scenarios related to unravelling this alliance.
 
 ##### Members
 
 Each member of the Chardalyn Syndicate operates a small cadre of lackys, enforcers, spies, and servants in their respective towns. They frequently send messages back and forth in code but meet only rarely. Naerth is the primary leader, and in the strongest position being the only member to win their way into The Speakers Counsel.
 
-  * **Naerth Maxidanarr (Targos)** &#8211; (See RotF Targos) Only member to be on The Speakers Council. Leader of Syndicate.
-  * **Tomi Delbore (Termalaine)** &#8211; (new NPC, 42 year old female NE Human Veteran) Head of the local town guard, she barely lost to the current speaker in a bitterly contested election recently. She blatantly withholds support for the speaker and makes great pains to let everyone know that whatever she does do for the town is at her discretion.
-  * **Arnold Bietz (Bryn Shander)** &#8211; (new NPC, 57 yr old male LE Half-Elf Noble) A crafty businessman and owner of Bietz Salvage, a franchise with outposts in several towns. He is the wealthiest member of the Syndicate and has the most connections to merchant houses along the Sword Coast.
-  * **Jetta Keenseeker (Easthaven)** &#8211; (new NPC, 78 yr old female NE Dwarf Noble) Recently Murdered by Dzaan (see Public Execution section in Easthaven) after an attempt to have her guides abandon Dzaan in the wilderness to die in hopes of recovering their magic items. Jetta operated the largest fishing team on the lake as well as the Easthaven Ferry. She also operated the regions smugglers guild, and is the primary point of coordination in bringing in supplies from the Duergar. With her death her organization is in a power struggle between lieutenants.
+  * **Naerth Maxidanarr (Targos)** – (See RotF Targos) Only member to be on The Speakers Council. Leader of Syndicate.
+  * **Tomi Delbore (Termalaine)** – (new NPC, 42 year old female NE Human Veteran) Head of the local town guard, she barely lost to the current speaker in a bitterly contested election recently. She blatantly withholds support for the speaker and makes great pains to let everyone know that whatever she does do for the town is at her discretion.
+  * **Arnold Bietz (Bryn Shander)** – (new NPC, 57 yr old male LE Half-Elf Noble) A crafty businessman and owner of Bietz Salvage, a franchise with outposts in several towns. He is the wealthiest member of the Syndicate and has the most connections to merchant houses along the Sword Coast.
+  * **Jetta Keenseeker (Easthaven)** – (new NPC, 78 yr old female NE Dwarf Noble) Recently Murdered by Dzaan (see Public Execution section in Easthaven) after an attempt to have her guides abandon Dzaan in the wilderness to die in hopes of recovering their magic items. Jetta operated the largest fishing team on the lake as well as the Easthaven Ferry. She also operated the regions smugglers guild, and is the primary point of coordination in bringing in supplies from the Duergar. With her death her organization is in a power struggle between lieutenants.
 
 ### The Duergar
 
-The Duergar&#8217;s plans to undermine the region continue on much as in the module. The added dimension is their alliance with The Chardalyn Syndicate, which Xardorok sees as a valuable way to get information about the towns, access to Chardalyn, and a means for his agents to better operate. From his point of view, once he has helped the short-sighted members of The Chardalyn Syndicate disrupt the Ten-Towns, he only need withdraw his support and isolate them to do what he pleases with them. While he is building up his forces, he is happy to allow just enough supplies through the underdark passages he controls to give the people a false hope. Elements of the Duergar faction are spread across Icewind Dale secretly searching for Chardalyn crystals to supply Xardorok&#8217;s war machine. 
+The Duergar’s plans to undermine the region continue on much as in the module. The added dimension is their alliance with The Chardalyn Syndicate, which Xardorok sees as a valuable way to get information about the towns, access to Chardalyn, and a means for his agents to better operate. From his point of view, once he has helped the short-sighted members of The Chardalyn Syndicate disrupt the Ten-Towns, he only need withdraw his support and isolate them to do what he pleases with them. While he is building up his forces, he is happy to allow just enough supplies through the underdark passages he controls to give the people a false hope. Elements of the Duergar faction are spread across Icewind Dale secretly searching for Chardalyn crystals to supply Xardorok’s war machine. 
 
 ## Getting Around Ten Towns
 
-Given travel times, even short distances could take days of travel, and modifying the travel times provideds a bit more consistency and a progression of options the party can use to establish goals. These changes here are slightly different than the ones presented on <a rel="noreferrer noopener" href="https://thealexandrian.net/wordpress/45138/roleplaying-games/icewind-dale-travel-times" target="_blank">The Alexandrian</a> website, but I wanted to link their article as it&#8217;s of tremendous use. Of note, this remix establishes Axe Beaks as effective winter mounts in addition to their utility as pack animals. 
+Given travel times, even short distances could take days of travel, and modifying the travel times provideds a bit more consistency and a progression of options the party can use to establish goals. These changes here are slightly different than the ones presented on The Alexandrian website, but I wanted to link their article as it’s of tremendous use. Of note, this remix establishes Axe Beaks as effective winter mounts in addition to their utility as pack animals. 
 
 The travel rates below are new base travel rates, not difficult terrain, which seems to be a point of confusion in the game. The first day after a blizzard, after an avalanche, traveling over ice, and other conditions may still cause difficult terrain. It is not clear from the write-up if Dogsleds have their rest period included in the base travel time, this remix assumes it does not and rest is a resource to manage by players for their dogsled team.
 
-If the party travels across overland terrain in Icewind Dale for more than four hours in a day, they must succeed on a DC 10 <a rel="noreferrer noopener" href="https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#GroupChecks" target="_blank">group</a> Constitution (Survival) check or suffer a level of exhaustion. They must repeat this check every four hours of travel.
+If the party travels across overland terrain in Icewind Dale for more than four hours in a day, they must succeed on a DC 10 group Constitution (Survival) check or suffer a level of exhaustion. They must repeat this check every four hours of travel.
 
 ### Base Travel Rates (Per Hour)
 
@@ -779,7 +591,7 @@ If the party travels across overland terrain in Icewind Dale for more than four 
 |On foot, without snowshoes|1 mile|1/4 mile|1/8 mile|
 {: .table .table-striped .table-hover .data-table }
 
-<figcaption class="figure-caption mb-4">* must rest after one hour of pulling.</figcaption>
+* must rest after one hour of pulling.
 
 ### Winter Survival Gear
 
@@ -787,37 +599,23 @@ In this remix Winter Survival Gear provides advantage on any checks or saves rel
 
 ## Sacrifices to Auril
 
-Shortly after Auril&#8217;s Reign of Terror began, a ferocious blizzard would descend on the Ten-Towns every new moon. The storm would bury the settlements under massive snowfalls, damage buildings, and people would lose their life during the ordeal. Ultimately these storms began to create temporary <a href="https://optionalrule.com/2021/01/04/rotf-remix-heart-of-winter-supernatural-regions/" data-type="post" data-id="185">Heart of Winter Magical Regions</a> in and around the towns, causing a great panic among the citizens. With the help of shamen from the <a rel="noreferrer noopener" href="https://forgottenrealms.fandom.com/wiki/Reghedmen" target="_blank">Reghed Nomads</a> and spirit talkers from the towns, The Speakers Counsel began the sacrifices to appease Auril and prevent the vicious storms. The sacrifices began 7 months prior to the campaign and so far the sacrifices have proved successful in preventing the storms, but as time wears on tension grows that a town will fail to meet its obligation and the storms will return.
+Shortly after Auril’s Reign of Terror began, a ferocious blizzard would descend on the Ten-Towns every new moon. The storm would bury the settlements under massive snowfalls, damage buildings, and people would lose their life during the ordeal. Ultimately these storms began to create temporary Heart of Winter Magical Regions in and around the towns, causing a great panic among the citizens. With the help of shamen from the Reghed Nomads and spirit talkers from the towns, The Speakers Counsel began the sacrifices to appease Auril and prevent the vicious storms. The sacrifices began 7 months prior to the campaign and so far the sacrifices have proved successful in preventing the storms, but as time wears on tension grows that a town will fail to meet its obligation and the storms will return.
 
 Humanoid Sacrifices are conducted different in each town as follows:
 
   * **Bryn Shander:** Each month, a person has stepped forward to volunteer as sacrifice, usually from the elderly or the sick. To honor those that sacrifice, the town cares the trunk of a tall tree with icons from the volunteers life, topping each log with a carved bust of the person. These are mounted in the town square, at the base of each a growing set of small offerings accumulate. Sacrifices are sent without weapon, adequate clothing, or supplies out onto the tundra.
   * **Easthaven:** Each month the town sacrifices a criminal. This has led the town to take a strict and proactive approach to law enforcement. Sacrifices are drown in the nearby lake through a hole in the ice.
-  * **Targos:** The town is the only one to conduct a lottery, which it touts as &#8220;fair and impartial to all citizens&#8221;. It is known to be rife with corruption. Each citizen is required to enter up to 4 lots depending on their age, with younger citizens entering less and minors exempt. Citizens are allowed to pay a tax to remove lots from the lottery, and there are rumors that some very affluent members of the town are able to buy their way out entirely. Sacrifices are shot with arrows near the entrance to the frozen port.
+  * **Targos:** The town is the only one to conduct a lottery, which it touts as “fair and impartial to all citizens”. It is known to be rife with corruption. Each citizen is required to enter up to 4 lots depending on their age, with younger citizens entering less and minors exempt. Citizens are allowed to pay a tax to remove lots from the lottery, and there are rumors that some very affluent members of the town are able to buy their way out entirely. Sacrifices are shot with arrows near the entrance to the frozen port.
 
  [1]: https://forgottenrealms.fandom.com/wiki/Ten_Trail
 
----
-title: 'Simulating Sadness: Great Weapon Fighter Damage'
-author: Scott Turnbull
-layout: post
-image: /assets/img/grog_by_nickroblesart-384x301.jpg
-description: An breakdown and analysis of the outcomes of different options related to the Great Weapon Fight feat in 5th edition.
-categories:
-  - Analysis
+# 'Simulating Sadness: Great Weapon Fighter Damage'
 
----
 I have always had a bit of doubt about the overall benefit of the Great Weapon Fighter fighting style and the Improved Critical ability for Champions in 5th Edition Dungeons and Dragons, so I dig into it a bit below. 
 
-In terms of damage, Great Weapon fighter letting you reroll a one or two seem okay, but you have to keep the result of whatever the reroll is. Not only might this not change the result but if you roll a 2 the first time, and a 1 on the reroll you&#8217;re actually doing **LESS** damage on the roll. 
+In terms of damage, Great Weapon fighter letting you reroll a one or two seem okay, but you have to keep the result of whatever the reroll is. Not only might this not change the result but if you roll a 2 the first time, and a 1 on the reroll you’re actually doing **LESS** damage on the roll. 
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/grog_by_nickroblesart-384x301.jpg"
-  alt="A goliath barbarian leaping in the air about to strike with their axe."
-  width="384" height="301"
-  caption="Image Credit Nick Robles"
- %}
+
 
 The ability of Champions to score a critical on a 19 or 20 sounds fine but I think this fails Fighter classes because dice are generally not where the fighters damage is and they spread that damage out across multiple attacks as they level. This means that doubling the weapon damage dice from a critical has a relatively small effect. It also means that the increased chance of a critical is limited by relatively small number of dice bound to a single attack roll.
 
@@ -866,18 +664,18 @@ In any case, I just wanted to have a bit of fun so I setup a small bit of code t
 |Greatsword, Maul|2d6|8.3|8.7|9.2|
 {: .table .table-striped .table-hover .data-table }
 
-Given the relatively small benefit of these differences, and the general disruption of flow at the table as a player manages dice that need to be rerolled, these abilities seem questionable in value to the game. Perhaps I&#8217;m missing something about the numbers but that is my take after looking at the numbers. 
+Given the relatively small benefit of these differences, and the general disruption of flow at the table as a player manages dice that need to be rerolled, these abilities seem questionable in value to the game. Perhaps I’m missing something about the numbers but that is my take after looking at the numbers. 
 
 ## House Rules
 
-It&#8217;s 5th edition right? so everyone&#8217;s first response is to create a fix through a house rule. I&#8217;ve seen two house rules frequently suggested, I&#8217;m not sure if people are using them or not so drop me an <a rel="noreferrer noopener" href="https://www.twitter.com/optionalrule" target="_blank">@ on twitter</a> with your experiences if you do. The two house rules I&#8217;ve seen are:
+It’s 5th edition right? so everyone’s first response is to create a fix through a house rule. I’ve seen two house rules frequently suggested, I’m not sure if people are using them or not so drop me an @ on twitter with your experiences if you do. The two house rules I’ve seen are:
 
   1. When you roll a 1 or 2 you can roll the die again and add the value to the previous roll. 
   2. When you roll a 1 or a 2 you can reroll the die, keeping the higher of the two die results.
 
-So let&#8217;s take a look at the results of these rules.
+So let’s take a look at the results of these rules.
 
-**Table 3.** GWF house rule option &#8211; Adding the rerolled die to the original result
+**Table 3.** GWF house rule option – Adding the rerolled die to the original result
 
 |Weapons|Damage|Base|20|19|
 |--- |--- |--- |--- |--- |
@@ -888,9 +686,9 @@ So let&#8217;s take a look at the results of these rules.
 {: .table .table-striped .table-hover .data-table }
 
 
-I&#8217;m not a huge fan of this, even though it&#8217;s a bit more powerful than the vanilla rule. Sure it provides a slight bump but it seems fairly weak tea compared to the single weapon Dueling fighting style that gets a flat +2 to damage and still gets to use a shield (you know that right?). 
+I’m not a huge fan of this, even though it’s a bit more powerful than the vanilla rule. Sure it provides a slight bump but it seems fairly weak tea compared to the single weapon Dueling fighting style that gets a flat +2 to damage and still gets to use a shield (you know that right?). 
 
-***Table 4.*** GWF house rule option &#8211; GWF rerolling until you get a higher result.
+***Table 4.*** GWF house rule option – GWF rerolling until you get a higher result.
 
 |Weapons|Damage|Base|20|19|
 |--- |--- |--- |--- |--- |
@@ -900,62 +698,41 @@ I&#8217;m not a huge fan of this, even though it&#8217;s a bit more powerful tha
 |Greatsword, Maul|2d6|8.4|8.8|9.3|
 {: .table .table-striped .table-hover .data-table }
   
-I&#8217;m even less a fan of this rule. I honestly can&#8217;t believe people do this but I hear about it enough to think I should include it. The interruption of a player examining the outcome of each of their die rolls, rerolling and examining that, and rerolling again, seems not worth the interruption to combat turns. It makes very little comparative difference for the effort, and it only even seems a bit useful in the context of a Champion, which I would recommend become a subclass feature if I thought the rule worthwhile at all.
+I’m even less a fan of this rule. I honestly can’t believe people do this but I hear about it enough to think I should include it. The interruption of a player examining the outcome of each of their die rolls, rerolling and examining that, and rerolling again, seems not worth the interruption to combat turns. It makes very little comparative difference for the effort, and it only even seems a bit useful in the context of a Champion, which I would recommend become a subclass feature if I thought the rule worthwhile at all.
 
 ## Swing and a Missed Opportunity
 
-Overall I feel like Great Weapon Fighter was a missed opportunity in 5th edition. A weak damage bonus is a counter to the notion of powerful attacks the fighting style evokes. I think this is falling victim to the notion that Battlemaster has to have all the combat maneuvers and would much rather have seen Great Weapon Fighter dominate the battlefield with abilities that pointed to power or burst damage. A fix would go beyond the complexity of a simple house rule, but I&#8217;d have preferred to see something like cleve options, knocking opponents down, or even something out of the box like a times per long rest damage add similar to a Paladin&#8217;s smite (Paladin&#8217;s still retain the upper hand since theirs overcomes damage resistance in many cases).
+Overall I feel like Great Weapon Fighter was a missed opportunity in 5th edition. A weak damage bonus is a counter to the notion of powerful attacks the fighting style evokes. I think this is falling victim to the notion that Battlemaster has to have all the combat maneuvers and would much rather have seen Great Weapon Fighter dominate the battlefield with abilities that pointed to power or burst damage. A fix would go beyond the complexity of a simple house rule, but I’d have preferred to see something like cleve options, knocking opponents down, or even something out of the box like a times per long rest damage add similar to a Paladin’s smite (Paladin’s still retain the upper hand since theirs overcomes damage resistance in many cases).
 
-Regardless, I&#8217;d like to hear what you think or how you handle it so hit me up and let me know.
+Regardless, I’d like to hear what you think or how you handle it so hit me up and let me know.
 
----
-title: Be Friends with your Roleplaying Group
-author: Scott Turnbull
-layout: post
-description: Why friendship is so important for TTRPG groups and in 5th edition games.
-categories:
-  - Misc
+# Be Friends with your Roleplaying Group
 
----
-I will write a whole post someday on the importance of friendship in Tabletop Roleplaying groups. Today though I want to capture two tweets I made because I don&#8217;t think you can ever say this enough. 
+I will write a whole post someday on the importance of friendship in Tabletop Roleplaying groups. Today though I want to capture two tweets I made because I don’t think you can ever say this enough. 
 
-<div class="row row-cols-auto">
 
-<div class="col">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DnD?src=hash&amp;ref_src=twsrc%5Etfw">#DnD</a> tip: Play groups should work to be friends. Being part of an RPG group makes you are very vulnerable. Doing voices, expressing emotion, or just asking someone to do something cool with you makes you vulnerable.</p>&mdash; Optional Rule (@optionalrule) <a href="https://twitter.com/optionalrule/status/1347642826612473859?ref_src=twsrc%5Etfw">January 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 
-<div class="col">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DnD?src=hash&amp;ref_src=twsrc%5Etfw">#DnD</a> Tip: Make friends with your DM. DMing is a particularly vulnerable job. Not only do you have all the vulnerability of all the other players, but you represent adversity to the rest of the group. That can be hard. Most poor DM behavior is compensating for that.</p>&mdash; Optional Rule (@optionalrule) <a href="https://twitter.com/optionalrule/status/1347643094943019010?ref_src=twsrc%5Etfw">January 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 
-</div>
+#DnD tip: Play groups should work to be friends. Being part of an RPG group makes you are very vulnerable. Doing voices, expressing emotion, or just asking someone to do something cool with you makes you vulnerable.— Optional Rule (@optionalrule) January 8, 2021 
 
-That&#8217;s it. Try to be friends with each other is the best advice I can give any gaming group. Learn a bit about each other and learn to enjoy each other&#8217;s company for a bit. You don&#8217;t have to be the best of friends. You don&#8217;t have to be up in each others lives, which can even be unhealthy. However, you&#8217;re going to be spending a few hours together every week, being vulnerable in your roleplaying, and hanging your hopes for a fun time on every other person in the game. 
 
-Do more than just try to be friendly and polite with one another, though that is critical too. Make an effort to try to be friends. Show up early to talk, or hangout a little after and bond over the game. Take some time to see the person and not the character or dungeon master. Offer up a bit of yourself to others so they can get to know you too. Above all, try to understand your new friends. You&#8217;ll get more out of this as a group than almost anything else I can think of.
 
----
-title: 'Icewind Dale NPC: Arnold Beitz'
-author: Scott Turnbull
-layout: post
-image: /assets/img/ArnoldBeitz-394x787.jpg
-description: A evil and conniving NPC to use in your 5th edition Rime of the Frostmaiden campaign.
-categories:
-  - Encounters
+#DnD Tip: Make friends with your DM. DMing is a particularly vulnerable job. Not only do you have all the vulnerability of all the other players, but you represent adversity to the rest of the group. That can be hard. Most poor DM behavior is compensating for that.— Optional Rule (@optionalrule) January 8, 2021 
 
----
+
+
+
+That’s it. Try to be friends with each other is the best advice I can give any gaming group. Learn a bit about each other and learn to enjoy each other’s company for a bit. You don’t have to be the best of friends. You don’t have to be up in each others lives, which can even be unhealthy. However, you’re going to be spending a few hours together every week, being vulnerable in your roleplaying, and hanging your hopes for a fun time on every other person in the game. 
+
+Do more than just try to be friendly and polite with one another, though that is critical too. Make an effort to try to be friends. Show up early to talk, or hangout a little after and bond over the game. Take some time to see the person and not the character or dungeon master. Offer up a bit of yourself to others so they can get to know you too. Above all, try to understand your new friends. You’ll get more out of this as a group than almost anything else I can think of.
+
+# 'Icewind Dale NPC: Arnold Beitz'
+
 This is an NPC I've used in my Rime of the Frostmaiden campaign as a foil in Bryn Shander and to introduce a political ingrique plot for the players early on in the game. 
 
 **Description:** A finely dressed tall thin human with hawkish features and tightly bound raven hair and high widows peaks. His angular features seem to have frozen his face into a permanent scowl. His skin is flawless and his amber eyes scan people very quickly.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 my-5"
-  src="/assets/img/ArnoldBeitz-394x787.jpg"
-  alt="A well dressed man with pale skin, high widows peaks, and a look of cool disdain."
-  width="394" height="787"
-  caption="Image Credit Wizards of the Coast"
- %}
+
 
 
 **Personality:** He believes people are spoiled and unwilling to work. That they are made lazy by the march of civilization and that only what he considers hard working people deserve any sort of benefit. He has a taste for the finer things and spends a great deal of money on luxuries, some more exotic than others.
@@ -968,32 +745,25 @@ This is an NPC I've used in my Rime of the Frostmaiden campaign as a foil in Bry
 
 **Voice:** Half-singing
 
-**Plot:** Arnold is a member of [The Chardalyn Syndicate]({% link _posts/2021-01-04-rotf-remix-the-far-north-ten-towns.md %}), controllling Bryn Shander.  After a failed election to town speaker he has energetically pursued every opportunity to undermine the current town speaker.  He is also working with a local band of goblins to intercept or disrupt the supply lines for rival businesses in town.  His goal is to spark a revolt that installs him as town speaker.
+**Plot:** Arnold is a member of [The Chardalyn Syndicate](), controllling Bryn Shander.  After a failed election to town speaker he has energetically pursued every opportunity to undermine the current town speaker.  He is also working with a local band of goblins to intercept or disrupt the supply lines for rival businesses in town.  His goal is to spark a revolt that installs him as town speaker.
 
 
----
-title: 'RotF Remix: Foaming Mugs'
-author: Scott Turnbull
-layout: post
-image: https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/00-004.yeti-splash.png
-description: My modification to the Foaming Mugs quest from the 5th edition module, Rime of the Frostmaiden.
-categories:
-  - Encounters
----
-This is my remix of the Foaming Mugs quest from the 5th edition Dungeons and Dragons module, <a href="https://dnd.wizards.com/products/tabletop-games/rpg-products/icewind-dale-rime-frostmaiden" target="_blank" rel="noreferrer noopener">Icewind Dale: Rime of the Frostmaiden</a>. You can use this to spice up your encounter with a bit more intrigue, potential negotiation and roleplay. It also ties back to The Chardalyn Syndicate, a faction that is part of the [Far North & Ten-Towns][1] remix posted here previously. Check out the [RotF][2] and Remix tags on this site for more remixes.
+# 'RotF Remix: Foaming Mugs'
 
-I avoid reproducing items from the module and you&#8217;ll need the original to make sense of this but be aware this **may imply spoilers**.
+This is my remix of the Foaming Mugs quest from the 5th edition Dungeons and Dragons module, Icewind Dale: Rime of the Frostmaiden. You can use this to spice up your encounter with a bit more intrigue, potential negotiation and roleplay. It also ties back to The Chardalyn Syndicate, a faction that is part of the [Far North & Ten-Towns][1] remix posted here previously. Check out the [RotF][2] and Remix tags on this site for more remixes.
+
+I avoid reproducing items from the module and you’ll need the original to make sense of this but be aware this **may imply spoilers**.
 
 ## What this remix changes 
 
-  * Turns this into an &#8220;inside job&#8221; involving one of the dwarves.
+  * Turns this into an “inside job” involving one of the dwarves.
   * Adds a fantastic location for the encounter to play out in.
   * Throws in a possible Yeti encounter.
-  * Introduces a &#8216;secret&#8217; ending for investigative players who catch onto the inside job.
+  * Introduces a ‘secret’ ending for investigative players who catch onto the inside job.
 
 ## Overview 
 
-The lost shipment of iron was an inside job. Korux the Dwarf is working with Izobai the goblin leader to steal the shipment on behalf of Arnold Beitz, who they know will pay for goods that get lost on the road. Conspiring together, Korux and Izobai made a plan to scare off the dwarves using Izobai&#8217;s polar bears. Korux convinced the other dwarves to travel overland using one of his old smuggling routes because the roads were unsafe. Izobai decided it wasn&#8217;t worth risking his polar bears and bought a small charm that attracts Yeti. Unfortunately, for all involved the Yeti didn&#8217;t announce its presence, ambushed the dwarves, gravely wounding Korux in the process. Since then, Izobai and the goblins have been waiting for the Yeti to clear out before recovering the shipment.
+The lost shipment of iron was an inside job. Korux the Dwarf is working with Izobai the goblin leader to steal the shipment on behalf of Arnold Beitz, who they know will pay for goods that get lost on the road. Conspiring together, Korux and Izobai made a plan to scare off the dwarves using Izobai’s polar bears. Korux convinced the other dwarves to travel overland using one of his old smuggling routes because the roads were unsafe. Izobai decided it wasn’t worth risking his polar bears and bought a small charm that attracts Yeti. Unfortunately, for all involved the Yeti didn’t announce its presence, ambushed the dwarves, gravely wounding Korux in the process. Since then, Izobai and the goblins have been waiting for the Yeti to clear out before recovering the shipment.
 
 **The core of the adventure is as follows:**
 
@@ -1001,49 +771,43 @@ The lost shipment of iron was an inside job. Korux the Dwarf is working with Izo
   * Travel to the site of the lost shipment, find the Yeti charm, and perhaps realize something more is happening. _Potential environmental encounter_.
   * Follow the trail of the shipment to find the Goblins trying to make off with it. _Potential negotiation or slapstick fighting_.
   * Encounter the Yeti still in the area. _Potential difficult fight_.
-  * Discover the &#8216;hidden&#8217; encounter, where Arnold Beitz attempts to have Korux killed for his incompetence. _Potential intrigue, fight, or roleplaying_. 
+  * Discover the ‘hidden’ encounter, where Arnold Beitz attempts to have Korux killed for his incompetence. _Potential intrigue, fight, or roleplaying_. 
 
 ## Getting The Quest 
 
-**What&#8217;s at stake:** This is a roleplaying encounter, it sets up the quest, foreshadows the forthcoming action. 
+**What’s at stake:** This is a roleplaying encounter, it sets up the quest, foreshadows the forthcoming action. 
 
 Players get the quest much the same as it does in the module. In addition to the boxed description in the encounter, read the following.
 
-<div class="card blockquote blockquote-caption fst-italic p-3">"Toward the back of the group, the Dwarf introduced as Korux is cradling a heavily wounded and bandaged hand.  He seems sullen and withdrawn"</div>
+"Toward the back of the group, the Dwarf introduced as Korux is cradling a heavily wounded and bandaged hand.  He seems sullen and withdrawn"
 
-Ironically, Korux was the most severely wounded member of his group in the Yeti attack. This causes the other dwarves to tease him for having suggested the possible safe route. DMs should use this encounter as foreshadowing rather than revealing anything. There&#8217;s really not much here to reveal, Korux doesn&#8217;t know Izobai betrayed him and caused the Yeti attack. 
+Ironically, Korux was the most severely wounded member of his group in the Yeti attack. This causes the other dwarves to tease him for having suggested the possible safe route. DMs should use this encounter as foreshadowing rather than revealing anything. There’s really not much here to reveal, Korux doesn’t know Izobai betrayed him and caused the Yeti attack. 
 
 If the players agree to recover the iron shipment the dwarves will tell them where they can find it.
 
-<div class="card blockquote blockquote-caption fst-italic p-3">"The roads have been a dangerous place for honest folk since the long winters night fell.   Damn me for saying yes, but that damn fool Korux talked me into takin' an old smuggling route of his.  It's through a cursed place folks call The Dancers Garden.  Cursed place that is, poor folks turned to stone when a medusa attacked a long time ago."</div>
+"The roads have been a dangerous place for honest folk since the long winters night fell.   Damn me for saying yes, but that damn fool Korux talked me into takin' an old smuggling route of his.  It's through a cursed place folks call The Dancers Garden.  Cursed place that is, poor folks turned to stone when a medusa attacked a long time ago."
 
 The dwarves will say the Yeti came out of nowhere, killed Oobok, and wounded Korux when he tried to intervene. They all ran shortly afterwards and made their way back to Bryn Shander. Importing the players to help, if they sense the players to be kind hearted at all, they will add.
 
-<div class="card blockquote blockquote-caption fst-italic p-3">"The iron was bound for Blackiron Blades an they'll be in a world o'hurt if ya can't recover it.  They owe a might o'money and the clan sent the shipment to keep them afloat for a bit more.  I know Hruna wouldn't forget a kind turn like this."</div>
+"The iron was bound for Blackiron Blades an they'll be in a world o'hurt if ya can't recover it.  They owe a might o'money and the clan sent the shipment to keep them afloat for a bit more.  I know Hruna wouldn't forget a kind turn like this."
 
-If the players get it into their head to shake down Blackiron Blades, they&#8217;ll be disappointed. The store is poor and has little to offer other than a free blade or two, free repairs, and ernest thanks.
+If the players get it into their head to shake down Blackiron Blades, they’ll be disappointed. The store is poor and has little to offer other than a free blade or two, free repairs, and ernest thanks.
 
 ## On the Trail of the Lost Shipment 
 
-Players approach this section much as they do in the &#8220;Search for the Sled&#8221; section of the module. The following additions or changes apply.
+Players approach this section much as they do in the “Search for the Sled” section of the module. The following additions or changes apply.
 
 ### Fantastic Location: The Dancers Garden  
 
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/00-004.yeti-splash.png"
-  alt="A lone figure walking in a horrible blizzard."
-  width="425" height="284"
-  caption="Image Credit Wizards of the Coast"
- %}
 
-**What&#8217;s at stake:** This is a lore and investigation encounter. It mostly sets the players up to know what to be aware of and how to approach the follow-on encounters.
 
-The lost sled with the iron shipment is six miles west north-west of Bryn Shander. Locals call this area The Dancers Garden. Fifty years ago, it was the sight of a small gnomish village that became the target of a Medusa&#8217;s wraith. The area is a littered jumble of broken structures dotted with the petrified remains of the villagers. The stone remains of the Medusa&#8217;s victims are scattered around, in macabre poses with expressions of surprise and terror. Most locals avoid the area. 
+**What’s at stake:** This is a lore and investigation encounter. It mostly sets the players up to know what to be aware of and how to approach the follow-on encounters.
+
+The lost sled with the iron shipment is six miles west north-west of Bryn Shander. Locals call this area The Dancers Garden. Fifty years ago, it was the sight of a small gnomish village that became the target of a Medusa’s wraith. The area is a littered jumble of broken structures dotted with the petrified remains of the villagers. The stone remains of the Medusa’s victims are scattered around, in macabre poses with expressions of surprise and terror. Most locals avoid the area. 
 
 If DMs may want to use the [Heart of Winter Magical Region][3] I created. This makes an excellent location to use and introduce the players to terrors in the north. Note, you will likely want to scale down some of the effects of the region as appropriate for the party. 
 
-### Oobok&#8217;s Remains 
+### Oobok’s Remains 
 
 In addition to the information from the module. The players find a small charm nearby, on a long stick driven into the snow. On top of the stick, they discover a charm made of holly branches and yeti fur. 
 
@@ -1061,53 +825,47 @@ Note this is in addition to the tracks and other information found about the sle
 
 ### The Goblin Encounter 
 
-**What&#8217;s at stake:** This is primarily a roleplaying encounter. There&#8217;s the possibility it will turn into a physical contest if they get into tug of war over the sled. The Goblins have no desire to fight but will defend themselves if need be. 
+**What’s at stake:** This is primarily a roleplaying encounter. There’s the possibility it will turn into a physical contest if they get into tug of war over the sled. The Goblins have no desire to fight but will defend themselves if need be. 
 
-{% include imageframe.html
-  figure_class="float-start me-4"
-  src="https://i.redd.it/374qnc6laz961.jpg"
-  alt="A battlemap of a winter landscape"
-  height="480" width="480"
-  caption="Winter landscape battlemap"
- %}
+
 [link to fullsize map](https://i.redd.it/374qnc6laz961.jpg)
 
-This encounter plays out much as it does in the book. The players find the goblins making off with the sled. The goblins are not fighters and have no desire to fight. They will argue, claim salvage, lie, cheat, or take advantage of anything they can to get the players to leave. At most they will wrestle or have a tug of war over the sled. If the players gain control of the cart, they will scream &#8216;Fine, we didn&#8217;t want it anyway&#8221; and blow a large horn summoning any other goblins before they leave. They will fight as a last resort if cornered or trapped. Izobai will leave his crew behind and fire crossbows from the cart as it pulls away, 
+This encounter plays out much as it does in the book. The players find the goblins making off with the sled. The goblins are not fighters and have no desire to fight. They will argue, claim salvage, lie, cheat, or take advantage of anything they can to get the players to leave. At most they will wrestle or have a tug of war over the sled. If the players gain control of the cart, they will scream ‘Fine, we didn’t want it anyway” and blow a large horn summoning any other goblins before they leave. They will fight as a last resort if cornered or trapped. Izobai will leave his crew behind and fire crossbows from the cart as it pulls away, 
 
 Any significant amount of noise will start The Yeti Attack encounter.
 
 When the Yeti attacks the goblins will be as surprised as the players. They will panic and run around, the wagon will begin to pull away, leaving any goblins by the sled behind.
 
-**_What the Goblins Know:_** The goblin boss is the only one with any real information about the full plot. All the Goblins know is they were told by the boss. They were going to recover something, they&#8217;ve been sitting out here a few days and went to get the shipment several hours prior to the players arriving. If for some reason the players are able to force a convince Izobai to talk, he will be evasive and not reveal any information voluntarily. The most he will reveal is that he knows of a salvage operation in Bryn Shander that pays for recovered goods without any questions. He will also say he learned of the shipment by hearing dwarves talk about it back at a trading post. Technically not a lie, Korux told him about it. Only under the direst circumstances will Izobai reveal Korux&#8217;s involvement. Izobai also knows they were to deliver the shipment at a meeting place in a back alley in Bryn Shander a day from whenever this encounter takes place. See the &#8220;hidden&#8221; encounter below called **Lose Ends**.
+**_What the Goblins Know:_** The goblin boss is the only one with any real information about the full plot. All the Goblins know is they were told by the boss. They were going to recover something, they’ve been sitting out here a few days and went to get the shipment several hours prior to the players arriving. If for some reason the players are able to force a convince Izobai to talk, he will be evasive and not reveal any information voluntarily. The most he will reveal is that he knows of a salvage operation in Bryn Shander that pays for recovered goods without any questions. He will also say he learned of the shipment by hearing dwarves talk about it back at a trading post. Technically not a lie, Korux told him about it. Only under the direst circumstances will Izobai reveal Korux’s involvement. Izobai also knows they were to deliver the shipment at a meeting place in a back alley in Bryn Shander a day from whenever this encounter takes place. See the “hidden” encounter below called **Lose Ends**.
 
 ### The Yeti Attack 
 
-**What&#8217;s at stake:** Survival! The yeti wants more food and to dominate its territory. If the goblins help it may be a chance to renegotiate afterwards.
+**What’s at stake:** Survival! The yeti wants more food and to dominate its territory. If the goblins help it may be a chance to renegotiate afterwards.
 
-The Yeti has remained in the area the last few days, drawn by the charm and is seeking to establish a new lair. The <a href="https://www.dndbeyond.com/monsters/yeti" target="_blank" rel="noreferrer noopener">Yeti</a> encounter is straightforward, it will roar and emerge from the darkness. Roll the Yeti&#8217;s stealth check and compare it to the players passive perception to determine if they are surprised.
+The Yeti has remained in the area the last few days, drawn by the charm and is seeking to establish a new lair. The Yeti encounter is straightforward, it will roar and emerge from the darkness. Roll the Yeti’s stealth check and compare it to the players passive perception to determine if they are surprised.
 
 A note on balancing the encounter. This is an early encounter (I ran it against a level 1 party) and may be more or less difficult depending the party state and composition. Some tweaks you can consider to rebalance the encounter **up** or **down**.
 
   * **Up**, have a Yeti Tyke accompany the Yeti.
-  * **Up**, bump the Yeti&#8217;s hit points (if you know the average damage output of the party give it about 3 rounds)
-  * **Down**, limit it&#8217;s use of Chilling Gaze or don&#8217;t have it use it altogether (say the blizzard keeps it from using the gaze or it&#8217;s lost an eye)
-  * **Down**, have the goblins join in the fight if it starts going south. They don&#8217;t want the thing chasing them. This might spark a parlay or more roleplay with the goblins.
+  * **Up**, bump the Yeti’s hit points (if you know the average damage output of the party give it about 3 rounds)
+  * **Down**, limit it’s use of Chilling Gaze or don’t have it use it altogether (say the blizzard keeps it from using the gaze or it’s lost an eye)
+  * **Down**, have the goblins join in the fight if it starts going south. They don’t want the thing chasing them. This might spark a parlay or more roleplay with the goblins.
 
 Note Yeti are fearless but it will flee it below 10 hp.
 
 ## Returning the Goods 
 
-**What&#8217;s at stake:** This is mostly a roleplaying encounter and possible investigation encounter if the players uncover Korux&#8217;s involvement.
+**What’s at stake:** This is mostly a roleplaying encounter and possible investigation encounter if the players uncover Korux’s involvement.
 
 Returning the goods happens much as it does in the module. Korux has healed a bit but is still sullen and withdrawn. The DM will need to adapt to the next steps as best they see fit but the broad possible outcome
 
   * If the players share details about the charm or reveal any information that does not directly name Korux, he will continue his sullen behavior but give no indicator of any other information. 
-  * Information about this being an inside job will cause the dwarves will begin to argue among themselves and eventually ask the players to leave as this is &#8220;a family discussion.&#8221;
+  * Information about this being an inside job will cause the dwarves will begin to argue among themselves and eventually ask the players to leave as this is “a family discussion.”
   * Directly accusing Korux of involvement will cause him to vehemently deny it, and start an argument among the dwarves similar to the previous bullet. Ultimately if pushed far enough Korux will confess and throw himself on the mercy of his friends who will again ask the players to leave.
 
 ## Loose Ends 
 
-**What&#8217;s at stake:** This can range anywhere from a roleplaying to a combat encounter depending on how the players run it. This is also a &#8220;hidden&#8221; encounter in that it will only take place if the players are pro-active and follow-up on details from the previous encounters.
+**What’s at stake:** This can range anywhere from a roleplaying to a combat encounter depending on how the players run it. This is also a “hidden” encounter in that it will only take place if the players are pro-active and follow-up on details from the previous encounters.
 
 The handoff of the goods to Arnold Beitz and his gang is supposed to happen a day or so after the party returns to Bryn Shander. It will happen in some out of the way alley late at night when there are not many potential observers. Korux will sneak out from wherever he and his friends are staying, he dares not ignore the meeting.
 
@@ -1116,113 +874,91 @@ The alley way the meeting happens in will only have a single entrance. Arnold wi
 The setup of the scene:
 
   * Two [Thugs][4] guard the entrance to the back alley, keeping out anyone attempting to get in. They are inattentive and resentful of the cold.
-  * [Arnold Beitz][5] is standing in the deep shadows of the alley way. He has five <a href="https://roll20.net/compendium/dnd5e/Bandit#content" target="_blank" rel="noreferrer noopener">bandits</a> attending him, two <a href="https://roll20.net/compendium/dnd5e/Thug#content" target="_blank" rel="noreferrer noopener">Thugs</a> as body guards, and one <a href="https://roll20.net/compendium/dnd5e/Bandit%20Captain#content" target="_blank" rel="noreferrer noopener">Bandit Captain</a>. 
+  * [Arnold Beitz][5] is standing in the deep shadows of the alley way. He has five bandits attending him, two Thugs as body guards, and one Bandit Captain. 
 
 There are many outcomes depending on how the players approach this encounter, if they approach it at all. Note, DMs should make apparent the forces in the alley could not be overcome, overthrowing a local crime boss is generally beyond the capability of a 1st level party. This should be made obvious.
 
-  * If confronted or disrupted, Arnold Beitz will simply say &#8220;take care of it&#8221; and retreat into a building, escaping with the help of other allies. The remaining thugs will insist the players leave, telling them they didn&#8217;t see anything. The bandits and thugs will attack if pushed. If the players are defeated, they will be left outside the walls of the city, presumably to die in the cold.
+  * If confronted or disrupted, Arnold Beitz will simply say “take care of it” and retreat into a building, escaping with the help of other allies. The remaining thugs will insist the players leave, telling them they didn’t see anything. The bandits and thugs will attack if pushed. If the players are defeated, they will be left outside the walls of the city, presumably to die in the cold.
   * If the players are able to observe the exchange, Arnold will berate Izobai and Korux for their failure and his resentment for having to be out in this weather to address it. He will eventually focus his disappointment on Korux, stating that at least Izobai has been of service before. Eventually everyone will be dismissed, Izobai and Korux will depart in different directions. A few moments after things break up, two Thugs follow Korux at a distance and will attempt to kill him in some remote street as he sulks back to whenever he is staying.
 
 If players do not discover this encounter or do nothing, two days after they return, they will hear news that the Dwarf Korux was found dead in the streets having been stabbed in the back.
 
 ## Wrapping Things Up 
 
-So that&#8217;s it. This adventure can be a self-contained encounter and left there. In my own campaign I used this as a tease for the intrigue I introduced involving the attempt by The Chardlyn Syndicate to control the Ten-Towns. DMs can use this as a means to introduce that or some other plot element into the game.
+So that’s it. This adventure can be a self-contained encounter and left there. In my own campaign I used this as a tease for the intrigue I introduced involving the attempt by The Chardlyn Syndicate to control the Ten-Towns. DMs can use this as a means to introduce that or some other plot element into the game.
 
 If you use any of this material hit me up on twitter with some details.
 
- [1]: {% link _posts/2021-01-04-rotf-remix-the-far-north-ten-towns.md %}
+ [1]: 
  [2]: /tag/rotf/
- [3]: {% link _posts/2021-01-04-rotf-remix-heart-of-winter-supernatural-regions.md %}
+ [3]: 
  [4]: https://roll20.net/compendium/dnd5e/Thug#content
- [5]: {% link _posts/2021-01-11-icewind-dale-npc-arnold-beitz.md %}
+ [5]: 
 
----
-title: Thoughts on the First Issue of Arcadia
-author: Scott Turnbull
-layout: post
-image: /assets/img/Arcadia-1_v1.0-1_400x518.jpg
-description: My thoughts on the first issue of Arcadia from Matt Coleville and how to use it in 5th edition games.
-categories:
-  - Misc
+# Thoughts on the First Issue of Arcadia
 
----
+Here are my thoughts on how I can use content from Arcadia in my 5th edition Dungeons and Dragons game. Arcadia is a new magazine style digital publication for 5e in the tradition of the old Dragon Magazine. In particular, the content is a useful buffet of [DM resources](/category/rpg-resources/), [adventures](/category/encounters/), and lore that enhances existing games. 
 
-Here are my thoughts on how I can use content from <a href="https://shop.mcdmproductions.com/products/arcadia-issue1" target="_blank" rel="noreferrer noopener">Arcadia</a> in my 5th edition Dungeons and Dragons game. Arcadia is a new magazine style digital publication for 5e in the tradition of the old Dragon Magazine. In particular, the content is a useful buffet of [DM resources](/category/rpg-resources/), [adventures](/category/encounters/), and lore that enhances existing games. 
 
-{% include imageframe.html
-  figure_class="float-start me-4"
-  src="/assets/img/Arcadia-1_v1.0-1_400x518.jpg"
-  alt="A harpy against a dense woodland."
-  height="518" width="400"
-  caption="Arcadia Issue 1 Cover by MCDM"
- %}
 
-Arcadia is a solid debut and I think I can get use out of everything in it. Of course, I think most groups would find it useful as well. You can get it for <a href="https://shop.mcdmproductions.com/products/arcadia-issue1" target="_blank" rel="noreferrer noopener">$7 per issue on the MCDM shop</a>, or as a <a href="https://www.patreon.com/mcdm/posts" target="_blank" rel="noreferrer noopener">$5 and above patreon</a>. 
+Arcadia is a solid debut and I think I can get use out of everything in it. Of course, I think most groups would find it useful as well. You can get it for $7 per issue on the MCDM shop, or as a $5 and above patreon. 
 
-**No** <em style="font-weight: bold;">spoilers</em> here. I stick to what I thought was useful in the issue and why.
+**No** spoilers here. I stick to what I thought was useful in the issue and why.
 
 ## Things I Found Particularly Useful 
 
-The layout was well done and easy to read, and the way the content is organized will make it easy to reference during a session. Obviously the utility of a printable PDF is a strength here, I can print handouts, or copy/paste as needed. I enjoyed the art style, not only is it evocative, but it&#8217;s different and always useful I can show during a game. Additionally, I very much appreciate they included both DM and player version of maps for my <a href="https://foundryvtt.com/" target="_blank" rel="noreferrer noopener">Virtual Table Top</a>. Also, I found the length very useful at 43 pages. Meaning long enough to make for solid sit-down and enjoy it time, but not so long that it stays in my reading backlog. 
+The layout was well done and easy to read, and the way the content is organized will make it easy to reference during a session. Obviously the utility of a printable PDF is a strength here, I can print handouts, or copy/paste as needed. I enjoyed the art style, not only is it evocative, but it’s different and always useful I can show during a game. Additionally, I very much appreciate they included both DM and player version of maps for my Virtual Table Top. Also, I found the length very useful at 43 pages. Meaning long enough to make for solid sit-down and enjoy it time, but not so long that it stays in my reading backlog. 
 
 ### The Workshop Watches 
 
-**The Workshop Watches** is a fun short encounter you can drop into any campaign and probably run in a single night. The tone and style is going to be different from many games, which is what I look for in a published adventure. The McGuffin of the adventure is creative and doesn&#8217;t assume a party motivation, making it flexible. The location is intellectually interesting enough to give the party something to RP about. However, it&#8217;s not so lore heavy that the party can&#8217;t grasp it in a single session. Adding to the utility of the art I mentioned above, the handouts for this adventure add tangible assets I can use to root players in the world. Lastly, the central antagonists acquires spells in an interesting way that can make the playthrough unique each time. 
+**The Workshop Watches** is a fun short encounter you can drop into any campaign and probably run in a single night. The tone and style is going to be different from many games, which is what I look for in a published adventure. The McGuffin of the adventure is creative and doesn’t assume a party motivation, making it flexible. The location is intellectually interesting enough to give the party something to RP about. However, it’s not so lore heavy that the party can’t grasp it in a single session. Adding to the utility of the art I mentioned above, the handouts for this adventure add tangible assets I can use to root players in the world. Lastly, the central antagonists acquires spells in an interesting way that can make the playthrough unique each time. 
 
 ### The Titan Heart 
 
-**The Titan Heart** subclass is an interesting expansion for sorcerers with unique abilities and a great theme. It seems well balanced against other sub-classes and doesn&#8217;t suffer from power creep. Since the abilities are unique, the player should always feel like they have their own role. Equally important, the aspects related to lore and implied setting should be easy to fit into most campaigns. Additionally, it comes with a handful of well crafted 1st level spells and a CR 7 NPC that can be used independently. Most of all all, this is a subclass I would be interested in playing myself or having someone play at my table.
+**The Titan Heart** subclass is an interesting expansion for sorcerers with unique abilities and a great theme. It seems well balanced against other sub-classes and doesn’t suffer from power creep. Since the abilities are unique, the player should always feel like they have their own role. Equally important, the aspects related to lore and implied setting should be easy to fit into most campaigns. Additionally, it comes with a handful of well crafted 1st level spells and a CR 7 NPC that can be used independently. Most of all all, this is a subclass I would be interested in playing myself or having someone play at my table.
 
 ### Jumping on Mounted Combat 
 
-**Jumping on Mounted Combat** adds some easy and interesting to spice up encounters. The rules themselves mesh well with existing 5e rules and wont create a new set of record keeping and they easy to understand. Without a doubt, I&#8217;ll have to give a bit more thought as to how this interact with other rules. Given that 5th edition has tightly coupled rules, a change to one area might have unintended impact in another. Primarily what jumps out at me to think about, is how this might interact or contrast with the new Beastmaster companions rules. Additionally, I need to think a bit more about how this might blend with the sidekick rules form Tasha&#8217;s. Regardless, thinking about new rules alone always adds to my game and I find it useful, even if I need to sit with it a bit. 
+**Jumping on Mounted Combat** adds some easy and interesting to spice up encounters. The rules themselves mesh well with existing 5e rules and wont create a new set of record keeping and they easy to understand. Without a doubt, I’ll have to give a bit more thought as to how this interact with other rules. Given that 5th edition has tightly coupled rules, a change to one area might have unintended impact in another. Primarily what jumps out at me to think about, is how this might interact or contrast with the new Beastmaster companions rules. Additionally, I need to think a bit more about how this might blend with the sidekick rules form Tasha’s. Regardless, thinking about new rules alone always adds to my game and I find it useful, even if I need to sit with it a bit. 
 
-Rules aside, the mounted combat section also includes a hand full of creative and useful mounts you can add to your game. Even if I choose not to use the mounted combat rules, I&#8217;d find the mounts useful as monster encounters. 
+Rules aside, the mounted combat section also includes a hand full of creative and useful mounts you can add to your game. Even if I choose not to use the mounted combat rules, I’d find the mounts useful as monster encounters. 
 
-Lastly, there&#8217;s a whole encounter added that showcases these rules and new mounts that can be dropped into any adventure. I mean, how cool is that! Great festival style encounters is something lacking in 5e adventures. 
+Lastly, there’s a whole encounter added that showcases these rules and new mounts that can be dropped into any adventure. I mean, how cool is that! Great festival style encounters is something lacking in 5e adventures. 
 
 ### Uqaviel The Recreant 
 
-**Uqaviel the Recreant** adds interesting lore and powerful celestials for higher tier play. In spite of the heavy impact of celestial lore on an implied setting, I thought this would be easy to integrate. The beings are evocative, unique and flavorful without forcing much of a particular point of view on the divine. Best of all, these are new and unique celestials instead of a retread of real world myths or overused <a href="https://forgottenrealms.fandom.com/wiki/Asmodeus" target="_blank" rel="noreferrer noopener">Princes of Hell</a>. In short, if I found myself needing a quick celestial in the middle of a game, I felt like I could reach for one of these and drop them in. That&#8217;s a bit win for me as a DM.
+**Uqaviel the Recreant** adds interesting lore and powerful celestials for higher tier play. In spite of the heavy impact of celestial lore on an implied setting, I thought this would be easy to integrate. The beings are evocative, unique and flavorful without forcing much of a particular point of view on the divine. Best of all, these are new and unique celestials instead of a retread of real world myths or overused Princes of Hell. In short, if I found myself needing a quick celestial in the middle of a game, I felt like I could reach for one of these and drop them in. That’s a bit win for me as a DM.
 
 ## Things That Would Make it More Useful 
 
-Generally speaking, I don&#8217;t have a lot to say here as I can use almost everything in the issue.
+Generally speaking, I don’t have a lot to say here as I can use almost everything in the issue.
 
-It would have made it more useful if I knew what type of article I was reading from the start of the article itself. The table of contents lists the article title and a sentence about what it is, but the article itself starts with some prose and doesn&#8217;t tell you up front. Given the way I read the issue on laptop or tablet, this created some confusion for me as I scroll past the TOC to browse the articles. Unless I scrolled back up to the TOC it would take me a moment to understand what I&#8217;m reading is supposed to be about. 
+It would have made it more useful if I knew what type of article I was reading from the start of the article itself. The table of contents lists the article title and a sentence about what it is, but the article itself starts with some prose and doesn’t tell you up front. Given the way I read the issue on laptop or tablet, this created some confusion for me as I scroll past the TOC to browse the articles. Unless I scrolled back up to the TOC it would take me a moment to understand what I’m reading is supposed to be about. 
 
-The last thing I&#8217;ll mention is that I found myself slightly stressed about how I&#8217;ll use this across digital toolsets. Since we&#8217;ve all become fragmented across multiple platforms, this is going to be a persistent issue with any gaming content. Things like the mounted combat rules have no barrier at all. Adventures will be fairly transferable with just some cutting and pasting. Alternatively, custom monsters will require a bit of data entry, and subclasses present the most challenging transferrable content. This is a consequence of our gaming environment, not of published content in things like Arcadia. However, it&#8217;s something we&#8217;re all going to have to think about as the RPG landscape and tools continue to evolve.
+The last thing I’ll mention is that I found myself slightly stressed about how I’ll use this across digital toolsets. Since we’ve all become fragmented across multiple platforms, this is going to be a persistent issue with any gaming content. Things like the mounted combat rules have no barrier at all. Adventures will be fairly transferable with just some cutting and pasting. Alternatively, custom monsters will require a bit of data entry, and subclasses present the most challenging transferrable content. This is a consequence of our gaming environment, not of published content in things like Arcadia. However, it’s something we’re all going to have to think about as the RPG landscape and tools continue to evolve.
 
 ## _I Do Not Do Reviews Disclaimer_ 
 
-I do not do reviews. The only important factor to me is if something is usable in a real game. That&#8217;s it. Firstly, I am not a judge of product quality, look at my own writing afterall. Secondly, I don&#8217;t think it&#8217;s useful to break things down to their minute detail to critically dissect elements in some failed attempted at High Gaming Culture. With this in mind, you can expect comments from me on how you might use something too. If you need a hot-take, this is probably not the content for you.
+I do not do reviews. The only important factor to me is if something is usable in a real game. That’s it. Firstly, I am not a judge of product quality, look at my own writing afterall. Secondly, I don’t think it’s useful to break things down to their minute detail to critically dissect elements in some failed attempted at High Gaming Culture. With this in mind, you can expect comments from me on how you might use something too. If you need a hot-take, this is probably not the content for you.
 
  [1]: https://optionalrule.com/category/rpg-resources/
  [2]: https://optionalrule.com/category/adventures/
 
----
-title: Level Up Your Game with these RPGs
-author: Scott Turnbull
-layout: post
-description: Results of a survey of RPGs people recommend to expand your roleplaying and DM skills.
-categories:
-  - Misc
+# Level Up Your Game with these RPGs
 
----
 Learning different RPG systems is the most useful thing a DM or player can do to up their game. Doing so teaches you all sorts of ways to approach narration, mood, play, resolutions, and any number of other skills that could be useful in a game. 
 
-Last week I <a rel="noreferrer noopener" href="https://twitter.com/optionalrule/status/1350078271443132416" target="_blank">tweeted a question</a> the question below.
+Last week I tweeted a question the question below.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What system besides <a href="https://twitter.com/hashtag/DnD?src=hash&amp;ref_src=twsrc%5Etfw">#DnD</a> do you recommend people learn to open their mind to the possibilities of <a href="https://twitter.com/hashtag/TTRPGs?src=hash&amp;ref_src=twsrc%5Etfw">#TTRPGs</a>?</p>&mdash; Optional Rule (@optionalrule) <a href="https://twitter.com/optionalrule/status/1350078271443132416?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+What system besides #DnD do you recommend people learn to open their mind to the possibilities of #TTRPGs?— Optional Rule (@optionalrule) January 15, 2021 
 
-In the end, I had over 80 replies and quoted retweets, which is fairly large for me. Unsurprisingly, I found the recommendations to be solid and thoughtful. To start, many of the systems would be ones I would have recommended myself. In addition, there&#8217;s a healthy list of games that are new to me. After looking them up, I felt like I discovered some great new sources to expand my own thinking. Therefore, I decided to aggregate the replies as best I could and show the results here.
+In the end, I had over 80 replies and quoted retweets, which is fairly large for me. Unsurprisingly, I found the recommendations to be solid and thoughtful. To start, many of the systems would be ones I would have recommended myself. In addition, there’s a healthy list of games that are new to me. After looking them up, I felt like I discovered some great new sources to expand my own thinking. Therefore, I decided to aggregate the replies as best I could and show the results here.
 
 The answers people provided alone said a lot about how they think about games. For instance, people mentioned Powered by the Apocalypse most of the time, but also named either Apocalypse World or Dungeon World individually. Many people mentioned Fate but few named a specific Fate based system. 
 
-What an amazing set of answers, everything on this list can teach you something new to add to your gaming experience. Some systems do a lot to teach about pacing, mood, and mystery. While other games have interesting takes on mechanics it can&#8217;t help but make you think differently about resolving checks. 
+What an amazing set of answers, everything on this list can teach you something new to add to your gaming experience. Some systems do a lot to teach about pacing, mood, and mystery. While other games have interesting takes on mechanics it can’t help but make you think differently about resolving checks. 
 
-I&#8217;ll leave this list here on hopes you pick up a suggestion you haven&#8217;t tried before.
+I’ll leave this list here on hopes you pick up a suggestion you haven’t tried before.
 
 ## Recommendations
 
@@ -1292,55 +1028,41 @@ I&#8217;ll leave this list here on hopes you pick up a suggestion you haven&#821
 {: .table .table-striped .table-hover .data-table }
 
 
----
-title: Create Captivating Traps
-author: Scott Turnbull
-layout: post
-image: /assets/img/indy_480x320.jpg
-description: How to make traps fun and exciting in 5th edition games.
-categories:
-  - RPG Resources
+# Create Captivating Traps
 
----
-People are stuck in a lot of bad thinking when it comes to how to use <a href="https://www.5esrd.com/gamemastering/traps/" target="_blank" rel="noreferrer noopener">traps in 5th edition</a> Dungeons and Dragons. Traditionally, people see traps as a way to use resources by dispensing some damage along the way. Largely, this falls flat in a 5th edition game where resting lets you recover quickly. Worse, randomly placed traps can come off as spiteful or thrown in just to annoy the players. So, if you want to make traps a more exciting part of an encounter, create traps that [drive things forward]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %}) rather than simple binary events. 
+People are stuck in a lot of bad thinking when it comes to how to use traps in 5th edition Dungeons and Dragons. Traditionally, people see traps as a way to use resources by dispensing some damage along the way. Largely, this falls flat in a 5th edition game where resting lets you recover quickly. Worse, randomly placed traps can come off as spiteful or thrown in just to annoy the players. So, if you want to make traps a more exciting part of an encounter, create traps that [drive things forward]() rather than simple binary events. 
 
-<blockquote class="blockquote">
- The best way to come up with an excellent trap is to ask yourself, &#8220;<strong>why does this trap exist?</strong>&#8220;
-</blockquote>
+
+ The best way to come up with an excellent trap is to ask yourself, “why does this trap exist?“
+
 
 ## Why Do Traps Exist? 
 
-{% include imageframe.html
-  figure_class="float-end mx-4"
-  src="/assets/img/indy_480x320.jpg"
-  alt="An archeologist abouit to take a gold statue from a pedistal."
-  height="320" width="480"
-  caption="Image credit Disney Films"
- %}
 
-Before adding anything to an encounter, ask yourself _&#8220;what do I want out of this?&#8221;_. Things don&#8217;t randomly exist in any encounter, you created it for a purpose. Perhaps, you might be moving the plot forward, or foreshadowing an interesting development. You might be adding them as a change of pace, leading the players to ask &#8220;why does this exist&#8221; and roleplaying it out. Alternatively, you might add a trap to make a combat more dynamic and trilling.
 
-<blockquote class="wp-block-quote">
-  <p>
-    <strong>A good trap advances the plot or enhances the action</strong>… <em>A great trap does both!</em>
-  </p>
-</blockquote>
+Before adding anything to an encounter, ask yourself _“what do I want out of this?”_. Things don’t randomly exist in any encounter, you created it for a purpose. Perhaps, you might be moving the plot forward, or foreshadowing an interesting development. You might be adding them as a change of pace, leading the players to ask “why does this exist” and roleplaying it out. Alternatively, you might add a trap to make a combat more dynamic and trilling.
 
-That is to say, it shouldn&#8217;t be a mild annoyance or just use up resources, that comes off as cheap to players. Think of a trap like an exclamation mark highlighting the plot, or a comma describing the action of a combat.
+
+  
+    A good trap advances the plot or enhances the action… A great trap does both!
+  
+
+
+That is to say, it shouldn’t be a mild annoyance or just use up resources, that comes off as cheap to players. Think of a trap like an exclamation mark highlighting the plot, or a comma describing the action of a combat.
 
 ## Advancing the Plot {#h-advancing-the-plot}
 
-Traps are a great way to imply information to the players, or just directly tell them something. It can say something about the resources or thinking of the enemy. They can be a pointer to let players know there&#8217;s something important here. Additionally, traps can setup distractions and make the players feel like they are in a battle of wits with the bad guys. 
+Traps are a great way to imply information to the players, or just directly tell them something. It can say something about the resources or thinking of the enemy. They can be a pointer to let players know there’s something important here. Additionally, traps can setup distractions and make the players feel like they are in a battle of wits with the bad guys. 
 
 Some examples of using traps to further the plot:
 
   * Players are investigating a simple manor with a magical trap doing necromantic damage. Making them wonder how did the owner get access to such magics?
-  * A trapped pathway is triggered against whoever might be coming the other way. This suggests something they&#8217;re is trying to be kept from getting out. 
-  * A trap using a special poison might tie back to a local thieves&#8217; guild. Alternatively, a clockwork contraption back to the local artificer&#8217;s guild. Leading the players to the next stage of their investigation into a mystery.
+  * A trapped pathway is triggered against whoever might be coming the other way. This suggests something they’re is trying to be kept from getting out. 
+  * A trap using a special poison might tie back to a local thieves’ guild. Alternatively, a clockwork contraption back to the local artificer’s guild. Leading the players to the next stage of their investigation into a mystery.
   * A trap on a seemingly normal segment of wall in an otherwise unremarkable location. This results in discovering a hidden plot device or secret that moves the party forward in the plot.
   * Traps that cause an effect like sleep, incapacitation, or some other non-damaging effect. Indicates they may be facing a foe that could be negotiated with.
 
-These examples shift the focus of a trap from a damage delivery mechanism to a plot mechanism. This lets you communicate something to the players and spending time with the clue gives them something to debate. In these cases, traps do their job without doing damage or effecting the players in any way. There&#8217;s an argument to be made that DMs should consider letting players find them automatically. Afterall, important plot information should be obvious. 
+These examples shift the focus of a trap from a damage delivery mechanism to a plot mechanism. This lets you communicate something to the players and spending time with the clue gives them something to debate. In these cases, traps do their job without doing damage or effecting the players in any way. There’s an argument to be made that DMs should consider letting players find them automatically. Afterall, important plot information should be obvious. 
 
 ## Advancing The Action 
 
@@ -1350,7 +1072,7 @@ My favored way to use traps is to enhance the action of a game session. To do so
 
 Traps that present skill challenges usually modify the environment in some way that needs the players to generate ideas and skills. Similar to 4th edition Skill Challenges, the DM should imagine a series of thing that a trap might trigger and what skills players might use. For example, a simple pit trap that drops a player into water with a lid that slams shut over them. The player in the trap may need to roll Athletics to reach air pockets and stay afloat, particularly if they have equipment. Additionally, they may need perception to locate a disabling mechanism and a Dex check to work it. Characters above may try an object attack to break the hatch or more. 
 
-In the example above we&#8217;re talking about a simple trap but you can hopefully see how the trap is just a setup for a situation that engages the players rather than just delivering hit points. Some other examples that might create complex environments that require skill or attribute rolls are listed below as well.
+In the example above we’re talking about a simple trap but you can hopefully see how the trap is just a setup for a situation that engages the players rather than just delivering hit points. Some other examples that might create complex environments that require skill or attribute rolls are listed below as well.
 
   * A hallway of spinning blades players must dodge to reach the disable mechanism.
   * An environmental challenge like falling ice from a ceiling, requiring characters to roll DEX to navigate without causing them to fall.
@@ -1369,7 +1091,7 @@ Understanding that traps are mostly defensive in nature, many examples will put 
   * A trapped bridge that dumps characters into water while archers fire from the other side. 
   * A series of caltrops hidden in deep grass, protecting archers in an ambush. The tall grass making for difficult terrain while the caltrops might do some damage or halt movement. 
   * Pressure plates might trigger arrows or falling objects. This gives enemies a reason to position in hopes the players will trigger these devices.
-  * A trapdoor in the ceiling might see goblins coming through it alerted to add to a fight the players are trying to manage. While not a traditional &#8216;trap&#8217; the mechanism is the same. A mechanical complication the players have to manage in a way that ratchets up the tension.
+  * A trapdoor in the ceiling might see goblins coming through it alerted to add to a fight the players are trying to manage. While not a traditional ‘trap’ the mechanism is the same. A mechanical complication the players have to manage in a way that ratchets up the tension.
 
 ## Setting Difficulties and Effects
 
@@ -1385,89 +1107,83 @@ The key here is to pick something that enhances encounters, the story, or combat
 
 Returning to the original point, traps can be so much more than arbitrary ways to distribute hit points. Coupled with an interesting base encounter, traps can be an excellent way to dial up the tension or engage the players more. Expressly, traps can be thought of more as an environmental challenge than a simple event. Sitting back and asking yourself what you want out of this trap, asking why someone would want to put a trap in a location, and how it can add to the encounter is a quick and simple way to setup a great trap.
 
-Have thoughts on this. Hit me up <a href="https://twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">on twitter</a> and let me know what you think.
+Have thoughts on this. Hit me up on twitter and let me know what you think.
 
  [1]: https://optionalrule.com/2021/01/03/progressive-failures-and-rising-tension-in-5th-edition/
 
----
-title: Candlekeep Mysteries DnDBeyond Giveaway
-author: Scott Turnbull
-layout: post
-categories:
-  - Misc
----
-If the <a href="https://twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">OptionalRule Twitter account</a> reaches eight hundred (800) followers by **Noon EST March 15th 2021**, I will give away a gift code for an _electronic copy_ of **D&D Candlekeep Mysteries on DnDBeyond**! See details below for how to enter.
+# Candlekeep Mysteries DnDBeyond Giveaway
 
-<div class="alert alert-warning p-5 m-3 text-center">Note this giveaway has concluded, thank you everyone for participating.</div>
+If the OptionalRule Twitter account reaches eight hundred (800) followers by **Noon EST March 15th 2021**, I will give away a gift code for an _electronic copy_ of **D&D Candlekeep Mysteries on DnDBeyond**! See details below for how to enter.
+
+Note this giveaway has concluded, thank you everyone for participating.
 
 This new official source book adds seventeen one-shot mysteries ready to run in any campaign.
 
-<p class="has-text-align-center">
-  <strong>Countdown to Giveaway!</strong>
-</p>
 
-<div class="wp-block-getwid-countdown" >
-  <div class="wp-block-getwid-countdown__wrapper" >
-    <div class="wp-block-getwid-countdown__content"
-					 data-datetime="negative"     data-days="1" data-hours="1" data-minutes="1" data-seconds="1">
-    </div>
-  </div>
-</div>
+  Countdown to Giveaway!
+
+
+
+  
+    
+    
+  
+
 
 ## To Enter {#h-to-enter}
 
-To enter you must **follow** **<a href="https://twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">OptionalRule on Twitter</a>** (me!) and **<a href="https://twitter.com/optionalrule/status/1353400250145226754" target="_blank" rel="noreferrer noopener">retweet the giveaway</a>** as is. Entrants must meet and comply with all terms and conditions below.
+To enter you must **follow** **OptionalRule on Twitter** (me!) and **retweet the giveaway** as is. Entrants must meet and comply with all terms and conditions below.
 
 I will select and notify a winner by DM to the twitter account they used to retweet the giveaway on March 15th to receive a gift code on DnDBeyond. Note, to redeem this code you will need a valid account on DnDBeyond. This will work with free accounts.
 
 ## About D&D Candlekeep Mysteries {#h-about-d-d-candlekeep-mysteries}
 
-<div class="wp-block-essential-blocks-wrapper eb-wrapper-outer" style="background-image:none;background-size:cover;background-color:#e9ecef;border:0px solid #000000;border-radius:0px;box-shadow:0px 0px 0px 0px #000000 " data-shadow-color="#000000" data-hoffset="0" data-voffset="0" data-blur="0" data-spread="0" data-inset="false" data-hover-shadow-color="#000000" data-hover-hoffset="0" data-hover-voffset="0" data-hover-blur="0" data-hover-spread="0" data-hover-inset="false">
-  <div class="eb-wrapper-inner">
-    <div class="eb-wrapper-inner-blocks">
-      <div class="wp-block-image">
-        <figure class="alignleft size-large is-resized"><img loading="lazy" src="https://optionalrule.com/wp-content/uploads/2021/01/CandlekeepGiveaway.jpg" alt="" class="wp-image-381" width="240" height="315" srcset="https://optionalrule.com/wp-content/uploads/2021/01/CandlekeepGiveaway.jpg 480w, https://optionalrule.com/wp-content/uploads/2021/01/CandlekeepGiveaway-229x300.jpg 229w" sizes="(max-width: 240px) 100vw, 240px" /></figure>
-      </div>
+
+  
+    
       
-      <p>
-        <a href="https://www.dndbeyond.com/marketplace/adventures/candlekeep-mysteries" target="_blank" rel="noreferrer noopener">Candlekeep Mysteries</a> is a collection of 17 Mysterious 5th edition Adventures for Players Level 1-16
-      </p>
+        
       
-      <p>
-        Historians, sages, and others who crave knowledge flock to the library fortress of Candlekeep to peruse its vast collection of books, scribbled into which are the answers to the mysteries that bedevil them. Many of these books contain their own mysteries&#8211;each one a doorway to adventure. Will your players dare to cross that threshold?
-      </p>
       
-      <p>
-        <em>Candlekeep Mysteries</em>&nbsp;is a collection of seventeen short, stand-alone adventures designed for characters of levels 1-16. These adventures can be run as one-shot games, plugged into an existing Forgotten Realms campaign, or easily adapted for other campaign settings.
-      </p>
       
-      <p>
+        Candlekeep Mysteries is a collection of 17 Mysterious 5th edition Adventures for Players Level 1-16
+      
+      
+      
+        Historians, sages, and others who crave knowledge flock to the library fortress of Candlekeep to peruse its vast collection of books, scribbled into which are the answers to the mysteries that bedevil them. Many of these books contain their own mysteries–each one a doorway to adventure. Will your players dare to cross that threshold?
+      
+      
+      
+        Candlekeep Mysteries is a collection of seventeen short, stand-alone adventures designed for characters of levels 1-16. These adventures can be run as one-shot games, plugged into an existing Forgotten Realms campaign, or easily adapted for other campaign settings.
+      
+      
+      
         Step across Candlekeep’s threshold to discover:
-      </p>
       
-      <ul>
-        <li>
-          <strong>Seventeen</strong>&nbsp;self contained mystery-themed adventures
-        </li>
-        <li>
-          Short bite-sized content for&nbsp;<strong>easy consumption and preparation</strong>
-        </li>
-        <li>
+      
+      
+        
+          Seventeen self contained mystery-themed adventures
+        
+        
+          Short bite-sized content for easy consumption and preparation
+        
+        
           Each adventure begins with the discovery of a book, and each book is the key to a door behind which danger and glory await
-        </li>
-        <li>
-          <strong>A variety of levels of play</strong>, spanning the breadth of the game for easy adaptation
-        </li>
-        <li>
-          <strong>Usable in any game</strong>&nbsp;in or out of the Forgotten Realms
-        </li>
-        <li>
+        
+        
+          A variety of levels of play, spanning the breadth of the game for easy adaptation
+        
+        
+          Usable in any game in or out of the Forgotten Realms
+        
+        
           Includes a poster map of the library fortress itself and detailed descriptions of Candlekeep and its inhabitants.
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
+        
+      
+    
+  
+
 
 ## Terms & Conditions {#h-terms-conditions}
 
@@ -1477,24 +1193,15 @@ I will select and notify a winner by DM to the twitter account they used to retw
   4. Bulk, automated, or third party entries are prohibited and will be disqualified.
   5. **Twitter:** Use of multiple accounts or different identities to enter is prohibited.
   6. **Twitter:** Do not repeatedly retweet or repost this tweet. Doing so will disqualify you from the drawing. Occasional retweeting (no more than once a week) is acceptable.
-  7. This giveaway is subject to all <a data-type="URL" data-id="https://help.twitter.com/en/rules-and-policies/twitter-contest-rules" rel="noreferrer noopener" href="https://help.twitter.com/en/rules-and-policies/twitter-contest-rules" target="_blank">Twitter Rules and Policies</a>. See below for more information:
+  7. This giveaway is subject to all Twitter Rules and Policies. See below for more information:
 
-_Twitter does not sponsor or endorse Optional Rule Games or the Giveaway. This promotion is in no way sponsored, endorsed or administered by, or associated with Twitter. You understand that you are providing your information to Optional Rule Games and not to Twitter. By participating via the Twitter platform, participants are also subject to Twitter’s privacy policy and terms of use, which can be found at <a rel="noreferrer noopener" href="https://www.twitter.com/privacy" target="_blank">https://www.twitter.com/privacy</a> and <a rel="noreferrer noopener" href="https://twitter.com/tos" target="_blank">https://twitter.com/tos</a>._
+_Twitter does not sponsor or endorse Optional Rule Games or the Giveaway. This promotion is in no way sponsored, endorsed or administered by, or associated with Twitter. You understand that you are providing your information to Optional Rule Games and not to Twitter. By participating via the Twitter platform, participants are also subject to Twitter’s privacy policy and terms of use, which can be found at https://www.twitter.com/privacy and https://twitter.com/tos._
 
 **Optional Rule Games does not share information provided with any third party and will only use contact details for prize delivery.**
 
----
-title: Summary of 5e Alchemy Rules
-author: Scott Turnbull
-layout: post
-image: /assets/img/alchemylab-480x384.jpg
-description: Summarizing the alchemy and potion creation rules from across various 5th edition books for my players.
-categories:
-  - RPG Resources
+# Summary of 5e Alchemy Rules
 
----
-
-These rules are a summary of the 5e Dungeons and Dragons Alchemy and potion creation rules. These revised rules for [Crafting Magic Items][1] are presented in [Xanathar&#8217;s Guide to Everything][2], modified as per the creation of expendable items. Note that those rules replace the Item Creation Rules presented in the Dungeon Masters Guide. Additionally, this summary includes modifications made for the _Alchemist_ specialty under the [Artificer][3] class.
+These rules are a summary of the 5e Dungeons and Dragons Alchemy and potion creation rules. These revised rules for [Crafting Magic Items][1] are presented in [Xanathar’s Guide to Everything][2], modified as per the creation of expendable items. Note that those rules replace the Item Creation Rules presented in the Dungeon Masters Guide. Additionally, this summary includes modifications made for the _Alchemist_ specialty under the [Artificer][3] class.
 
 ## Arcane Potions
 
@@ -1548,12 +1255,7 @@ The cost to create any of these is half the listed price (a quarter for Artifice
 
 ## Foraging & Harvesting Ingredients
 
-{% include imageframe.html
-  figure_class="float-end mx-4"
-  src="/assets/img/alchemylab-480x384.jpg"
-  alt="A rustic alchemy lab."
-  height="384" width="480"
- %}
+
 
 
 I use the following **_house rules_** for players interested in harvesting and foraging ingredients to make potions. These are at at the DMs discretion and should be discussed with the group before implementing. The rules are intended to be simple and fast, and leave it to the DM and player to work out description and flavor.
@@ -1562,127 +1264,102 @@ Some rare herbs, roots, or other flora may provide ingredients for Mundane or Ar
 
 Additionally, characters proficient with Herbalist or Alchemist kit may attempt to harvest alchemical ingredients from some mythic creatures. If allowed, a player may roll a DC 15 Intelligence (Arcana) check to harvest 1d10 gp of alchemical ingredients per creature CR rating. Creatures lower than CR 1 may optionally produce 1 gp of ingredients. These ingredients may be of general use or useful for only specific kinds of effects at the DMs discretion.
 
-You can view my swanky <a href="https://www.gmbinder.com/share/-LinhazY4Kb7-xprlgP3" target="_blank" rel="noreferrer noopener">GM Binder Version</a> as well.
+You can view my swanky GM Binder Version as well.
 
  [1]: https://www.dndbeyond.com/sources/dmg/between-adventures#CraftingaMagicItem
  [2]: https://www.dndbeyond.com/sources/xgte/
  [3]: https://www.dndbeyond.com/classes/artificer
 
----
-title: Managing DM Anxiety
-author: Scott Turnbull
-layout: post
-image: /assets/img/An_anxious_Dungeon_Master_480x480.jpg
-description: Recommendations for how Dungeon Masters can manage their anxiety when running TTRPGs.
-categories:
-  - Misc
+# Managing DM Anxiety
 
----
+How to manage anxiety as a Dungeon Master (DM) in Dungeons and Dragons has got to be the most common question I see right after, “first time DM, any advice”. Naturally this makes sense, as being a DM sits at an intersection of a number of high anxiety pursuits. That is, it combines the difficulties of managing social groups, event planning, writing, as well as improvisation and performance. Additionally, you represent every enemy, obstacle, and challenge to a group of people who themselves may be feeling similar anxiety. Given this, it’s no wonder DMs ask for advice and find anxiety to be one of the major roadblocks to running a game.
 
-
-
-How to manage anxiety as a Dungeon Master (DM) in Dungeons and Dragons has got to be the most common question I see right after, &#8220;first time DM, any advice&#8221;. Naturally this makes sense, as being a DM sits at an intersection of a number of high anxiety pursuits. That is, it combines the difficulties of managing social groups, event planning, writing, as well as improvisation and performance. Additionally, you represent every enemy, obstacle, and challenge to a group of people who themselves may be feeling similar anxiety. Given this, it&#8217;s no wonder DMs ask for advice and find anxiety to be one of the major roadblocks to running a game.
-
-Anxiety isn&#8217;t one thing, and it has a wide variety of sources and expressions. I&#8217;ve had my own lifelong struggle with anxiety, and developing a management strategy has enabled me to enjoy games more. Regardless of the source and expression of your own anxiety, finding an effective strategy that works for you might free you to enjoy DMing too. Therefore, I thought to share some of what is effective for me and hope you find something useful to inspire you to get out and run more games. 
+Anxiety isn’t one thing, and it has a wide variety of sources and expressions. I’ve had my own lifelong struggle with anxiety, and developing a management strategy has enabled me to enjoy games more. Regardless of the source and expression of your own anxiety, finding an effective strategy that works for you might free you to enjoy DMing too. Therefore, I thought to share some of what is effective for me and hope you find something useful to inspire you to get out and run more games. 
 
 ## Marathon Training
 
-{% include imageframe.html
-  figure_class="float-end mx-4"
-  src="/assets/img/An_anxious_Dungeon_Master_480x480.jpg"
-  alt="A dungeon master sitting at a table with maps and dice while looking anxious."
-  height="480" width="480"
 
- %}
 
-I&#8217;ll start out by saying the obvious, **_I think the best strategy is to seek professional help._** Here in the US, we incorrectly think of emotional health like a trip to the emergency room. In reality, **_a good mental health professional is more like a personal trainer than an emergency room doctor._** Firstly, you are not broken and you do not need to be fixed. Secondly, life is one big marathon of anxiety, and if you&#8217;re going to run a marathon, you should have a trainer. Lastly, bringing in an outside perspective is going to give you tools you may not have developed on your own.
+I’ll start out by saying the obvious, **_I think the best strategy is to seek professional help._** Here in the US, we incorrectly think of emotional health like a trip to the emergency room. In reality, **_a good mental health professional is more like a personal trainer than an emergency room doctor._** Firstly, you are not broken and you do not need to be fixed. Secondly, life is one big marathon of anxiety, and if you’re going to run a marathon, you should have a trainer. Lastly, bringing in an outside perspective is going to give you tools you may not have developed on your own.
 
 So, take my advice, get a professional involved and go out and run some great games. With this said, let me tell you some specific things I do that make my anxiety manageable and help me enjoy running more.
 
 ## Change the Tape in your Head
 
-For me, anxiety will play on an endless loop in my head, regardless of what I do. This can be a negative verbal dialog, imagery, or just a vague emotion at the edge of my thoughts. Of course, I&#8217;ve tried to silence it, but turning it off just isn&#8217;t an option for me. Instead, I realize it didn&#8217;t have to be the only loop in my head and set about creating a positive dialog with myself. As a result, **_I learned to create a conversation with my anxiety, I learned I could reason with it._**
+For me, anxiety will play on an endless loop in my head, regardless of what I do. This can be a negative verbal dialog, imagery, or just a vague emotion at the edge of my thoughts. Of course, I’ve tried to silence it, but turning it off just isn’t an option for me. Instead, I realize it didn’t have to be the only loop in my head and set about creating a positive dialog with myself. As a result, **_I learned to create a conversation with my anxiety, I learned I could reason with it._**
 
 ### Be your own Friend
 
-If I found myself with undermining thoughts, I stop and ask myself a question. **_Is this true, and how do you know it&#8217;s true?_** That question alone can shift focus or bring my emotional state down. For example, some of the anxiety driven questions and responses I might develop by asking this could be:
+If I found myself with undermining thoughts, I stop and ask myself a question. **_Is this true, and how do you know it’s true?_** That question alone can shift focus or bring my emotional state down. For example, some of the anxiety driven questions and responses I might develop by asking this could be:
 
-  * Anxiety: I don&#8217;t have enough prepared for tonight! 
-      * Me: I don&#8217;t seem to get through all the content in most games, why is this different?
+  * Anxiety: I don’t have enough prepared for tonight! 
+      * Me: I don’t seem to get through all the content in most games, why is this different?
       * Me: So, if we ended a half hour early, would anyone care?
-  * Anxiety: What if they don&#8217;t like what I planned?
-      * Me: They don&#8217;t seem to think about it much and just want to roll some dice and have fun.
-      * Me: Even if they didn&#8217;t, we don&#8217;t usually remember those sessions and the next one is fine.
+  * Anxiety: What if they don’t like what I planned?
+      * Me: They don’t seem to think about it much and just want to roll some dice and have fun.
+      * Me: Even if they didn’t, we don’t usually remember those sessions and the next one is fine.
 
 When trying to develop a dialog with yourself, my biggest advice is this. **_Think about what you would say to a friend with the same questions. Then, say that to yourself._**
 
 ### Write down your thoughts
 
-Naming your emotions can be one of the most powerful tools in managing them. That is to say, drag those monsters out of the closet and into the light. Likely you will discover they are not so ominous and frightening. Sometimes this can be as simple as naming an emotion and saying it out loud. Likewise, writing it down can be even more powerful to realize anxiety for what it is. Specifically, that **_anxiety is a state of emotion, not a state of being._** You feel happy, you feel sad, you feel excited, you feel anxious, but it doesn&#8217;t mean you ARE any of those things. **_Write it down and externalize it to see it for what it is._**
+Naming your emotions can be one of the most powerful tools in managing them. That is to say, drag those monsters out of the closet and into the light. Likely you will discover they are not so ominous and frightening. Sometimes this can be as simple as naming an emotion and saying it out loud. Likewise, writing it down can be even more powerful to realize anxiety for what it is. Specifically, that **_anxiety is a state of emotion, not a state of being._** You feel happy, you feel sad, you feel excited, you feel anxious, but it doesn’t mean you ARE any of those things. **_Write it down and externalize it to see it for what it is._**
 
-So, grab a pen and paper and just write down any emotion you can identify. Then take a moment to look what you&#8217;ve written, and see if it doesn&#8217;t feel less intense or urgent.
+So, grab a pen and paper and just write down any emotion you can identify. Then take a moment to look what you’ve written, and see if it doesn’t feel less intense or urgent.
 
 ### Shift your Emotional Focus
 
-Nobody feels just one thing, but the strength of an emotion like anxiety can make us forget that. So, take some time and **_ask yourself what else you are feeling and name or write that down_**. For example, you might be feeling excited for an upcoming encounter or plot reveal. Alternatively, you might be curious to see how players are going to engage with some lore or roleplay with your NPCs. Despite how large it seems; anxiety can&#8217;t be the only emotion you feel about an upcoming session. Therefore, be purposeful about spending time with those other emotions by naming them and giving them more attention.
+Nobody feels just one thing, but the strength of an emotion like anxiety can make us forget that. So, take some time and **_ask yourself what else you are feeling and name or write that down_**. For example, you might be feeling excited for an upcoming encounter or plot reveal. Alternatively, you might be curious to see how players are going to engage with some lore or roleplay with your NPCs. Despite how large it seems; anxiety can’t be the only emotion you feel about an upcoming session. Therefore, be purposeful about spending time with those other emotions by naming them and giving them more attention.
 
 Doing this might help you realize that, **_although your anxiety is part of you, you are not your anxiety._**
 
 ## Get Physical
 
-Our physical reality strongly influences our emotional reality and vice versa. Therefore, take some time to pay attention to your body as part of your anxiety management strategy. This isn&#8217;t going to be rocket science, and we all know these things for the most part. However, the challenge is developing a routine to actually do some of them. Think about using your anxiety as a tool to remind yourself to move your body and consider any of the following.
+Our physical reality strongly influences our emotional reality and vice versa. Therefore, take some time to pay attention to your body as part of your anxiety management strategy. This isn’t going to be rocket science, and we all know these things for the most part. However, the challenge is developing a routine to actually do some of them. Think about using your anxiety as a tool to remind yourself to move your body and consider any of the following.
 
-  * **Focus on your breathing.** Make sure it&#8217;s coming from your diagram and not your upper chest. Try to make your breaths deep and rhythmic. Think about using something like <a href="https://www.yogajournal.com/video/kundalini-breathing-exercise-balance-stressed-energy/" target="_blank" rel="noreferrer noopener">Kundalini Yoga breathing exercises</a>.
-  * **Notice where anxiety is manifesting in your body.** I often have a spot or general area in my body I can identify as part of my anxiety. I don&#8217;t know why this works, but if I tap that area lightly with my fingertips for a few moments, it makes it better. If the area moves, I just tap the new location until I feel a bit of relief.
+  * **Focus on your breathing.** Make sure it’s coming from your diagram and not your upper chest. Try to make your breaths deep and rhythmic. Think about using something like Kundalini Yoga breathing exercises.
+  * **Notice where anxiety is manifesting in your body.** I often have a spot or general area in my body I can identify as part of my anxiety. I don’t know why this works, but if I tap that area lightly with my fingertips for a few moments, it makes it better. If the area moves, I just tap the new location until I feel a bit of relief.
   * **Pinch the fleshy area between your thumb and index finger.** Again, not sure why this works but I find if I squeeze that area and release, after a few seconds, I seem to get some relief.
   * **Cut out the caffeine, avoid the alcohol.** You need to focus during a game and not be overactive. 
-  * **Ten minutes of yoga or stretches.** You don&#8217;t need a half hour session, just take five or ten minutes of something to loosen you up. I find hip openers and shoulder stretches to be particularly effective before a game.
+  * **Ten minutes of yoga or stretches.** You don’t need a half hour session, just take five or ten minutes of something to loosen you up. I find hip openers and shoulder stretches to be particularly effective before a game.
   * **Posture.** Stand tall, spread your arms and expand your chest. Rotate your hips forward and breath before or during a game.
 
 ## Use your DM Toolbox
 
-RPG communities are full of helpful frameworks, tools and techniques to streamline how you can run a game. In fact, there are so many options that they can be sources of anxiety themselves. The right framework lets you focus on the most important aspects of your game and cut down on confusion and can be very effective in bringing your anxiety down. So, don&#8217;t let yourself get overwhelmed and take these for what they are, a buffet of tools you can pick from when you&#8217;re ready. 
+RPG communities are full of helpful frameworks, tools and techniques to streamline how you can run a game. In fact, there are so many options that they can be sources of anxiety themselves. The right framework lets you focus on the most important aspects of your game and cut down on confusion and can be very effective in bringing your anxiety down. So, don’t let yourself get overwhelmed and take these for what they are, a buffet of tools you can pick from when you’re ready. 
 
-**_Pick a few key things to add to your game prep at the table, and get used to those before incorporating something new._** The trick here is to cut down on your confusion and the number of things you have to spend energy managing during a game. You&#8217;ll find over time that you can add more as you get used to running. When you have time take a look at some of these frameworks and tools.
+**_Pick a few key things to add to your game prep at the table, and get used to those before incorporating something new._** The trick here is to cut down on your confusion and the number of things you have to spend energy managing during a game. You’ll find over time that you can add more as you get used to running. When you have time take a look at some of these frameworks and tools.
 
-  * <a href="https://slyflourish.com/rotldm_template.html" target="_blank" rel="noreferrer noopener">Lazy DM Prep</a>, from Return of the Lazy Dungeon Master by Sly Flourish.
-  * <a href="https://www.dungeonworldsrd.com/gamemastering/fronts/" target="_blank" rel="noreferrer noopener">The Fronts System</a>, I know it from Dungeon World by I think it predates that.
-  * <a href="https://1d4chan.org/wiki/Five_Room_Dungeon" target="_blank" rel="noreferrer noopener">Five Room Dungeon</a> encounter design. 
+  * Lazy DM Prep, from Return of the Lazy Dungeon Master by Sly Flourish.
+  * The Fronts System, I know it from Dungeon World by I think it predates that.
+  * Five Room Dungeon encounter design. 
   * Tap communities on twitter, reddit, and follow some [great blogs](/) for advice and more.
-  * Follow your favorite RPG advice <a href="https://www.twitch.tv/optionalrule" target="_blank" rel="noreferrer noopener">Twitch</a> and <a href="https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw" target="_blank" rel="noreferrer noopener">YouTube</a> discussions and join in that conversation.
-  * Listen to Matt <a href="https://www.youtube.com/user/mcolville" target="_blank" rel="noreferrer noopener">Colville</a>, like a lot of Matt.
+  * Follow your favorite RPG advice Twitch and YouTube discussions and join in that conversation.
+  * Listen to Matt Colville, like a lot of Matt.
 
-**_Use about half the tools and technology you think you can comfortably manage during any session._** This way you can keep that workflow simple and leave enough of your attention to focus on the players and what&#8217;s happening at the table. 
+**_Use about half the tools and technology you think you can comfortably manage during any session._** This way you can keep that workflow simple and leave enough of your attention to focus on the players and what’s happening at the table. 
 
 ### Ask for Help {#h-ask-for-help}
 
 **_Table Top RPGs are a group activity and the DM is just one member of that group, albeit with a different set of responsibilities_**. So, if you find your anxiety creeping up during a session, think about asking people in the group for something specific that might help. That could be, something as simple as a few moments break to stretch or stand up. Alternatively, you might just need some help to cut down on the confusion and anxiety of game mechanics. If this is the case, then think about asking another player to take some of the load for running things like initiative, track monster HPs or something else. 
 
-Lastly, think about just saying to the group **_&#8220;hey everyone, I&#8217;m starting to get a little anxious.&#8221;_** This can be a powerful way to let the group know what is going on and allow them to focus on being the kind of supportive play group we all hope to foster.
+Lastly, think about just saying to the group **_“hey everyone, I’m starting to get a little anxious.”_** This can be a powerful way to let the group know what is going on and allow them to focus on being the kind of supportive play group we all hope to foster.
 
 ## Final Words and Resources {#h-final-words-and-resources}
 
 I hope you found something in this post to help you manage your own anxiety better and run more games. I have to confess I found this hard to write because the topic is so expansive and complex. Despite that, I hope I hit on something useful for you to begin to research more on your own and I want to end by listing just a couple of resources I found useful in developing my own anxiety management strategy.
 
-  * <a href="https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1611803438" target="_blank" rel="noreferrer noopener">When Things Fall Apart: Heart Advice for Difficult Times</a> by Pema Chodron.
-  * <a href="https://www.amazon.com/gp/product/B004HD61H2/ref=dbs_a_def_rwt_bibl_vppi_i5" target="_blank" rel="noreferrer noopener">Peace is Every Breath</a> by Thich Nhat Hanh.
-  * <a href="https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020" target="_blank" rel="noreferrer noopener">The Happiness Hypothesis</a> by Jonathan Haidt.
-  * <a href="https://www.amazon.com/Hardcore-Self-Help-Robert-Duff-ebook/dp/B00NDO429U" target="_blank" rel="noreferrer noopener">Hardcore Self Help: F**K Anxiety</a> by Robert Duff
+  * When Things Fall Apart: Heart Advice for Difficult Times by Pema Chodron.
+  * Peace is Every Breath by Thich Nhat Hanh.
+  * The Happiness Hypothesis by Jonathan Haidt.
+  * Hardcore Self Help: F**K Anxiety by Robert Duff
 
 
----
-title: 'Safety & Consent RPG Checklist'
-author: Scott Turnbull
-layout: post
-description: A checklist and more resources you can use to enhance safety and concent in your TTRPGs.
-image: /assets/img/SafetyAndConcent.-960x540.jpg
-categories:
-  - RPG Resources
+# 'Safety & Consent RPG Checklist'
 
----
 The development of safety tools has been one of the more useful advancements in Tabletop Roleplaying Games in the modern era. At their heart, these tools help groups normalize expectations, level set, and understand the range of issues a particular gaming group might experience. Firstly, these tools help people understand if a game is the right one for them. Secondly, it helps shape the conversation and understanding of how to deal with different topics in a way that honors the experiences and context of everyone at the table.
 
-I first encountered a formalized approach to this with <a rel="noreferrer noopener" href="https://www.montecookgames.com/consent-in-gaming/" target="_blank">Consent in Gaming</a> by Sean K. Reynolds & Shanna Germain, which provides a lot of excellent context on the topic. It got even more attention when Wizards of the Coast addressed some of these elements in <a data-type="URL" data-id="https://dnd.wizards.com/products/tabletop-games/rpg-products/tashas-cauldron-everything" href="https://dnd.wizards.com/products/tabletop-games/rpg-products/tashas-cauldron-everything">Tasha&#8217;s Caldron of everything</a><a data-type="URL" data-id="https://dnd.wizards.com/products/tabletop-games/rpg-products/tashas-cauldron-everything" rel="noreferrer noopener" href="https://dnd.wizards.com/products/tabletop-games/rpg-products/tashas-cauldron-everything" target="_blank">,</a> which is about as mainstream as you can get in the hobby. 
+I first encountered a formalized approach to this with Consent in Gaming by Sean K. Reynolds & Shanna Germain, which provides a lot of excellent context on the topic. It got even more attention when Wizards of the Coast addressed some of these elements in Tasha’s Caldron of everything, which is about as mainstream as you can get in the hobby. 
 
 The various tools let you **_uncover assumptions before the game, avoid issues when planning, and back out of uncomfortable situations during a session_**. This benefits everyone at the table, including the DM.
 
@@ -1690,71 +1367,44 @@ The various tools let you **_uncover assumptions before the game, avoid issues w
 
 Before I make a few short comments below, here are some resources you can use at your table.
 
-  * <a href="https://docs.google.com/presentation/d/1kjaK9Q9p90P54E2ITZPf0DHGyaZZMHXYAg52Ar19zp4/edit?usp=sharing" target="_blank" rel="noreferrer noopener">My Campaign Pitch Deck</a> &#8211; This includes some examples of setting the stage for safety discussions PRIOR to session 0. (Free Google Slide)
-  * [My Safety Checklist Form](https://docs.google.com/forms/d/1XHjWwG3vdyhcX1uyAQT-XqwwhTZBFkW-JD9Ubhn_YUs/copy?usp=sharing) &#8211; This is another tool to use prior to session zero to shape the discussion. From the toolkit listed below. (Free Google Form) **Update June 2021** - I changed the link to create an automatic copy of this document in your own account.
+  * My Campaign Pitch Deck – This includes some examples of setting the stage for safety discussions PRIOR to session 0. (Free Google Slide)
+  * [My Safety Checklist Form](https://docs.google.com/forms/d/1XHjWwG3vdyhcX1uyAQT-XqwwhTZBFkW-JD9Ubhn_YUs/copy?usp=sharing) – This is another tool to use prior to session zero to shape the discussion. From the toolkit listed below. (Free Google Form) **Update June 2021** - I changed the link to create an automatic copy of this document in your own account.
 
 **Great External Resources**
 
-  * <a href="https://www.montecookgames.com/consent-in-gaming/" target="_blank" rel="noreferrer noopener">Consent in Gaming</a> from MCG by Sean K. Reynolds & Shanna Germain (
+  * Consent in Gaming from MCG by Sean K. Reynolds & Shanna Germain (
   * [TTRPG Saftey Toolkit Quick Reference](https://i.4pcdn.org/tg/1583202183294.pdf) by Kienna Shaw (Free PDF)
-  * <a href="https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/mobilebasic" target="_blank" rel="noreferrer noopener">X-Card System</a> by John Stavropoulos, is a system for use during a session to back out of situations.
-  * <a href="https://briebeau.itch.io/script-change" target="_blank" rel="noreferrer noopener">Script Change RPG Toolbox</a> by Beau Jágr Sheldon, is a great name-your-own-price resource for modifying things on the fly!
+  * X-Card System by John Stavropoulos, is a system for use during a session to back out of situations.
+  * Script Change RPG Toolbox by Beau Jágr Sheldon, is a great name-your-own-price resource for modifying things on the fly!
 
 ## Put On Your Big Guy/Gal/Pal Pants
 
-The truth is, that as much attention as the topic has gotten in the last few years, **_we have a lot of work to do as a community on advocating for emotionally intelligent games_**. The negative online reaction to even the _suggestion_ that Safety Tools could be useful is an excellent example of how far we have to go. I find this profoundly disappointing when it happens, as **_fostering a good conversation has to be our top priority._** So even if you think there are people that aren&#8217;t engaging in the topic of safety honestly, that doesn&#8217;t give you carte blanche to discard the topic. We can&#8217;t wait for the environment to be perfect before beginning to act with compassion and fostering safe and sane gaming community.
+The truth is, that as much attention as the topic has gotten in the last few years, **_we have a lot of work to do as a community on advocating for emotionally intelligent games_**. The negative online reaction to even the _suggestion_ that Safety Tools could be useful is an excellent example of how far we have to go. I find this profoundly disappointing when it happens, as **_fostering a good conversation has to be our top priority._** So even if you think there are people that aren’t engaging in the topic of safety honestly, that doesn’t give you carte blanche to discard the topic. We can’t wait for the environment to be perfect before beginning to act with compassion and fostering safe and sane gaming community.
 
-In short, even if this were true, **_even if you&#8217;re the only adult in the room, it&#8217;s still your responsibility to act like an adult._**
+In short, even if this were true, **_even if you’re the only adult in the room, it’s still your responsibility to act like an adult._**
 
 ## Specific Advice and Tools
 
-I&#8217;ll have to post more about this in the future, but I want to get some tools I&#8217;ve created for my own game in your hands in hopes this helps you with your games.
+I’ll have to post more about this in the future, but I want to get some tools I’ve created for my own game in your hands in hopes this helps you with your games.
 
 The reason this is so important now is that more new people are entering the hobby than ever before, and we are playing with new people in our groups all the time. Establishing clear a understanding of peoples ranges on issues is a pro-active means to avoid a world of hurt. It also helps you find the right group for your preferred genre and playstyle. There is no down-side to this.
 
 ## Set The Baseline
 
-When I recruit for a campaign, work with a new group, introduce new members, or even introduce a new campaign to a group I know, I use a Baseline Safety & Consent list. I use this first, before I even survey the group for their own views. In this way I&#8217;m able to establish things we don&#8217;t even have to discuss because I wont be making it part of my world as a DM. It also helps me establish lines with the players they shouldn&#8217;t be planning to go past. In all honesty, I&#8217;ve had players in my game exceed my limits WAY more than I have exceeded theirs, and I am not a particularly squeamish guy. Trust me, if you are a DM, this is important for you and for your group.
+When I recruit for a campaign, work with a new group, introduce new members, or even introduce a new campaign to a group I know, I use a Baseline Safety & Consent list. I use this first, before I even survey the group for their own views. In this way I’m able to establish things we don’t even have to discuss because I wont be making it part of my world as a DM. It also helps me establish lines with the players they shouldn’t be planning to go past. In all honesty, I’ve had players in my game exceed my limits WAY more than I have exceeded theirs, and I am not a particularly squeamish guy. Trust me, if you are a DM, this is important for you and for your group.
 
-By way of example, you can see the Baseline Safety & Consent slide from my most recent <a rel="noreferrer noopener" href="https://docs.google.com/presentation/d/1kjaK9Q9p90P54E2ITZPf0DHGyaZZMHXYAg52Ar19zp4/edit?usp=sharing" target="_blank">Campaign Pitch Deck</a> below. I&#8217;ll write a whole post on Pitch Decks some-day, but not to-day. Note this is a start of a conversation, not an end to one. I put these in a slide to get me to the next step of talking in depth about this with the players.<
-
-
-{% include imageframe.html
-  figure_class="d-block mx-4"
-  src="/assets/img/SafetyAndConcent.-960x540.jpg"
-  alt="a bullet list of safety elements"
-  height="540" width="960"
-  caption="The Safety and Concent primer slide."
- %}
-
-
-## Get Group Feedback
-
-Okay, so having established your own ethical minimal viable product as a DM, it&#8217;s time to get their input. This can be hard as we don&#8217;t often talk about these topics in casual conversation. Many people find some kind of survey or form useful. So I created a <a rel="noreferrer noopener" href="https://docs.google.com/forms/d/1XHjWwG3vdyhcX1uyAQT-XqwwhTZBFkW-JD9Ubhn_YUs/edit?usp=sharing" target="_blank">Tabletop RPG Safety & Consent Checklist</a> for use with my group. If you follow that link you can see it too and should be able to make a copy for modification and use in your own game. Drop me a DM on twitter if you have any trouble copying it and I&#8217;ll do what I can to get you what you need.
+By way of example, you can see the Baseline Safety & Consent slide from my most recent Campaign Pitch Deck below. I’ll write a whole post on Pitch Decks some-day, but not to-day. Note this is a start of a conversation, not an end to one. I put these in a slide to get me to the next step of talking in depth about this with the players.Tabletop RPG Safety & Consent Checklist for use with my group. If you follow that link you can see it too and should be able to make a copy for modification and use in your own game. Drop me a DM on twitter if you have any trouble copying it and I’ll do what I can to get you what you need.
 
 Note, I did not invent this. The Checklist above is my modified version of the TTRPG Safety Toolkit I mentioned at the top of this post.
 
 Now get out there and run some fun and safe games.
 
 
----
-title: Cavern Elevator Trap
-author: Scott Turnbull
-layout: post
-image: /assets/img/mineshaft_480x643.jpg
-description: A sinister and dynamic elevator trap you can use in your 5th edition game.
-categories:
-  - Encounters
----
-[Captivating Traps]({% link _posts/2021-01-21-create-captivating-traps.md %}) in 5th edition Dungeons & Dragons are more than just damage delivery gimmicks. A great trap communicates something about who created it, the danger you face, and engages the environment in exciting ways. This is an example of trap design that creates an environmental challenge with [Progressive Failures and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %}) that engages character skills. I used this trap in my campaign last night to great effect and wanted to share it with the community if it&#8217;s useful for you as well.
+# Cavern Elevator Trap
 
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/mineshaft_480x643.jpg"
-  alt="Long view down a mineshaft elevator."
-  height="643" width="480"
-  caption="Mineshaft by Johnathan Kazmierczak"
- %}
+[Captivating Traps]() in 5th edition Dungeons & Dragons are more than just damage delivery gimmicks. A great trap communicates something about who created it, the danger you face, and engages the environment in exciting ways. This is an example of trap design that creates an environmental challenge with [Progressive Failures and Rising Tension]() that engages character skills. I used this trap in my campaign last night to great effect and wanted to share it with the community if it’s useful for you as well.
+
+
 
 ## Elevator Boulder Trap
 
@@ -1783,98 +1433,77 @@ Characters who holding onto the scaffolding may climb down at 15 feet per round 
 
 ## Real World Use
 
-I used this in my heavily modified version of Black Swords from Icewind Dale &#8211; Rime of the Frostmaiden. It worked wonderfully from the DMs point of view; it was a grand challenge. One of the players picked up on the trap being triggered and announced they were moving to the side. Two players ended up hanging onto the scaffolding, two players fell the rest of the way and were brought to zero hit points. The conscious players moved as fast as they could to get the bottom to help the players making Death saves. Overall, it was tense, hit the players hard and shook them up so it achieved the effect that I wanted of bringing the tension up and using some skills in an exciting way. A saving grace of the trap design is not having enemies at the bottom, with the elevator broken the players correctly surmised they could take a short rest and recover.
+I used this in my heavily modified version of Black Swords from Icewind Dale – Rime of the Frostmaiden. It worked wonderfully from the DMs point of view; it was a grand challenge. One of the players picked up on the trap being triggered and announced they were moving to the side. Two players ended up hanging onto the scaffolding, two players fell the rest of the way and were brought to zero hit points. The conscious players moved as fast as they could to get the bottom to help the players making Death saves. Overall, it was tense, hit the players hard and shook them up so it achieved the effect that I wanted of bringing the tension up and using some skills in an exciting way. A saving grace of the trap design is not having enemies at the bottom, with the elevator broken the players correctly surmised they could take a short rest and recover.
 
----
-title: Skill Challenges in 5e
-author: Scott Turnbull
-layout: post
-image: /assets/img/skillcheck-480x363.jpg
-description: Skill challenges done the right way for 5th edition games.
-categories:
-  - RPG Resources
+# Skill Challenges in 5e
 
----
-There&#8217;s been a lot of contentious talk in my feed about building skills challenges in 5th Edition Dungeons and Dragons. Firstly, we need to develop a common understanding of what a skill challenge is in 5e. Secondly, we must get past the issues people have with 4th edition that make them so polarized. Thirdly, we need to focus on how different ways of resolving skills affect pace and tension. Moreover, we need to define some meaningful circumstances that let players drive the use of skills in creative ways. In these ways, we provide creative opportunities to do more than fight, and develop richer games in the process. 
+There’s been a lot of contentious talk in my feed about building skills challenges in 5th Edition Dungeons and Dragons. Firstly, we need to develop a common understanding of what a skill challenge is in 5e. Secondly, we must get past the issues people have with 4th edition that make them so polarized. Thirdly, we need to focus on how different ways of resolving skills affect pace and tension. Moreover, we need to define some meaningful circumstances that let players drive the use of skills in creative ways. In these ways, we provide creative opportunities to do more than fight, and develop richer games in the process. 
 
 ## What is a Skill Challenge? 
 
 A skill challenge is an encounter that allows players to creatively use skills to make progresses and build tension. To be sure, you do not need to require a complex skill challenge in most cases. However, when the scene calls for them, a well crafted skill challenge does for narrative what combat does for action. This means it creates a sense or risk, a way to measure progression, and a clear set of consequences. In other words, skill challenges are every bit as engaging as any other element of the game.
 
-## 4e Skill Challenges, What&#8217;s all This Then?
+## 4e Skill Challenges, What’s all This Then?
 
 The main complaint I see about 4th edition skill challenges is that it was a tedious checklist. Rather than a fun game mechanic, it made players feel they had to jump through hoops to complete a task. Indeed, they saw this design more like canned dialog choices in video games than freeform creative problem solving. Undeniably, skill challenges are presented like this in some 4E modules. A point often overlooked is this was not how skill challenges are presented in the 4E PHB and DMG.
 
-I read 4E more kindly, and believe the designers intended these skill challenges to be creative and freeform. However, they also needed to provide DMs with some default structure and progression. Therefore they presented a list of skills to use if some other idea didn&#8217;t occur at the table, counting on the DM to disregard it if needed.
+I read 4E more kindly, and believe the designers intended these skill challenges to be creative and freeform. However, they also needed to provide DMs with some default structure and progression. Therefore they presented a list of skills to use if some other idea didn’t occur at the table, counting on the DM to disregard it if needed.
 
 Regardless of what it was, what skill challenges should be fun, or at the very least, fast.
 
 ## Proficiency in Skill Tools
 
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/skillcheck-480x363.jpg"
-  alt="A group of adventurers leaning over a table, seemingly confused by a map they are looking at"
-  height="363" width="480"
-  caption="Image credit Wizards of the Coast"
- %}
 
-Skills suffer from a bit of combat rules evy. In brief, skill use is so contextual and complex it defies the procedural rules used for combat in 5e. In spite of that complexity, skill resolution is relatively light in terms of guidelines when compared to combat. Due to this space inequity, people often assume combat is more important for play in 5e than skill resolution. Although combat is a strong part of most D&D games, the rules emphasis wasn&#8217;t meant to be a statement of priority. 
 
-I&#8217;m going to talk about some of the ways the rules address skill challenges below. Additionally, I&#8217;ll talk about some skill resolution techniques from other games that can be used in 5e. In the end though, all skill checks are basically the same. Which means the DM Sets up the situation and stakes, and the player chooses the action. Then the DM decides what skill resolution method to use and calls for the roll. 
+Skills suffer from a bit of combat rules evy. In brief, skill use is so contextual and complex it defies the procedural rules used for combat in 5e. In spite of that complexity, skill resolution is relatively light in terms of guidelines when compared to combat. Due to this space inequity, people often assume combat is more important for play in 5e than skill resolution. Although combat is a strong part of most D&D games, the rules emphasis wasn’t meant to be a statement of priority. 
 
-### Rule Zero &#8211; No Risk, No Roll 
+I’m going to talk about some of the ways the rules address skill challenges below. Additionally, I’ll talk about some skill resolution techniques from other games that can be used in 5e. In the end though, all skill checks are basically the same. Which means the DM Sets up the situation and stakes, and the player chooses the action. Then the DM decides what skill resolution method to use and calls for the roll. 
 
-The first, and most simple method is to not roll at all. If the player wants to attempt something within their means, there is no risk, and can be tried again until they succeed, do not roll at all. Rolling just to roll is a pointless waste of time. Likewise, rolling for something that can&#8217;t possibly succeed is a frustrating exercise. Therefore, for most simple requests, just decide what is a reasonable outcome and have that happen. 
+### Rule Zero – No Risk, No Roll 
+
+The first, and most simple method is to not roll at all. If the player wants to attempt something within their means, there is no risk, and can be tried again until they succeed, do not roll at all. Rolling just to roll is a pointless waste of time. Likewise, rolling for something that can’t possibly succeed is a frustrating exercise. Therefore, for most simple requests, just decide what is a reasonable outcome and have that happen. 
 
 ### Batteries Included
 
-There is more material on resolving skill challenges in 5th edition than people acknowledge. Granted, discussions on skill challenges are a bit more spread out across the core books. In particular, <a href="https://www.dndbeyond.com/sources/dmg/running-the-game#UsingAbilityScores" target="_blank" rel="noreferrer noopener">Chapter 8 of the DMG</a> goes into checks with several variants and specific uses like Social Interactions or Chases. However, it&#8217;s fair to say the DMG is the least read of the core rulebooks and players naturally expect this to be covered in the PHB. Therefore, people miss this frequently and it&#8217;s often a topic of confusion.
+There is more material on resolving skill challenges in 5th edition than people acknowledge. Granted, discussions on skill challenges are a bit more spread out across the core books. In particular, Chapter 8 of the DMG goes into checks with several variants and specific uses like Social Interactions or Chases. However, it’s fair to say the DMG is the least read of the core rulebooks and players naturally expect this to be covered in the PHB. Therefore, people miss this frequently and it’s often a topic of confusion.
 
-The DMG generally presents ways to resolve skill checks that mostly involve a single roll. You&#8217;d have to look to a specific implementation, like the chase rules, for an example of checks over time with progressive success and failure.
+The DMG generally presents ways to resolve skill checks that mostly involve a single roll. You’d have to look to a specific implementation, like the chase rules, for an example of checks over time with progressive success and failure.
 
 #### Types of Checks in the DMG {#h-types-of-checks-in-the-dmg}
 
-  * **Automatic Success** &#8211; Essentially the Rule Zero I listed above.
-  * **Straight Roll vs DC** &#8211; The standard check most of us know, using a single roll against a DC. But a binary pass/fail can be inadequate for extended actions or times when drama or tension calls for something more complex.
-  * **Success at a Cost** &#8211; A &#8216;fail forward&#8217; mechanic, where failure by a point or two still succeeds but grants some hindrance.
-  * **Degrees of Failure** &#8211; A roll that has effects by passing or failing by more than 5 points.
-  * **Critical Success or Failure** &#8211; An optional rule that counts a natural 20 as an automatic success, or natural 1 as an automatic failure. (You knew skill checks didn&#8217;t crit right?)
+  * **Automatic Success** – Essentially the Rule Zero I listed above.
+  * **Straight Roll vs DC** – The standard check most of us know, using a single roll against a DC. But a binary pass/fail can be inadequate for extended actions or times when drama or tension calls for something more complex.
+  * **Success at a Cost** – A ‘fail forward’ mechanic, where failure by a point or two still succeeds but grants some hindrance.
+  * **Degrees of Failure** – A roll that has effects by passing or failing by more than 5 points.
+  * **Critical Success or Failure** – An optional rule that counts a natural 20 as an automatic success, or natural 1 as an automatic failure. (You knew skill checks didn’t crit right?)
 
-I personally don&#8217;t find a lot of value in degrees of failure or success at a cost. Both rely on a specific value on a single d20 having a particular meaning. Which isn&#8217;t reasonable on a flat probability distribution. I hope the dangers of linking an outcome to the arbitrary &#8220;swinginess&#8221; of a d20 is apparent. However, this is beyond the scope of this post so I&#8217;ll save that discussion for another time. 
+I personally don’t find a lot of value in degrees of failure or success at a cost. Both rely on a specific value on a single d20 having a particular meaning. Which isn’t reasonable on a flat probability distribution. I hope the dangers of linking an outcome to the arbitrary “swinginess” of a d20 is apparent. However, this is beyond the scope of this post so I’ll save that discussion for another time. 
 
 ### Borrowing From Other Systems {#h-borrowing-from-other-systems}
 
-  * **Pushing a Skill** &#8211; Pulled from <a href="https://www.chaosium.com/content/FreePDFs/CoC/CHA23131%20Call%20of%20Cthulhu%207th%20Edition%20Quick-Start%20Rules.pdf" target="_blank" rel="noreferrer noopener">Call of Cthulhu</a>, it lets you take a single failed skill check and try again at some coast or greater risk. In 5e this could be the danger of catastrophic failure, exhaustion, injury, or some other consequence the DM and Player agree on. When I use these I ask the player to justify by adding something or trying it again in a different way. 
-  * **Progression Clock** &#8211; Pulled from <a href="https://bladesinthedark.com/progress-clocks" target="_blank" rel="noreferrer noopener">Blades in the Dark</a>, this is close to traditional 4e skill challenges. Where in, you require success in a particular number of skill checks to progress the storyline. The difference here is the assumption this engages the player to suggest creative uses for skills to move things along. Additionally, it assumes the DM is working with the player to provide interesting narrative progression or tension. The progression clock mechanic provides several interesting variations that can provide a lot of tension in 5e. Some of these include danger clocks, racing clocks, tug-of-war clocks, and more. You can use all of these effectively to create exciting skill based encounters in 5e. This method comes as close as anything I&#8217;ve seen to the intention of skill challenges.
-  * **Dramatic Tasks** &#8211; Pulled from <a href="https://www.peginc.com/store/savage-worlds-deluxe-pdf-2/" target="_blank" rel="noreferrer noopener">Savage Worlds</a>, this is party based successes per turn model. This might work with a timed based challenge, but I generally don&#8217;t use this as it is linked to pace and requiring the players to have a particular number of ideas a round.
+  * **Pushing a Skill** – Pulled from Call of Cthulhu, it lets you take a single failed skill check and try again at some coast or greater risk. In 5e this could be the danger of catastrophic failure, exhaustion, injury, or some other consequence the DM and Player agree on. When I use these I ask the player to justify by adding something or trying it again in a different way. 
+  * **Progression Clock** – Pulled from Blades in the Dark, this is close to traditional 4e skill challenges. Where in, you require success in a particular number of skill checks to progress the storyline. The difference here is the assumption this engages the player to suggest creative uses for skills to move things along. Additionally, it assumes the DM is working with the player to provide interesting narrative progression or tension. The progression clock mechanic provides several interesting variations that can provide a lot of tension in 5e. Some of these include danger clocks, racing clocks, tug-of-war clocks, and more. You can use all of these effectively to create exciting skill based encounters in 5e. This method comes as close as anything I’ve seen to the intention of skill challenges.
+  * **Dramatic Tasks** – Pulled from Savage Worlds, this is party based successes per turn model. This might work with a timed based challenge, but I generally don’t use this as it is linked to pace and requiring the players to have a particular number of ideas a round.
 
 ### The Greatest Skill System of All time 
-Okay, maybe not, but I&#8217;m biased. I wrote a post awhile back called [Progressive Failures and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %}) that I&#8217;m rather partial to. So, when I need something more than a binary check, I find this method easy to express to the player and not overly complicated. I sometimes combine this method with one of the forms of progression clocks above for a more dynamic experience. In particular, the ability for one player to get another player unstuck or help has been lots of fun when I can get players to use it.
+Okay, maybe not, but I’m biased. I wrote a post awhile back called [Progressive Failures and Rising Tension]() that I’m rather partial to. So, when I need something more than a binary check, I find this method easy to express to the player and not overly complicated. I sometimes combine this method with one of the forms of progression clocks above for a more dynamic experience. In particular, the ability for one player to get another player unstuck or help has been lots of fun when I can get players to use it.
 
 The master stroke is to use the right resolution method at the right time, and get players to work together through it.
 
 ## Resolution 
 
-When I create what I call a skill challenge, I typically lay out a scenario, imply some risks and let the player try to figure out creative ways to solve the problem. I don&#8217;t usually tie myself to a specific number of rolls and I try to let things progress naturally. One challenge in skill based encounters is the notion of time. As opposed to combat, which has six second rounds, the time to resolve a skill is less clear. If I have a series of rolls in an encounter I generally try to keep a similar arbitrary time period per check. This way I can usually be consistent about how much to progress the scene per check in a way that keeps it natural. 
+When I create what I call a skill challenge, I typically lay out a scenario, imply some risks and let the player try to figure out creative ways to solve the problem. I don’t usually tie myself to a specific number of rolls and I try to let things progress naturally. One challenge in skill based encounters is the notion of time. As opposed to combat, which has six second rounds, the time to resolve a skill is less clear. If I have a series of rolls in an encounter I generally try to keep a similar arbitrary time period per check. This way I can usually be consistent about how much to progress the scene per check in a way that keeps it natural. 
 
-In any case, I try to pick a style of resolution appropriate for the scene. I also try to keep pacing in mind, quickly moving through checks that don&#8217;t matter, but creating some space to linger in a dramatic moment. Picking the right method for resolution requires a lot of context and awareness of the game. Although it may seem difficult to know which to choose, it&#8217;s easy to develop a quick instinct for it after trying a few methods out. So I recommend doing just that.
+In any case, I try to pick a style of resolution appropriate for the scene. I also try to keep pacing in mind, quickly moving through checks that don’t matter, but creating some space to linger in a dramatic moment. Picking the right method for resolution requires a lot of context and awareness of the game. Although it may seem difficult to know which to choose, it’s easy to develop a quick instinct for it after trying a few methods out. So I recommend doing just that.
 
-Look over some of these methods and try to use at least one in an intentional way during your next game. It won&#8217;t take long to figure out what methods jive with your style of game and players. Together with a little experimentation and adjustment, you&#8217;ll quickly develop a natural way to select the right method for the right situation.
+Look over some of these methods and try to use at least one in an intentional way during your next game. It won’t take long to figure out what methods jive with your style of game and players. Together with a little experimentation and adjustment, you’ll quickly develop a natural way to select the right method for the right situation.
 
 
----
-title: My Current 5e House Rules
-author: Scott Turnbull
-layout: post
-description: A list of house rules I use in my own 5th edition game.
-categories:
-  - RPG Resources
+# My Current 5e House Rules
 
----
-I get questions frequently about what house rules I&#8217;m using in my own 5th Edition Dungeons & Dragons game so I wanted to post them for everyone. I hope you&#8217;ll find something useful here and tag <a href="https://www.twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">me on twitter</a> if you have a question or want to share a rule of your own.  
+I get questions frequently about what house rules I’m using in my own 5th Edition Dungeons & Dragons game so I wanted to post them for everyone. I hope you’ll find something useful here and tag me on twitter if you have a question or want to share a rule of your own.  
   
-By and large, I stay fairly houserule light. This is because I don&#8217;t think most house rules add anything to a game. More often than not, people are compensating for some cognitive disconnect but it doesn&#8217;t bring much to a group at play. So more or less, I use rules as is with the exception of the one&#8217;s I&#8217;ve listed below.
+By and large, I stay fairly houserule light. This is because I don’t think most house rules add anything to a game. More often than not, people are compensating for some cognitive disconnect but it doesn’t bring much to a group at play. So more or less, I use rules as is with the exception of the one’s I’ve listed below.
 
 ## House Rules
 
@@ -1886,16 +1515,16 @@ House rules are additions or modifications to the mechanics of a game. This mean
 
 **Catch Your Breath:** A character may attempt a DC 15 Athletics (Constitution) check after taking a short rest. They remove one level of exhaustion on a success. They may attempt this once and are able to attempt it again after completing a long rest.
 
-**Friends with Advantage:** Only one player may roll to attempt an outcome for the party like disarming a trap. They may receive &#8220;help&#8221; from another player if that player is proficient in the relevant skill. Both players roll, the highest result is kept.
+**Friends with Advantage:** Only one player may roll to attempt an outcome for the party like disarming a trap. They may receive “help” from another player if that player is proficient in the relevant skill. Both players roll, the highest result is kept.
 
-**Skill Bump:** When attempting a skill roll, a player may be able to make the case that another skill they are proficient in may give them a slight advantage. If the DM approves, give the roll a +1 for that attempt. Another player may try to &#8220;advise&#8221; in the same way to provide the bonus. Any declaration of help must be made before rolling.
+**Skill Bump:** When attempting a skill roll, a player may be able to make the case that another skill they are proficient in may give them a slight advantage. If the DM approves, give the roll a +1 for that attempt. Another player may try to “advise” in the same way to provide the bonus. Any declaration of help must be made before rolling.
 
 **Blocked by Enemies:** You cannot move through an enemy square normally. You may attempt an Dexterity (Acrobatics) check opposed by the enemies Strength or Dexterity check. Success means you are able to move through their square as if it were difficult terrian. 
 
-**Mounted Combat:** Players interested may use the [mounted combat rules]({% link _posts/2021-03-08-mounted-combat-in-5e.md %}) I developed. 
+**Mounted Combat:** Players interested may use the [mounted combat rules]() I developed. 
 
 **No Long Rests on the Road** Gaining the benefit of a long rest requires a comfortable place to rest or base camp.  See 
-[Perilous Journeys]({% link _posts/2021-07-13-perilous-journeys-in-5e-p1.md %}) for more info.
+[Perilous Journeys]() for more info.
 
 ### **Spells**
 
@@ -1903,58 +1532,43 @@ House rules are additions or modifications to the mechanics of a game. This mean
 
 ## Table Rules
 
-Table rules are conventions or social norms that use an established rule in a different way. This means it doesn&#8217;t modify or add to an existing rule, but uses that rule in a different way.
+Table rules are conventions or social norms that use an established rule in a different way. This means it doesn’t modify or add to an existing rule, but uses that rule in a different way.
 
   * **2HD at 1st level:** Players start with Max HP plus another HD at 1st level. They do not roll for HPs again until 3rd level.
   * **Private Death Saves:** Death saves should be kept private between the DM and Player. Either PM2DM on the VTT, Discord, or Text as used in the campaign.
-  * **Feats Not Used:** The following feats are not used in my game: Telekinetic (Tasha&#8217;s), Observant, Bountiful Luck, & Luck.
+  * **Feats Not Used:** The following feats are not used in my game: Telekinetic (Tasha’s), Observant, Bountiful Luck, & Luck.
   * **Sentinel Feat:** Capped at +1 size for movement change.
-  * **Tasha&#8217;s Optional Class Features:** Mostly used from Tasha&#8217;s, check with DM.
-  * **Custom Lineages:** Okay by me, let me know if you&#8217;re a variation on a traditional race or what other concept you might have. Variation on traditional races are considered that race for all racial requirements in the system unless otherwise noted.
-  * **Xanathar&#8217;s & Tasha&#8217;s Subclasses:** All allowed except for Order of Scribes Wizard, and Twilight Domain Cleric.
+  * **Tasha’s Optional Class Features:** Mostly used from Tasha’s, check with DM.
+  * **Custom Lineages:** Okay by me, let me know if you’re a variation on a traditional race or what other concept you might have. Variation on traditional races are considered that race for all racial requirements in the system unless otherwise noted.
+  * **Xanathar’s & Tasha’s Subclasses:** All allowed except for Order of Scribes Wizard, and Twilight Domain Cleric.
   * **Most Recent Class Update Used:** In cases with multiple versions of a class, like Artificer, the most recent version of that class is used.
   * **Intimidating Presence:** May be either CHA or STR based at players description with appropriate description.
 
 ## Style & Convention {#h-style-convention}
 
-These are just social contract elements of my sessions I&#8217;d ask you to keep in mind.
+These are just social contract elements of my sessions I’d ask you to keep in mind.
 
   * **Help keep the game moving.** No, non-game related electronic or other stuff.
   * **Honor system.** Act in good faith please.
-  * **Be on time and communicate.** If the group sets up a time and place, it&#8217;s respectful of everyone else to be on time and prepared.
-  * **Don&#8217;t Roll Unless Asked:** &#8217;nuff said.
-  * Lean into some of the ideas I put out there on my blog, bring your own creativity into the game but remember it&#8217;s a shared space.
-      * [Thrilling Heroics]({% link _posts/2020-12-22-thrilling-heroics-rules-for-dd-5e.md %}) (especially this one)
-      * [Skill Challenges in 5E]({% link _posts/2021-02-09-skill-challenges-in-5e.md %})
-      * [Progressive Failures and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %})
+  * **Be on time and communicate.** If the group sets up a time and place, it’s respectful of everyone else to be on time and prepared.
+  * **Don’t Roll Unless Asked:** ’nuff said.
+  * Lean into some of the ideas I put out there on my blog, bring your own creativity into the game but remember it’s a shared space.
+      * [Thrilling Heroics]() (especially this one)
+      * [Skill Challenges in 5E]()
+      * [Progressive Failures and Rising Tension]()
 
 
----
-title: Engaging Players with Magic Item Creation
-author: Scott Turnbull
-layout: post
-image: /assets/img/steve_stark_480x371.jpeg
-description: Rules for making magic item component harvesting and magic item creation fun for players in 5th edition games.
-categories:
-  - RPG Resources
+# Engaging Players with Magic Item Creation
 
----
-
-Creating your own potions and magic items can be a satisfying element of gameplay in 5th Edition Dungeons & Dragons. General guidelines for crafting different rarity items are provided in the core books, but many gaps exist. Specifically, the details of how to learn to craft items, and how to collect ingredients is left vague. While I don&#8217;t think crafting needs to have a fully gamified system, having some central methodologies can keep things consistent. Notably, a set of rules that create proactive options for players can enhance their engagement with the setting. While, an understandable set of guidelines for item crafting can develop character goals and drive roleplay. Taken together, players who want to craft items can use gathering rules as a fun gameplay hook.
+Creating your own potions and magic items can be a satisfying element of gameplay in 5th Edition Dungeons & Dragons. General guidelines for crafting different rarity items are provided in the core books, but many gaps exist. Specifically, the details of how to learn to craft items, and how to collect ingredients is left vague. While I don’t think crafting needs to have a fully gamified system, having some central methodologies can keep things consistent. Notably, a set of rules that create proactive options for players can enhance their engagement with the setting. While, an understandable set of guidelines for item crafting can develop character goals and drive roleplay. Taken together, players who want to craft items can use gathering rules as a fun gameplay hook.
 
 The question is, how to keep this from being a tedious affair?
 
 ## Use Existing Guidelines
 
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/steve_stark_480x371.jpeg"
-  alt="A woman forging a sword on a firey anvil."
-  height="371" width="480"
-  caption="Guide for determining difficulty"
- %}
 
-The Dungeon Masters Guide (DMG) and Xanathar&#8217;s Guide to Everything (XGtE) published rules for crafting magic items, including potions. These rules present a time and gold value requirement for crafting an item. However, they can be confusing as the DMG and XGtE give different base values for these activities. Being that XGtE is newer, its values are generally accepted as the new default and I&#8221;ll assume that here too. 
+
+The Dungeon Masters Guide (DMG) and Xanathar’s Guide to Everything (XGtE) published rules for crafting magic items, including potions. These rules present a time and gold value requirement for crafting an item. However, they can be confusing as the DMG and XGtE give different base values for these activities. Being that XGtE is newer, its values are generally accepted as the new default and I”ll assume that here too. 
 
 **Item Rarity Time and Value** 
 
@@ -1969,7 +1583,7 @@ The Dungeon Masters Guide (DMG) and Xanathar&#8217;s Guide to Everything (XGtE) 
 {: .table .table-striped .table-hover}
 \* Halved for consumable items like potions
 
-The rules specifies creation cost and time, but not skills or proficiencies in most cases. As a result, it&#8217;s left up to the DM to decide what the actual crafting requirements are. If there isn&#8217;t a benefit to the game from expressly defining this, the DM shouldn&#8217;t bother. However, a more defined system can provide rich character or world building opportunities for groups interested in that kind of play.
+The rules specifies creation cost and time, but not skills or proficiencies in most cases. As a result, it’s left up to the DM to decide what the actual crafting requirements are. If there isn’t a benefit to the game from expressly defining this, the DM shouldn’t bother. However, a more defined system can provide rich character or world building opportunities for groups interested in that kind of play.
 
 In my own games I adjust the level of detail to fit the interest of the player. I list some of those options below.
 
@@ -1983,7 +1597,7 @@ The end result is a list of items a character can create on their sheet and a ga
 
 ## Gathering Materials
 
-As presented in the [Summary of 5e Alchemy Rules]({% link _posts/2021-01-24-summary-of-5e-alchemy-rules.md %}), players can** _forage or harvest ingredients for magic item creation_**. These rules are intended to be simple and fast, and leave it to the DM and player to work out description and flavor. In the end, the intention is that the player attempt some action and the DM sets a difficulty and asks for a roll. The **_result is a value of ingredients in gold pieces_** that can be used for the creation of any magic item. Cases where more detail or context is required should be negotiated between players and the DM, but this general guide can serve for most items up through Rare.
+As presented in the [Summary of 5e Alchemy Rules](), players can** _forage or harvest ingredients for magic item creation_**. These rules are intended to be simple and fast, and leave it to the DM and player to work out description and flavor. In the end, the intention is that the player attempt some action and the DM sets a difficulty and asks for a roll. The **_result is a value of ingredients in gold pieces_** that can be used for the creation of any magic item. Cases where more detail or context is required should be negotiated between players and the DM, but this general guide can serve for most items up through Rare.
 
 Some enchanted flora or minerals may provide ingredients to create magical items. Characters proficient with an appropriate skill or tool kit may attempt a DC 15 check after spending 4 hours gathering. On a success they gather 1d6 GP worth of ingredients. This roll is made with advantage in rich or pristine environments, or disadvantage in sparse or depleted areas.
 
@@ -1991,7 +1605,7 @@ Also, characters with an appropriate proficiency may attempt to harvest ingredie
 
 ### Suggested Skills by Creature Type
 
-These are some suggested skills for harvesting depending on the base creature type involved. This list is a slightly modified version of the one presented in Tasha&#8217;s Caldron of Everything.
+These are some suggested skills for harvesting depending on the base creature type involved. This list is a slightly modified version of the one presented in Tasha’s Caldron of Everything.
 
 |Creature Type|Suggested Skill|
 |--- |:-: |
@@ -2018,47 +1632,34 @@ When in doubt of a detail, ask the player to suggest an action. In this way you 
 
 Sometimes a location or creature is powerful enough to provide the complete materials needed to craft an item. In these cases, the DM should establish potential lore or uses a character may be aware of. An easy rule of thumb is a particular rarity item might be crafted from materials recovered in an encounter or creature of appropriate CR for the item rarity. Additionally, the material should have some related theme to the core ability of the item being created. 
 
-A guide for how to estimate rarity based on CR is provided in Chapter 2 of Xanathar&#8217;s Guide to Everything, under <a href="https://www.dndbeyond.com/sources/xgte/downtime-revisited#CraftinganItem" target="_blank" rel="noreferrer noopener">Crafting an Item</a>.
+A guide for how to estimate rarity based on CR is provided in Chapter 2 of Xanathar’s Guide to Everything, under Crafting an Item.
 
-These are lose guidelines of course, but more simple than it may initially seem. If an encounter or creature presents some theme, the player asks the DM if it&#8217;s possible to recover something to craft a particular item. Then, the DM decides if that&#8217;s reasonable and compares the CR to the rarity of the targeted item. If the request and CR fits the theme, either let the player recover material or ask them for a DC 15 check to do so. If successful, they have everything they need to craft the item.
+These are lose guidelines of course, but more simple than it may initially seem. If an encounter or creature presents some theme, the player asks the DM if it’s possible to recover something to craft a particular item. Then, the DM decides if that’s reasonable and compares the CR to the rarity of the targeted item. If the request and CR fits the theme, either let the player recover material or ask them for a DC 15 check to do so. If successful, they have everything they need to craft the item.
 
-Some creatures already provide guidelines for this kind of effect or item creation. For instance, <a href="https://forgottenrealms.fandom.com/wiki/Ice_troll" target="_blank" rel="noreferrer noopener">Ice Trolls</a> list some effects that can be achieved that are thematically tied to the setting and monster abilities. In a similar way, other creatures or locations may provide similar opportunities for item creation. In effect this just expands the treasure system, while engaging the player with active hooks.
+Some creatures already provide guidelines for this kind of effect or item creation. For instance, Ice Trolls list some effects that can be achieved that are thematically tied to the setting and monster abilities. In a similar way, other creatures or locations may provide similar opportunities for item creation. In effect this just expands the treasure system, while engaging the player with active hooks.
 
 ## Conclusion
 
 A system of tracking recipes and searching for ingredients can be a great fit for players wanting active hooks to the world. These rules are better suited for collaborative play styles rather than transactional ones. So keep in mind these are rough guidelines to drive expectations and help promote negotiations and active participation. As with everything, the goal is to have fun. If you find these fun, drop me a note on [Twitter](https://www.twitter.com/optionalrule). I would love to hear your thoughts.
 
 
----
-title: The Zen of Awarding Experience for Roleplaying
-author: Scott Turnbull
-layout: post
-description: Guidelines for how to award experience points for roleplaying encounters in your 5th edition game.
-categories:
-  - RPG Resources
+# The Zen of Awarding Experience for Roleplaying
 
----
-It&#8217;s a weakness of experience based advancement in 5e D&D that it directly addresses only one of the three pillars of play, combat. This forces DMs to either ignore advancement through social interaction and exploration, or create some way to include it. Ignoring it seems a bad option for a &#8216;pillar&#8217; of play and creates a sense of wasted time. Likewise, a poorly crafted experience system for these pillars messes with pacing and play balance. Therefore, **_a simple, clear, and consistent method for including all pillars helps diversify play_** without sacrificing progress. In this post, I&#8217;m going to talk about how I do that with the social interaction pillar. So this is how I award experience for roleplaying in my campaigns.
+It’s a weakness of experience based advancement in 5e D&D that it directly addresses only one of the three pillars of play, combat. This forces DMs to either ignore advancement through social interaction and exploration, or create some way to include it. Ignoring it seems a bad option for a ‘pillar’ of play and creates a sense of wasted time. Likewise, a poorly crafted experience system for these pillars messes with pacing and play balance. Therefore, **_a simple, clear, and consistent method for including all pillars helps diversify play_** without sacrificing progress. In this post, I’m going to talk about how I do that with the social interaction pillar. So this is how I award experience for roleplaying in my campaigns.
 
 ## Encountering Difficulties
 
-For the purposes of assigning a difficulty to roleplaying encounters, the <a href="http://dndbeyond.com/sources/basic-rules/building-combat-encounters#EvaluatingEncounterDifficulty" target="_blank" rel="noreferrer noopener">Encounter Difficulty</a> system works well enough. Of course for these encounters, we don&#8217;t have to worry about number of foes or individual party thresholds. So we just need a method to assess the significance of a roleplaying event, the social equivalent of difficulty. To do that we need a simple statement about assessing difficulty. In terms of roleplaying, that statement is **_&#8220;what is at stake, and how much am I changing the world?&#8221;_**
+For the purposes of assigning a difficulty to roleplaying encounters, the Encounter Difficulty system works well enough. Of course for these encounters, we don’t have to worry about number of foes or individual party thresholds. So we just need a method to assess the significance of a roleplaying event, the social equivalent of difficulty. To do that we need a simple statement about assessing difficulty. In terms of roleplaying, that statement is **_“what is at stake, and how much am I changing the world?”_**
 
 ## Difficulties of Stakes & Change 
 
 For roleplaying to be a learning experience, it has to produce some **_gail or loss (stakes) and change the situation_** in some meaningful way. Additionally, just as combat is a series of rolls, maneuvers, and choices, so is a roleplaying encounter. Therefore it requires a complex series of interactions that result in a gain or loss that changes the world. With this as a basis, we can begin to classify the roleplaying encounter in terms of Encounter Difficulty. Those difficulties for roleplaying encounters being **_Easy, Medium, Hard, and Profound (i.e. Deadly)_**.
 
-Rating the difficulty of a roleplaying encounter usually comes afterwards, once everyone has set the stakes and sees the result of the change. Both stakes and change can be quickly rated as minor or major. A minor stake or change is an incremental shift in a relationship, access, or safety. A major stake or change puts something valuable to the players in significant danger, and causes some big shift in the way the world works. Of course it should be noted, that **_what is considered major or minor shift as the players increase in power_**. Therefore what is a major world change at 3rd level, might be insignificant to a 16th level group. It&#8217;s all relative to the expected influence the party has on the world.
+Rating the difficulty of a roleplaying encounter usually comes afterwards, once everyone has set the stakes and sees the result of the change. Both stakes and change can be quickly rated as minor or major. A minor stake or change is an incremental shift in a relationship, access, or safety. A major stake or change puts something valuable to the players in significant danger, and causes some big shift in the way the world works. Of course it should be noted, that **_what is considered major or minor shift as the players increase in power_**. Therefore what is a major world change at 3rd level, might be insignificant to a 16th level group. It’s all relative to the expected influence the party has on the world.
 
 ### Assigning Experience Point Values
 
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/RPDifficulties-480x319.jpg"
-  alt="Comparative chart showing relationship betwen change and stakes."
-  height="330" width="480"
-  caption="Guide for determining difficulty"
- %}
+
 
 What we want out of all of this is to assign an experience point value for a set of roleplaying encounters. So taking the method above we determine if the difficulty of the roleplaying challenge as Easy, Medium, Hard, or Profound (i.e. Deadly). 
 
@@ -2067,11 +1668,11 @@ What we want out of all of this is to assign an experience point value for a set
   * **Hard:** A major challenge in one area of stake or change, and a minor challenge in the other.
   * **Profound:** Both a major stake and a major change.
 
-**_This doesn&#8217;t have to be more complex than it needs to be. Just look at what was done, what was at risk, and what changed and make your best assessment._**
+**_This doesn’t have to be more complex than it needs to be. Just look at what was done, what was at risk, and what changed and make your best assessment._**
 
-Once you have a Difficulty, just Assign an experience value to it based on the equivalent CR to the average party level. Then grant this amount for each member in the party, and that is your roleplaying experience for the session. You can find these values in <a href="https://www.dndbeyond.com/sources/basic-rules/monsters#Challenge" target="_blank" rel="noreferrer noopener">Chapter 12 of the Basic Rules</a> under Experience Points by Challenge Rating as well as in the DMG. The difficulties correspond to CR like so:
+Once you have a Difficulty, just Assign an experience value to it based on the equivalent CR to the average party level. Then grant this amount for each member in the party, and that is your roleplaying experience for the session. You can find these values in Chapter 12 of the Basic Rules under Experience Points by Challenge Rating as well as in the DMG. The difficulties correspond to CR like so:
 
-  * **Easy:** Average Party level &#8211; 2.
+  * **Easy:** Average Party level – 2.
   * **Medium:** Average Party Level -1.
   * **Hard:** Average Party Level.
   * **Profound:** Average Party Level +1.
@@ -2080,37 +1681,22 @@ Therefore, a Hard roleplaying encounter for a party of 4 level 2 characters woul
 
 ## Conclusion
 
-Overall, this method is more simple than it might sound from reading this article. Just quickly determine the overall value of what was at stake and how much the world changed. Then give that an equivalent CR value, multiply it by the number of players in the party and award the experience. This can be useful in rewarding proactive play and ideas that don&#8217;t involve combat, while still focusing the party on moving forward. Additionally, systematically thinking in this way may help DMs develop roleplaying encounters with stakes and change in mind. Thus enhancing their overall game.
+Overall, this method is more simple than it might sound from reading this article. Just quickly determine the overall value of what was at stake and how much the world changed. Then give that an equivalent CR value, multiply it by the number of players in the party and award the experience. This can be useful in rewarding proactive play and ideas that don’t involve combat, while still focusing the party on moving forward. Additionally, systematically thinking in this way may help DMs develop roleplaying encounters with stakes and change in mind. Thus enhancing their overall game.
 
-One last note, this system is intended for roleplaying encounters that don&#8217;t have an apparent experience value to assign. In cases where players have a combat encounter they can resolve through roleplaying, just give the party the experience value of that combat encounter. Doing this retains the value of the encounter, regardless of how it was resolved. 
+One last note, this system is intended for roleplaying encounters that don’t have an apparent experience value to assign. In cases where players have a combat encounter they can resolve through roleplaying, just give the party the experience value of that combat encounter. Doing this retains the value of the encounter, regardless of how it was resolved. 
 
 Now get out there and run some great games.
 
----
-title: 5e Advancement Difficulties
-author: Scott Turnbull
-layout: post
-image: /assets/img/relativedifficultyleveling-480x330.jpg
-description: An analysis of the varying difficulty and pace of character leveling at different points in 5th edition.
-categories:
-  - Analysis
-
----
-
+# 5e Advancement Difficulties
 
 Planning for how quickly players gain levels in 5e Dungeons and Dragons is a key element of campaign preparation. Using milestone advancement, the DM can select when and how a party levels up. However, in experience based systems this is generally a matter of the number and difficulties of encounters. Therefore, knowing how quickly players gain levels at different points in the game lets the DM plan better in advance. This means DMs using experience based leveling can anticipate how encounters drive the pace of their campaign.
 
-This started when I asked myself, how many equivalent CR creatures would a player have to face before leveling. Which seems like a straightforward question but becomes complicated when you start to consider party size, CR shifts, or multiple opponents. Some of the charts resulting from those queries are included below, but the takeaway wasn&#8217;t terribly helpful. To be sure, how many foes players can expect to face is important for things like treasure or [Engaging Players with Magic Item Creation]({% link _posts/2021-02-17-engaging-players-with-magic-item-creation.md %}). But the number or even CR of foes isn&#8217;t as important as the relative pace of advancing. In other words, **_how fast to characters level at different points in their lifetime and how does this effect the game?_**
+This started when I asked myself, how many equivalent CR creatures would a player have to face before leveling. Which seems like a straightforward question but becomes complicated when you start to consider party size, CR shifts, or multiple opponents. Some of the charts resulting from those queries are included below, but the takeaway wasn’t terribly helpful. To be sure, how many foes players can expect to face is important for things like treasure or [Engaging Players with Magic Item Creation](). But the number or even CR of foes isn’t as important as the relative pace of advancing. In other words, **_how fast to characters level at different points in their lifetime and how does this effect the game?_**
 
 ## The Pace of Advancement
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/relativedifficultyleveling-480x330.jpg"
-  alt="A bar chart showing the data of relative difficulty by level group."
-  height="330" width="480"
- %}
 
-Compiling the raw data, it became clear that different groups of levels followed different behavior patterns. The individual groups aren&#8217;t as important as what it tells the DM they should be preparing for. That is that, up through 10th level, the pace of leveling either gets more difficult or levels off. This allows players and DMs to adjust to new powers and abilities at a reasonable place. The biggest change comes post 10th level, where difficulty drops to only about 1.6 times that of 1st and 2nd levels. 
+
+Compiling the raw data, it became clear that different groups of levels followed different behavior patterns. The individual groups aren’t as important as what it tells the DM they should be preparing for. That is that, up through 10th level, the pace of leveling either gets more difficult or levels off. This allows players and DMs to adjust to new powers and abilities at a reasonable place. The biggest change comes post 10th level, where difficulty drops to only about 1.6 times that of 1st and 2nd levels. 
 
 This means that DMs and players are dealing with new and powerful abilities at a consistently faster rate than any other point in the game. Additionally, at later levels it is very common for parties to face CR encounters much higher than their average level, increasing the pace even more. 
 
@@ -2119,44 +1705,37 @@ This means that DMs and players are dealing with new and powerful abilities at a
 There are few impacts to consider given this realization.
 
   * Campaigns use tier 3 and 4 play the least, so a sudden rise (doubling) in the pace of leveling is likely to catch some DMs off guard.
-  * You might have misaligned expectations if players used to higher tier play expect milestone to follow a similar pace to experience. This could be as simple a fix as talking about these expectations. But I&#8217;ve run so few higher level games, I wouldn&#8217;t have known had I not compiled this data.
-  * When planning for tier 3 and 4 play, get to know those abilities well ahead of time since they&#8217;ll come at you fast.
-  * Include this in considering how the pacing of your game is going to be perceived. Hitting level 3 of a 6 level campaign isn&#8217;t half way there, it&#8217;s more likely 1/3rd of the way there. Likewise, hitting 10th level of a 20th level campaign is probably closer to 2/3rds of the way there instead of half. 
+  * You might have misaligned expectations if players used to higher tier play expect milestone to follow a similar pace to experience. This could be as simple a fix as talking about these expectations. But I’ve run so few higher level games, I wouldn’t have known had I not compiled this data.
+  * When planning for tier 3 and 4 play, get to know those abilities well ahead of time since they’ll come at you fast.
+  * Include this in considering how the pacing of your game is going to be perceived. Hitting level 3 of a 6 level campaign isn’t half way there, it’s more likely 1/3rd of the way there. Likewise, hitting 10th level of a 20th level campaign is probably closer to 2/3rds of the way there instead of half. 
 
-In any case this isn&#8217;t earth shattering, it&#8217;s just a matter of setting the right expectations. Also, it effects how soon you can expect to bring in elements of different tiers of play into your campaign. 
+In any case this isn’t earth shattering, it’s just a matter of setting the right expectations. Also, it effects how soon you can expect to bring in elements of different tiers of play into your campaign. 
 
 I thought this was worth nothing because I found myself surprised by the relative drop in difficulty at higher tiers of play. I thought it was worth sharing with you as well. Now get out there and run some great games.
 
 **Earlier Charts on Advancement Under Different Criteria**
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/OMjA0HY"  ><a href="//imgur.com/a/OMjA0HY">Analysis of Advancement Difficulty by Level in 5e</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+Analysis of Advancement Difficulty by Level in 5e
 
 
----
-title: 1k Twitter Follower Hat Giveaway!
-author: Scott Turnbull
-layout: post
-categories:
-  - Misc
----
- 
-
-<div class="wp-block-image">
-  <figure class="alignright size-large"><img loading="lazy" width="480" height="360" src="https://optionalrule.com/wp-content/uploads/2021/03/HatGiveaway480x360.jpg" alt="a man wearing a gray stitched baseball cap with the optional rule logo on the front." class="wp-image-769" srcset="https://optionalrule.com/wp-content/uploads/2021/03/HatGiveaway480x360.jpg 480w, https://optionalrule.com/wp-content/uploads/2021/03/HatGiveaway480x360-300x225.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /><figcaption>Optional Rule Hat and one handsome fella.</figcaption></figure>
-</div>
-
-To celebrate reaching **1k followers** on <a href="https://twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">twitter</a>, I&#8217;m **giving away Optional Rule Games hats** to two lucky twitter followers!! This is a nickel/black stitched cotton twill cap with self-fabric hideaway d-ring slider strap and an embroidered Optional Rule Games logo. 
+# 1k Twitter Follower Hat Giveaway!
 
 
-<div class="alert alert-warning p-5 m-3 text-center">Note this giveaway has concluded, thank you everyone for participating.</div>
+  Optional Rule Hat and one handsome fella.
 
-_Show your love for games played your way, and remember, fun&#8230; is not optional._
+
+To celebrate reaching **1k followers** on twitter, I’m **giving away Optional Rule Games hats** to two lucky twitter followers!! This is a nickel/black stitched cotton twill cap with self-fabric hideaway d-ring slider strap and an embroidered Optional Rule Games logo. 
+
+
+Note this giveaway has concluded, thank you everyone for participating.
+
+_Show your love for games played your way, and remember, fun… is not optional._
 
 Thank you to everyone who has joined on to become such a great member of the Optional Rule community. 
 
 ## To Enter {#h-to-enter}
 
-To enter you must **follow** **<a href="https://twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">OptionalRule on Twitter</a>** (me!) and <a href="https://twitter.com/optionalrule/status/1369115482855518208" target="_blank" rel="noreferrer noopener"><strong>retweet the giveaway</strong></a> as is. Also, you must **reply to the tweet with something nice about any follower of mine**.
+To enter you must **follow** **OptionalRule on Twitter** (me!) and retweet the giveaway as is. Also, you must **reply to the tweet with something nice about any follower of mine**.
 
 Entrants must meet and comply with all terms and conditions below.
 
@@ -2170,38 +1749,24 @@ I will select and notify a winner by DM to the twitter account they used to retw
   4. Bulk, automated, third party, or throw away account entries are prohibited and will be disqualified.
   5. **Twitter:** Use of multiple accounts or different identities to enter is prohibited.
   6. **Twitter:** Do not repeatedly retweet or repost this tweet. Doing so will disqualify you from the drawing. Occasional retweeting (no more than once a week) is acceptable.
-  7. This giveaway is subject to all <a data-type="URL" data-id="https://help.twitter.com/en/rules-and-policies/twitter-contest-rules" rel="noreferrer noopener" href="https://help.twitter.com/en/rules-and-policies/twitter-contest-rules" target="_blank">Twitter Rules and Policies</a>. See below for more information:
+  7. This giveaway is subject to all Twitter Rules and Policies. See below for more information:
 
-_Twitter does not sponsor or endorse Optional Rule Games or the Giveaway. This promotion is in no way sponsored, endorsed or administered by, or associated with Twitter. You understand that you are providing your information to Optional Rule Games and not to Twitter. By participating via the Twitter platform, participants are also subject to Twitter’s privacy policy and terms of use, which can be found at <a rel="noreferrer noopener" href="https://www.twitter.com/privacy" target="_blank">https://www.twitter.com/privacy</a> and <a rel="noreferrer noopener" href="https://twitter.com/tos" target="_blank">https://twitter.com/tos</a>._
+_Twitter does not sponsor or endorse Optional Rule Games or the Giveaway. This promotion is in no way sponsored, endorsed or administered by, or associated with Twitter. You understand that you are providing your information to Optional Rule Games and not to Twitter. By participating via the Twitter platform, participants are also subject to Twitter’s privacy policy and terms of use, which can be found at https://www.twitter.com/privacy and https://twitter.com/tos._
 
 **Optional Rule Games does not share information provided with any third party and will only use contact details for prize delivery.**
 
----
-title: Mounted Combat in 5e
-author: Scott Turnbull
-layout: post
-image: /assets/img/mountedcombat-480x600.jpg
-description: Fun and exciting mounted combat rules to use in your 5th edition game.
-categories:
-  - RPG Resources
+# Mounted Combat in 5e
 
----
-Few things are more iconic than the image of someone charging into battle on horseback. Yet, 5e doesn&#8217;t have satisfying rules to make mounted combat a fun part of play. So I created these rules to provide [thrilling options]({% link _posts/2020-12-22-thrilling-heroics-rules-for-dd-5e.md %}) for mounted combat by players, while maintaining balance with existing rules and abilities. As with all rules, these are guidelines and the DM should do what is fun and fast, using what adds to the game, and ignore the rest.
+Few things are more iconic than the image of someone charging into battle on horseback. Yet, 5e doesn’t have satisfying rules to make mounted combat a fun part of play. So I created these rules to provide [thrilling options]() for mounted combat by players, while maintaining balance with existing rules and abilities. As with all rules, these are guidelines and the DM should do what is fun and fast, using what adds to the game, and ignore the rest.
 
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/mountedcombat-480x600.jpg"
-  alt="A knight with sword drawn riding on a horse."
-  height="600" width="480"
-  caption="Photo by Kayla Koss from Unsplash"
- %}
+
 
 
 ## Fit with Existing Rules
 
-These rules work well with the existing <a href="https://www.dndbeyond.com/sources/basic-rules/combat#MountedCombat" target="_blank" rel="noreferrer noopener">Mounted Combat</a> and other rules in the core books, and expand on them in a few key ways. First, it differentiates between rider training and different types of trained mounts. Second, it blends better with martial character options like <a href="https://www.dndbeyond.com/sources/basic-rules/classes#ExtraAttack" target="_blank" rel="noreferrer noopener">Extra Attack</a>, and adds additional options for bonding with a mount. Third, it provides a dynamic experience when working with and controlling mounts in combat. Together, these options can be used by any class to make mounts effective in the right circumstances.
+These rules work well with the existing Mounted Combat and other rules in the core books, and expand on them in a few key ways. First, it differentiates between rider training and different types of trained mounts. Second, it blends better with martial character options like Extra Attack, and adds additional options for bonding with a mount. Third, it provides a dynamic experience when working with and controlling mounts in combat. Together, these options can be used by any class to make mounts effective in the right circumstances.
 
-[Arcadia issue #1]({% link _posts/2021-01-17-thoughts-on-the-first-issue-of-arcadia.md %}) released an excellent set of Mounted Combat rules also. Those rules are aimed toward monsters and action oriented combat, and are an excellent addition to any game. You&#8217;ll find some excellent options for mounted opponents and I recommend you check those out.
+[Arcadia issue #1]() released an excellent set of Mounted Combat rules also. Those rules are aimed toward monsters and action oriented combat, and are an excellent addition to any game. You’ll find some excellent options for mounted opponents and I recommend you check those out.
 
 These rules focus on the players experience while mounted, to give a greater depth of options and more fun.
 
@@ -2247,11 +1812,11 @@ Animal companions used as mounts follow their normal rules where appropriate, ar
 
 ### Bonded Mounts
 
-Forming a bond with a mount requires effort to establish and maintain on the part of the rider. Following a process similar to <a href="https://www.dndbeyond.com/sources/basic-rules/adventuring#SocialInteraction" target="_blank" rel="noreferrer noopener">social interactions</a> in Chapter 8 of the DMG, a mount has a particular attitude toward the rider based on how it&#8217;s been treated. **_Untrained mounts_** and **_War Mounts_** usually start with **_hostile attitudes_**, **_riding mounts_** start as **_indifferent_**. Typically, after each full day of riding or training with a mount, the rider may make a DC 10 Wisdom (Animal Handling) check. This roll is made with disadvantage if stressed or in combat combat during that period. A success means the mounts attitude improves by one category.
+Forming a bond with a mount requires effort to establish and maintain on the part of the rider. Following a process similar to social interactions in Chapter 8 of the DMG, a mount has a particular attitude toward the rider based on how it’s been treated. **_Untrained mounts_** and **_War Mounts_** usually start with **_hostile attitudes_**, **_riding mounts_** start as **_indifferent_**. Typically, after each full day of riding or training with a mount, the rider may make a DC 10 Wisdom (Animal Handling) check. This roll is made with disadvantage if stressed or in combat combat during that period. A success means the mounts attitude improves by one category.
 
 Once a mount is friendly, the rider may designate the mount as bonded. A rider and mount may only have one bond at a time. The DM may call for the bond to end after extended separations, or other circumstances like hard treatment or conditions.
 
-Bounded mounts that are integrated strongly into play may use the **_sidekick rules from Taha&#8217;s Caldron of Everything_** if approved by the DM. Doing so uses the sidekick Warrior rules in most cases.
+Bounded mounts that are integrated strongly into play may use the **_sidekick rules from Taha’s Caldron of Everything_** if approved by the DM. Doing so uses the sidekick Warrior rules in most cases.
 
 A trained rider controlling a **_bonded war or riding mount_** may use their reaction to **_swap an ability check, saving throw, or AC_**. Meaning the mount or the rider may use the ability check, saving throw, or AC of the other. This effect lasts until the beginning of the riders next turn, or until the rider dismounts or is unseated.
 
@@ -2274,16 +1839,9 @@ A rider knocked off a mount takes falls prone in a logical spot next to the moun
 Most mounts require some sort of bridle and saddle to control properly. In most cases, any rolls to control a mount or avoid being unseated are made with** _disadvantage without the proper equipment_**. The core books list a number of options for saddles, all of which work well with these rules.
 
 
----
-title: 'Imagery & Art Resources for RPG Creators'
-author: Scott Turnbull
-layout: post
-description: A list of different art and image resources you can use when creating your TTRPG content.
-categories:
-  - Misc
+# 'Imagery & Art Resources for RPG Creators'
 
----
-Evocative artwork and imagery is a great add to any 5e fan resource, but finding usable images can be a challenge. I aggregated this list of resources for myself to help navigate the the different resources for potentially usable artwork in RPGs. I also asked some followers on twitter for their recommendations and aggregate all of those together here. I hope you&#8217;ll find something useful to help you create more works and **_honor the artists who put so much work into their own creations_**.
+Evocative artwork and imagery is a great add to any 5e fan resource, but finding usable images can be a challenge. I aggregated this list of resources for myself to help navigate the the different resources for potentially usable artwork in RPGs. I also asked some followers on twitter for their recommendations and aggregate all of those together here. I hope you’ll find something useful to help you create more works and **_honor the artists who put so much work into their own creations_**.
 
 As with any guide to using images, I need to remind everyone this is **_not a legal guide to IP_**. When using anything, keep the published policies in mind and always follow the artists guidance on terms of use, typically supplied at the resource. Also, remember to credit and link the artist if you can.
 
@@ -2293,104 +1851,93 @@ A few of these policies or resources or 5e specific because that is the most com
 
 These are just a few links that can help you understand a few important context to using images related to RPGs. It is NOT legal advice and always check the original artists copyright statement for acceptable use.
 
-  * <a href="https://company.wizards.com/en/legal/fancontentpolicy" target="_blank" rel="noreferrer noopener">Wizards of the Coast Fan Content Policy</a> &#8211; WotC is **_incredibly generous with fan_**s who want to use their IP to create free material. Check out their policy but basically, you&#8217;re free to use most of their art for free products, and you can use a lot of it for paid products you sell off the DMs Guild.
-      * <a href="https://dnd.wizards.com/articles/features/fan-site-kit" target="_blank" rel="noreferrer noopener">WotC Fan Site Kit</a> &#8211; Lots of resources and more use terms to be aware of.
-  * <a href="https://dnd.wizards.com/articles/features/systems-reference-document-srd" target="_blank" rel="noreferrer noopener">Open Gaming License</a> &#8211; There has been a lot of drift over time with this. The original OGL was published as part of 3rd Edition but has undergone some revisions since. In 5e terms this details what you can use for your own published works, otherwise you&#8217;ll have to publish under a resource like DMs Guild.
-  * <a href="https://creativecommons.org/use-remix/" target="_blank" rel="noreferrer noopener">Creative Commons</a> &#8211; This is by far the most common license granted by artists for use. There are some variations that determine how to properly use it and it&#8217;s worth knowing CC terms.
+  * Wizards of the Coast Fan Content Policy – WotC is **_incredibly generous with fan_**s who want to use their IP to create free material. Check out their policy but basically, you’re free to use most of their art for free products, and you can use a lot of it for paid products you sell off the DMs Guild.
+      * WotC Fan Site Kit – Lots of resources and more use terms to be aware of.
+  * Open Gaming License – There has been a lot of drift over time with this. The original OGL was published as part of 3rd Edition but has undergone some revisions since. In 5e terms this details what you can use for your own published works, otherwise you’ll have to publish under a resource like DMs Guild.
+  * Creative Commons – This is by far the most common license granted by artists for use. There are some variations that determine how to properly use it and it’s worth knowing CC terms.
 
 ## Guides
 
 There are a few guides on how to use art and imagery I found particularly useful and I wanted to link those as well. Again, these are not legal advice.
 
-  * <a href="https://worldbuilderblog.me/2017/09/28/art-resources-for-rpg-publishers/" target="_blank" rel="noreferrer noopener">Art Resources for RPG Publishers</a> by James Intercoso.
-  * <a href="https://www.reddit.com/r/UnearthedArcana/comments/8p0vnl/cite_the_art_you_use_the_why_and_how_highly/" target="_blank" rel="noreferrer noopener">Reddit Guide on Using and Citing Art</a>
+  * Art Resources for RPG Publishers by James Intercoso.
+  * Reddit Guide on Using and Citing Art
 
 ## Resources
 
-What follows here are libraries, repositories, and other services I usually look across for usable art when putting together content. If you have any suggestions for good art resources with allowable use policies, drop me a DM on <a href="https://www.twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">twitte</a>r and I&#8217;ll try to add it. 
+What follows here are libraries, repositories, and other services I usually look across for usable art when putting together content. If you have any suggestions for good art resources with allowable use policies, drop me a DM on twitter and I’ll try to add it. 
 
 ### Official 5e Sources
 
 These are a few official sources of art and media from Wizards of the Coast.
 
-  * <a href="https://www.dmsguild.com/browse.php?keywords=%22DMs+Guild+Creator+Resource%22" target="_blank" rel="noreferrer noopener">DMs Guild List of Official Creator Resources</a> &#8211; Lots of stock art for use from WotC. In most cases these are allowable in DMs Guild products only, check the terms of use.
-  * <a href="https://dnd.wizards.com/articles/media-resources/" target="_blank" rel="noreferrer noopener">WotC&#8217;s list of Media Resource</a> &#8211; Free art, wallpapers and more.
+  * DMs Guild List of Official Creator Resources – Lots of stock art for use from WotC. In most cases these are allowable in DMs Guild products only, check the terms of use.
+  * WotC’s list of Media Resource – Free art, wallpapers and more.
 
 ### Stock Art & Imagery Services
 
-Various stock art option exists and are commonly used by a lot of fan creators, so you&#8217;ll likely see some familiar images. Be sure to check out the terms of use for the artwork. Some allow only some types of publications, some have different prices for online media versus print quality images, etc.
+Various stock art option exists and are commonly used by a lot of fan creators, so you’ll likely see some familiar images. Be sure to check out the terms of use for the artwork. Some allow only some types of publications, some have different prices for online media versus print quality images, etc.
 
-  * <a href="https://www.drivethrurpg.com/browse.php?filters=0_2893_0_0_0" target="_blank" rel="noreferrer noopener">DriveThruRPG Stock Art Section</a> &#8211; Lots of varying stock art packs. Be sure to check the terms for publication so it fits your scenario.
-  * <a href="https://www.shutterstock.com/search/fantasy" target="_blank" rel="noreferrer noopener">Shutterstock Fantasy Images</a> &#8211; Subscription or per item based. They have a surprisingly large amount of fantasy art. Use other search terms. You&#8217;ll notice a LOT of art you&#8217;ve probably seen in DMSGuild and OGL publications here.
-  * <a href="https://www.gettyimages.com/photos/fantasy?family=creative&license=rf&phrase=fantasy&sort=mostpopular#license" target="_blank" rel="noreferrer noopener">Getty Images</a> &#8211; Also a surprising source for fantasy art. Use an appropriate search terms and you&#8217;ll get back a lot of results. There&#8217;s a good bit of overlap with Shutterstock.
-  * <a href="https://www.istockphoto.com/" target="_blank" rel="noreferrer noopener">iStock</a> &#8211; This is actually run by GettyImages. I think it&#8217;s the same info but it&#8217;s worth nothing.
-  * <a href="https://stock.adobe.com/search?k=fantasy" target="_blank" rel="noreferrer noopener">Adobe Stock</a>
-  * <a href="https://www.dreamstime.com/" target="_blank" rel="noreferrer noopener">Dreamstime</a>
+  * DriveThruRPG Stock Art Section – Lots of varying stock art packs. Be sure to check the terms for publication so it fits your scenario.
+  * Shutterstock Fantasy Images – Subscription or per item based. They have a surprisingly large amount of fantasy art. Use other search terms. You’ll notice a LOT of art you’ve probably seen in DMSGuild and OGL publications here.
+  * Getty Images – Also a surprising source for fantasy art. Use an appropriate search terms and you’ll get back a lot of results. There’s a good bit of overlap with Shutterstock.
+  * iStock – This is actually run by GettyImages. I think it’s the same info but it’s worth nothing.
+  * Adobe Stock
+  * Dreamstime
 
 ### Artist Portfolio Portals
 
-A few online services offer artists a place to feature their work and share their portfolio. This is a great source of inspiration but it&#8217;s important to understand this is not there for us to use any way we want. Much of the art is under artist copyright, some is there under CC terms but you&#8217;ll have to check the source. My tip here is to look for something using &#8220;creative commons&#8221; as a search term.
+A few online services offer artists a place to feature their work and share their portfolio. This is a great source of inspiration but it’s important to understand this is not there for us to use any way we want. Much of the art is under artist copyright, some is there under CC terms but you’ll have to check the source. My tip here is to look for something using “creative commons” as a search term.
 
-  * <a href="https://www.artstation.com/search?q=Creative%20Commons&sort_by=relevance" target="_blank" rel="noreferrer noopener">Artstation</a> &#8211; Lots of professional artists, not all is usable but you can find a lot of Magic the Gathering art here usable under the WotC policy above. You can also look for &#8216;Creative Commons&#8217; in the search box and get back a lot of neat art.
-  * <a href="https://www.deviantart.com/" target="_blank" rel="noreferrer noopener">DeviantArt</a> &#8211; Probably the most well known archive for aspiring artists. Again you&#8217;ll need to watch out for the use policy but many artists are fine with credit.
+  * Artstation – Lots of professional artists, not all is usable but you can find a lot of Magic the Gathering art here usable under the WotC policy above. You can also look for ‘Creative Commons’ in the search box and get back a lot of neat art.
+  * DeviantArt – Probably the most well known archive for aspiring artists. Again you’ll need to watch out for the use policy but many artists are fine with credit.
 
 ### Free Art and Imagery Repositories {#h-free-art-and-imagery-repositories}
 
-A few sites specialize in royalty free or fair use artwork. Don&#8217;t just assume &#8216;free&#8217; means free to do whatever you want. Check the specific rights on any image before using.
+A few sites specialize in royalty free or fair use artwork. Don’t just assume ‘free’ means free to do whatever you want. Check the specific rights on any image before using.
 
-  * <a href="https://unsplash.com/" target="_blank" rel="noreferrer noopener">Unsplash</a> &#8211; Probably the largest open access and free use photography archive on the web.
-  * <a href="https://pixabay.com/images/search/fantasy/" target="_blank" rel="noreferrer noopener">Pixabay</a> &#8211; Not just photography but a number of fantasy and other images as well.
-  * <a href="https://www.pexels.com/" target="_blank" rel="noreferrer noopener">Pexels</a> &#8211; More Free stock art and videos.
-  * <a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank" rel="noreferrer noopener">Wikimedia Commons</a> &#8211; Lots of Creative Commons and open art via the folks from Wikimedia.
+  * Unsplash – Probably the largest open access and free use photography archive on the web.
+  * Pixabay – Not just photography but a number of fantasy and other images as well.
+  * Pexels – More Free stock art and videos.
+  * Wikimedia Commons – Lots of Creative Commons and open art via the folks from Wikimedia.
 
 ### Other Online Art Sources
 
 A number sites have free images or bundles of stock art you can buy, typically for video games. However, this may provide good art for tabletop games as well. From icons to page boarders, this is a bit of a catch all category.
 
-  * <a href="https://opengameart.org/" target="_blank" rel="noreferrer noopener">Open Gaming Art</a> &#8211; Geared a bit more for the video game crowd, it contains a lot of icons and other images for use in any open context.
-  * <a href="https://drive.google.com/drive/folders/162F0Q-vvzwwSDu8HfvolHw_JJyoKG3hB" target="_blank" rel="noreferrer noopener">Unearthed Arcana Brewer&#8217;s Supplies</a> &#8211; This is a google drive with a lot of graphic resources, mostly for use by homebrewers.
-  * <a href="https://www.humblebundle.com/" target="_blank" rel="noreferrer noopener">Humble Bundle</a> &#8211; Not everything here is games. Sometimes they run bundles of graphics or stock art for game creation or publication. They&#8217;re cheap but you have to watch for the bundles to come up, check back every few weeks.
-  * <a href="http://itch.io" target="_blank" rel="noreferrer noopener">Itch.io</a> &#8211; A very cheap resource, similar to humble it&#8217;s not just for games. They also sell things like art packs etc.
-  * <a href="https://www.fontsquirrel.com/" target="_blank" rel="noreferrer noopener">FontSquirrel</a> is a repository of all kinds of font to us.
+  * Open Gaming Art – Geared a bit more for the video game crowd, it contains a lot of icons and other images for use in any open context.
+  * Unearthed Arcana Brewer’s Supplies – This is a google drive with a lot of graphic resources, mostly for use by homebrewers.
+  * Humble Bundle – Not everything here is games. Sometimes they run bundles of graphics or stock art for game creation or publication. They’re cheap but you have to watch for the bundles to come up, check back every few weeks.
+  * Itch.io – A very cheap resource, similar to humble it’s not just for games. They also sell things like art packs etc.
+  * FontSquirrel is a repository of all kinds of font to us.
 
 ### Open Art Archives
 
 Many museums and galleries have digital archives with some works in the public domain.
 
-  * <a href="https://artsandculture.google.com/partner" target="_blank" rel="noreferrer noopener">Google Arts & Culture Online Archive</a> &#8211; A centralize art search tool across a large number of museums and galleries.
-  * <a href="https://images.nasa.gov/" target="_blank" rel="noreferrer noopener">NASA Image Archive</a>
-  * <a href="https://www.rijksmuseum.nl/en/rijksstudio" target="_blank" rel="noreferrer noopener">Rijksmuseum Online Archive</a>
+  * Google Arts & Culture Online Archive – A centralize art search tool across a large number of museums and galleries.
+  * NASA Image Archive
+  * Rijksmuseum Online Archive
 
----
-title: Being Ready for Surprise in 5e
-author: Scott Turnbull Turnbull
-layout: post
-image: /assets/img/kenku-ambush480x360-480x330.jpg
-description: How to better understand Surprise in 5th Edition and user it more dynamically in your game.
----
+# Being Ready for Surprise in 5e
+
 Surprise is one of the most consistently asked about elements of 5e Dungeons & Dragons, and a source of constant confusion. This is partially because surprise ran differently in previous editions of the game. But also, the narrow examples and explanation make it unclear when surprised would be a factor. Lastly, the way surprise works with the imitative system can seem odd and counter-intuitive to many players. The solution is to break down surprise for what it is, and step away from the individual rolls to understand encounters holistically instead of procedurally. 
 
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/kenku-ambush480x360-480x330.jpg"
-  alt="A rogue waiting in ambush with a dagger as a group enters the room."
-  height="360" width="480"
-  caption="Image credit Wizards of the Coast"
- %}
+
 
 ## There Is No Surprise Round {#h-there-is-no-surprise-round}
 
-For those of you who don&#8217;t understand this reference, there was a concept in previous editions of D&D called a surprise round. The details aren&#8217;t important because it doesn&#8217;t exist in 5e. **_There is no surprise round in 5e D&D_** and we need to stop using that term as it&#8217;s confusing people. Indeed, players who only know 5e use this term because hold overs from previous editions keep using it. Additionally, the 5e rules references _&#8216;sides&#8217;_ in the surprised description, mistakenly causing more confusion for readers. So, we need to stop saying it and explaining it. **_It&#8217;s time for the surprise round to die._**
+For those of you who don’t understand this reference, there was a concept in previous editions of D&D called a surprise round. The details aren’t important because it doesn’t exist in 5e. **_There is no surprise round in 5e D&D_** and we need to stop using that term as it’s confusing people. Indeed, players who only know 5e use this term because hold overs from previous editions keep using it. Additionally, the 5e rules references _‘sides’_ in the surprised description, mistakenly causing more confusion for readers. So, we need to stop saying it and explaining it. **_It’s time for the surprise round to die._**
 
 ## What Is Surprise Then? {#h-what-is-surprise-then}
 
-**_Surprise may happen when someone is unaware or unready for combat._** If surprised, they **_cannot move_, _take an action,_ bonus action, _or reaction on their first turn_**. Determine this on an individual basis at the very start of combat, then determine positions, and roll initiative. Most importantly, don&#8217;t overthink it and don&#8217;t get lost in bad examples. All it means is that, for whatever reason, some or all of the people can&#8217;t act or move immediately.
+**_Surprise may happen when someone is unaware or unready for combat._** If surprised, they **_cannot move_, _take an action,_ bonus action, _or reaction on their first turn_**. Determine this on an individual basis at the very start of combat, then determine positions, and roll initiative. Most importantly, don’t overthink it and don’t get lost in bad examples. All it means is that, for whatever reason, some or all of the people can’t act or move immediately.
 
 ### Determining Surprise {#h-determining-surprise}
 
 According to the rules, surprise is only a factor if at least one side is trying to be stealthy, but this is a **_bad example_**. In truth, there are many reasons surprise may be a factor in combat. For instance, players may be in a merchant disguises to deceive an enemy before an ambush. Alternatively, a distraction may misdirect guards otherwise ready for combat, leading to surprise. So framing surprise as a simple matter of who can see who creates a lot of the initial confusion. The easiest solution to this is to understand the difference between unaware of danger, and unready for combat.
 
-Someone who doesn&#8217;t know danger is present is **_unaware_**, while **_unready_** means you&#8217;re not prepared for combat. Each affects surprise slightly differently, but conflating these two is a big source of confusion. Understanding the differences between these two states can lead to a lot of rich tactics and roleplay during games. Instead of a simple matter of line of sight, players using disguise, deceits, diplomacy, distractions and more, are a viable action to gain the upper hand. Therefore, understanding the context of surprise encourages richer play and more dynamic combats.
+Someone who doesn’t know danger is present is **_unaware_**, while **_unready_** means you’re not prepared for combat. Each affects surprise slightly differently, but conflating these two is a big source of confusion. Understanding the differences between these two states can lead to a lot of rich tactics and roleplay during games. Instead of a simple matter of line of sight, players using disguise, deceits, diplomacy, distractions and more, are a viable action to gain the upper hand. Therefore, understanding the context of surprise encourages richer play and more dynamic combats.
 
 #### Have Your Cake and Murder it too {#h-have-your-cake-and-murder-it-too}
 
@@ -2398,68 +1945,53 @@ The most direct case for surprised is when someone is both **_unaware and unread
 
 #### Treachery for Fun and Profit {#h-treachery-for-fun-and-profit}
 
-Cases of someone being **_aware but unready_** mean they know the potential source of danger is there, but for some reason assume combat wouldn&#8217;t happen. For example, targets talking to a group disguised as harmless merchants. Alternatively, the target may be aware someone is there in a crowd with no indication a fight is about to happen. In these cases, a check is called for to determine surprise based on the setup. This might be a deception check versus the target&#8217;s insight, or perhaps a disguise versus their investigate. In these cases, stealth isn&#8217;t at play, the target is aware of what is around them but don&#8217;t perceive it as a danger. 
+Cases of someone being **_aware but unready_** mean they know the potential source of danger is there, but for some reason assume combat wouldn’t happen. For example, targets talking to a group disguised as harmless merchants. Alternatively, the target may be aware someone is there in a crowd with no indication a fight is about to happen. In these cases, a check is called for to determine surprise based on the setup. This might be a deception check versus the target’s insight, or perhaps a disguise versus their investigate. In these cases, stealth isn’t at play, the target is aware of what is around them but don’t perceive it as a danger. 
 
 #### I Told You So, and Other Last Words {#h-i-told-you-so-and-other-last-words}
 
-Someone who is **_unaware but ready_** for danger is vigilant for trouble but doesn&#8217;t know about a specific or imminent threat. This might include an alert guard on patrol encountering a hidden ambush. These cases can be tricky, and largely depends on how imminent the target knows danger is. In most common situations, I recommend using a standard perception check versus stealth to determine surprise. If the target is on **_high alert_** due to some notification simply roll initiative as normal, assume no surprise, and remember the rules on advantage and unseen attackers. However, an effective distraction may even surprise someone on high alert. So, DMs should use common sense and good rulings to reward effective tactics.
+Someone who is **_unaware but ready_** for danger is vigilant for trouble but doesn’t know about a specific or imminent threat. This might include an alert guard on patrol encountering a hidden ambush. These cases can be tricky, and largely depends on how imminent the target knows danger is. In most common situations, I recommend using a standard perception check versus stealth to determine surprise. If the target is on **_high alert_** due to some notification simply roll initiative as normal, assume no surprise, and remember the rules on advantage and unseen attackers. However, an effective distraction may even surprise someone on high alert. So, DMs should use common sense and good rulings to reward effective tactics.
 
 ## Surprised and Initiative {#h-surprised-and-initiative}
 
-Surprise does not affect initiative in any way for either side in the combat. This can lead to a few awkward situations where the character initiating the combat goes later in the initiative than their allies. Additionally, the rules as written imply unsurprised enemies might go before the action that initiated combat, leading to even more confusion. This just causes a bit of cognitive dissonance for many players and DMs. However, examining the situation and using an appropriate option can eliminate that quickly. So let&#8217;s consider a few options.
+Surprise does not affect initiative in any way for either side in the combat. This can lead to a few awkward situations where the character initiating the combat goes later in the initiative than their allies. Additionally, the rules as written imply unsurprised enemies might go before the action that initiated combat, leading to even more confusion. This just causes a bit of cognitive dissonance for many players and DMs. However, examining the situation and using an appropriate option can eliminate that quickly. So let’s consider a few options.
 
 ### The Quick and the Dead {#h-the-quick-and-the-dead}
 
-After rolling initiative, it&#8217;s entirely possible some combatants go before the character starting the combat. For example, an ambush may begin with an archer firing an arrow, however several of their allies may score higher in initiative. In this case, the rules have them ready an action to go immediately after the archer fires, resolving them in original initiative order. This is straight forward and uses the rules as written but does put the faster characters at a disadvantage, particularly if they have Extra Attack. An easy house rule solution might be to just put the archer at the top of the initiative, or allow the allies full actions. My personal recommendation is to step away from the specifics and just let the combat flow naturally. There&#8217;s little utility in getting into specifics of readied actions and putting some characters at disadvantage. 
+After rolling initiative, it’s entirely possible some combatants go before the character starting the combat. For example, an ambush may begin with an archer firing an arrow, however several of their allies may score higher in initiative. In this case, the rules have them ready an action to go immediately after the archer fires, resolving them in original initiative order. This is straight forward and uses the rules as written but does put the faster characters at a disadvantage, particularly if they have Extra Attack. An easy house rule solution might be to just put the archer at the top of the initiative, or allow the allies full actions. My personal recommendation is to step away from the specifics and just let the combat flow naturally. There’s little utility in getting into specifics of readied actions and putting some characters at disadvantage. 
 
 ### The Quick and the Sad {#h-the-quick-and-the-sad}
 
 Things are even more confusing when targets of an ambush are unsurprised and go higher in the initiative than the character starting combat. This is perhaps the most confusing case for many players and there are a few ways to handle this. You could simply say that without something to act against, any ambushed target higher in the initiative simply takes no action. In effect, this is the same as saying ambushed characters with a high initiative rolls for surprised at disadvantage. This is because they can lose their action as a result of the surprise check or initiative. Alternatively, and I think more logically, just have the faster enemy go as normal and chalk it up to the action happening all at once. I recommend this as it slows things down less and most can accept that logic.
 
-The key is to remember that this can worth either or both ways. It&#8217;s possible all sides in an encounter may have some participants who are surprised. These situations can work for the player or against them so consistency and clarity is important to keep players engaged in the action.
+The key is to remember that this can worth either or both ways. It’s possible all sides in an encounter may have some participants who are surprised. These situations can work for the player or against them so consistency and clarity is important to keep players engaged in the action.
 
 ## Conclusion {#h-conclusion}
 
-Surprise doesn&#8217;t have to be as confusing as most people seem to think it is. If the targets are completely unaware and unready for danger just say they&#8217;re surprised. Alternatively use an appropriate opposed skill check depending on the situation, and keep in mind passive skills if it speeds things along. Then just roll initiative normally and try to take the most simple and direct means to get everyone on the board and acting, without unnecessarily putting someone at a disadvantage. They key is to keep things fast and furious and not get too hung up on procedure.
+Surprise doesn’t have to be as confusing as most people seem to think it is. If the targets are completely unaware and unready for danger just say they’re surprised. Alternatively use an appropriate opposed skill check depending on the situation, and keep in mind passive skills if it speeds things along. Then just roll initiative normally and try to take the most simple and direct means to get everyone on the board and acting, without unnecessarily putting someone at a disadvantage. They key is to keep things fast and furious and not get too hung up on procedure.
 
 Now get out there and run some great games.
 
----
-title: Thinking Critically on Agency
-author: Scott Turnbull
-layout: post
-description: Link to my interview on the Thinking Critically podcast discussing the topic of player agency in 5th edition and TTRPGs.
-categories:
-  - Misc
+# Thinking Critically on Agency
 
----
-I greatly enjoyed my recent interview on the podcast, <a href="https://www.thinkingcritically.co.uk/agency/" target="_blank" rel="noreferrer noopener">Thinking Critically: A D&D Discussion</a>. We talk about agency in games in all it&#8217;s many forms, what agency is and isn&#8217;t, where it ends, how it&#8217;s traded, and how it interacts with game mechanics. I highly recommend the podcast for anyone running tabletop RPGs of any kind. 
+I greatly enjoyed my recent interview on the podcast, Thinking Critically: A D&D Discussion. We talk about agency in games in all it’s many forms, what agency is and isn’t, where it ends, how it’s traded, and how it interacts with game mechanics. I highly recommend the podcast for anyone running tabletop RPGs of any kind. 
 
-<figure class="figure">
-<iframe src="https://anchor.fm/tc-dnd/embed/episodes/Agency-esor47/a-a527m7a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-<figcaption class="fig-caption">Spotify Link to Podcast Episode</figcaption></figure>
-<figure>
-<blockquote class="blockquote">
-For this insightful episode I am joined by Scott, a.k.a <a href="https://optionalrule.com/" target="_blank" rel="noreferrer noopener">@optionalrule</a>, and we talk about the incredibly important topic of agency. It&#8217;s a term that gets bandied around a lot, carrying with it an awful lot of weight. In this hour, Scott and I begin to unpack some of that weight and how it can drastically and dramatically impact the gameplay experience. Starting by clarifying some common misconceptions and misinterpretations, we define what &#8220;agency&#8221; _really_ is within the TTRPG experience. When you have so many options on the table, where do you draw the line? Indeed, the GM is player too with their own pool of agency, and it&#8217;s that trading of agency which leads to interesting and dynamic games. We finish on the importance of trust, something not always directly associated with agency, but the two are often intrinsically linked. The more you trust each other, the more you&#8217;re willing to part with to increase the enjoyment of everyone at the table, and I can&#8217;t think of a more poetic explanation than that!</blockquote>
 
-<figcaption class="blockquote-footer">Thinking Critically Show Notes</figcaption></figure>
 
----
-title: The Language of Monsters in 5e
-author: Scott Turnbull
-layout: post
-description: A count and analysis of languages listed for monsters in 5th edition statblocks.
-categories:
-  - Analysis
-  - Monsters
+Spotify Link to Podcast Episode
 
----
-Many monsters in 5th Edition Dungeons & Dragons list a language in their stat block. Aside from its ability to hurl insults in combat, sharing a language can open options for lore or negtiation during play. But which languages to most monsters speak and understand? This isn&#8217;t an easy question to answer because DnD does not provide their monster stat blocks in an easily parsable format. So I found <a href="https://www.reddit.com/r/UnearthedArcana/comments/8zvr6s/the_great_dd5e_monster_spreadsheet/" target="_blank" rel="noreferrer noopener">The Great DnD 5e Monster Spreadsheet</a> online, cleaned up the data and began to parse out some of the the answers.
 
-_As an aside, it&#8217;s the digital age, can we put up some resources that are parsable to cut down on the hand editing._
+For this insightful episode I am joined by Scott, a.k.a @optionalrule, and we talk about the incredibly important topic of agency. It’s a term that gets bandied around a lot, carrying with it an awful lot of weight. In this hour, Scott and I begin to unpack some of that weight and how it can drastically and dramatically impact the gameplay experience. Starting by clarifying some common misconceptions and misinterpretations, we define what “agency” _really_ is within the TTRPG experience. When you have so many options on the table, where do you draw the line? Indeed, the GM is player too with their own pool of agency, and it’s that trading of agency which leads to interesting and dynamic games. We finish on the importance of trust, something not always directly associated with agency, but the two are often intrinsically linked. The more you trust each other, the more you’re willing to part with to increase the enjoyment of everyone at the table, and I can’t think of a more poetic explanation than that!
 
-What follows is a table with the resulting number of stat blocks where the listed language appears. I have excluded listing for any language, or all languages as that is beside the point. Perhaps not relevant, but I found it interesting that a number of creature stat blocks listed Telepathy as a language, so I left that in. Also, there are a number of languages I didn&#8217;t know existed at all such as Ice Toad. This includes 799 stat blocks from all the official books released so far. These were hand entered so there are some errors but I have tried to clean those up as best I can.
+Thinking Critically Show Notes
+
+# The Language of Monsters in 5e
+
+Many monsters in 5th Edition Dungeons & Dragons list a language in their stat block. Aside from its ability to hurl insults in combat, sharing a language can open options for lore or negtiation during play. But which languages to most monsters speak and understand? This isn’t an easy question to answer because DnD does not provide their monster stat blocks in an easily parsable format. So I found The Great DnD 5e Monster Spreadsheet online, cleaned up the data and began to parse out some of the the answers.
+
+_As an aside, it’s the digital age, can we put up some resources that are parsable to cut down on the hand editing._
+
+What follows is a table with the resulting number of stat blocks where the listed language appears. I have excluded listing for any language, or all languages as that is beside the point. Perhaps not relevant, but I found it interesting that a number of creature stat blocks listed Telepathy as a language, so I left that in. Also, there are a number of languages I didn’t know existed at all such as Ice Toad. This includes 799 stat blocks from all the official books released so far. These were hand entered so there are some errors but I have tried to clean those up as best I can.
 
 ## Language by Stat Block Count
 
@@ -2518,17 +2050,9 @@ What follows is a table with the resulting number of stat blocks where the liste
 |Yikaria|2|
 {: .table .table-striped .table-hover}
 
----
-title: Monster Resistance Totals in 5e
-author: Scott Turnbull
-layout: post
-description: A breakdown and analysis of monster resistances across all the 5th edition monster statblocks.
-categories:
-  - Analysis
-  - Monsters
+# Monster Resistance Totals in 5e
 
----
-Taking down monsters in 5th Edition Dungeons & Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn&#8217;t just a matter of damage, as many monsters will also have Weaknesses (**W**), Resistances (**R**), or Immunities (**I**). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM. 
+Taking down monsters in 5th Edition Dungeons & Dragons is arguably what you will spend the most time doing in game. Defeating a creature isn’t just a matter of damage, as many monsters will also have Weaknesses (**W**), Resistances (**R**), or Immunities (**I**). Monster with a particular weakness takes double the amount of damage from that type of attack. Likewise, a foe with resistance will only take half the amount of damage from that particular damage type. And in some cases, an enemy that is immune to a particular effect will take no damage at all from it. Therefore, understanding resistances can be a critical element to surviving as an adventurer or planning as a DM. 
 
 ## The Reoccuring Context 
 
@@ -2537,754 +2061,754 @@ Two topics that come up often online are:
   * Do resistances matter and how much? 
   * Does it matter if a DM lets players reskin spells to any damage or save type?
 
-My instinctive answer to these questions has always been &#8216;absolutely&#8217;, but getting numbers is the only real way to answer. So I set about doing just that.
+My instinctive answer to these questions has always been ‘absolutely’, but getting numbers is the only real way to answer. So I set about doing just that.
 
 ## Getting Data to Parse
 
-Reliable structured data is difficult to get for many things in 5e. This is something that I urge WotC to do something about, but that&#8217;s a discussion for another day.
+Reliable structured data is difficult to get for many things in 5e. This is something that I urge WotC to do something about, but that’s a discussion for another day.
 
-I ran across <a href="https://www.reddit.com/r/UnearthedArcana/comments/8zvr6s/the_great_dd5e_monster_spreadsheet/" target="_blank" rel="noreferrer noopener">The Great D&D5e Monster Spreadsheet</a> thread on reddit. This is a great fan effort of manually entered data for 799 monsters from various core books, as well as many Homebrew monster. I choose to focus only on monster stat blocks from official sources and <a href="https://docs.google.com/spreadsheets/d/1sx7Cc94yHu3UPjHf0uv1mHA8IoVyTxB4UWqGyLmUm6g/edit?usp=sharing" target="_blank" rel="noreferrer noopener">copied my own version of the spreadsheet</a> to clean up a bit. The numbers and analytics you see here are from that data. If you run across an error or have a comment about it, just drop me a <a href="https://www.twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">line on twitter</a>.
+I ran across The Great D&D5e Monster Spreadsheet thread on reddit. This is a great fan effort of manually entered data for 799 monsters from various core books, as well as many Homebrew monster. I choose to focus only on monster stat blocks from official sources and copied my own version of the spreadsheet to clean up a bit. The numbers and analytics you see here are from that data. If you run across an error or have a comment about it, just drop me a line on twitter.
 
 I make some light observations about the data but there are other creators more adept than I about obptimization. My goal here is to get the numbers.
 
 ## Monster Stat Block Totals Grouped by CR
 
-I&#8217;ve shared a <a href="https://docs.google.com/spreadsheets/d/1O2dyuRcBcMojO7cCwT5kHKRAK0AMenAQpCmazgCEn38/edit?usp=sharing" target="_blank" rel="noreferrer noopener">spreadsheet of this chart</a> for anyone to view, but had to use the image below because my poor website didn&#8217;t handle the table very well. This includes both damage types and conditions and some numbers appear large because of multiple versions of a similar monster. Still, some of the results surprised me. In no particular order:
+I’ve shared a spreadsheet of this chart for anyone to view, but had to use the image below because my poor website didn’t handle the table very well. This includes both damage types and conditions and some numbers appear large because of multiple versions of a similar monster. Still, some of the results surprised me. In no particular order:
 
-  * The number of resistances sub CR 5 surprised me. PCs generally don&#8217;t have access to magic weapons in that range so this makes combat harder and more varied. I have to wonder if this is a factor in why the game seems to work so much better in tier 1 and 2.
+  * The number of resistances sub CR 5 surprised me. PCs generally don’t have access to magic weapons in that range so this makes combat harder and more varied. I have to wonder if this is a factor in why the game seems to work so much better in tier 1 and 2.
   * Cold resistance was higher than I expected, which is odd given how few cold damage spells there are. For reference there are only 5 spells that do cold damage in the PHB.
   * Poison and Poisoned resistance was very high. Again, the number of spells and abilities that do poison damage are very few. Only 3 spells in the PHB do poison damage.
   * Many people on twitter commented on the relatively few weaknesses. I like this however as monsters are difficult to keep around for more than a few rounds already. If weakness was common, too many Boss fights would be one round combats.
 
-<table class="table table-hover table-striped data-table">
-   <thead>
-   <tr>
-      <th>&nbsp;</th>
-      <th colspan="3">< 5</th>
-      <th colspan="3">6 - 10</th>
-      <th colspan="3">11-15</th>
-      <th colspan="3">16 - 20</th>
-      <th colspan="3">20 <</th>
-      <th colspan="3">Totals</th>
-    </tr>
-    <tr>
-      <th>Dmg/Condition</th>
-      <th>W</th>
-      <th>R</th>
-      <th>I</th>
-      <th>W</th>
-      <th>R</th>
-      <th>I</th>
-      <th>W</th>
-      <th>R</th>
-      <th>I</th>
-      <th>W</th>
-      <th>R</th>
-      <th>I</th>
-      <th>W</th>
-      <th>R</th>
-      <th>I</th>
-      <th>W</th>
-      <th>R</th>
-      <th>I</th>
-      </tr>
-   </thead>
-   <tbody>
-   <tr>
-      <td>Acid</td>
-      <td>0</td>
-      <td>18</td>
-      <td>8</td>
-      <td>0</td>
-      <td>7</td>
-      <td>9</td>
-      <td>0</td>
-      <td>6</td>
-      <td>7</td>
-      <td>0</td>
-      <td>1</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>32</td>
-      <td>29</td>
-   </tr>
-   <tr>
-      <td>Blinded</td>
-      <td>0</td>
-      <td>0</td>
-      <td>32</td>
-      <td>0</td>
-      <td>0</td>
-      <td>6</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>45</td>
-   </tr>
-   <tr>
-      <td>Bludgeoning</td>
-      <td>5</td>
-      <td>13</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>6</td>
-      <td>14</td>
-      <td>0</td>
-   </tr>
-   <tr>
-      <td>Charmed</td>
-      <td>0</td>
-      <td>0</td>
-      <td>63</td>
-      <td>0</td>
-      <td>0</td>
-      <td>20</td>
-      <td>0</td>
-      <td>0</td>
-      <td>17</td>
-      <td>0</td>
-      <td>0</td>
-      <td>16</td>
-      <td>0</td>
-      <td>0</td>
-      <td>19</td>
-      <td>0</td>
-      <td>0</td>
-      <td>135</td>
-   </tr>
-   <tr>
-      <td>Cold</td>
-      <td>4</td>
-      <td>40</td>
-      <td>16</td>
-      <td>0</td>
-      <td>29</td>
-      <td>7</td>
-      <td>0</td>
-      <td>19</td>
-      <td>8</td>
-      <td>0</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0</td>
-      <td>15</td>
-      <td>3</td>
-      <td>4</td>
-      <td>119</td>
-      <td>37</td>
-   </tr>
-   <tr>
-      <td>Darkness</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>7</td>
-      <td>0</td>
-   </tr>
-   <tr>
-      <td>Deafened</td>
-      <td>0</td>
-      <td>0</td>
-      <td>27</td>
-      <td>0</td>
-      <td>0</td>
-      <td>6</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>41</td>
-   </tr>
-   <tr>
-      <td>Exhaustion</td>
-      <td>0</td>
-      <td>0</td>
-      <td>63</td>
-      <td>0</td>
-      <td>0</td>
-      <td>20</td>
-      <td>0</td>
-      <td>0</td>
-      <td>14</td>
-      <td>0</td>
-      <td>0</td>
-      <td>11</td>
-      <td>0</td>
-      <td>0</td>
-      <td>19</td>
-      <td>0</td>
-      <td>0</td>
-      <td>127</td>
-   </tr>
-   <tr>
-      <td>Fire</td>
-      <td>10</td>
-      <td>39</td>
-      <td>28</td>
-      <td>4</td>
-      <td>22</td>
-      <td>11</td>
-      <td>1</td>
-      <td>13</td>
-      <td>10</td>
-      <td>0</td>
-      <td>7</td>
-      <td>13</td>
-      <td>0</td>
-      <td>11</td>
-      <td>7</td>
-      <td>15</td>
-      <td>92</td>
-      <td>69</td>
-   </tr>
-   <tr>
-      <td>Force</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-   </tr>
-   <tr>
-      <td>Frightened</td>
-      <td>0</td>
-      <td>0</td>
-      <td>57</td>
-      <td>0</td>
-      <td>0</td>
-      <td>17</td>
-      <td>0</td>
-      <td>0</td>
-      <td>19</td>
-      <td>0</td>
-      <td>0</td>
-      <td>15</td>
-      <td>0</td>
-      <td>0</td>
-      <td>20</td>
-      <td>0</td>
-      <td>0</td>
-      <td>128</td>
-   </tr>
-   <tr>
-      <td>Grappled</td>
-      <td>0</td>
-      <td>0</td>
-      <td>18</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>27</td>
-   </tr>
-   <tr>
-      <td>Lightning</td>
-      <td>0</td>
-      <td>33</td>
-      <td>9</td>
-      <td>0</td>
-      <td>23</td>
-      <td>5</td>
-      <td>0</td>
-      <td>12</td>
-      <td>6</td>
-      <td>0</td>
-      <td>7</td>
-      <td>4</td>
-      <td>0</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0</td>
-      <td>87</td>
-      <td>29</td>
-   </tr>
-   <tr>
-      <td>Magical</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-   </tr>
-   <tr>
-      <td>Magical Piercing</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-   </tr>
-   <tr>
-      <td>Necrotic</td>
-      <td>0</td>
-      <td>12</td>
-      <td>9</td>
-      <td>0</td>
-      <td>7</td>
-      <td>4</td>
-      <td>0</td>
-      <td>4</td>
-      <td>7</td>
-      <td>0</td>
-      <td>1</td>
-      <td>3</td>
-      <td>0</td>
-      <td>2</td>
-      <td>3</td>
-      <td>0</td>
-      <td>26</td>
-      <td>26</td>
-   </tr>
-   <tr>
-      <td>Nonadamantine</td>
-      <td>0</td>
-      <td>3</td>
-      <td>5</td>
-      <td>0</td>
-      <td>1</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4</td>
-      <td>10</td>
-   </tr>
-   <tr>
-      <td>Nonmagical</td>
-      <td>0</td>
-      <td>48</td>
-      <td>13</td>
-      <td>0</td>
-      <td>39</td>
-      <td>1</td>
-      <td>0</td>
-      <td>26</td>
-      <td>6</td>
-      <td>0</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0</td>
-      <td>10</td>
-      <td>14</td>
-      <td>0</td>
-      <td>144</td>
-      <td>37</td>
-   </tr>
-   <tr>
-      <td>Nonsilvered</td>
-      <td>0</td>
-      <td>9</td>
-      <td>9</td>
-      <td>0</td>
-      <td>7</td>
-      <td>0</td>
-      <td>0</td>
-      <td>5</td>
-      <td>1</td>
-      <td>0</td>
-      <td>7</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4</td>
-      <td>0</td>
-      <td>0</td>
-      <td>32</td>
-      <td>10</td>
-   </tr>
-   <tr>
-      <td>Paralyzed</td>
-      <td>0</td>
-      <td>0</td>
-      <td>47</td>
-      <td>0</td>
-      <td>0</td>
-      <td>14</td>
-      <td>0</td>
-      <td>0</td>
-      <td>11</td>
-      <td>0</td>
-      <td>0</td>
-      <td>12</td>
-      <td>0</td>
-      <td>0</td>
-      <td>9</td>
-      <td>0</td>
-      <td>0</td>
-      <td>93</td>
-   </tr>
-   <tr>
-      <td>Petrified</td>
-      <td>0</td>
-      <td>0</td>
-      <td>40</td>
-      <td>0</td>
-      <td>0</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>7</td>
-      <td>0</td>
-      <td>0</td>
-      <td>11</td>
-      <td>0</td>
-      <td>0</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>73</td>
-   </tr>
-   <tr>
-      <td>Piercing</td>
-      <td>0</td>
-      <td>18</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>19</td>
-      <td>0</td>
-   </tr>
-   <tr>
-      <td>Poison</td>
-      <td>0</td>
-      <td>16</td>
-      <td>108</td>
-      <td>0</td>
-      <td>4</td>
-      <td>43</td>
-      <td>0</td>
-      <td>2</td>
-      <td>26</td>
-      <td>0</td>
-      <td>1</td>
-      <td>21</td>
-      <td>0</td>
-      <td>0</td>
-      <td>22</td>
-      <td>0</td>
-      <td>23</td>
-      <td>220</td>
-   </tr>
-   <tr>
-      <td>Poisoned</td>
-      <td>0</td>
-      <td>0</td>
-      <td>96</td>
-      <td>0</td>
-      <td>0</td>
-      <td>42</td>
-      <td>0</td>
-      <td>1</td>
-      <td>29</td>
-      <td>0</td>
-      <td>1</td>
-      <td>23</td>
-      <td>0</td>
-      <td>0</td>
-      <td>22</td>
-      <td>0</td>
-      <td>2</td>
-      <td>212</td>
-   </tr>
-   <tr>
-      <td>Prone</td>
-      <td>0</td>
-      <td>0</td>
-      <td>43</td>
-      <td>0</td>
-      <td>0</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>8</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4</td>
-      <td>0</td>
-      <td>0</td>
-      <td>70</td>
-   </tr>
-   <tr>
-      <td>Psychic</td>
-      <td>1</td>
-      <td>1</td>
-      <td>8</td>
-      <td>0</td>
-      <td>1</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>5</td>
-      <td>0</td>
-      <td>1</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>3</td>
-      <td>20</td>
-   </tr>
-   <tr>
-      <td>Radiant</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>3</td>
-      <td>5</td>
-      <td>1</td>
-   </tr>
-   <tr>
-      <td>Restrained</td>
-      <td>0</td>
-      <td>0</td>
-      <td>24</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>7</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>37</td>
-   </tr>
-   <tr>
-      <td>Slashing</td>
-      <td>0</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>8</td>
-      <td>2</td>
-   </tr>
-   <tr>
-      <td>Spell</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-   </tr>
-   <tr>
-      <td>Stunned</td>
-      <td>0</td>
-      <td>0</td>
-      <td>9</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4</td>
-      <td>0</td>
-      <td>0</td>
-      <td>6</td>
-      <td>0</td>
-      <td>0</td>
-      <td>20</td>
-   </tr>
-   <tr>
-      <td>Thunder</td>
-      <td>1</td>
-      <td>13</td>
-      <td>0</td>
-      <td>0</td>
-      <td>5</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>2</td>
-      <td>22</td>
-      <td>5</td>
-   </tr>
-   <tr>
-      <td>Unconscious</td>
-      <td>0</td>
-      <td>0</td>
-      <td>10</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>17</td>
-   </tr>
-   </tbody>
-</table>
+
+   
+   
+       
+      
+      6 - 10
+      11-15
+      16 - 20
+      20 
+      Totals
+    
+    
+      Dmg/Condition
+      W
+      R
+      I
+      W
+      R
+      I
+      W
+      R
+      I
+      W
+      R
+      I
+      W
+      R
+      I
+      W
+      R
+      I
+      
+   
+   
+   
+      Acid
+      0
+      18
+      8
+      0
+      7
+      9
+      0
+      6
+      7
+      0
+      1
+      2
+      0
+      0
+      3
+      0
+      32
+      29
+   
+   
+      Blinded
+      0
+      0
+      32
+      0
+      0
+      6
+      0
+      0
+      4
+      0
+      0
+      0
+      0
+      0
+      3
+      0
+      0
+      45
+   
+   
+      Bludgeoning
+      5
+      13
+      0
+      1
+      1
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      6
+      14
+      0
+   
+   
+      Charmed
+      0
+      0
+      63
+      0
+      0
+      20
+      0
+      0
+      17
+      0
+      0
+      16
+      0
+      0
+      19
+      0
+      0
+      135
+   
+   
+      Cold
+      4
+      40
+      16
+      0
+      29
+      7
+      0
+      19
+      8
+      0
+      16
+      3
+      0
+      15
+      3
+      4
+      119
+      37
+   
+   
+      Darkness
+      0
+      3
+      0
+      0
+      2
+      0
+      0
+      2
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      7
+      0
+   
+   
+      Deafened
+      0
+      0
+      27
+      0
+      0
+      6
+      0
+      0
+      3
+      0
+      0
+      2
+      0
+      0
+      3
+      0
+      0
+      41
+   
+   
+      Exhaustion
+      0
+      0
+      63
+      0
+      0
+      20
+      0
+      0
+      14
+      0
+      0
+      11
+      0
+      0
+      19
+      0
+      0
+      127
+   
+   
+      Fire
+      10
+      39
+      28
+      4
+      22
+      11
+      1
+      13
+      10
+      0
+      7
+      13
+      0
+      11
+      7
+      15
+      92
+      69
+   
+   
+      Force
+      0
+      0
+      1
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      1
+   
+   
+      Frightened
+      0
+      0
+      57
+      0
+      0
+      17
+      0
+      0
+      19
+      0
+      0
+      15
+      0
+      0
+      20
+      0
+      0
+      128
+   
+   
+      Grappled
+      0
+      0
+      18
+      0
+      0
+      1
+      0
+      0
+      2
+      0
+      0
+      3
+      0
+      0
+      3
+      0
+      0
+      27
+   
+   
+      Lightning
+      0
+      33
+      9
+      0
+      23
+      5
+      0
+      12
+      6
+      0
+      7
+      4
+      0
+      12
+      5
+      0
+      87
+      29
+   
+   
+      Magical
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      1
+      0
+      0
+      0
+      0
+      0
+      1
+      0
+   
+   
+      Magical Piercing
+      0
+      0
+      0
+      0
+      0
+      0
+      1
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      1
+      0
+      0
+   
+   
+      Necrotic
+      0
+      12
+      9
+      0
+      7
+      4
+      0
+      4
+      7
+      0
+      1
+      3
+      0
+      2
+      3
+      0
+      26
+      26
+   
+   
+      Nonadamantine
+      0
+      3
+      5
+      0
+      1
+      2
+      0
+      0
+      2
+      0
+      0
+      1
+      0
+      0
+      0
+      0
+      4
+      10
+   
+   
+      Nonmagical
+      0
+      48
+      13
+      0
+      39
+      1
+      0
+      26
+      6
+      0
+      21
+      3
+      0
+      10
+      14
+      0
+      144
+      37
+   
+   
+      Nonsilvered
+      0
+      9
+      9
+      0
+      7
+      0
+      0
+      5
+      1
+      0
+      7
+      0
+      0
+      4
+      0
+      0
+      32
+      10
+   
+   
+      Paralyzed
+      0
+      0
+      47
+      0
+      0
+      14
+      0
+      0
+      11
+      0
+      0
+      12
+      0
+      0
+      9
+      0
+      0
+      93
+   
+   
+      Petrified
+      0
+      0
+      40
+      0
+      0
+      10
+      0
+      0
+      7
+      0
+      0
+      11
+      0
+      0
+      5
+      0
+      0
+      73
+   
+   
+      Piercing
+      0
+      18
+      0
+      0
+      1
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      19
+      0
+   
+   
+      Poison
+      0
+      16
+      108
+      0
+      4
+      43
+      0
+      2
+      26
+      0
+      1
+      21
+      0
+      0
+      22
+      0
+      23
+      220
+   
+   
+      Poisoned
+      0
+      0
+      96
+      0
+      0
+      42
+      0
+      1
+      29
+      0
+      1
+      23
+      0
+      0
+      22
+      0
+      2
+      212
+   
+   
+      Prone
+      0
+      0
+      43
+      0
+      0
+      10
+      0
+      0
+      5
+      0
+      0
+      8
+      0
+      0
+      4
+      0
+      0
+      70
+   
+   
+      Psychic
+      1
+      1
+      8
+      0
+      1
+      2
+      0
+      0
+      5
+      0
+      1
+      5
+      0
+      0
+      0
+      1
+      3
+      20
+   
+   
+      Radiant
+      2
+      1
+      1
+      0
+      1
+      0
+      1
+      0
+      0
+      0
+      1
+      0
+      0
+      2
+      0
+      3
+      5
+      1
+   
+   
+      Restrained
+      0
+      0
+      24
+      0
+      0
+      1
+      0
+      0
+      2
+      0
+      0
+      7
+      0
+      0
+      3
+      0
+      0
+      37
+   
+   
+      Slashing
+      0
+      8
+      2
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      8
+      2
+   
+   
+      Spell
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      1
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      1
+      0
+   
+   
+      Stunned
+      0
+      0
+      9
+      0
+      0
+      0
+      0
+      0
+      1
+      0
+      0
+      4
+      0
+      0
+      6
+      0
+      0
+      20
+   
+   
+      Thunder
+      1
+      13
+      0
+      0
+      5
+      0
+      0
+      2
+      2
+      0
+      2
+      2
+      1
+      0
+      1
+      2
+      22
+      5
+   
+   
+      Unconscious
+      0
+      0
+      10
+      0
+      0
+      2
+      0
+      0
+      2
+      0
+      0
+      1
+      0
+      0
+      2
+      0
+      0
+      17
+   
+   
+
 
 ## Monster Saves
 
@@ -3298,28 +2822,21 @@ I&#8217;ve shared a <a href="https://docs.google.com/spreadsheets/d/1O2dyuRcBcMo
 | WIS       | 225   | 28.16%  |
 {: .table .table-striped .table-hover}
 
-Monster saves are also a big influence on how likely they are to be affected by an ability or spell. So I totaled how frequently stat blocks listed a particular save proficiency. My take away here is that a good bit of metagame design went into these choices, but I don&#8217;t know that for sure. Obviously the actual attribute modifier has a big influence on a save but it&#8217;s hard to ignore the choices. Wisdom as the most frequent save proficiency says to me the designers were trying to make sure monsters aren&#8217;t locked up too often by conditions. Additionally, the fact that Dex save proficiency wasn&#8217;t near the top says to me they didn&#8217;t want monsters to avoid damage. 
+Monster saves are also a big influence on how likely they are to be affected by an ability or spell. So I totaled how frequently stat blocks listed a particular save proficiency. My take away here is that a good bit of metagame design went into these choices, but I don’t know that for sure. Obviously the actual attribute modifier has a big influence on a save but it’s hard to ignore the choices. Wisdom as the most frequent save proficiency says to me the designers were trying to make sure monsters aren’t locked up too often by conditions. Additionally, the fact that Dex save proficiency wasn’t near the top says to me they didn’t want monsters to avoid damage. 
 
 The most surprising result was the relative lack of Strength save proficiencies. Again, I see the metagame at work here. So few spells require a Strength save that it seems rather pointless. Additionally, monsters often have a high strength value already so proficiency is just overkill.
 
 ## Conclusion
 
-So that&#8217;s it. In my own context this will help me with balance for player designed spells and assessing third party or official supplements. I hope you&#8217;re able to derive something useful for planning your games out of this. If you have an observation about it, tag me on twitter or drop me a DM. This is a starting place and rough guide though, and the devil will always be in the details. It is good though to comment based on numbers instead of strawman examples and intuition.
+So that’s it. In my own context this will help me with balance for player designed spells and assessing third party or official supplements. I hope you’re able to derive something useful for planning your games out of this. If you have an observation about it, tag me on twitter or drop me a DM. This is a starting place and rough guide though, and the devil will always be in the details. It is good though to comment based on numbers instead of strawman examples and intuition.
 
 Now get out there and run some great games.
 
----
-title: '5e Spell Save & Damage Breakdown'
-author: Scott Turnbull
-layout: post
-description: A breakdown and analysis of spell save distribution among 5th edition spellcasters.
-categories:
-  - Analysis
+# '5e Spell Save & Damage Breakdown'
 
----
-I recently started aggregating some data I&#8217;ve gathered about spells from 5e Dungeons & Dragons. Primarily, this has been for fun and to see if I&#8217;d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you&#8217;ll find this fun and interesting yourself and I would love to hear any observations you have.
+I recently started aggregating some data I’ve gathered about spells from 5e Dungeons & Dragons. Primarily, this has been for fun and to see if I’d find anything surprising or interesting. Additionally, I wanted to get some numbers to help me assess additional spells or subclasses for my home game. So I hope you’ll find this fun and interesting yourself and I would love to hear any observations you have.
 
-These are the result of analyzing 477 spells across the Players Handbook, Xanathar&#8217;s Guide to Everything, and Tasha&#8217;s Caldron of Everything. 
+These are the result of analyzing 477 spells across the Players Handbook, Xanathar’s Guide to Everything, and Tasha’s Caldron of Everything. 
 
 ## 5e Spell Saves by Class
 
@@ -3333,13 +2850,13 @@ These are the result of analyzing 477 spells across the Players Handbook, Xanath
 |Intelligence||6|1|1|||5|6|9|11|
 {: .table .table-striped .table-hover}
 
-I found a few of these results surprising and overall the implied intention behind the design of spells saves by class can help with subclass design. For instance, the Bard being so heavily invested in Wisdom saves emphasises their focus on enchantment and the mind. Likewise, the Druid&#8217;s Strength save focus is a defacto statement of their magic interacting with the physical world. Additionally, the relative even distribution of Wizards saves speaks to their flexibility. Lastly, drives home the point of common observations like the over loading of Dexterity. 
+I found a few of these results surprising and overall the implied intention behind the design of spells saves by class can help with subclass design. For instance, the Bard being so heavily invested in Wisdom saves emphasises their focus on enchantment and the mind. Likewise, the Druid’s Strength save focus is a defacto statement of their magic interacting with the physical world. Additionally, the relative even distribution of Wizards saves speaks to their flexibility. Lastly, drives home the point of common observations like the over loading of Dexterity. 
 
 Overall my read here is that the type of saves given to a spell is intentionally significant. So, when vetting a new spell from a supplement, UA, or created by a player, this seems important to keep in mind.
 
 ## 5e Spell Conditions & Damage 
 
-Again a bit of a data dump here, but this is a tally of the number of spells that inflict a condition or particular damage type by class. As with saves above, I think it&#8217;s fair to say there is an implied intentional design here. For instance, the lack of condition inflicting spells for Artificers and Paladin&#8217;s clearly indicate their intention as a damage dealing class. The opposite is true for Bard, which clearly seems designed to inflict conditions. While, Wizards and other classes maintain their flexibility.
+Again a bit of a data dump here, but this is a tally of the number of spells that inflict a condition or particular damage type by class. As with saves above, I think it’s fair to say there is an implied intentional design here. For instance, the lack of condition inflicting spells for Artificers and Paladin’s clearly indicate their intention as a damage dealing class. The opposite is true for Bard, which clearly seems designed to inflict conditions. While, Wizards and other classes maintain their flexibility.
 
 ### Spells by Damage Type per Class 
 
@@ -3382,64 +2899,42 @@ Again a bit of a data dump here, but this is a tally of the number of spells tha
 
 
 ## Conclusion
-Overall, this is just an intellectual exercise I found to be a bit of fun. There&#8217;s nothing earth shattering in these numbers, but I did find a few surprises. For me, it fixes firmly the intentional design of spell effects that help me vet or design new spells and subclasses. Additionally, it helps me understand where the gaps are either as a player or when designing scenarios as a DM. Particularly, with adventure design I think it&#8217;s important to know what the distribution of options are as you need to design broadly.
+Overall, this is just an intellectual exercise I found to be a bit of fun. There’s nothing earth shattering in these numbers, but I did find a few surprises. For me, it fixes firmly the intentional design of spell effects that help me vet or design new spells and subclasses. Additionally, it helps me understand where the gaps are either as a player or when designing scenarios as a DM. Particularly, with adventure design I think it’s important to know what the distribution of options are as you need to design broadly.
 
-The only real conclusion I have is with subclasses like the College of Scribe Wizard from Tasha&#8217;s. I excluded that from my own games because I thought the ability to change damage type was too powerful and went against the class concepts. This confirms that assessment for me, but obviously my take is in the minority if reaction online is any gauge.
+The only real conclusion I have is with subclasses like the College of Scribe Wizard from Tasha’s. I excluded that from my own games because I thought the ability to change damage type was too powerful and went against the class concepts. This confirms that assessment for me, but obviously my take is in the minority if reaction online is any gauge.
 
 Regardless, I hope you found these numbers interesting and a bit of fun as well. Now get out there and run some great games.
 
----
-title: When Failure Isn’t an Option in 5e
-author: Scott Turnbull Turnbull
-layout: post
-date: 2021-04-21T16:18:12+00:00
-image: /assets/img/depressed_thief_480x637.jpg
-description: Make failing skill rolls fun in 5th edition and why it is important to fail.
-categories:
-  - RPG Resources
----
-Handling failure is something people seem to struggle with in 5th edition Dungeons & Dragons. When to fail, what happens when you do, and how to keep the game moving are constant topics of discussions. In my view, [Progressive Failure and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %}) is a very useful technique, but it&#8217;s just one of many in the DMs toolbox. As a discussion topic, people often seem to misunderstand the role of failure in RPGs. Worse, a small sub-population has begun to take terms like &#8216;failing-forward&#8217; to mean failure shouldn&#8217;t be possible. So taking a moment to consider the options and tools available can make even failure a fun experience in TTRPGs.
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix p-3 mb-5"
-  src="/assets/img/depressed_thief_480x637.jpg"
-  alt="A wounded warrior crawling on the ground with an arrow sticking out of their side."
-  width="480"
-  height="720"
-%}
+# When Failure Isn’t an Option in 5e
+
+Handling failure is something people seem to struggle with in 5th edition Dungeons & Dragons. When to fail, what happens when you do, and how to keep the game moving are constant topics of discussions. In my view, [Progressive Failure and Rising Tension]() is a very useful technique, but it’s just one of many in the DMs toolbox. As a discussion topic, people often seem to misunderstand the role of failure in RPGs. Worse, a small sub-population has begun to take terms like ‘failing-forward’ to mean failure shouldn’t be possible. So taking a moment to consider the options and tools available can make even failure a fun experience in TTRPGs.
+
 ## Failing to Fail
 
-The first order problem many DMs have with failure is introducing it at the wrong time. Mystery scenarios are a great example of this, where players must uncover a clue to move the game forward. Likewise, an NPC might need to be influenced to allow the plot to progress. While DMs might think this is a moment of tension that needs a skill roll, these are exactly the kinds of situations you do NOT want to roll for. Anything that can bring a game to a stop shouldn&#8217;t be subject to failure.
+The first order problem many DMs have with failure is introducing it at the wrong time. Mystery scenarios are a great example of this, where players must uncover a clue to move the game forward. Likewise, an NPC might need to be influenced to allow the plot to progress. While DMs might think this is a moment of tension that needs a skill roll, these are exactly the kinds of situations you do NOT want to roll for. Anything that can bring a game to a stop shouldn’t be subject to failure.
 
-_**Players should always have the minimal information and access they need to advance the story.**_ Never gate the critical path for an adventure behind a roll. So yes, this means if the players show up or make any effort at all, they get the information they need to get to advance things one step. However, it&#8217;s important to realize that this is the **_absolute minimum_** information or access they need. Artful use of skills by the players should let them advanced in a strong position. Indeed the DM and player should work together to discover options for these additional actions. But there should always be a path forward in an adventure, even if it&#8217;s a hard one.
+_**Players should always have the minimal information and access they need to advance the story.**_ Never gate the critical path for an adventure behind a roll. So yes, this means if the players show up or make any effort at all, they get the information they need to get to advance things one step. However, it’s important to realize that this is the **_absolute minimum_** information or access they need. Artful use of skills by the players should let them advanced in a strong position. Indeed the DM and player should work together to discover options for these additional actions. But there should always be a path forward in an adventure, even if it’s a hard one.
 
 ## Why Fail?
 
 Risk is at the heart of adventure and acknowledging **_failure with appropriate consequences in an important dynamic in TTRPGs_**. Additionally, how a character fails can itself be an important element for driving adventures forward. With this in mind, DMs have several tools available to handle failure and keep the game flowing. Among these:
 
-  * Matt Colville&#8217;s Running the Game series. In particular <a href="https://www.youtube.com/watch?v=l1zaNJrXi5Y" target="_blank" rel="noreferrer noopener">Many Fail States</a> discusses different ways to handle failure. Also, some reflection on <a href="https://www.youtube.com/watch?v=8Q8bVPpc84A" target="_blank" rel="noreferrer noopener">Catastrophic Failure</a> in games acknowledges that sometimes you just have to accept failure.
-  * My aforementioned [Progressive Failure and Rising Tension]({% link _posts/2021-01-03-progressive-failures-and-rising-tension-in-5th-edition.md %}) creates an interactive and dynamic system to allow players to **_manage failure through rising stakes and increasing tension_**.
+  * Matt Colville’s Running the Game series. In particular Many Fail States discusses different ways to handle failure. Also, some reflection on Catastrophic Failure in games acknowledges that sometimes you just have to accept failure.
+  * My aforementioned [Progressive Failure and Rising Tension]() creates an interactive and dynamic system to allow players to **_manage failure through rising stakes and increasing tension_**.
   * Success at a Cost is a concept I first encountered in the FATE system and is reiterated in Chapter 8 of the DMG. It essentially allows DMs to **_turn failures into a success but add some complication_** or require a follow on check or action.
   * Degrees of Failure in Chapter 8 of the DMG scales failure based on the margin of failure. This **_emphasises spectacular failure as a dramatic vehicle_**.
-  * Also, there is a concept called &#8220;Failing Forward&#8221; that&#8217;s been kicking around longer than I can remember. There are several different but the core allows players to try to continue by trying something different. **_Failing Forward is an opportunity to succeed by other means._**
+  * Also, there is a concept called “Failing Forward” that’s been kicking around longer than I can remember. There are several different but the core allows players to try to continue by trying something different. **_Failing Forward is an opportunity to succeed by other means._**
 
 ## Conclusion 
 
-**Failure is as valuable an outcome as success in TTRPGs.** So having options in mind for how to manage failure in interesting ways is valuable for DMs. A mistaken idea seems to be leaking into some sub-cultures in 5e, who take the position that failure shouldn&#8217;t be an option. This is a grave mistake, what they should be saying is that **_failure shouldn&#8217;t be an end_**. The game is at it&#8217;s best when the players can transform the world through their actions. Transformation can happen through success or failure.  **Regardless of success or failure, the best outcome is something fun or interesting**.
+**Failure is as valuable an outcome as success in TTRPGs.** So having options in mind for how to manage failure in interesting ways is valuable for DMs. A mistaken idea seems to be leaking into some sub-cultures in 5e, who take the position that failure shouldn’t be an option. This is a grave mistake, what they should be saying is that **_failure shouldn’t be an end_**. The game is at it’s best when the players can transform the world through their actions. Transformation can happen through success or failure.  **Regardless of success or failure, the best outcome is something fun or interesting**.
 
 Now get out there and run some great games.
 
 
----
-layout: post
-title: April 2021 Experimental House Rules
-author: Scott Turnbull
-date: 2021-04-29T14:05:37+00:00
-description: |
-  Experimental 5th edition house rules for Defense and Grappling to provide more options during play. 
-categories:
-  - RPG Resources
----
-Like most 5th edition Dungeons & Dragons DMs, I&#8217;m constantly tinkering with the rules in hopes of improving the experience at the table. But it takes a bit of time and testing before I consider an idea worthy of officially adding to my game. As such, I&#8217;ve been testing out some ideas on <a href="https://www.twitter.com/optionalrule" target="_blank" rel="noreferrer noopener">Twitter </a>for feedback. These are the various rules I&#8217;ve thrown out for feedback during up through the end of April 2021. After a time, if they seem worthwhile I&#8217;ll officially add them to <a href="https://optionalrule.com/2021/02/10/my-current-5e-house-rules/" target="_blank" rel="noreferrer noopener">my own house rules</a> list.
+# April 2021 Experimental House Rules
+
+Like most 5th edition Dungeons & Dragons DMs, I’m constantly tinkering with the rules in hopes of improving the experience at the table. But it takes a bit of time and testing before I consider an idea worthy of officially adding to my game. As such, I’ve been testing out some ideas on Twitter for feedback. These are the various rules I’ve thrown out for feedback during up through the end of April 2021. After a time, if they seem worthwhile I’ll officially add them to my own house rules list.
 
 ## Defense
 
@@ -3449,7 +2944,7 @@ Like most 5th edition Dungeons & Dragons DMs, I&#8217;m constantly tinkering wit
 
 My motivation here is to create slightly more dynamic options in combat. In particular this rule would benefit intelligent group base combat. Additionally it would mitigate the devastation of a single high damage Big Bad Evil Guy (BBEG) attack. This being more common in many adventures now. Taken together, the intent would be to have another option to manage combat though choices.
 
-The overall feedback has been positive on this. One notable commenters thought this would give too many options to power gamers to cheese in and out of combat. However, I&#8217;m not sure disadvantage is as much protection as people think. In particular, it benefits characters with high ACs the most, but they are less likely to be inclined to use it. So, for my part the theory seems solid here, the feedback generally positive enough to think about testing this in my game.
+The overall feedback has been positive on this. One notable commenters thought this would give too many options to power gamers to cheese in and out of combat. However, I’m not sure disadvantage is as much protection as people think. In particular, it benefits characters with high ACs the most, but they are less likely to be inclined to use it. So, for my part the theory seems solid here, the feedback generally positive enough to think about testing this in my game.
 
 ### Grappling
 
@@ -3459,23 +2954,15 @@ The overall feedback has been positive on this. One notable commenters thought t
 
 ### Comments So Far
 
-Like the defensive options above, my thinking here is again to provide some more dynamic options in combat. Currently, grapple is used to control someones movement and has no option to pin anyone. I believe the logic is that pinning someone is &#8216;winning&#8217; and that is already handle in Hitpoints. However, I think it could be fun and return some potions to anyone in melee.
+Like the defensive options above, my thinking here is again to provide some more dynamic options in combat. Currently, grapple is used to control someones movement and has no option to pin anyone. I believe the logic is that pinning someone is ‘winning’ and that is already handle in Hitpoints. However, I think it could be fun and return some potions to anyone in melee.
 
-The feedback here was overwhelmingly positive. Several commenters replied with <a href="https://thinkdm.org/2018/06/16/grappling/" target="_blank" rel="noreferrer noopener">house rules of their own</a>, many using some mix of these options already. Again, the theory seemingly solid and feedback being good, this is definitely moving to testing at my table.
+The feedback here was overwhelmingly positive. Several commenters replied with house rules of their own, many using some mix of these options already. Again, the theory seemingly solid and feedback being good, this is definitely moving to testing at my table.
 
 ## Request for More Feedback
 
-If you find any of these house rules interesting or have thoughts, please hit me up on Twitter with any comments. If you try any of these out at your table please let me know how it goes. In the months ahead I&#8217;ll try to add additional features with rolled up house rules for that period. Perhaps I&#8217;ll return with feedback from testing on these as well.
+If you find any of these house rules interesting or have thoughts, please hit me up on Twitter with any comments. If you try any of these out at your table please let me know how it goes. In the months ahead I’ll try to add additional features with rolled up house rules for that period. Perhaps I’ll return with feedback from testing on these as well.
 
----
-layout: post
-title: Site Migration Complete
-category: Misc
-author: Scott Turnbull
-description: Notice of the completion of our site migration to a faster hosting service.
-description: The site has been updated and under new hosting.
-image: /assets/img/lighthouse-results-1092x921.jpg
----
+# Site Migration Complete
 
 Our site migration is now complete!  This should mean a much better and faster experience for everyone visiting the site.  You will have noticed it's been a bit quiet around here and this has been the reason.  The previous wordpress site was just too slow and solutions to make it faster were either too expensive or as difficult as switching hosts.  Given this is a content oriented blog and doesn't need a lot of scripting, I decided to switch over to building the site on [Jekyll](https://jekyllrb.com/){: target="_blank"} and hosting in [Github Pages](https://pages.github.com/){: target="_blank"}.
 
@@ -3483,22 +2970,10 @@ I'm limited by time and skills like everyone but I try hard to keep the site acc
 
 If you have any trouble with the site or notice any problems please tag or DM me on twitter and I hope you enjoy the new site!
 
-{% include imageframe.html
-  src="/assets/img/lighthouse-results-1092x921.jpg"
-  alt="Dashboard screenshot from lighthouse analytics showing performance, accessibility and other metrics."
-  height="921" width="1092"
-  caption="Image credit Wizards of the Coast"
- %}
 
----
-layout: post
-title: On Die Averages and Hit Points in 5e
-date: 2021-06-22 09:32
-category: Analysis
-author: Scott Turnbull
-description: A breakdown of how we arrive at die result average numbers, and how that can cause errors in rolling HP and designing monsters.
-image: /assets/img/skillcheck-480x363.jpg
----
+
+# On Die Averages and Hit Points in 5e
+
 I've had a few conversations in the passing months about average values on dice and how that relates to hit points in 5e. Word of warning, this is about to lean hard into some nerd stuff.  However, as esoteric as this may seem, it directly effects monster design and play frequently. The biggest impact it seems to have is when people try to anticipate the outcome of a roll, worse if they design a rule around it. Also, this can result in either getting player hit points or monster hit points wrong when using average results.  The solution isn't as complex as this is going to make it seem, I'm just laying out the specifics so it's all apparent.
 
 **aside** I generated some of these examples out of a Jupyter Notebook, which you can run online yourself through [this link](https://mybinder.org/v2/gh/Streamweaver/DnDNotebook/0fe60184a44f012f10b67873958e1752bd8f5341?filepath=Stat%20Generation.ipynb){:target="_blank"}.
@@ -3510,13 +2985,7 @@ A common point of confusion for people are the values given for averages on vari
 ### D8 Done Wrong
 This is an example of the math where people can go wrong.  Just dividing by 2 isn't an average and has the effect of assuming 
 zero is included in the set of numbers, obviously that isn't true.  (Even on a d10, as the 0 usually represents 10)
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/skillcheck-480x363.jpg"
-  alt="A group of adventurers leaning over a table, seemingly confused by a map they are looking at"
-  height="363" width="480"
-  caption="Image credit Wizards of the Coast"
- %}
+
 ```python
 # Quick pandas code
 # Using incorrect assumptions on 1d8
@@ -3609,16 +3078,7 @@ np.floor(bugbear_hp)
 # Conclusion
  That seems like a lot but it's really just expressing the core ideas about why some misunderstandings arise and design faults creep in.  Once you get the right concept framed in your head it's not all that difficult but walking through the details can help some folks understand.  Having had this conversation several times recently, I thought I'd take the quick code I used during one of those discussions to throw up a blog post.
 
----
-layout: post
-title: Gritty Healing & Survival in 5e
-date: 2021-06-27 10:26
-category: RPG Resources
-author: Scott Turnbull
-tags: []
-description: My simple gritty healing rules for 5e DnD to attend healing and add strategic gameplay.
-image: /assets/img/camping_party_475x633.jpg
----
+# Gritty Healing & Survival in 5e
 
 The heroic playstyle of 5e D&D is a lot of fun, but it's focused on the encounter for resource management and pacing. Sometimes players want to break things up with more of a gritty or survivalist style. This means adding gameplay elements that focus on attrition, strategic resource management, mitigation, and lean into the fragile nature of health. In other words, it extends gameplay into longer term campaign elements, rather than containing it to individual encounters. As a result of Matt Colville's recent twitch hangout, I was inspired to write down my own thoughts on gritty rules for 5e.
 
@@ -3633,13 +3093,7 @@ What I'm presenting here is closer to the Slow Natural Healing rules in Chapter 
 
 ## The Rules
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/camping_party_475x633.jpg"
-  alt="A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted."
-  width="475" height="633"
-  caption="Image credit Wizards of the Coast"
- %}
+
  Where noted these house rules replace the standard 5e rules.
 
 ### Natural Healing
@@ -3690,9 +3144,9 @@ All-in-all a gritty playstyle will have extended rules over a number of sub-syst
 ## Campaigns
 Introducing a system like this significantly impacts the pacing of campaigns and challenge of encounters. This system works better for campaigns with modular encounters and opportunities to manage rest and recovery. Therefore, campaigns like Lost Mines of Phandelver, or Rime of the Frostmaiden may be better suited. Campaigns like Out of the Abyss or Tomb of Annihilation may require a lot of modification by the DM or be a poor fit for this style of play.
 
-<div class="alert alert-warning">
-<i class="fas fa-exclamation-circle"></i> Watch for Part 2 of this series to address Gritty Healing and Spells, Potions, and Abilities later in the week.
-</div>
+
+ Watch for Part 2 of this series to address Gritty Healing and Spells, Potions, and Abilities later in the week.
+
 
 ## Conclusion
 Gritty rules aren't for everyone, but can be a fun variation on your 5e play or suited for some groups playstyles. To be successful, you need full buy-in from everyone in the group and have to enjoy the management and level of detail that goes into this kind of play. Those that enjoy it can welcome the challenge of planning through recovery or mitigating for loss. DMs would do well to provide players both opportunities to shine, and interesting challenges to overcome through planning and preparation. To be sure, these rules are usually not for the faint of heart or play groups that don't like getting lost in the details.  Additionally, this playstyle is better suited for tier one and two play. However, most games happen in those tiers anyway and if you're looking for higher tier play, gritty rules were probably never a consideration.
@@ -3700,28 +3154,13 @@ Gritty rules aren't for everyone, but can be a fun variation on your 5e play or 
 Now go out there and run some great games.
 
 
----
-layout: post
-title: "Gritty Healing in 5e Part 2: Spells"
-date: 2021-06-30 08:00
-category: RPG Resources
-author: Scott Turnbull
-tags: []
-description: Part 2 of my Gritty Healing and Survival Rules for 5e address mechanics for spells and potions.
-image: /assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg
----
+# "Gritty Healing in 5e Part 2: Spells"
 
-Earlier in the week I posted some rules for [Gritty Healing & Survival in 5e]({% link _posts/2021-06-27-gritty-healing-and-survival-rules.md %}). These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic.  In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.
+Earlier in the week I posted some rules for [Gritty Healing & Survival in 5e](). These work for group looking for that kind of long-term resource management and play. However, it leaves a bit of a gap when it comes to healing spells and magic.  In fact, most gritty mechanics suffer from the problem of setting up a system for persistent injuries, then introduce magic that lets you skip past it. Also, it suffers from the problem of turning the cleric into the heal-bot for a party, making sit out of the action during encounters to heal everyone later. So having some way to align the leaning mechanic with the core idea of recovery as a central design principle is important. Without it, you end up with the same effect as healing overnight but force the healing PC to burn all their resources and sit most encounters out.
 
 I expect this option to be controversial. It flies in the face of the conventional expectation of drinking a wheelbarrow full of healing potions, and it makes the pacing and of games much more volatile.  
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/silverstars_by_anthonyfoti-wotc_475x594.jpg"
-  alt="A blonde haired woman in plate armor, holding a wounded man in robes.  Her hand is glowing with magical energy and her face looks determined."
-  width="475" height="594"
-  caption="Image credit <a href='https://www.deviantart.com/anthonyfoti/' target='_blank'>Anthony Foti</a> for Wizards of the Coast"
- %}
+
 
 ## Skin In the Game
 As it is, healing is just something that falls out of the sky. Be it divine intervention, alchemy, or some other magic.  It costs the recipient nothing and can continue indefinitely if the party has resources. With these rules, healing spells cost the recipient something, limiting how much they can benefit from spells and abilities. That has the effect of involving the receiving player in the decision and managing healing as a resource as well.  Lore wise the premise is simple, the body can only take so much and flesh has it's limits.  It is a staple of many narratives to have the healer provide some limited help, then back away with a "I've done all I can, the rest is up to them".  This rules brings that lore into play.
@@ -3752,15 +3191,7 @@ These rules close a bit loophole in the original Gritty Healing and Survival rul
 Now go out there and run some great games.
 
 
----
-layout: post
-title: Discord Channel is Here
-date: 2021-07-03 16:52
-category: Misc
-author: Scott Turnbull
-tags: []
-description: I've put up a discord server for rpg and 5e rules discussion, advice for games, and other TTRPG Talk.
----
+# Discord Channel is Here
 
 I just opened a discord server for rules discussions, workshops and the like.  People interested in thoughtful 
 discussions on 5e or TTRPG rules, adventures or more are welcome to sign up. Please note that general rules of 
@@ -3774,27 +3205,11 @@ If you're seeing this announcement at a later date just hit me up on Twitter for
 
 
 
----
-layout: post
-title: Perilous Journeys in 5e Part 1
-subtitle: Rest and the Road
-date: 2021-07-13 08:26
-category: RPG Resources
-author: Scott Turnbull
-image: /assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg
-tags: []
-description: A set of 5e house rules that make journeys fun by limiting long rests on the road and providing some rules for camps.
----
+# Perilous Journeys in 5e Part 1
 
 Perilous journeys are a mainstay of fantasy literature and adventure, yet 5e provides little game play in the way of travel and discovery.  This is primarily because the system focuses on encounters per day, which limits long form narrative game elements.  First, the long rest reset means encounters or delays seem little more than annoying distractions. Second, characters have little in the way of meaningful game play to engage them in travel. or interact with one another. These rules present a few simple modifications to add some game play spice back into your journeys to help make the exploration pillar exciting again.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/alex-wilton-journey_to_emmons_field_475x616.jpg"
-  alt="A horse drawn wagon traveling along a snowy road in the woods. A woman in heavy robes drives the cart while a man with a bow walks ahead of her on the road."
-  width="475" height="616"
-  caption="Image credit <a href='https://www.artstation.com/artwork/ykeEaQ' target='_blank'>Alex Wilton</a>"
- %}
+
 
 Many of these rules draw inspiration from the very fine Journeys mechanic from Adventures in Middle Earth, which is unfortunately no longer published.  While mechanically different in places the core themes remain, and I recommend reading those rules for further inspiration.
 
@@ -3836,21 +3251,11 @@ When writing this I decided to split it into two parts.  This part deals with wh
 
 Now get out there and run some great games.
 
-Continue this article is continued in [Perilous Journey's Part 2]({% link _posts/2021-07-24-perilous-journeys-in-5e-p2.md %})
+Continue this article is continued in [Perilous Journey's Part 2]()
 
----
-layout: post
-title: Perilous Journeys in 5e Part 2
-subtitle: Actions and the Road
-date: 2021-07-24 01:08
-category: RPG Resources
-author: Scott Turnbull
-image: /assets/img/kirk-langsea-wot-quarry-rox-02_950x534.jpg
-tags: []
-description: Adding journey actions to make travel exciting again in 5th edition Dungeons & Dragons.
----
+# Perilous Journeys in 5e Part 2
 
-Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure.  Last week I posted [Perilous Journey's Part 1]({% link _posts/2021-07-13-perilous-journeys-in-5e-p1.md %}), which turns travel into a series of encounters like any other dungeon. This week, I'll look at defining some ways that party members can take meaningful actions during journeys.  These **Journey Actions** provide gameplay for the travel experience, as well as create dependencies between members of the party. 
+Exciting journeys in 5th edition engage the party and give them meaningful actions as part of the adventure.  Last week I posted [Perilous Journey's Part 1](), which turns travel into a series of encounters like any other dungeon. This week, I'll look at defining some ways that party members can take meaningful actions during journeys.  These **Journey Actions** provide gameplay for the travel experience, as well as create dependencies between members of the party. 
 
 As with any rule or option, use when it add something to the game  and move along when it doesn't.
 
@@ -3870,19 +3275,13 @@ When traveling, a character may take one Journey Action as part of travel.  Any 
 
 ### Forage
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/kirk-langsea-wot-quarry-rox-02_475x475.jpg"
-  alt="A road through lonely woods.  Two mean guard a horse drawn wagon at the front and rear with bow and spear."
-  width="475" height="475"
-  caption="Image credit <a href='https://www.artstation.com/artwork/baBQrr' target='_blank'>Kirk Langsea</a>"
- %}
+
 
 Foraging along the way for harvestable plants, or small game allows parties to eat hearty means.  Rather than keeping track of day-to-day rations in a group, this form of foraging gathers ingredients for a **Hearty Meal**.  As mentioned in, part 1 of Perilous Journeys, a hearty meal may allow characters to recover a single hit die from after sleeping for eight hours when unable to take a long rest.
 
 Characters harvesting use the rules in Chapter 5 of the PHB and roll ***Wisdom (Survival)***, at +5 DC to the table presented there. Again, with this method assume the party has enough food to sustain themselves and recover exhaustion.  Instead, this type of foraging focuses on higher quality food to help recover Hit Die as per the rules above. 
 
-Alternatively, someone foraging could opt to gather herbs or ingredients for potions instead. If so, have them roll ***Intelligence (Nature)*** at the same DC used for foraging above.  Instead of pounds of good food, they recover the equivalent gold piece worth of ingredients. See the [Summary of 5e Alchemy Rules]({% link _posts/2021-01-24-summary-of-5e-alchemy-rules.md %}) for options.
+Alternatively, someone foraging could opt to gather herbs or ingredients for potions instead. If so, have them roll ***Intelligence (Nature)*** at the same DC used for foraging above.  Instead of pounds of good food, they recover the equivalent gold piece worth of ingredients. See the [Summary of 5e Alchemy Rules]() for options.
 
 ### Guide
 Guiding a party involves combining your knowledge of an area’s geography, history, and conditions to choose a safe and sure route. At the start of a day's journey, the guide decides the best route and rolls either an ***Intelligence (Nature)*** or ***Intelligence (History)*** check at the DC presented on the Terrain Pace table. This roll is made with disadvantage if the guide is unfamiliar with the terrain, has no maps, or has not gathered enough information prior to travel. On a failure, the chances of a random encounter or hazard are doubled for the travel period and the party has disadvantage on any stealth checks. Parties without a guide automatically fail this check. 
@@ -3909,16 +3308,7 @@ These actions and rules imply a healthy variety of hazards and challenges during
 
 Now get out there and run some great games.
 
----
-layout: post
-title: Sampling Random Ability Score Generation
-date: 2021-08-12 07:30
-category: Analysis
-author: Scott Turnbull
-image: /assets/img/abilityscore_generation_chart_1419x826.jpg
-tags: []
-description: Comparing different methods of random ability score generation in your 5th edition game.
----
+# Sampling Random Ability Score Generation
 
 Using randomly generated ability scores is a recurring topic on many 5e forums. Although, standard array and point buy are the most common method by far, rolled ability scores is the default method for 5e. Indeed, random ability scores were the standard for most of the history of Dungeons & Dragons,. Point buy was introduced with 3rd edition, and the Standard Array didn't come out until Xanathar's for 5th edition. While I consider standard array better for ensuring parity between players, the appeal of random ability rolls is still there for many.
 
@@ -3945,13 +3335,7 @@ The first thing to understand about any random ability score generation method i
 
 Common rules DMs use is to reroll abilities below a particular level, let players shift points around, or rerolling if you are below a particular score value. This kind of defeats the purpose of random abilities to me, but these are the base percentages you'll get from different methods.
 
-{% include imageframe.html
-  figure_class="clearfix"
-  src="/assets/img/abilityscore_generation_chart_1419x826.jpg"
-  alt="line graph featuring the probabilities of different random generation methods"
-  width="475" height="475"
-  caption="Chart data compiled from <a href='https://anydice.com/program/237f0' target='_blank'>Any Dice</a>"
- %}
+
 
 ### The Most Common Results
 
@@ -3976,28 +3360,14 @@ There is no superior method when generating ability score, it all depends on wha
 Now get out there and run some great games.
 
 
----
-layout: post
-title: Tavern Games - Darts for your D&D Game
-date: 2021-12-08 12:56
-categories:
-    - RPG Resources
-image: /assets/img/Gaston-Dart-Board_600x400.jpg
-description: A mini-game to simulate darts for your TTRPG play group.
----
+# Tavern Games - Darts for your D&D Game
 
 Mini-games can be fun distraction for your players in any TTRPG campaign. Downtime or social sessions can create a lot of opportunities for this in your game. With the release of [The Wild Beyond the Witchlight](https://dnd.wizards.com/products/wild-beyond-witchlight){:target="_blank"} adventure, players have asking about mini-games to use.  So I thought I'd share the rules for my simple mini-game for Darts.
 
 In the most simple case, a series of opposed DEX (**Athletics**) checks will suffice. However, I ended up with a play group that were Dart enthusiast and wanted a full on mini-game.  So I'm sharing the simple rules I used in hopes it might have some use in your sessions.
 
 
-{% include imageframe.html
-  figure_class="float-end ms-4"
-  src="/assets/img/Gaston-Dart-Board_600x400.jpg"
-  alt="A dart board in a wooden frame and chalkboard for score mounted on an old tavern wall."
-  width="600" height="400"
-  caption="Image from Gaston's Tavern by Disney."
- %}
+
 
 ## The Rules
 A player rolls 2 separate color D20s, the first represents the segment of the board, the second the ring.  Like normal darts the segment the dart lands in (the number rolled on the die) determines the score. If you're not familiar with darts, see the diagram below and it should make sense. The final score for the throw is modified by the result of the ring die like so.
@@ -4018,24 +3388,9 @@ This level of mini-game isn't for everyone, but groups looking to play out some 
 
 ## Reference
 Structure of a Dart Board with slices and rings for scoring.
-{% include imageframe.html
-  figure_class="clearfix"
-  src="/assets/img/Dartboard_diagram_637x473.jpg"
-  alt="A dart board with labels for different parts."
-  width="637" height="473"
-  caption="Image Credit, Wikipedia."
- %}
 
----
-layout: post
-title: The WoTC Errata, Long Past Due
-date: 2021-12-17 10:47
-category: Analysis
-author: Scott Turnbull
-tags: []
-description: My take on the recent Wizards of the Coast Dungeons and Dragons 5e errata.
-description: My take on teh recent Wizards of the Cost Dungeons and Dragons 5e errata.
----
+
+# The WoTC Errata, Long Past Due
 
 Greetings, adventurers! It's always exciting when the landscape of our beloved game, Dungeons & Dragons (D&D), shifts and morphs, opening up new pathways for our collective imagination. The [latest errata](https://media.wizards.com/2020/dnd/downloads/PH-Errata.pdf){:target="_blank"} issued for D&D 5E has brought such a change, one that holds significant implications for how we understand and play our favorite tabletop RPG. Among a host of clarifications, there is one change that stands out: the removal of alignment references for races in the Player's Handbook.
 
@@ -4051,27 +3406,13 @@ The rest of the errata presents a number of welcome clarifications that will sur
 
 Here's to the continued evolution of our beloved game, and the endless adventures that await us. Roll high, friends!
 
----
-layout: post
-title: Injured Condition For Lasting Damage
-date: 2022-10-01 11:38
-categories:
-    - RPG Resources
-image: /assets/img/camping_party_475x633.jpg
-description: A simple and quick lasting injuries system for DnD based on the Exhausted playtest.
----
+# Injured Condition For Lasting Damage
 
 Injuries in Dungeons & Dragons are important for two reasons: they add realism to the game and they can be used to add humor. By making injuries last longer, it gives the players a sense of realism and danger that they may not feel if they simply healed back up to full hit points after every battle. It also allows for some interesting role-playing opportunities, such as a character with a permanent limp trying to negotiate a difficult terrain. Finally, it can be fun to see how creative the players can be in dealing with their injuries and add depth to a game.
 
 With the release of the [Exhausted condition in the new OneDnD Playtest](https://media.dndbeyond.com/compendium-images/one-dnd/expert-classes/kpx0MvyfBGHe0XKk/UA2022-Expert-Classes.pdf?icid_source=house-ads&icid_medium=crosspromo&icid_campaign=playtest2){:target="_blank"}, injuries can be tracked in a way common with other game rules.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/camping_party_475x633.jpg"
-  alt="A mixed party of six adventurers resting by the campfire deep in the woods.  Two appear to be wounded or exhausted."
-  width="475" height="633"
-  caption="Image credit Wizards of the Coast"
- %}
+
 
 ### Injured [Condition]
 While you are subject to the Injured Condition you experience the following effects:
@@ -4114,25 +3455,11 @@ Lingering injuries and impact of choices beyond a single game day is one of the 
 
 Now get out there and run some great games!
 
----
-layout: post
-title: The Return of the Write Spell -  A Nostalgic Callback or Unnecessary Complexity?
-image: /assets/img/young_adult_wizard_scribing.jpg
-date: 2023-05-04 15:51
-category: RPG Resources
-author: Scott Turnbull
-description: This blog post explores the reintroduction of the Write spell in the D&D 5th edition playtest material, discussing its origins, potential purpose, and whether it adds meaningful depth or unnecessary complexity to the game.
----
+# The Return of the Write Spell -  A Nostalgic Callback or Unnecessary Complexity?
 
-As fans of Dungeons and Dragons 5th edition, we're always excited to see what new <a href="https://www.dndbeyond.com/sources/one-dnd/ph-playtest-5" target="_blank" rel="noreferrer noopener">playtest material</a> the developers come up with. Recently, there's been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&D community. The change involves introducing a spell called "Scribe Spell" to handle the scribing process, a concept that harkens back to an earlier spell called "Write" from the first edition of Advanced Dungeons and Dragons. In this blog post, we'll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.
+As fans of Dungeons and Dragons 5th edition, we're always excited to see what new playtest material the developers come up with. Recently, there's been a proposed change to how wizards scribe spells into their spellbooks that has stirred up some debate in the D&D community. The change involves introducing a spell called "Scribe Spell" to handle the scribing process, a concept that harkens back to an earlier spell called "Write" from the first edition of Advanced Dungeons and Dragons. In this blog post, we'll dive into the history of these spells, their potential purpose in the 5th edition, and whether they add value or just unnecessary complexity to the game.
 
-{% include imageframe.html
-  figure_class="float-end mx-4"
-  src="/assets/img/young_adult_wizard_scribing.jpg"
-  alt="A young adult wizard sitting at a desk and writing in a book with magic energy around them."
-  height="480" width="480"
 
- %}
 
 **A Blast from the Past: The Origins of Write and Scribe Spell**
 
@@ -4154,27 +3481,15 @@ Personally, I'm all for a spell system that adds danger or interesting managemen
 
 The introduction of the Scribe Spell in the D&D 5th edition playtest material, as a callback to the original Write spell, is an intriguing nod to the game's origins, but its practical value in the modern game is debatable. Personally, I don't see what it adds to the game. While it's great to see developers experimenting with different mechanics, it's important to recognize when a design element might not be the best fit for the current edition. The Scribe Spell is a fascinating part of D&D history, but it may be best left in the past as we continue to evolve the game and focus on what makes it truly engaging for players.
 
----
-layout: post
-title: Revised Injured Condition
-date: 2023-05-13 10:30
-categories:
-    - RPG Resources
-image: /assets/img/treating-injuries480x480.jpg
-description: A simple and quick lasting injuries system for DnD based on the Exhausted playtest.
----
+# Revised Injured Condition
+
 Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.
 
 The lasting injury mechanic fosters a sense of camaraderie among players as they must now invest in each other's well-being, reinforcing the bonds of their adventuring party. By raising the stakes in this way, victories become even more rewarding, and surviving against the odds offers an unparalleled sense of accomplishment. In essence, this system deepens player engagement, making every encounter, decision, and dice roll truly matter in their shared story.
 
-Below is a revised version of the [original Injury Rules]({% link _posts/2022-10-01-injured-condition-onednd.md %}) I created based on the OneDnD playtest changes to Exhaustion.
+Below is a revised version of the [original Injury Rules]() I created based on the OneDnD playtest changes to Exhaustion.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/treating-injuries480x480.jpg"
-  alt="A man in armor kneeling next to a young woman who is holding her arm out to receive healing."
-  width="480" height="480"
- %}
+
 
 ### Injured [Condition]
 
@@ -4205,17 +3520,7 @@ While you are subject to the Injured Condition, you experience the following eff
 In conclusion, incorporating the Injury rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it's a more challenging way to play, the rewards are substantial, making each victory a testament to the players' resilience and teamwork.
 
 
----
-layout: post
-title: Introduction to the World of Etherea
-date: 2023-05-13 15:46
-categories:
-    - Shadowdark
-    - Lore 
-author: Scott Turnbull
-image: /assets/img/etherea-setting-lineart.jpg
-description: An introduction my homebrew setting of Etherea, for use with the Shadowdark RPG.
----
+# Introduction to the World of Etherea
 
 Etherea is the initial idea for a setting I've crafted for the [Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark){:target="_blank"} Tabletop Roleplaying game, designed to foster a sense of intrigue and danger inherent in the exploration of magic and the supernatural. The core concept of the world, the Umbraweave, is meant to evoke a persistent sense of mystery and unease, underlining the idea that behind the veil of reality, potent emotions and intense events birth spirits that drift in the shadows. The aim is to instill a constant sense of tension and wonder in the players, offering them a world where magic is as unpredictable and dangerous as it is powerful.
 
@@ -4225,12 +3530,7 @@ I plan to continue to chip away at this setting as I gear up to run some Shadowd
 
 ### Etherea: A Shattered Elegy
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/etherea-setting-lineart.jpg"
-  alt="A massive ruined city overgrown in forest dwarfing a band of adventurers."
-  width="480" height="480"
- %}
+
 
 Etherea is a shattered world that was once teeming with magic and wonder. Its landscape was adorned with grand citadels, crystal forests, and cities of floating spires that touched the stars. Etherea was home to mighty empires and enlightened civilizations whose command of magic was unrivaled. They had learned to dance with the Umbraweave, the mysterious realm of spirits, making it their partner in the grand performance of existence.
 
@@ -4264,12 +3564,7 @@ The Umbraweave's existence has shaped the world of Etherea in profound ways. It 
 
 ### Arcana of the Umbraweave
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/etherea-magic-lineart.jpg"
-  alt="A man standing in the middle of a magical strom of lightning, his face twisting."
-  width="480" height="480"
- %}
+
 
 
 Magic in Etherea is not merely a tool, but a profound expression of the inner self interacting with the vast, unseen forces of the Umbraweave. It is an art of intention and emotion, a delicate dance with the Echoforms, and a testament to the willpower of those who dare to shape reality through the shadow realm.
@@ -4300,30 +3595,15 @@ Yet the divine landscape of Etherea is not limited to these grand ideals. Just a
 
 Such is the grand tapestry of faith in Etherea. It is a world where the divine is as varied and complex as the people who worship them, where the line between mortal and god can blur, and where the echoes of belief shape not just the Umbraweave, but the very fate of the world itself.
 
----
-layout: post
-title: Design Goals of Etherea
-date: 2023-05-14 11:10
-categories:
-    - Shadowdark
-    - Lore 
-author: Scott Turnbull
-image: /assets/img/design-of-etherea.jpg
-description: An introduction my homebrew setting of Etherea, for use with the Shadowdark RPG.
----
+# Design Goals of Etherea
 
-Yesterday, I posted some initial lore for [Etherea]({% link _posts/2023-05-13-the-world-of-etherea.md %}) (Ah-Ther-ee-ah), a homebrew world am interested in developing for a setting I'm creating for a new [Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark){:target="_blank"} game. This is a personal endeavor, not intended for publication (other than on my blog here). I'm captivated by the idea of things manifesting in the world based on emotions, beliefs, etc., and the resulting chaos of magic surrounding it. The concept is akin to the Umbra from Werewolf: The Forsaken, Spren in the Stormlight Archives, or entities like the creature in the Babadook that manifests from fear or unfulfilled wishes.
+Yesterday, I posted some initial lore for [Etherea]() (Ah-Ther-ee-ah), a homebrew world am interested in developing for a setting I'm creating for a new [Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark){:target="_blank"} game. This is a personal endeavor, not intended for publication (other than on my blog here). I'm captivated by the idea of things manifesting in the world based on emotions, beliefs, etc., and the resulting chaos of magic surrounding it. The concept is akin to the Umbra from Werewolf: The Forsaken, Spren in the Stormlight Archives, or entities like the creature in the Babadook that manifests from fear or unfulfilled wishes.
 
 An essential aspect of Etherea is its vibrant diversity. The gods are not a static, singular pantheon, but a fluid and dynamic reflection of the world's diverse cultures, beliefs, and aspirations. The world doesn't merely exist; it actively shapes itself in response to the collective imaginations, desires, and fears of its inhabitants. This mutable nature is a double-edged sword. It's both the root of Etherea's challenges and the source of its profound beauty and richness.
 
 As a game setting, I'm interested in creating lore elements that:
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/design-of-etherea.jpg"
-  alt="A man sitting at a desk writing while surrounded by fantasy imagines from their imagination."
-  width="480" height="480"
- %}
+
 
 1. **Provide rich backstories and conflicts for characters:** The history and cultures of Etherea, the tensions between Weavers and the devout, and the looming threats of the Umbraweave all provide interesting hooks for character backstories and personal quests.
 2. **Facilitate immersive world-building:** The interplay between Etherea and the Umbraweave, the mystery of fallen civilizations, and the omnipresent influence of the gods create a rich tapestry for players to explore and interact with.
@@ -4334,12 +3614,7 @@ As a game setting, I'm interested in creating lore elements that:
 
 As a tool for driving adventures, I want Etherea to offer a wealth of in-game elements, directly woven into its lore. This should provide a cohesive narrative framework for diverse adventures:
 
- {% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/etherea-crystal-rain-ruin.jpg"
-  alt="A massive ruin in an overgrown forest glows from the inside while crystal rain falls from the sky."
-  width="480" height="480"
- %}
+ 
 
 1. **Monster Encounters with Deep Lore:** Monsters in Etherea aren't just random encounters. Each creature is a manifestation of the region's history, emotions, and events, channeled through the Umbraweave. An abandoned ruin that fell victim to a cataclysmic event isn't simply vacant; it teems with vile creatures such as goblins, ghasts, and gibbering mouthers, all born from the tragedy's echo within the Umbraweave.
 
@@ -4351,25 +3626,11 @@ The core lore of Etherea—its cataclysmic history, the mystical Umbraweave, and
 
 Following this, I'll take a stab at creating a few actual towns. I plan to use spiral world development for this task, building out from some core settlements.
 
----
-layout: post
-title: Origins of the Astral and Ethereal Planes in D&D
-date: 2023-05-15 13:03
-category: RPG Resources
-author: Scott Turnbull
-tags: []
-image: /assets/img/transativeplanes.jpg
-description: A history of the origins of the astral and ethereal plans in DnD and why they exist.
----
+# Origins of the Astral and Ethereal Planes in D&D
 
 Recently, [DMDavid](https://twitter.com/dmdavidblog/status/1658104726297165830){:target="_blank"} posed a fascinating question on Twitter about the origins of the [Astral and Ethereal Planes](https://www.dndbeyond.com/sources/basic-rules/appendix-d-the-planes-of-existence#TransitivePlanes){:target="_blank"} in the early editions of Dungeons and Dragons (DnD). As a devoted Tabletop Roleplaying Game enthusiast, I'd like to delve into this intriguing query and shed some light on the cultural and historical influences that shaped these iconic facets of the game.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/transativeplanes.jpg"
-  alt="A man sitting at a desk writing while surrounded by fantasy imagines from their imagination."
-  width="480" height="480"
- %}
+
 
 As an side, if you haven't had a chance to check out [DMDavid's Blog](https://dmdavid.com/){:target="_blank"}, I highly recommend it.
 
@@ -4395,26 +3656,13 @@ While 5e continues to reference other planes, its focus is more on simplifying r
 
 In the end, each player must decide whether this shift towards simplification is beneficial. Regardless of the answer, the origins and historical context of the Astral and Ethereal planes in DnD provide a fascinating glimpse into the game's rich and diverse influences, adding another layer of depth to this already immersive game.
 
----
-layout: post
-title: Experience Matters - The benefits of XP in 5th edition
-date: 2023-05-17 11:00
-category: RPG Resources
-author: Scott Turnbull
-image: /assets/img/PlayerWithDiceAndPaper.jpg
-description: Advocating for XP in D&D 5e. this post discusses its role in boosting engagement, diversifying actions, and improving game immersion.
----
+# Experience Matters - The benefits of XP in 5th edition
 
 In the diverse world of Tabletop Role-Playing Games (TTRPGs), the progression system you choose can significantly influence the way your campaign unfolds. In 5th edition Dungeons & Dragons (D&D), two popular methods of character progression exist: Experience Points (XP) and Milestone Advancement. While Milestone Advancement has its merits, I am here to make a case for XP, an often overlooked, but immensely beneficial system.
 
-In a previous post I discussed the [Zen of Awarding Experience for Roleplaying]({% link _posts/2021-02-25-the-zen-of-awarding-experience-for-roleplaying.md %}) which demonstrates an easy method for awarding non-combat experience.  DMs can apply this to exploration or any activity beyond killing creatures. Chapters 8 and 3 of the 5e DMG also provide some guidance on this as well.  I had a recent exchange online that helped me summarize what I see the forgotten benefits of using XP are.  I thought I'd share them here.
+In a previous post I discussed the [Zen of Awarding Experience for Roleplaying]() which demonstrates an easy method for awarding non-combat experience.  DMs can apply this to exploration or any activity beyond killing creatures. Chapters 8 and 3 of the 5e DMG also provide some guidance on this as well.  I had a recent exchange online that helped me summarize what I see the forgotten benefits of using XP are.  I thought I'd share them here.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/PlayerWithDiceAndPaper.jpg"
-  alt="A player rolling dice and looking over their character sheets."
-  width="480" height="480"
- %}
+
 
 **Building a World One XP at a Time**   
 XP connects characters to their actions within the world. Each monster slain, each trap disarmed, every cleverly negotiated encounter, earns the characters XP, helping them grow stronger and more skilled. This system offers a tangible reward for engaging with the world, breathing life into the setting and making it matter to the players.
@@ -4446,32 +3694,14 @@ While XP offers numerous benefits, it's essential to be mindful of what you awar
 **Conclusion**    
 In conclusion, XP is more than just a mechanic for character progression. It's a tool that, when used correctly, can foster engagement, enhance immersion, and create a richer, more rewarding D&D experience. In 5th edition, our tools for connecting players to the world are few. Finding fun ways to do that can help build a more holistic narrative and immersive experience for all.  What do you think though?  How has experience worked for you in the past? Would you be tempted to give XP a try after reading this or are you ride-or-die on Milestone?  Drop me a comment [over on twitter](https://twitter.com/optionalrule){:target="_blank"} to let me know what you think.
 
----
-layout: post
-title: Vathirond City of Wild Inspiration
-date: 2023-05-19 12:38
-categories:
-    - RPG Resources
-    - Lore
-author: Scott Turnbull
-tags: []
-image: /assets/img/VathirondInspiration4.png
-description: Lore for the City of Vathirond in the Eberron setting.
----
+# Vathirond City of Wild Inspiration
 
+As a Dungeon Master, there's nothing quite as enticing as the prospect of molding a lesser-known city into a stage for unforgettable adventures. In 2019, I found myself drawn to the city of Vathirond, tucked away in far eastern Breeland, on the fringes of Eberron's haunting Mournlands. With the Brey River's southern bank underfoot and the specter of the Gray Mist as a backdrop, Vathirond was an irresistible canvas for my homebrew campaign. Yet, as fate would have it, our journey through this enigmatic city was cut short due to the COVID pandemic. Now, after a couple of years, I've dusted off my notes and decided to share them with the world. Whether you're a seasoned Dungeon Master or a curious reader, I hope you find these glimpses into Vathirond - the city on the edge of the Mournlands - as fascinating as I did while crafting them.
 
-<div class="text-bg-light mb-3 p-3 lead">As a Dungeon Master, there's nothing quite as enticing as the prospect of molding a lesser-known city into a stage for unforgettable adventures. In 2019, I found myself drawn to the city of Vathirond, tucked away in far eastern Breeland, on the fringes of Eberron's haunting Mournlands. With the Brey River's southern bank underfoot and the specter of the Gray Mist as a backdrop, Vathirond was an irresistible canvas for my homebrew campaign. Yet, as fate would have it, our journey through this enigmatic city was cut short due to the COVID pandemic. Now, after a couple of years, I've dusted off my notes and decided to share them with the world. Whether you're a seasoned Dungeon Master or a curious reader, I hope you find these glimpses into Vathirond - the city on the edge of the Mournlands - as fascinating as I did while crafting them.
-</div>
 
 Situated amidst the low, rolling hills of the northern Dunvar Valley, the city of Vathirond was once a vibrant hub of creativity and artistry, where inspiration flowed as freely as the wind. The city, renowned across Khorvaire for its extravagant displays of artistic prowess, was known to entice artists and creators from all corners of the continent. They were drawn not only by the vibrancy of Vathirond's culture but also by the city's minor manifest zone to Xoriat, the plane of madness, which imbued the city with an aura of wild inspiration.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/VathirondInspiration4.png"
-  alt="A once elegant but now devistated city of complex and stacked buildings."
-  width="480" height="480"
-  caption="The Crown of Masks"
- %}
+
 
 However, the Last War has left the city a shadow of its former self, its once-gleaming Crowns now scarred by conflict and its streets haunted by memories of a brighter past. The Mournlands loom ominously on the eastern horizon, a stark, ever-present reminder of the devastation wrought by the Last War. From the city's highest points, one can see the unnatural, eerie glow that seems to perpetually hang over the scarred landscape. This spectral vista casts a pall over Vathirond, a constant reminder of a cataclysm yet to be fully understood. The very sight of it evokes a mix of dread, sorrow, and grim fascination among the city's inhabitants. Its unnerving presence fuels a sense of urgency among the residents of Vathirond, a constant reminder of the fragility of peace and the cost of conflict. Yet, in a testament to the indomitable spirit of the city's people, the looming specter of the Mournlands also inspires a defiant determination. They see the Mournlands not just as a symbol of past horrors, but also as a challenge to be overcome, a puzzle to be solved, and a destiny they must prevent for their own city.
 
@@ -4507,13 +3737,7 @@ Today, the Crown of Sirens stands as a testament to the impermanence of glory an
 
 House Tharashk, utilizing their unique dragonmarked talents for finding people and things, offer their services to refugees and travelers desperately searching for lost loved ones or belongings in the blighted expanses of the Dunvar Valley and the enigmatic Mournlands. The enclave, while a stark reminder of the tragedies of the past, embodies a spirit of resilience and the enduring hope of reconnection.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/vathirondpinspriation2.png"
-  alt="A once elegant but now devistated city of complex and stacked buildings."
-  width="480" height="480"
-  caption="The Crown of Crafts"
- %}
+
 
 ### Crown of Crafts: From Artistry to Industry
 
@@ -4559,13 +3783,7 @@ Many of the refugees from Cyre found a haven in The Gutters following The Mourni
 
 Now, The Gutters are a testament to the human will to endure. Amidst the battered and patched structures, in the narrow alleyways teeming with life, you find stories of courage, resilience, and the undying hope for a better tomorrow. Even in the bleakest of places, the spirit of Vathirond — indomitable and ever enduring — continues to shine.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/VathirondWarSalvage.png"
-  alt="A human and dwarf woman resting amid piles of salvage."
-  width="480" height="480"
-  caption="Salvagers Resting"
- %}
+
 
 ## Dunvar Valley: From Fertile Lands to Haunted Battlegrounds
 
@@ -4615,23 +3833,13 @@ In the wake of the Last War, new powers have risen within Vathirond:
 
 **The Korranberg Institute for Mournlands Research (KIMR)** is a beacon of hope amidst the ruins of Vathirond. Occupying the remains of the once grand Lonteu Opera House in the Crown of Sirens, KIMR is a huddle of academic rigor and unwavering determination. Comprised of intrepid scholars, skilled wizards, and a cadre of brave souls unafraid to probe the enigmatic Mournlands, they have transformed this erstwhile cultural edifice into a nerve center of knowledge and discovery. Amidst the grandeur of fallen arches and dilapidated galleries, they pursue a mission that's as daunting as it is crucial: to understand the Mournlands, to peel back the layers of mystery shrouding it, and, ultimately, to unearth ways to heal the scars left by the Last War. The scholars of KIMR, though working in the face of unimaginable devastation and under the shadow of the Mournlands, persist, their pursuits lighting the path towards potential restoration and redemption for Vathirond and perhaps all of Khorvaire.
 
-<div class="text-bg-light mb-3 p-3 lead">
+
 And there you have it – the bones and sinews of a city teetering on the brink, waiting to rise from the ashes or be forever consumed. Should your curiosity be piqued by these broad strokes of Vathirond, I'd be more than willing to delve into the labyrinth of adventures and encounters that were conceived within its Crowns. It's a testament to the city's captivating allure that I find myself yearning to return to its scarred yet resilient streets in any future explorations of Eberron.
 
 Your thoughts and queries are the lifeblood that fuels this chronicle. Don't hesitate to reach out via Twitter if Vathirond has caught your imagination or if you're grappling with burning questions. Your engagement breathes life into these words. Here's to shared adventures and stories yet untold. Until next time, Cheers!
-</div>
 
----
-layout: post
-title: Malevolent Monsters - The Mind Reaver
-date: 2023-05-24 08:43
-categories:
-    - RPG Resources
-    - Monsters
-image: /assets/img/monsters/mind_reaver_500x500.jpg
-author: Scott Turnbull
-description: The Mind Reaver, a chaos driven twisted creature from the Underdark.
----
+
+# Malevolent Monsters - The Mind Reaver
 
 In the thrilling realm of Dungeons & Dragons, where weI've crafted epic battles and monstrous foes, I'm thrilled to introduce my latest creation, the Mind Reaver. This new entity is a nightmarish variation of the classic Mind Flayer. It's not just a twisted iteration but an entirely different beast that thrives in chaos and malice, unlike its lawful evil kin. The Mind Reaver promises to surprise, challenge, and instill a sense of dread in even the most seasoned adventurers. As I bring this unpredictable creature into our stories, I aim to add another layer of depth to our collective adventures. So get ready, fellow Dungeon Masters and players, as we dive headlong into the chaotic and terrifying world of the Mind Reaver.
 
@@ -4651,7 +3859,7 @@ It's rumored that these creatures, despite their volatile and chaotic behavior, 
 
 In the end, the Mind Reaver is a tragic figure. Born of a process meant to create perfection, they are instead left as imperfect beings in a world that shuns them. Yet it's this imperfection, this deviation from the norm, that makes them a force to be reckoned with. One should be wary when traversing the dark recesses of the Underdark, for you never know when you might cross paths with a Mind Reaver.
 
-{% include monsters/mind_reaver.md %}
+
 
 ## Using  Mind Reavers
 The Mind Reaver, with its Challenge Rating (CR) of 5, serves as an ideal boss monster for low-level parties or as a group threat for more advanced players. It embodies the very essence of malevolent chaos, destruction, resentment, and bitter betrayal, providing a gripping and intense encounter in any campaign. Whether it's the primary antagonist in a dark story arc or a surprise menace lurking in the depths of your dungeon, the Mind Reaver promises an unforgettable encounter.
@@ -4678,24 +3886,11 @@ The Mind Reaver, with its Challenge Rating (CR) of 5, serves as an ideal boss mo
 
 10. **The Relic of Chaos**: An ancient artifact that holds the essence of a powerful Mind Reaver has been stolen, threatening to unleash the beast if not recovered in time.
 
----
-layout: post
-title: Reimagining the Mark Option in D&D 5E - Empowering Martial Characters
-date: 2023-05-27 10:28
-category: RPG Resources
-author: Scott Turnbull
-image: /assets/img/OpportunityAttack_480x720.jpg
-description: Explore a proposed revision to D&D 5E's "Mark" option to boost martial gameplay, simplifying rules and enriching combat dynamics.
----
+# Reimagining the Mark Option in D&D 5E - Empowering Martial Characters
+
 Dungeons and Dragons 5th Edition's Dungeon Master’s Guide (DMG) presents an array of optional rules that, regrettably, often recede into obscurity. One such overlooked provision, nestled within Chapter 9 of the DMG, is the "Mark" option. This rule, seemingly promising on the surface, is burdened with unnecessary complexities, offering marginal benefit.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/OpportunityAttack_480x720.jpg"
-  alt="A fighter slashing at the back of an enemy as they run away. Black and white line art."
-  width="480" height="720"
-  caption="No Running!"
- %}
+
 
 The original Mark option requires a character to 'mark' a target each turn and diligently keep track of this choice. The upside? The ability to execute an Opportunity Attack without consuming a reaction - a beneficial yet sporadic occurrence. However, the tediousness of marking a target every round, coupled with the relative rarity of Opportunity Attacks, seems needlessly complex and limiting, making this rule an unwieldy addition to many campaigns.
 
@@ -4714,26 +3909,13 @@ This alteration doesn't bog down gameplay with added choices, applies uniformly 
 
 That's my take on this potential enhancement to the Mark rule, but what about you? Do you see the value this could bring to your game? We're all ears for your thoughts, so let's start a conversation.
 
----
-layout: post
-title: You Have the Power - Places of Power in D&D
-date: 2023-05-31 08:54
-category: RPG Resources
-author: Scott Turnbull
-image: /assets/img/PlaceOfPower._480x720.jpg
-tags: []
-description: Dive into D&D's magic with our guide on Places of Power. Explore how to find, attune, and harness these unique locations to enhance your game.
----
+# You Have the Power - Places of Power in D&D
+
 The untamed forces of magic in Dungeons and Dragons have long held the power to both awe and terrify, a duality echoed in the narrative threads of fantasy literature. This house rule invites players to embrace this paradox, offering a high-stakes opportunity to amplify their spells beyond conventional limits. But, this isn't a risk to be taken lightly; mastery comes with potential for both magnificent success and cataclysmic failure. This high-risk, high-reward dynamic is not universal, but rather tethered to Places of Power - locations within the game world steeped in raw, wild magical energy. Here, spellcasters can attempt to weave this abundant power into their own spells, pushing the boundaries of what they could usually achieve. However, the road to arcane supremacy is fraught with peril, and the volatile energies of these places can lead to unexpected and dangerous consequences.
 
 As a Dungeon Master, this house rule offers a unique narrative tool to manage the use of these amplified abilities and build compelling encounters. Villains, drawn to the immense power offered by these locations, might set up their lairs in Places of Power, adding an extra layer of challenge and strategy to confrontations. Moreover, these magical nexuses can become focal points in your campaign, driving the narrative as players might actively seek these places out, eager to tap into their vast potential. This is not just a rule - it is a lore, a plot device, and a tantalizing challenge all rolled into one, offering new avenues for character development and world-building. Embark on this arcane journey, and let your game be infused with the volatile and awe-inspiring power of raw magic.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix"
-  src="/assets/img/PlaceOfPower._480x720.jpg"
-  alt="A ruin teaming with magical energy."
-  width="480" height="720"
- %}
+
 
 ## Places of Power
 
@@ -4953,55 +4135,21 @@ The following examples offer a peek into what Places of Power might look like in
 {:.rule}
 {:.simple-rule}
 
----
-layout: post
-title: Decoding D&D - What the heck are Hit Points Anyway?
-date: 2023-06-02 08:51
-categories:
-  - Analysis
-  - RPG Resources
-image: /assets/img/mandy-jurgens-female-plate_475x672.jpg
-author: Scott Turnbull
-tags: []
-description: This post unravels the history of D&D's Hit Points (HP), from wargaming roots to 5th Ed's abstract system. And it looks into what the heck hit points are supposed to be anyway.
----
+# Decoding D&D - What the heck are Hit Points Anyway?
+
 The conversation around what Hit Points (HP) are and what they represent in Dungeons & Dragons (D&D) is a cyclical one. It's a concept that periodically bubbles up in the tabletop role-playing game (TTRPG) community, like an ancient dragon in its cyclical slumber, and we seem to be in the midst of another awakening.
 
 It's no surprise that understanding HP often seems like trying to learn Draconic without a spell of Comprehend Languages. Table Top Roleplaying Games are narrative adventures, so we naturally want to weave a compelling story around every game element. And therein lies the enigma of Hit Points - no matter how you narrate them, you're likely to walk into a wall of confusion and pile of contradictions.
 
-<div class="d-inline-flex flex-column float-end">
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix shadow p-3 mb-5 bg-body-tertiary rounded"
-  src="/assets/img/hitpoints/ODnD_p18_480.png"
-  alt="Text on HP from the original DnD book."
-  width="480"
-  caption="Original and B/X D&D"
-%}
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix shadow p-3 mb-5 bg-body-tertiary rounded"
-  src="/assets/img/hitpoints/1stEditionDnD480.png"
-  alt="Text on HP from AD&D."
-  width="480"
-  caption="The AD&D PHB"
-%}
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix shadow p-3 mb-5 bg-body-tertiary rounded"
-  src="/assets/img/hitpoints/2ndEditionDnD480.png"
-  alt="Text on HP from 2nd Edition AD&D."
-  width="480"
-  caption="The 2nd Edition AD&D PHB"
-%}
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix shadow p-3 mb-5 bg-body-tertiary rounded"
-  src="/assets/img/hitpoints/5thEditionDnD480.png"
-  alt="Text on HP from 5E D&D."
-  width="480"
-  caption="The 5e PHB"
-%}
-</div>
+
+
+
+
+
+
 
 ## A Historical Perspective
 
@@ -5042,28 +4190,13 @@ In my humble opinion, D&D intends for players to embrace the vagueness of Hit Po
 Now get out there and run some great games!
 
 
----
-layout: post
-title: Pitch Perfect - Using a Pitch Deck for Your D&D Campaign
-date: 2023-06-10 10:46
-category: RPG Resources
-image: /assets/img/CharactersCelebratingAtTable_480x480.png
-author: Scott Turnbull
-tags: [TTRPG, DnD, Player Recruitment, Safety Tools]
-description: Pitch your D&D campaign like a start-up. Use a pitch deck to attract the right players, align expectations and kickstart a successful game.
----
+# Pitch Perfect - Using a Pitch Deck for Your D&D Campaign
+
 Launching a new Dungeons & Dragons campaign is no small feat. It requires not only the arduous task of finding players, but also identifying those who are the perfect fit for your envisioned adventure. Even before delving into character backgrounds, safety tools, or other vital session zero elements, a Dungeon Master's first hurdle is convincing potential players to invest their precious time and energy into the unfolding saga. This initial step bears striking similarity to pitching a fresh product or service. Just as entrepreneurs entice investors with the promise of innovation and value, DMs need to captivate potential players with a compelling campaign concept. Enter the Pitch Deck - a tool commonly used in the business world, but equally potent in setting the stage for a thrilling D&D campaign.
 
 Indeed, a Pitch Deck isn't mandatory. You could create a written summary instead. The advantage of a deck, however, is its brevity and focus on essentials. Regardless of format, the aim stays the same. We'll conclude with a template to help you craft your own pitch, be it a Deck or a Summary.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix p-3 mb-5"
-  src="/assets/img/CharactersCelebratingAtTable_480x480.png"
-  alt="A group of adventurers in a tavern with a leader giving an inspirational speech."
-  width="480"
-  height="480"
-  caption="Run the game in your heart."
-%}
+
 
 ## What is a Pitch Deck?
 
@@ -5103,14 +4236,7 @@ The Campaign Pitch Summary is the essential part of your game pitch. Ideally, if
 
 * **Baseline Boundaries:** As touched on earlier, this would be my first choice for an additional slide after the summary. Boundaries are crucial in TTRPGs and can significantly affect the game's enjoyment. While DMs should undoubtedly discuss player boundaries in session zero, it's also essential to establish baseline expectations or non-negotiables ahead of that discussion. This sets a clear foundation and prevents any false sense of flexibility during session zero. For instance, I'm not fond of overly sexualized or evil play; it doesn't mesh with my style. Your preferences and the nature of your game may differ. If you plan to run a particularly grim setting like Dark Sun, players should be aware of that before session zero. This slide is the place for such disclosures.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix p-3 mb-5"
-  src="/assets/img/ROTFM_PitchDeck.gif"
-  alt="Animated GIF of the pitch deck I used in my Rime of the Frostmaiden Campaign."
-  width="480"
-  href="https://docs.google.com/presentation/d/1kjaK9Q9p90P54E2ITZPf0DHGyaZZMHXYAg52Ar19zp4/edit?usp=sharing"
-  caption="Example Pitch for my RotF Campaign"
-%}
+
 
 ## Other Resources
 
@@ -5118,7 +4244,7 @@ Creating a TTRPG Pitch Deck can be as elaborate or as straightforward as the DM 
 
 Here are a few useful resources:
 
-* [**Pitch Deck Template**]({% link assets/downloads/TTRPG_Pitch_Deck_Template.pptx %}) I've designed this simple pitch deck template, complete with prompts for a one-page summary. It's provided in PowerPoint format, but you can upload it to Google Drive or open it with LibreOffice.
+* [**Pitch Deck Template**]() I've designed this simple pitch deck template, complete with prompts for a one-page summary. It's provided in PowerPoint format, but you can upload it to Google Drive or open it with LibreOffice.
     * For a real-world example, take a look at this [Rime of the Frostmaiden Pitch Deck](https://docs.google.com/presentation/d/1kjaK9Q9p90P54E2ITZPf0DHGyaZZMHXYAg52Ar19zp4/edit?usp=sharing){:target="_blank"} I used for my campaign.
 * [**Writing a One-Page Campaign Guide**](https://slyflourish.com/one_page_campaign_guide.html){:target="_blank"} by Mike 'Sly Flourish' Shea offers another perspective. While I prefer using the pitch to pique interest and then this tool to provide more context prior to session zero, you could begin with this if you've already garnered sufficient interest.
 * [**Pitching Your Campaign**](https://youtu.be/MtH1SP1grxo){:target="_blank"} by Matt Colville is a fantastic video from his Running the Game series.
@@ -5129,26 +4255,10 @@ Getting player investment from the start can be a powerful tool for launching yo
 
 Now get out there and run some great games!
 
----
-layout: post
-title: Decoding D&D - The Enigma of Armor Class
-date: 2023-06-16 12:17
-categories:
-  - Analysis
-  - RPG Resources
-author: Scott Turnbull
-image: /assets/img/the_duel_480x720.png
-description: Explore the abstraction of Armor Class in D&D, its roots in wargaming, and its dance with Hit Points.
----
-Delving into the oft-debated mechanics of Dungeons and Dragons (D&D), it's hard to overlook the perennial discussion points: Armor Class (AC) and Hit Points (HP). While they may seem simple on the surface, these fundamental aspects of D&D often engender misunderstandings and heated debates. Armor Class, though instinctively viewed as a gauge of whether a character is struck or not, is in fact a more abstract concept. Following my recent post [What are HPs in D&D anyway?]({% link _posts/2023-06-02-what-are-hit-points-in-dnd.md %}), it's fitting that we now unpack the intricacies of AC and its symbiotic relationship with HP - the two crucial pillars that underpin the game's combat system.
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix p-3 mb-5"
-  src="/assets/img/the_duel_480x720.png"
-  alt="Black and white art of two women dueling."
-  width="480"
-  height="720"
-  caption="Rock, Paper, Greatsword!"
-%}
+# Decoding D&D - The Enigma of Armor Class
+
+Delving into the oft-debated mechanics of Dungeons and Dragons (D&D), it's hard to overlook the perennial discussion points: Armor Class (AC) and Hit Points (HP). While they may seem simple on the surface, these fundamental aspects of D&D often engender misunderstandings and heated debates. Armor Class, though instinctively viewed as a gauge of whether a character is struck or not, is in fact a more abstract concept. Following my recent post [What are HPs in D&D anyway?](), it's fitting that we now unpack the intricacies of AC and its symbiotic relationship with HP - the two crucial pillars that underpin the game's combat system.
+
 ## The Genesis of Armor Class
 
 The genesis of AC in D&D dates back to the game's wargaming origins, where combat was typically a binary concept - either a unit was victorious or it was defeated. But as D&D emerged, focusing on individual combat encounters instead of unit battles, a more intricate system was called for. To build and sustain tension for individual characters throughout an adventure, a 'tug of war' mechanic was introduced, wherein the game sought to quantify both a character's resilience HP and the time needed to overcome them. Hence, Armor Class was born.
@@ -5185,27 +4295,18 @@ Rules play a pivotal role in defining the tone, pace, and action in a TTRPG. At 
 
 And so, dear reader, as with Hit Points, I encourage you to embrace the abstract nature of Armor Class. It's a tool, a game mechanic designed to simulate the unpredictability and risk of combat in a fantasy world. It's there help build a narrative through game play, because you don't need a lesson in impact physics, you need a trilling duel in the streets of Neverwinter!  Use it as such, and weave it into your narrative in a way that enhances your game, not restricts it. Happy gaming!
 
----
-layout: post
-title: Malevolent Monsters - Rage Husk
-date: 2023-06-16 11:45
-categories:
-    - RPG Resources
-    - Monsters
-author: Scott Turnbull
-image: /assets/img/monsters/RageHusk_407x610.png
-description: Unearth the chilling world of Rage Husks in DnD! Discover lore, encounter tactics, and adventure seeds for these psychic zombies of the Underdark.
----
-Welcome, intrepid Dungeon Masters, to the next thrilling addition to our bespoke bestiary: **The Rage Husk**. This terrifying creature is no standard zombie; it's a psychic construct, the haunting aftermath of a [Mind Reaver]({% link _posts/2023-05-24-monster-mind-reaver.md %})'s psychic assault. Incorporating elements of D&D 4e's Minion mechanics, Rage Husks serve as a swarm of formidable adversaries that, while dispatched with a single blow, offer a uniquely relentless and ruthless challenge. Join us as we delve into the grim lore of these dreadful entities and explore how they can elevate your campaign, introducing fresh layers of tension, suspense, and strategic complexity. Embrace the dread, harness the horror, and let your adventurers feel the chill of the Mind Reaver's shadow with the introduction of the Rage Husk.
+# Malevolent Monsters - Rage Husk
+
+Welcome, intrepid Dungeon Masters, to the next thrilling addition to our bespoke bestiary: **The Rage Husk**. This terrifying creature is no standard zombie; it's a psychic construct, the haunting aftermath of a [Mind Reaver]()'s psychic assault. Incorporating elements of D&D 4e's Minion mechanics, Rage Husks serve as a swarm of formidable adversaries that, while dispatched with a single blow, offer a uniquely relentless and ruthless challenge. Join us as we delve into the grim lore of these dreadful entities and explore how they can elevate your campaign, introducing fresh layers of tension, suspense, and strategic complexity. Embrace the dread, harness the horror, and let your adventurers feel the chill of the Mind Reaver's shadow with the introduction of the Rage Husk.
 
 ## Rage Husks
-In the labyrinthine depths of chaotic realms, there dwell malevolent entities known as a [Mind Reaver]({% link _posts/2023-05-24-monster-mind-reaver.md %}). These beings, aberrations formed from failed attempts to create Mind Flayers, weave their own brand of dark, psychic terror. It's in their destructive wake that the unfortunate victims are morphed into the monstrosities known as Rage Husks. 
+In the labyrinthine depths of chaotic realms, there dwell malevolent entities known as a [Mind Reaver](). These beings, aberrations formed from failed attempts to create Mind Flayers, weave their own brand of dark, psychic terror. It's in their destructive wake that the unfortunate victims are morphed into the monstrosities known as Rage Husks. 
 
 Robbed of their sanity and consciousness by the Mind Reavers, the victims are left with nothing but an echo of the pain and fury experienced in their final cognizant moments. This torment is reshaped into a fearsome determination to destroy, creating a formidable, mindless husk fueled by pure rage. 
 
 Rage Husks are often found scattered across the aftermath of a Mind Reaver attack, a chilling reminder of their terrifying power. Furthermore, within the treacherous lairs of these vile creatures, the Mind Reavers maintain a fragile control over the Rage Husks, utilizing them as part of their defensive strategies. As your group delves deeper into these chaotic territories, brace yourself for encounters with these tortured beings, their relentless pursuit a testament to the horrors of the Mind Reaver's touch.
 
-{% include monsters/rage_husk.md %}
+
 
 ### Mastering Minions: A Page from D&D's 4e Playbook 
 
@@ -5242,26 +4343,11 @@ Here are some adventure seeds you can use to incorporate Rage Husks into your ad
 Now get out there and run some great games!
 
 
----
-layout: post
-title: Gritty Survival in 5e - Breathing life into Death Saves
-date: 2023-06-19 14:59
-category: RPG Resources
-tags:
-    - gritty survival
-author: Scott Turnbull
-image: /assets/img/wounded_character_480x720.jpg
-description: Explore the peculiarities of DnD's 5e Death Save system and discover a riveting house rule that adds urgency and deepens gameplay interaction
----
+# Gritty Survival in 5e - Breathing life into Death Saves
+
 Ever found yourself scratching your head over the peculiarities of the Death Save system in Dungeons and Dragons (DnD) 5e? In particular, how the system seems disconnected from the gameplay and action. It can seem counter-intuitive when zero hit points result in the same outcome for any character, regardless of how they arrived there. The Death Save min-game is the same, whether you've taken a single point of damage, or sustained a catastrophic 150-foot fall. In this post, I aim to dissect the effects of this system on the game and propose a house rule that could shake things up to make the prospect of death an exciting part of the action again.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix p-3 mb-5"
-  src="/assets/img/wounded_character_480x720.jpg"
-  alt="A wounded warrior crawling on the ground with an arrow sticking out of their side."
-  width="480"
-  height="720"
-%}
+
 
 ## Death Saves in Action
 
@@ -5298,15 +4384,8 @@ While the 5e Death Save system serves its purpose, its disconnect from the actio
 In the end, it's about the feel of your game. Does the standard Death Save system work for your group, or could you benefit from tweaking the rules to spice things up? I'd love to hear your thoughts and experiences, so feel free to reach out to me on Twitter!
 
 
----
-layout: post
-title: Summon the Unusual - 3 New  Spells for DnD 5e
-date: 2023-06-28 09:40
-category: RPG Resources
-author: Scott Turnbull
-image: /assets/img/young_adult_wizard_scribing.jpg
-description: Explore new servant summoning spells for DnD 5e! This post introduces three innovative spells, adding depth and fun to your arcane gameplay.
----
+# Summon the Unusual - 3 New  Spells for DnD 5e
+
 As a fan of magically animated minions, I've always felt somewhat limited by the options available in the 5th edition of Dungeons and Dragons. If you're intrigued by the idea of a "pet" class in D&D, your primary option is to become a Necromancer and use Animate Dead. However, the image of a group of shambling undead isn't always what players envision. Given the rich narrative tradition of casters animating objects, constructs, or elements, it's perplexing that these options aren't more prevalent in the game.
 
 To address this conundrum, I've incorporated three new spells into my games. They maintain balance with Animate Dead, offer compelling options for casters, and inject an element of arcane flavor into the gameplay. Allow me to share these additions with you.
@@ -5387,25 +4466,12 @@ These spells open some fun possibilities for arcane spellcasters, providing play
 
 Now get out there and run some great games!
 
----
-layout: post
-title: Narrative Landscapes - More Engaging TTRPG Travel
-date: 2023-07-23 12:00
-category: RPG Resources
-author: Scott Turnbull
-image: /assets/img/narrative-terrain_480x679.png
-description: Enhance your TTRPGs with immersive, narrative-driven travel. Transform landscapes from mere backdrops to catalysts for adventure and player engagement.
----
-The art of travel in Tabletop Roleplaying Games remains a perennial favorite in community discussions. Despite my earlier posts on constructing [Perilous Journeys in D&D 5e]({% link _posts/2021-07-13-perilous-journeys-in-5e-p1.md %}), the conversation must go beyond mere obstacles and challenges. The true crux lies in the marriage of narrative and geography - a fusion that is underscored yet often lacks actionable guidance. So, how can we elevate the routine task of terrain description into a thrilling spark for player immersion? Let's dive in.
+# Narrative Landscapes - More Engaging TTRPG Travel
+
+The art of travel in Tabletop Roleplaying Games remains a perennial favorite in community discussions. Despite my earlier posts on constructing [Perilous Journeys in D&D 5e](), the conversation must go beyond mere obstacles and challenges. The true crux lies in the marriage of narrative and geography - a fusion that is underscored yet often lacks actionable guidance. So, how can we elevate the routine task of terrain description into a thrilling spark for player immersion? Let's dive in.
 
 Traditional narrative often falls into one of two traps: outlining the minutiae of geography or focusing heavily on terrain-oriented challenges. But both miss out on an essential element: potential adventure and side quests within the landscape. This bridge is exactly what we aim to build today. 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix p-3 mb-3"
-  src="/assets/img/narrative-terrain_480x679.png"
-  alt="A winding road through hills, headed towards mountains. Ruins and freshly cut logs by the roadside."
-  width="480"
-  height="679"
-%}
+
 ## Landscape as a Gateway to Adventure
 
 When narrating geography, it's not just about describing the environment. The landscape is an entity in itself, teeming with tales of bygone eras, potential adventures, and hidden secrets. Incorporating these elements into your narrative can make your players’ journey far more compelling. 
@@ -5429,15 +4495,7 @@ By leaving these narrative hooks, you provide the players with a world that reac
 Geography in TTRPGs is not merely a backdrop or obstacle course but a world ripe with potential adventures. Shifting our narrative focus from straightforward descriptions to providing context and implied adventures allows players to experience the landscape in a much more immersive and dynamic way. The key lies in treating the geography as an integral part of your world's history and its future – a character in its own right with secrets to reveal, battles to recount, and adventures to offer. Your landscapes are not just set pieces; they're a canvas for countless stories waiting to unfold.
 
 
----
-layout: post
-title: Dungeon of the Grieving Mind - Not Your Typical Dungeon!
-date: 2023-11-04 12:00
-category: Encounters
-author: Scott Turnbull
-image: /assets/img/dungon-entrance_480x600.png
-description: Explore a dynamic Dungeons and Dragons dungeon inspired by player choices, where a warlock seeks retribution for their fallen kin.
----
+# Dungeon of the Grieving Mind - Not Your Typical Dungeon!
 
 Crafting dungeons that deeply resonate with the consequences of character choices? Now, that's what I call top-notch Dungeon Mastering in Dungeons and Dragons. Inspired by a spirited discussion over on Reddit, I've crafted the dungeon you're about to delve into. My hope? That you'll find it a thrilling addition to your campaign. The premise is versatile enough to slide right into numerous D&D storylines, whenever innocents have perished in the course of an adventure. An all too common occurrence in most campaigns.
 
@@ -5445,13 +4503,7 @@ Crafting dungeons that deeply resonate with the consequences of character choice
 
 This small dungeon is set up assuming a party of 5th level characters but mix and match to your group’s needs.
 
-{% include imageframe.html
-  figure_class="float-end ms-4 clearfix p-3 mb-3"
-  src="/assets/img/dungon-entrance_480x600.png"
-  alt="A dark cave leading into a shadowy dungeon."
-  width="480"
-  height="600"
-%}
+
 
 **Dungeon Theme**: *A Grieving Mind* - The dungeon is a representation of the vengeful sibling’s psyche. Each section is a manifestation of his grief, anger, and quest for vengeance. This gives you the chance to use environmental dangers, narrative encounters, and emotional challenges instead of relying heavily on traps.
 
@@ -5483,4 +4535,148 @@ This small dungeon is set up assuming a party of 5th level characters but mix an
 That's it, with a bit of tweaking this is a simple adventure a DM could drop into almost any campaign.  Personally, I enjoy themed adventures that are a bit different and have a narrative undertone.  I hope you might find this useful as well.
 
 Now get out there and run some great games.
+
+# The Statistical Mirage of Advantage in D&D 5th Edition
+
+Adventurers, gather 'round the table as we delve into the often misunderstood mechanics of Advantage in Dungeons & Dragons 5th Edition. Introduced as a streamlined method of bonus handling, Advantage allows players to roll a second d20 and choose the higher of the two. On the surface, it seems like a boon to the dice-rolling hopefuls, offering a second arrow in the quiver of chance. But does it truly elevate the players' prospects, or is it a statistical sleight of hand?
+
+Let's address the elephant in the room—the Gambler's Fallacy. This is the mistaken belief that a second roll inherently increases the likelihood of a higher result. Players often fall victim to this misconception, envisioning that elusive natural 20 as just one more roll away. Yet, the truth lies in the principle of Regression to the Mean, which, stripped of its mathematical grandeur, implies that rolling additional d20s is more likely to yield a result closer to the average of 10.5 than the peaks of 20 or the valleys of 1.
+
+Imagine the collective sigh of disappointment if, instead of rolling for Advantage, we declared, "Assume you rolled a 10." Not very heroic, is it? And yet, statistically, that's closer to reality. Yes, Advantage provides a statistical bonus, but its impact is heavily skewed by the Difficulty Class (DC) of the task at hand. Lower DCs see an outsized benefit, inflating success rates on tasks that already favored the player, while the effect diminishes as the DC climbs. At a certain point, other bonuses, such as Bardic Inspiration, outshine Advantage, offering more consistent aid against the steeper challenges that heroes should face.
+
+This is precisely where the design of 5th Edition stumbles. By tailoring the system around a DC threshold that rarely exceeds 15, it inadvertently shackles Dungeon Masters, constraining the breadth of difficulty and tension that can be woven into the campaign narrative. We find ourselves in a narrow corridor of challenge, where the drama of high stakes is dulled by the statistical safety net of Advantage.
+
+Moreover, the non-stacking nature of Advantage and Disadvantage further complicates the battlefield. Once you're locked in the grip of either, any additional factors that would normally tilt the scales become null and void. The result? A disincentive for players to seek creative solutions or take dynamic actions in combat. Why strive for that high ground or cunning feint if your current state of Disadvantage negates any potential benefits? Conversely, why not throw caution to the wind with a whimsical tactic if you're already basking in the glow of Advantage?
+
+In my 2021 article, "[Tools for Effecting Rolls]()," I explored various mechanisms that can influence dice outcomes. The insights gleaned there are particularly pertinent when considering Advantage's place within the broader spectrum of roll-affecting tools available to players and DMs alike.
+
+For the mathematically curious, the granular details of Advantage's statistical effects are laid bare in an analysis I've set up on AnyDice, which you can explore [here](https://anydice.com/program/32df7){:target="_blank"}. This model elucidates how Advantage impacts roll outcomes across different DCs, providing a clear visual representation of the mechanic's limitations.
+
+In conclusion, while Advantage was conceived as a simplification, its implications reverberate through the game, subtly undermining both the thrill of chance and the strategic depth of combat. It's a mechanic that promises heroics but often delivers predictability, a comfort blanket that smothers the flames of daring when it should be fanning them. As we continue to craft our tales of valor and villainy, it's worth pondering how to elevate our encounters beyond the realm of the ordinary—where the roll of the die is as unpredictable and exciting as the adventures we imagine.
+
+
+# DMing is not a Covert Power Grab
+
+The DM is the First Mover in any Dungeons & Dragons campaign. It's not that they're superior or more important; rather, the game hinges on the DM's involvement. As the game's primary driving force, DMs significantly influence its tone and genre. Moreover, since they orchestrate the world, it naturally reflects their point of view and judgment. This aspect of game-running is a feature, not a flaw. While it's perfectly valid for players to have preferences about the game's style, the DM's creative perspective is not inherently wrong.
+
+
+
+Many people seem uncomfortable with this reality, but it's time to accept it. **DMing is not a covert power grab**; it's a role undertaken for enjoyment and creative fulfillment. Often, DMs step into this role simply because they cannot find a suitable game, so they opt to create one. *This is not a conspiracy; it's how games get played*.
+
+D&D 5e reiterated a social norm that has been integral to DMing since the hobby's inception. Informally known as "Rule 0," the [core rules state](https://www.dndbeyond.com/sources/dmg/introduction#TheDungeonMaster){:target="_blank"}: *"The rules aren’t in charge. You, the Dungeon Master, are the final arbiter of the rules."* However, it also advises the DM to maintain consistency in rulings and ensure players understand the decisions and applied rules. This highlights that while DMs may initiate the game, its success depends on player engagement. All TTRPGs  are inherently collaborative experiences.
+
+"[Perils in Pinebrook](https://media.wizards.com/2023/downloads/dnd/Peril_in_Pinebrook_COMPLETE.pdf){:target="_blank"}," the latest D&D adventure, subtly but significantly modifies Rule 0. This adventure explicitly includes a new version of Rule 0:
+
+> ***"Rule 0 of D&D is simple: Have fun. It’s fine if everyone agrees to change the rules, as long as doing so makes the game more enjoyable for everyone."***{: .card .blockquote .blockquote-caption .fst-italic .text-center .p-3}
+
+While this statement captures the essence of gaming, it doesn't fully acknowledge the typical process of game formation and momentum building. DMs usually originate the campaign or game idea, developing it until it's robust enough to present to players. This isn't a scheme to control players; it's a natural part of the creative process. Of course, DMs must entice potential players with their game, revising their ideas if necessary to attract the desired audience. However, suggesting that DMs need player approval before even formulating their campaign idea could be detrimental, especially for new DMs.
+
+Additionally, this shift underscores what many perceive as a troubling trend in the evolution of DnD in recent years. The core game, rather than uniting players, appears to be setting the community against itself, fostering an atmosphere of mutual suspicion and policing. While no single change in the game is solely responsible for this, there seems to be an aspect of DnD's development that inadvertently caters to the 'social point-scoring' behavior rampant in online cultures. Although the underlying intentions behind these changes are commendable, it's crucial to recognize how toxic elements of online culture can exploit these changes in ways detrimental to the hobby.
+
+Games are inherently about negotiation, but the initial idea must come from someone. Observing this rule and the evolving toxic behaviors on social media, I see a potential for harm. There's a risk that some community segments might expect DMs to seek permission for their ideas, potentially stifling games before they begin.
+
+# Unlocking the Magic of TTRPG Design 
+
+Brandon Sanderson, celebrated for his exceptional worldbuilding and intricate [magic system design](https://faq.brandonsanderson.com/knowledge-base/what-are-sandersons-laws-of-magic/){:target="_blank"}, stands out as a titan in modern fantasy literature. His principles, while crafted for literary creation, offer invaluable insights for TTRPG design. In an era brimming with new TTRPG systems being developed and crowdfunded, I frequently ponder how Sanderson's concepts could shape better game design, or at least preserve a diversity in gaming experiences rather than  yet another play on heroic-fantasy without risk of failure. Specifically, I contemplate the potential of these foundational ideas to captivate players through effective game design—a crucial aspect often missed in the foundational design of many emerging games.
+
+
+
+**Sanderson's Guidelines for Creating a Compelling Magic System**
+
+1. An author's ability to resolve conflicts with magic is directly proportional to how well the reader understands that magic.
+2. Weaknesses, limits, and costs are more intriguing than powers.
+3. Authors should first expand on existing elements of the magic system before adding entirely new aspects, as these could significantly alter how the system integrates into the fictional world.
+
+I often reflect on this in relation to TTRPG system design, especially given the influx of new systems that emphasize powers and abilities, downplaying failure as a core aspect of Heroic Fantasy. This trend seemed to gain momentum during the 5e D&D era, as the notion that any form of failure was undesirable began to surface in online discussions. However, I believe this line of thinking leads to uninspired and uninteresting game design.
+
+### The Heroic Fantasy Conundrum
+We're in an era of evolving TTRPG landscapes, marked by a trend of assuming powers and minimizing the role of failure. It seems like everyone wants to be Hercules without the trials and tribulations. This shift, gaining traction in the 5e D&D era, rendered the concept of failure almost taboo in some gaming circles.
+
+It's important to note that Heroic Fantasy traditionally involves risks and the possibility of failure. The recent shift away from these elements is a modern deviation, but let's not get sidetracked by that right now.
+
+The best tales are spun from sacrifice, struggle, and the looming threat of defeat. These elements are the lifeblood of drama, action, and even comedy. So, how do we craft TTRPG systems that embrace these aspects?
+
+### Creating Worlds That Thrive on Challenge
+A well-designed TTRPG is more than just rolling dice and casting spells. It involves creating engaging group gameplay and weaving a narrative rich with compelling storytelling elements – be it risky decisions, character flaws, or facing daunting obstacles. The tension arising from these interactions is what elevates a game, and systems designed to leverage these elements can foster some of the most rewarding experiences at the gaming table.
+
+**Optional Rule's Guidelines for Creating a Compelling TTRPG**
+
+1. The depth of a player's immersion is a function of how well the system fosters meaningful interactions within the game world.
+2. The best TTRPG experiences arise from grappling with limitations, creatively offsetting weaknesses, and skillfully navigating the ever-present risk of failure.
+3. A compelling system is captivating through the intricate interplay of existing subsystems, rather than through the addition of new ones.
+
+There isn't just one way to design a good TTRPG, and it seems we've lost sight of that. In a race to create the most 'heroic' designs, the importance of struggle and success as core elements of good game design has been overlooked. There should still be room in the hobby for systems that embrace these challenges. Being overshadowed by 'easy-mode' systems, where players never fail, isn't beneficial for the hobby. I hope more designers will consider these guidelines in their creations, and I also hope the community discussion will acknowledge the importance of this type of system design, recognizing the need for a variety of philosophies in game design.
+
+# Yes, if ... the true secret of crafting adventures
+
+In Dungeons & Dragons, a common practice among Dungeon Masters (DMs) is to hand-wave new rulings for the sake of convenience, or with the belief that they're enhancing the game by simply saying yes. However, I've come to realize that this approach, while seemingly beneficial, may actually be more limiting than many of us think. Simple answers keep things moving but ignore the fundamental truth about creating adventures. Running a TTRPG isn't just about adjudicating the rules, it's about creating opportunities for characters to risk it all to pursue their goals. Every question asked in a game is an opportunity to create a new adventure, so let's talk a bit about this.
+
+
+
+
+### The Underappreciated Art of Saying No
+
+The art of saying "no" in modern D&D doesn't get the appreciation it deserves. A straightforward "yes" can be a quick fix, a way to feel good in the moment because it seems like we're enabling our players, who in turn feel gratified for getting their way. But this isn't the kind of gameplay that fosters deep enjoyment or lasting investment. It's a basic facet of human psychology: the easy win often fails to satisfy in the long run.
+
+Additionally, it ignores the very important role the rules play. That is to define a common core experience for everyone at the table. Establishing a common and consistent vision of how the world works is an extremely important element of creating any shared experience. Tossing that aside with a simple yes, while easier, undermines the shared experience.
+
+**But while "No" is a complete sentence, it also doesn't mean things have to end there.**
+
+### The Missed Opportunity in the Simple Answer
+
+While saying "yes" or "no" can keep the game moving and be an adequate solution in some cases, I believe we're missing a significant opportunity. Rulings that fall into the grey areas – the edge cases – offer a golden chance to weave new elements into the world and present challenges to players by creating new adventures. Imagine a scenario where learning a new technique, acquiring a magical item, or forming a bond with a key character becomes part of the quest. These are opportunities to use abilities in innovative ways, enriching the game's narrative.
+
+**From a DM's point of view, the best answer to every question isn't a yes or no, it's a new adventure.**
+
+### "Yes, If..." vs. "Yes, And" and "Yes, But"
+
+Many advocate for "Yes, and" or "Yes, but" as the secret sauce to effective GMing. While these approaches have their merits, I propose that "Yes, if..." holds significantly more potential value for a game. The phrases "and" and "but" often lead to immediate, transactional outcomes, which, though useful, don't contribute substantially to the overall adventure. On the other hand, **"Yes, if..." places the onus back on the players, challenging them to pursue something more, to push their boundaries and achieve new results.**
+
+*As a single example, I had a player in my D&D game who believed they could counterspell an ability if they had the same spell prepared. That's not how it works, and I wasn't going to rewrite the entire counterspell system on a whim. However, the player was communicating something they thought was interesting to me, so I would be a fool to ignore it. So, I had them make a history roll to recall writings of wizards who seemed to have been able to do this, and they could find out more by researching in the library at Candlekeep. This led to an entire adventure to recover lost lore of that Wizard order who could modify their spell focus to give them this ability. Ruling-wise, it was just a bound magic item. The whole thing worked out very well and it gave the entire party a new adventure to pursue.*
+
+(For the record, I realize 'Yes, if...' is just 'No, but ...' in disguise but keeping things framed as a yes is powerful to frame things in the players mind as an opportunity.)
+
+### The Real Thrill of D&D: Beyond Convenience
+
+By resorting to easy rulings for the sake of convenience, we risk diluting the true excitement of D&D. The essence of the game lies in using every opportunity to create new adventures, presenting challenges that players can overcome and be rewarded for. "Yes, if..." is more than just a response; it's a philosophy that encourages deeper engagement, creativity, and a richer gaming experience.
+
+In conclusion, embracing the "Yes, if..." approach can transform our D&D sessions from simple pastimes into epic adventures filled with meaningful challenges and rewarding experiences.
+
+# This is a new article
+
+Introducing a lasting injury system in Dungeons and Dragons 5th edition can greatly enhance the depth and realism of your adventures. Combat, a cornerstone of the game, gains significant weight as each encounter carries potential long-term consequences. This system not only makes every decision in battle consequential but also turns health into a crucial resource that demands thoughtful management, adding a layer of strategic complexity.
+
+The lasting injury mechanic fosters a sense of camaraderie among players as they must now invest in each other's well-being, reinforcing the bonds of their adventuring party. By raising the stakes in this way, victories become even more rewarding, and surviving against the odds offers an unparalleled sense of accomplishment. In essence, this system deepens player engagement, making every encounter, decision, and dice roll truly matter in their shared story.
+
+Below is a revised version of the [original Injury Rules]() I created based on the OneDnD playtest changes to Exhaustion.
+
+
+
+### Injured [Condition]
+
+While you are subject to the Injured Condition, you experience the following effects:
+
+- **Levels of Injury.** This Condition is cumulative. Each time you receive it, you gain 1 level of injury. You die if your injury level exceeds 10.
+
+- **d20 Rolls Affected.** When you make a d20 Test, you subtract your injury level from your d20 roll.
+
+- **Spell Save DCs Affected.** Subtract your injury level from the Spell save DC of any Spell you cast.
+
+- **Gaining the Condition.** A character gains 1 level of Injury whenever they fail a death save or if they are damaged by more than half their max hit points from a single source of damage. Characters killed through the Massive Damage rules gain 10 levels of Injury.
+
+- **Recovering.** Immediately after finishing a Long Rest, the character may make a DC 10 Constitution Test, removing 1 level of injury on a success. Characters who fail by rolling a 1 gain an additional injury level. A character may gain advantage on a recovery roll if they are being provided medical care, provided hot meals, and in a restful environment, or other conditions as determined by the DM. Characters without adequate shelter or in a very stressful environment roll recovery at disadvantage. When their injury level reaches 0, the character is no longer injured.
+
+#### Class Ability 
+
+**Shake it Off.** Fighters, Paladins, and Rangers gain the 'Shake it off' ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of Injury. They can use this ability once and regain the ability to do so after a Long Rest.
+
+#### Magic
+
+- **Healing Injury with Magic.** One level of Injury may be removed by casting Lesser Restoration. Greater Restoration removes all levels of injury.
+
+- **Bring Out Your Dead.** Any injury remains with a character brought back to life through Revivify, or Raise Dead, with a maximum of Injury level 9. Resurrection, True Resurrection, and Wish bring characters back to life with 0 levels of injury.
+
+### Conclusion
+
+In conclusion, incorporating the Injury rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it's a more challenging way to play, the rewards are substantial, making each victory a testament to the players' resilience and teamwork.
 

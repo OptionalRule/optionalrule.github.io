@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2023-12-20T19:44:14+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Yes, if … the true secret of crafting adventures</title><link href="https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if/" rel="alternate" type="text/html" title="Yes, if … the true secret of crafting adventures" /><published>2023-12-20T14:00:00+00:00</published><updated>2023-12-20T14:00:00+00:00</updated><id>https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if</id><content type="html" xml:base="https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if/"><![CDATA[<p>In Dungeons &amp; Dragons, a common practice among Dungeon Masters (DMs) is to hand-wave new rulings for the sake of convenience, or with the belief that they’re enhancing the game by simply saying yes. However, I’ve come to realize that this approach, while seemingly beneficial, may actually be more limiting than many of us think. Simple answers keep things moving but ignore the fundamental truth about creating adventures. Running a TTRPG isn’t just about adjudicating the rules, it’s about creating opportunities for characters to risk it all to pursue their goals. Every question asked in a game is an opportunity to create a new adventure, so let’s talk a bit about this.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-02-16T22:04:33+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Gritty DnD Injuries - Expanding Exhaustion</title><link href="https://www.optionalrule.com/2024/02/16/revised-exhausted-condition/" rel="alternate" type="text/html" title="Gritty DnD Injuries - Expanding Exhaustion" /><published>2024-02-16T16:00:00+00:00</published><updated>2024-02-16T16:00:00+00:00</updated><id>https://www.optionalrule.com/2024/02/16/revised-exhausted-condition</id><content type="html" xml:base="https://www.optionalrule.com/2024/02/16/revised-exhausted-condition/"><![CDATA[<p>In Dungeons and Dragons 5th edition, the introduction of lasting exhaustion and manage the last effects of injuries promises to revitalize the way players approach the game. By infusing combat with the possibility of enduring consequences, this elevates the significance of each skirmish beyond the individual encounter. Health is no longer just a number to be replenished with the wave of a wand or a night’s rest; it becomes a precious commodity that must be strategically conserved through clever player choices. This shift introduces a layer of tactical depth missing in the vanilla game, requiring players to think critically about their characters actions and their potential long-term impacts on how the adventure plays out.</p>
+
+<p>An enhanced focus on increasing tension through resource depletion does more than just increase stakes; it weaves a tighter adventuring fabric between the player characters. Characters are encouraged to forge stronger alliances and actively participate in the healing and protection of their comrades, adding a rich layer of interdependence that was somewhat underdeveloped in traditional mechanics. The sense of triumph following a narrowly won battle is exponentially heightened when the victory is hard-earned and comes with its own set of challenges to overcome. Through this innovative approach, Dungeons and Dragons 5th edition rekindles the flame of classic sword and sorcery adventures, making every step of the journey feel impactful and every success a testament to the players’ strategic prowess and camaraderie.</p>
+
+<h2 id="exhaustion-condition-and-the-modern-adventurer">Exhaustion Condition and the Modern Adventurer</h2>
+
+<p>The D&amp;D design team presented an intriguing update to the exhaustion rules during their <a href="https://media.dndbeyond.com/compendium-images/one-dnd/expert-classes/kpx0MvyfBGHe0XKk/UA2022-Expert-Classes.pdf">Expert Class Unearthed Arcana Playtest</a> in 2022. In it, they replaced the confusing six-level exhaustion rules, which many thought were useless and confusing, with a more gradual system adding a simple -1 per level of exhaustion. A typical house rule in many D&amp;D games has been to add a level of exhaustion to each character who drops to 0 HP or fails a death save. Using a similar house rule with this new Exhaustion Condition, but requires a bit more thought and modification to make it enjoyable, manageable, and fit well into the game.</p>
+
+<p>To that end, I suggest the following house rule I have been refining over the last year. (You may have seen some of my previous injury condition posts).</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/wounded_ranger_480x600.png" alt="A woman with bow and arrow, standing defiantly, with scrapes and bruises on her face." height="600" width="480" />
+    
+    
+</figure>
+
+<h3 id="exhausted-condition">Exhausted [Condition]</h3>
+
+<p>Characters accumulate exhaustion through various means that slowly reduce their effectiveness.</p>
+
+<ul>
+  <li>
+    <p><strong>Levels of Exhaustion.</strong> Exhaustion is cumulative. Each time a character receives the condition, they gain 1 level of exhaustion. A character may have a maximum of 10 levels of exhaustion and die once they exceed that. As an optional rule, the DM may choose to use the character’s CON score as the maximum level of exhaustion.</p>
+  </li>
+  <li>
+    <p><strong>d20 Rolls Affected.</strong> The character subtracts their levels of exhaustion from all d20 tests.</p>
+  </li>
+  <li>
+    <p><strong>Spell Save DCs Affected.</strong> The character subtracts their level of exhaustion from their spell save DCs for any spell they personally cast.</p>
+  </li>
+  <li>
+    <p><strong>Gaining the Condition.</strong> A character gains 1 level of exhaustion whenever they fail a death save or when they suffer a critical hit. For purposes of Revivify and similar abilities (see more below), characters killed through the Massive Damage rules gain their maximum level of exhaustion.</p>
+  </li>
+  <li>
+    <p><strong>Recovering.</strong> A character removes 1 level of exhaustion per Long Rest. When their exhaustion level reaches 0, they are no longer exhausted.</p>
+  </li>
+  <li>
+    <p><strong>Recovering.</strong> (Optional Variant) Immediately after finishing a Long Rest, the character may make a DC 10 Constitution test, removing 1 level of exhaustion on a success. Characters who fail by rolling a 1 gain an additional exhaustion level. A character may gain advantage on a recovery roll if they are being provided medical care, provided hot meals, and in a restful environment, or other conditions as determined by the DM. Characters without adequate shelter or in a very stressful environment roll recovery at disadvantage. When their exhaustion level reaches 0, the character is no longer injured.</p>
+  </li>
+</ul>
+
+<h4 id="class-ability">Class Ability</h4>
+
+<p><strong>Shake it Off.</strong> Fighters, Paladins, Barbarians, and Rangers gain the ‘Shake it Off’ ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of exhaustion. They can use this ability once and regain the ability to do so after a Long Rest.</p>
+
+<h4 id="magic">Magic</h4>
+
+<ul>
+  <li>
+    <p><strong>Healing Exhaustion with Magic.</strong> One level of exhaustion may be removed by casting Lesser Restoration. Greater Restoration removes all levels of exhaustion.</p>
+  </li>
+  <li>
+    <p><strong>Bring Out Your Dead.</strong> Any levels of exhaustion remain with a character brought back to life through Revivify or Raise Dead, up to their maximum. Resurrection, True Resurrection, and Wish bring characters back to life with 0 levels of exhaustion.</p>
+  </li>
+</ul>
+
+<h2 id="much-ado-about-death-spirals">Much Ado about Death Spirals</h2>
+
+<p>Some expres a concern of creating a “Death Spiral” through cumulative injury rules, where penalties lead to further failures in a seemingly endless cycle, is valid yet potentially overstated in the context of these new exhaustion mechanics. The incremental nature of a -1 penalty per level of exhaustion allows for a gradual impact, delaying significant detriment until several levels are accumulated. Moreover, mid-level characters possess abilities such as Bardic Inspiration or Aid, offering strategic options to offset penalties. Additionally, the game does not operate in isolation; DMs can incorporate downtime for recovery, and players can proactively seek rest, fostering deeper engagement with the game world. Thus, while vigilance is necessary to prevent overwhelming challenges, these rules are designed to enrich gameplay, not hinder it.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>In conclusion, incorporating and expanding the exhaustion rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Resources" /><summary type="html"><![CDATA[Explore gritty DnD 5e injuries, adding strategic depth and encouraging camaraderie without spiraling into defeat.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/wounded_ranger_480x600.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/wounded_ranger_480x600.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yes, if … the true secret of crafting adventures</title><link href="https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if/" rel="alternate" type="text/html" title="Yes, if … the true secret of crafting adventures" /><published>2023-12-20T14:00:00+00:00</published><updated>2023-12-20T14:00:00+00:00</updated><id>https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if</id><content type="html" xml:base="https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if/"><![CDATA[<p>In Dungeons &amp; Dragons, a common practice among Dungeon Masters (DMs) is to hand-wave new rulings for the sake of convenience, or with the belief that they’re enhancing the game by simply saying yes. However, I’ve come to realize that this approach, while seemingly beneficial, may actually be more limiting than many of us think. Simple answers keep things moving but ignore the fundamental truth about creating adventures. Running a TTRPG isn’t just about adjudicating the rules, it’s about creating opportunities for characters to risk it all to pursue their goals. Every question asked in a game is an opportunity to create a new adventure, so let’s talk a bit about this.</p>
 
 <figure class="figure float-end ms-4">
     
@@ -367,127 +430,4 @@
 
 <p>Rules play a pivotal role in defining the tone, pace, and action in a TTRPG. At some point, most D&amp;D fans question the abstract nature of AC and HP, wondering why armor doesn’t directly mitigate damage. While damage reduction systems can be enjoyable, D&amp;D offers two broad alternatives: reduce damage per hit or leverage AC to apply damage less frequently. Both approaches yield similar outcomes, but AC achieves this without adding further mathematical steps, underlining its design simplicity.</p>
 
-<p>And so, dear reader, as with Hit Points, I encourage you to embrace the abstract nature of Armor Class. It’s a tool, a game mechanic designed to simulate the unpredictability and risk of combat in a fantasy world. It’s there help build a narrative through game play, because you don’t need a lesson in impact physics, you need a trilling duel in the streets of Neverwinter!  Use it as such, and weave it into your narrative in a way that enhances your game, not restricts it. Happy gaming!</p>]]></content><author><name>Scott Turnbull</name></author><category term="Analysis" /><category term="RPG Resources" /><summary type="html"><![CDATA[Explore the abstraction of Armor Class in D&D, its roots in wargaming, and its dance with Hit Points.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/the_duel_480x720.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/the_duel_480x720.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Malevolent Monsters - Rage Husk</title><link href="https://www.optionalrule.com/2023/06/16/monster-rage-husk/" rel="alternate" type="text/html" title="Malevolent Monsters - Rage Husk" /><published>2023-06-16T11:45:00+00:00</published><updated>2023-06-16T11:45:00+00:00</updated><id>https://www.optionalrule.com/2023/06/16/monster-rage-husk</id><content type="html" xml:base="https://www.optionalrule.com/2023/06/16/monster-rage-husk/"><![CDATA[<p>Welcome, intrepid Dungeon Masters, to the next thrilling addition to our bespoke bestiary: <strong>The Rage Husk</strong>. This terrifying creature is no standard zombie; it’s a psychic construct, the haunting aftermath of a <a href="/2023/05/24/monster-mind-reaver/">Mind Reaver</a>’s psychic assault. Incorporating elements of D&amp;D 4e’s Minion mechanics, Rage Husks serve as a swarm of formidable adversaries that, while dispatched with a single blow, offer a uniquely relentless and ruthless challenge. Join us as we delve into the grim lore of these dreadful entities and explore how they can elevate your campaign, introducing fresh layers of tension, suspense, and strategic complexity. Embrace the dread, harness the horror, and let your adventurers feel the chill of the Mind Reaver’s shadow with the introduction of the Rage Husk.</p>
-
-<h2 id="rage-husks">Rage Husks</h2>
-<p>In the labyrinthine depths of chaotic realms, there dwell malevolent entities known as a <a href="/2023/05/24/monster-mind-reaver/">Mind Reaver</a>. These beings, aberrations formed from failed attempts to create Mind Flayers, weave their own brand of dark, psychic terror. It’s in their destructive wake that the unfortunate victims are morphed into the monstrosities known as Rage Husks.</p>
-
-<p>Robbed of their sanity and consciousness by the Mind Reavers, the victims are left with nothing but an echo of the pain and fury experienced in their final cognizant moments. This torment is reshaped into a fearsome determination to destroy, creating a formidable, mindless husk fueled by pure rage.</p>
-
-<p>Rage Husks are often found scattered across the aftermath of a Mind Reaver attack, a chilling reminder of their terrifying power. Furthermore, within the treacherous lairs of these vile creatures, the Mind Reavers maintain a fragile control over the Rage Husks, utilizing them as part of their defensive strategies. As your group delves deeper into these chaotic territories, brace yourself for encounters with these tortured beings, their relentless pursuit a testament to the horrors of the Mind Reaver’s touch.</p>
-
-<figure class="figure float-end ms-4 clearfix">
-    
-    <img class="img-fluid figure-img " src="/assets/img/monsters/RageHusk_407x610.png" alt="A raging and twisted humanoid running toward the viewer." height="610" width="407" />
-    
-    
-        <figcaption class="figure-caption text-center">A Rage Husk</figcaption>
-    
-</figure>
-
-<blockquote class="stat-block wide">
-  <h2 id="rage-husk">Rage Husk</h2>
-  <p><em>Medium abomination, chaotic evil; (Minion)</em></p>
-
-  <hr />
-
-  <ul>
-    <li><strong>Armor Class</strong> 11</li>
-    <li><strong>Hit Points</strong> 19 (3d8 + 6)</li>
-    <li><strong>Speed</strong> 30 ft.</li>
-  </ul>
-
-  <hr />
-
-  <table>
-    <thead>
-      <tr>
-        <th style="text-align: center">STR</th>
-        <th style="text-align: center">DEX</th>
-        <th style="text-align: center">CON</th>
-        <th style="text-align: center">INT</th>
-        <th style="text-align: center">WIS</th>
-        <th style="text-align: center">CHA</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="text-align: center">13 (+1)</td>
-        <td style="text-align: center">14 (+2)</td>
-        <td style="text-align: center">12 (+1)</td>
-        <td style="text-align: center">3 (-4)</td>
-        <td style="text-align: center">6 (-2)</td>
-        <td style="text-align: center">5 (-3)</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <hr />
-  <ul>
-    <li><strong>Saving Throws</strong> DEX +4</li>
-    <li><strong>Damage Vulnerabilities</strong> Psychic</li>
-    <li><strong>Condition Immunities</strong> Charmed, Frightened</li>
-    <li><strong>Senses</strong> Passive perception 8</li>
-    <li><strong>Languages</strong> –</li>
-    <li><strong>Challenge</strong> 1/2 (100 XP)</li>
-  </ul>
-
-  <h3 id="abilities">Abilities</h3>
-  <p><strong><em>Mindless Aggression.</em></strong> As a bonus action, the rage husk can move up to its speed toward a hostile creature that it can see.</p>
-
-  <p><strong><em>Tackler.</em></strong> The rage husk has advantage on any shove or grapple action if it has moved 10 feet or more in a straight line toward the target that turn.</p>
-  <h3 id="actions">Actions</h3>
-  <p><strong><em>Multiattack.</em></strong> The rage husk makes two slam attacks.</p>
-
-  <p><strong><em>Slam.</em></strong> Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.</p>
-
-  <h3 id="reactions">Reactions</h3>
-  <p><strong><em>Overwhelm.</em></strong>  The rage husk may make a single slam attack against a creature as soon as it successfully grapples them or knocks them prone.</p>
-</blockquote>
-
-<h3 id="mastering-minions-a-page-from-dds-4e-playbook">Mastering Minions: A Page from D&amp;D’s 4e Playbook</h3>
-
-<p>Calling all Dungeon Masters seeking to elevate their combat encounters! Let’s revisit a technique from D&amp;D’s 4th edition that’s making a modern comeback, including in <a href="https://shop.mcdmproductions.com/collections/flee-mortals-the-mcdm-monster-book" target="_blank">MCDM’s ‘Flee Mortals’</a> book: the mighty Minion rule. This simple rule is your key to creating scenes of epic, heroic battles: minions, despite behaving like standard monsters, fall with just one successful hit. But don’t discard the minion’s hit points just yet. These still matter for spells like Sleep, which operate based on HP.</p>
-
-<p>Whether it’s a horde of minions, or adding spice to a boss battle, the Minion rule can turn a routine encounter into a memorable tale of heroic warfare. Harness this tool, and let’s take your game to the next level!</p>
-
-<h2 id="using-rage-husks">Using Rage Husks</h2>
-<p>Imagine unleashing a torrent of Rage Husks against your unsuspecting party, creating a frantic and intense combat scenario where waves of these formidable yet easily dispatchable enemies push the heroes to their limits. Even the mightiest of warriors can be overwhelmed by sheer numbers, testing not just their strength, but their endurance and tactical acumen as well. Rage Husks also serve as formidable minions when under the control of a powerful adversary like a Mind Reaver, adding a dangerous layer to an already challenging boss fight. But don’t limit yourself to what’s written here - let your imagination run wild! These psychic zombies could be the consequence of a cursed item, a magical effect gone wrong, or a myriad of other creative plot devices. So go ahead, unleash the Rage Husks and let the heroic chaos unfold!</p>
-
-<h3 id="adventure-seeds">Adventure Seeds</h3>
-<p>Here are some adventure seeds you can use to incorporate Rage Husks into your adventure.</p>
-
-<ol>
-  <li>
-    <p><strong>The Cursed Heirloom:</strong> An antique necklace recently acquired by a noble family is actually a cursed item that transforms its wearers into Rage Husks. Can the party find a way to reverse the curse before the entire family is affected?</p>
-  </li>
-  <li>
-    <p><strong>The Madness Below:</strong> A mining town reports strange occurrences in the depths of their mines – miners turning into Rage Husks. The party must delve into the depths and discover the cause before it’s too late.</p>
-  </li>
-  <li>
-    <p><strong>The Blood Moon Ritual:</strong> During every Blood Moon, a deranged wizard’s failed experiments result in the creation of Rage Husks. Can the party stop the wizard before the next moon rise?</p>
-  </li>
-  <li>
-    <p><strong>The Crumbling Stronghold:</strong> In an ancient fortress, the party finds a horde of Rage Husks, mindlessly guarding something. What secrets are they protecting and can the party uncover them?</p>
-  </li>
-  <li>
-    <p><strong>The Towering Silence:</strong> An entire city suddenly falls quiet, and an army of Rage Husks are the only residents. The party must uncover what turned the citizens and if there’s a way to restore them.</p>
-  </li>
-  <li>
-    <p><strong>The Lost Expedition:</strong> An archaeological expedition in ancient ruins has disappeared. Their last message spoke of strange, rage-filled creatures. Can the party rescue the lost archaeologists and confront the Rage Husks?</p>
-  </li>
-  <li>
-    <p><strong>The Wailing Forest:</strong> A haunted forest has started birthing Rage Husks from its mists. The party must find the source of this curse and put an end to it.</p>
-  </li>
-  <li>
-    <p><strong>The Puppeteer’s Game:</strong> A Mind Reaver is using Rage Husks as pawns in its deadly game. Can the party navigate the treacherous lair, defeat the Rage Husks, and stop the Mind Reaver?</p>
-  </li>
-  <li>
-    <p><strong>The Abandoned Monastery:</strong> Monks of a secluded monastery have become Rage Husks after dabbling with forbidden magic. Can the party cleanse the monastery and break the cycle of transformation?</p>
-  </li>
-  <li>
-    <p><strong>The Plagued Harbor:</strong> A cursed artifact brought into a bustling port city is slowly transforming its inhabitants into Rage Husks. The party must identify the artifact and break its curse to save the city.</p>
-  </li>
-</ol>
-
-<p>Now get out there and run some great games!</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><category term="Monsters" /><summary type="html"><![CDATA[Unearth the chilling world of Rage Husks in DnD! Discover lore, encounter tactics, and adventure seeds for these psychic zombies of the Underdark.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/monsters/RageHusk_407x610.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/monsters/RageHusk_407x610.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>And so, dear reader, as with Hit Points, I encourage you to embrace the abstract nature of Armor Class. It’s a tool, a game mechanic designed to simulate the unpredictability and risk of combat in a fantasy world. It’s there help build a narrative through game play, because you don’t need a lesson in impact physics, you need a trilling duel in the streets of Neverwinter!  Use it as such, and weave it into your narrative in a way that enhances your game, not restricts it. Happy gaming!</p>]]></content><author><name>Scott Turnbull</name></author><category term="Analysis" /><category term="RPG Resources" /><summary type="html"><![CDATA[Explore the abstraction of Armor Class in D&D, its roots in wargaming, and its dance with Hit Points.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/the_duel_480x720.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/the_duel_480x720.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
