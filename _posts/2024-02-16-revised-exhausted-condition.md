@@ -42,7 +42,7 @@ Characters accumulate exhaustion through various means that slowly reduce their 
 
 #### Class Ability 
 
-**Shake it Off.** Fighters, Paladins, Barbarians, and Rangers gain the 'Shake it Off' ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of exhaustion. They can use this ability once and regain the ability to do so after a Long Rest.
+**Shake It Off.** Fighters, Paladins, Barbarians, Monks, and Rangers gain the 'Shake It Off' ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of exhaustion. They can use this ability once and regain the ability to do so after a Long Rest. These classes gain an additional use of Shake It Off each time they gain the Extra Attack ability.
 
 #### Magic
 
@@ -52,7 +52,7 @@ Characters accumulate exhaustion through various means that slowly reduce their 
 
 ## Much Ado about Death Spirals
 
-Some expres a concern of creating a "Death Spiral" through cumulative injury rules, where penalties lead to further failures in a seemingly endless cycle, is valid yet potentially overstated in the context of these new exhaustion mechanics. The incremental nature of a -1 penalty per level of exhaustion allows for a gradual impact, delaying significant detriment until several levels are accumulated. Moreover, mid-level characters possess abilities such as Bardic Inspiration or Aid, offering strategic options to offset penalties. Additionally, the game does not operate in isolation; DMs can incorporate downtime for recovery, and players can proactively seek rest, fostering deeper engagement with the game world. Thus, while vigilance is necessary to prevent overwhelming challenges, these rules are designed to enrich gameplay, not hinder it.
+Some express a concern of creating a "Death Spiral" through cumulative injury rules, where penalties lead to further failures in a seemingly endless cycle, is valid yet potentially overstated in the context of these new exhaustion mechanics. The incremental nature of a -1 penalty per level of exhaustion allows for a gradual impact, delaying significant detriment until several levels are accumulated. Moreover, mid-level characters possess abilities such as Bardic Inspiration or Aid, offering strategic options to offset penalties. Additionally, the game does not operate in isolation; DMs can incorporate downtime for recovery, and players can proactively seek rest, fostering deeper engagement with the game world. Thus, while vigilance is necessary to prevent overwhelming challenges, these rules are designed to enrich gameplay, not hinder it.
 
 ## Conclusion
 
