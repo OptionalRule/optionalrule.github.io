@@ -20,7 +20,7 @@ In Dungeons & Dragons, a common practice among Dungeon Masters (DMs) is to hand-
 
 ### The Underappreciated Art of Saying No
 
-The art of saying "no" in modern D&D doesn't get the appreciation it deserves. A straightforward "yes" can be a quick fix, a way to feel good in the moment because it seems like we're enabling our players, who in turn feel gratified for getting their way. But this isn't the kind of gameplay that fosters deep enjoyment or lasting investment. It's a basic facet of human psychology: the easy win often fails to satisfy in the long run.
+The art of saying "no" in modern D&D doesn't get the appreciation it deserves. A straightforward "yes" can be a quick fix, a way to feel good in the moment because it seems like we're enabling our players, who in turn feel gratified for getting their way. But this isn't the kind of game-play that fosters deep enjoyment or lasting investment. It's a basic facet of human psychology: the easy win often fails to satisfy in the long run.
 
 Additionally, it ignores the very important role the rules play. That is to define a common core experience for everyone at the table. Establishing a common and consistent vision of how the world works is an extremely important element of creating any shared experience. Tossing that aside with a simple yes, while easier, undermines the shared experience.
 
