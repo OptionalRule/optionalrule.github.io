@@ -30,15 +30,15 @@ To that end, I suggest the following house rule I have been refining over the la
 
 Characters accumulate exhaustion through various means that slowly reduce their effectiveness.
 
-- **Levels of Exhaustion.** Exhaustion is cumulative. Each time a character receives the condition, they gain 1 level of exhaustion. A character may have a maximum of 10 levels of exhaustion and die once they exceed that. As an optional rule, the DM may choose to use the character's CON score as the maximum level of exhaustion.
+- **Levels of Exhaustion.** Exhaustion is cumulative. Each time a character receives the condition, they gain 1 level of exhaustion. A character may have a ***maximum of 10 levels*** of exhaustion and die once they exceed that. As an optional rule, the DM may choose to use the character's CON score as the maximum level of exhaustion.
 
 - **d20 Rolls Affected.** The character subtracts their levels of exhaustion from all d20 tests.  
 
 - **Spell Save DCs Affected.** The character subtracts their level of exhaustion from their spell save DCs for any spell they personally cast.
 
-- **Gaining the Condition.** A character gains 1 level of exhaustion whenever they fail a death save or when they suffer a critical hit. For purposes of Revivify and similar abilities (see more below), characters killed through the Massive Damage rules gain their maximum level of exhaustion. The DM may also rule a character acquires a level of fatigue though other means like strenuous activity, difficult travel, or other circumstances.
+- **Gaining the Condition.** A character gains 1 level of exhaustion whenever they fail a death save or when they suffer a critical hit. Characters killed through the Massive Damage rules gain their maximum level of exhaustion. The DM may also rule a character acquires a level of exhaustion though other means like strenuous activity, difficult travel, or other circumstances.
 
-- **Recovering.** A character removes 1 level of exhaustion per Long Rest. When their exhaustion level reaches 0, they are no longer exhausted.
+- **Recovering.** A character removes 1 level of exhaustion per Long Rest.
 
 - **Recovering.** (Optional Variant) Immediately after finishing a Long Rest, the character may make a DC 10 Constitution test, removing 1 level of exhaustion on a success. Characters who fail by rolling a 1 gain an additional exhaustion level. A character may gain advantage on a recovery roll if they are being provided medical care, provided hot meals, and in a restful environment, or other conditions as determined by the DM. Characters without adequate shelter or in a very stressful environment roll recovery at disadvantage. When their exhaustion level reaches 0, the character is no longer injured.
 
