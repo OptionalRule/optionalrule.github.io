@@ -7,7 +7,6 @@ author: Scott Turnbull
 image: /assets/img/PlayerWithDiceAndPaper.jpg
 description: Advocating for XP in D&D 5e. this post discusses its role in boosting engagement, diversifying actions, and improving game immersion.
 ---
-
 In the diverse world of Tabletop Role-Playing Games (TTRPGs), the progression system you choose can significantly influence the way your campaign unfolds. In 5th edition Dungeons & Dragons (D&D), two popular methods of character progression exist: Experience Points (XP) and Milestone Advancement. While Milestone Advancement has its merits, I am here to make a case for XP, an often overlooked, but immensely beneficial system.
 
 In a previous post I discussed the [Zen of Awarding Experience for Roleplaying]({% link _posts/2021-02-25-the-zen-of-awarding-experience-for-roleplaying.md %}) which demonstrates an easy method for awarding non-combat experience.  DMs can apply this to exploration or any activity beyond killing creatures. Chapters 8 and 3 of the 5e DMG also provide some guidance on this as well.  I had a recent exchange online that helped me summarize what I see the forgotten benefits of using XP are.  I thought I'd share them here.
