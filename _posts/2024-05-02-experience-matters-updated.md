@@ -5,7 +5,7 @@ date: 2024-05-02 22:00
 category: RPG Resources
 author: Scott Turnbull
 image: /assets/img/An_anxious_Dungeon_Master_480x480.jpg
-description: Description of the article
+description: Uncover the benefits of XP-based advancement in D&D. Enhance player agency, pacing, and diverse gameplay. Learn to award XP for a well-rounded experience.
 ---
 As we eagerly await the release of the updated version of revised 5th Edition Dungeons & Dragons in 2024, it's an opportune time to re-examine some of the core systems that make our beloved TTRPG tick. One such system that often sparks debate among players and Dungeon Masters alike is the method of character advancement. In light of the recent surge in views on my previous articles discussing the benefits of using experience points (XP) in D&D, I thought it would be valuable to delve deeper into this topic and explore how XP-based advancement can enhance your gaming experience.
 
