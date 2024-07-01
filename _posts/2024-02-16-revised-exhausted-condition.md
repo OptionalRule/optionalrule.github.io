@@ -2,7 +2,7 @@
 layout: post
 title: Gritty DnD Injuries - Expanding Exhaustion
 date: 2024-02-16 16:00
-category: RPG Resources
+category: Game Mechanics, Homebrew Content, DM Advice, Resources
 author: Scott Turnbull
 image: /assets/img/wounded_ranger_480x600.png
 description: Explore gritty DnD 5e injuries, adding strategic depth and encouraging camaraderie without spiraling into defeat.

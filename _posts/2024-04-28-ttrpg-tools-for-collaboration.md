@@ -2,7 +2,7 @@
 layout: post
 title: TTRPG Tools for Collboration and Change
 date: 2024-04-28 11:00
-category: RPG Resources
+category: DM Advice, Player Advice, Community Discussion, Resources
 author: Scott Turnbull
 image: /assets/img/ToolsforCollaborationChangeTTRPGs_960x540.png
 description: Discover collaborative tools for aligning expectations and enhancing fun in your TTRPG and DnD games. Improve cooperation and enjoyment at your table.

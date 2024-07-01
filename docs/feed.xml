@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-05-03T02:08:23+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Experience Still Matters - The Benefits of using XP in 5e.</title><link href="https://www.optionalrule.com/2024/05/02/experience-matters-updated/" rel="alternate" type="text/html" title="Experience Still Matters - The Benefits of using XP in 5e." /><published>2024-05-02T22:00:00+00:00</published><updated>2024-05-02T22:00:00+00:00</updated><id>https://www.optionalrule.com/2024/05/02/experience-matters-updated</id><content type="html" xml:base="https://www.optionalrule.com/2024/05/02/experience-matters-updated/"><![CDATA[<p>As we eagerly await the release of the updated version of revised 5th Edition Dungeons &amp; Dragons in 2024, it’s an opportune time to re-examine some of the core systems that make our beloved TTRPG tick. One such system that often sparks debate among players and Dungeon Masters alike is the method of character advancement. In light of the recent surge in views on my previous articles discussing the benefits of using experience points (XP) in D&amp;D, I thought it would be valuable to delve deeper into this topic and explore how XP-based advancement can enhance your gaming experience.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-07-01T18:42:01+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Summary of DnD 2024 Spell Changes</title><link href="https://www.optionalrule.com/2024/07/01/dnd-2024-spell-changes/" rel="alternate" type="text/html" title="Summary of DnD 2024 Spell Changes" /><published>2024-07-01T14:00:00+00:00</published><updated>2024-07-01T14:00:00+00:00</updated><id>https://www.optionalrule.com/2024/07/01/dnd-2024-spell-changes</id><content type="html" xml:base="https://www.optionalrule.com/2024/07/01/dnd-2024-spell-changes/"><![CDATA[<p>The Dungeons &amp; Dragons 5th Edition ruleset is being revised and rereleased this year. Termed DnD 2024, there have been a series of videos on <a href="https://dndbeyond.com" target="_blank">DnDBeyond</a>, announcing and summarizing some of the changes in the latest revision. While each of those videos have a nice corresponding blog summary of changes, I couldn’t find one after the recent Spell change video. So I am summarizing the changes discussed below for easier reference, and so you don’t have to watch the 25 minute video just for 5 minutes of vague content. Enjoy.</p>
+
+<p>The new Players Handbook brings significant changes to the spell system, expanding and refining the magical options available to players and Dungeon Masters alike. The spell chapter has been greatly expanded, with at least 30 new spells added. Existing spells have been revisited and often upgraded, with improvements in damage, healing, range, or concentration requirements. The presentation of spells has been overhauled for better clarity and usability, addressing common rules questions within the descriptions themselves. New summoning spells, revamped conjuration magic, and spells tied to named spellcasters add fresh flavor to the magical landscape of D&amp;D. Let’s dive into the specific changes mentioned in the video below:</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/Fireball_480x642.png" alt="A woman standing, her hand wreathed in flame, ready to cast a spell. (AI Image)" height="642" width="480" />
+    
+    
+</figure>
+
+<ol>
+  <li>
+    <p>Expanded spell chapter: The new spell chapter is larger, containing at least 30 more spells than the 2014 Players Handbook.</p>
+  </li>
+  <li>Spell revisions and upgrades:
+    <ul>
+      <li>Many returning spells have been revisited and functionally upgraded.</li>
+      <li>Some spells deal more damage, heal more, have extended range, or have changes to concentration requirements.</li>
+    </ul>
+  </li>
+  <li>Improved clarity and usability:
+    <ul>
+      <li>Common rules questions are now addressed within the spell descriptions.</li>
+      <li>Spell descriptions have been tightened up, using fewer words to convey information more efficiently.</li>
+    </ul>
+  </li>
+  <li>Presentation improvements:
+    <ul>
+      <li>More artwork showing spells in use.</li>
+      <li>Class lists are now included in each spell’s description.</li>
+      <li>The ritual tag has been moved to the casting timeline for clarity.</li>
+    </ul>
+  </li>
+  <li>New and imported spells:
+    <ul>
+      <li>Brand new spells have been added.</li>
+      <li>Some spells from other sourcebooks (like Xanathar’s Guide and Tasha’s Cauldron) have been incorporated and often upgraded.</li>
+    </ul>
+  </li>
+  <li>Summoning spells overhaul:
+    <ul>
+      <li>New summoning spells with built-in stat blocks for summoned creatures.</li>
+      <li>Redesigned conjuration spells to focus on summoning spirits rather than concrete creatures.</li>
+    </ul>
+  </li>
+  <li>Specific spell changes:
+    <ul>
+      <li>Healing spells have been buffed to be more effective.</li>
+      <li>Cantrips like blade ward, resistance, and guidance have been improved.</li>
+      <li>High-level damaging spells have had their damage increased.</li>
+      <li>Shape-shifting spells (like polymorph) now grant temporary hit points instead of a second pool of hit points.</li>
+    </ul>
+  </li>
+  <li>New spells tied to named spellcasters:
+    <ul>
+      <li>Examples include Yan’s Regal Presence and Jar’s Storm of Radiance.</li>
+    </ul>
+  </li>
+  <li>Quality of life improvements:
+    <ul>
+      <li>Some spells, like cloud of daggers, can now be moved after casting.</li>
+      <li>Produce flame has been redesigned to be easier to cast.</li>
+    </ul>
+  </li>
+  <li>Standardization:
+    <ul>
+      <li>More consistent wording for similar effects across different spells.</li>
+      <li>Introduction of a new “emanation” area of effect.</li>
+    </ul>
+  </li>
+  <li>Easter eggs and flavor:
+    <ul>
+      <li>Many spells have new flavor text or interesting details added.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>You can see the entire video here on YouTube.</p>
+
+<!-- Feel free to change the width and height to your desired video size. -->
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/P0rXo-Wp_II" height="360" width="640" frameborder="0" allowfullscreen="">
+  </iframe>
+</div>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[A summary of the recently announced DnD 2024 Spell Changes.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/Fireball_480x642.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/Fireball_480x642.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Experience Still Matters - The Benefits of using XP in 5e.</title><link href="https://www.optionalrule.com/2024/05/02/experience-matters-updated/" rel="alternate" type="text/html" title="Experience Still Matters - The Benefits of using XP in 5e." /><published>2024-05-02T22:00:00+00:00</published><updated>2024-05-02T22:00:00+00:00</updated><id>https://www.optionalrule.com/2024/05/02/experience-matters-updated</id><content type="html" xml:base="https://www.optionalrule.com/2024/05/02/experience-matters-updated/"><![CDATA[<p>As we eagerly await the release of the updated version of revised 5th Edition Dungeons &amp; Dragons in 2024, it’s an opportune time to re-examine some of the core systems that make our beloved TTRPG tick. One such system that often sparks debate among players and Dungeon Masters alike is the method of character advancement. In light of the recent surge in views on my previous articles discussing the benefits of using experience points (XP) in D&amp;D, I thought it would be valuable to delve deeper into this topic and explore how XP-based advancement can enhance your gaming experience.</p>
 
 <p>I’ve seen a big increase in traffic to my two previous articles on how <a href="/2023/05/17/the-benefits-of-xp-in-5th-edition/" target="_blank">Experience Matters</a> in DnD, and the <a href="/2021/02/25/the-zen-of-awarding-experience-for-roleplaying/" target="_blank">Zen of Awarding Non-Combat Experience</a>.  So I thought it was worth updating and revisting my thoughts on the topic.</p>
 
@@ -47,7 +132,7 @@
 </ul>
 
 <h2 id="conclusion">Conclusion</h2>
-<p>As we stand on the cusp of a new era in D&amp;D, it’s crucial to recognize the enduring value of XP-based advancement. By connecting character growth to the players’ actions and providing a flexible framework for pacing and rewards, XP can greatly enhance the immersion, engagement, and overall enjoyment of your D&amp;D campaign. So, as you prepare for the exciting changes that lie ahead, consider giving XP a chance to breathe new life into your gaming experience.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Description of the article]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/An_anxious_Dungeon_Master_480x480.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/An_anxious_Dungeon_Master_480x480.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TTRPG Tools for Collboration and Change</title><link href="https://www.optionalrule.com/2024/04/28/ttrpg-tools-for-collaboration/" rel="alternate" type="text/html" title="TTRPG Tools for Collboration and Change" /><published>2024-04-28T11:00:00+00:00</published><updated>2024-04-28T11:00:00+00:00</updated><id>https://www.optionalrule.com/2024/04/28/ttrpg-tools-for-collaboration</id><content type="html" xml:base="https://www.optionalrule.com/2024/04/28/ttrpg-tools-for-collaboration/"><![CDATA[<p>Why do some Dungeons &amp; Dragons groups struggle so hard to cooperate and enjoy a game together? Even well-meaning players can have spotty outcomes and TTRPG groups can have a hard time staying together for more than a few sessions. Particularly in an era of safety tools, and assertions of the importance of inclusive play, we seem to be struggling harder now than any other time in the hobby. Many take the position that this is because we are clearing the toxicity of one culture or another from the gaming space, but I would suggest this is wrong-minded. As a community, too many people have given up on the idea that collaboration or real tolerance of different opinions has any value at all. Some may blame an inherent cultural evil for this division but I am not convinced. I suggest the TTRPG community doesn’t have a good set of frameworks or tools to promote collaboration. Yes we have safety tools and, while those can be useful, safety and collaboration are completely different things.</p>
+<p>As we stand on the cusp of a new era in D&amp;D, it’s crucial to recognize the enduring value of XP-based advancement. By connecting character growth to the players’ actions and providing a flexible framework for pacing and rewards, XP can greatly enhance the immersion, engagement, and overall enjoyment of your D&amp;D campaign. So, as you prepare for the exciting changes that lie ahead, consider giving XP a chance to breathe new life into your gaming experience.</p>]]></content><author><name>Scott Turnbull</name></author><category term="DM Advice, Player Advice, Resources" /><summary type="html"><![CDATA[Uncover the benefits of XP-based advancement in D&D. Enhance player agency, pacing, and diverse gameplay. Learn to award XP for a well-rounded experience.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/An_anxious_Dungeon_Master_480x480.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/An_anxious_Dungeon_Master_480x480.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TTRPG Tools for Collboration and Change</title><link href="https://www.optionalrule.com/2024/04/28/ttrpg-tools-for-collaboration/" rel="alternate" type="text/html" title="TTRPG Tools for Collboration and Change" /><published>2024-04-28T11:00:00+00:00</published><updated>2024-04-28T11:00:00+00:00</updated><id>https://www.optionalrule.com/2024/04/28/ttrpg-tools-for-collaboration</id><content type="html" xml:base="https://www.optionalrule.com/2024/04/28/ttrpg-tools-for-collaboration/"><![CDATA[<p>Why do some Dungeons &amp; Dragons groups struggle so hard to cooperate and enjoy a game together? Even well-meaning players can have spotty outcomes and TTRPG groups can have a hard time staying together for more than a few sessions. Particularly in an era of safety tools, and assertions of the importance of inclusive play, we seem to be struggling harder now than any other time in the hobby. Many take the position that this is because we are clearing the toxicity of one culture or another from the gaming space, but I would suggest this is wrong-minded. As a community, too many people have given up on the idea that collaboration or real tolerance of different opinions has any value at all. Some may blame an inherent cultural evil for this division but I am not convinced. I suggest the TTRPG community doesn’t have a good set of frameworks or tools to promote collaboration. Yes we have safety tools and, while those can be useful, safety and collaboration are completely different things.</p>
 
 <p>So, how do we get the right collaboration tools for the right group? We have to understand how strongly players, which includes the DM, agree on:</p>
 
@@ -148,7 +233,7 @@
 
 <p>No single tool is going to be a magic bullet, but by employing a variety of techniques - from in-world examples and debates to spotlight moments and the buddy system - we can start to build that shared understanding and sense of fun that makes for truly great gaming experiences.</p>
 
-<p>So let’s keep talking to each other, keep experimenting with different approaches, and most importantly, let’s keep remembering that at the heart of it all, we’re here to have a good time together. With the right tools in our kit, and the right attitude at the table, there’s no limit to the adventures we can have and the stories we can tell.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Discover collaborative tools for aligning expectations and enhancing fun in your TTRPG and DnD games. Improve cooperation and enjoyment at your table.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/ToolsforCollaborationChangeTTRPGs_960x540.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/ToolsforCollaborationChangeTTRPGs_960x540.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gritty DnD Injuries - Expanding Exhaustion</title><link href="https://www.optionalrule.com/2024/02/16/revised-exhausted-condition/" rel="alternate" type="text/html" title="Gritty DnD Injuries - Expanding Exhaustion" /><published>2024-02-16T16:00:00+00:00</published><updated>2024-02-16T16:00:00+00:00</updated><id>https://www.optionalrule.com/2024/02/16/revised-exhausted-condition</id><content type="html" xml:base="https://www.optionalrule.com/2024/02/16/revised-exhausted-condition/"><![CDATA[<p>In Dungeons and Dragons 5th edition, the introduction of lasting injuries and effects promises to revitalize the way players approach the game. By infusing combat with the possibility of enduring consequences, this elevates the significance of each skirmish beyond the individual encounter. Health is no longer just hit points to be replenished with the wave of a hand or a nap; it becomes a strategic element of play managed through clever player choices. This shift introduces a layer of tactical depth missing in the vanilla game, requiring players to think critically about their characters actions and their potential long-term impacts on how the adventure plays out.</p>
+<p>So let’s keep talking to each other, keep experimenting with different approaches, and most importantly, let’s keep remembering that at the heart of it all, we’re here to have a good time together. With the right tools in our kit, and the right attitude at the table, there’s no limit to the adventures we can have and the stories we can tell.</p>]]></content><author><name>Scott Turnbull</name></author><category term="DM Advice, Player Advice, Community Discussion, Resources" /><summary type="html"><![CDATA[Discover collaborative tools for aligning expectations and enhancing fun in your TTRPG and DnD games. Improve cooperation and enjoyment at your table.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/ToolsforCollaborationChangeTTRPGs_960x540.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/ToolsforCollaborationChangeTTRPGs_960x540.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gritty DnD Injuries - Expanding Exhaustion</title><link href="https://www.optionalrule.com/2024/02/16/revised-exhausted-condition/" rel="alternate" type="text/html" title="Gritty DnD Injuries - Expanding Exhaustion" /><published>2024-02-16T16:00:00+00:00</published><updated>2024-02-16T16:00:00+00:00</updated><id>https://www.optionalrule.com/2024/02/16/revised-exhausted-condition</id><content type="html" xml:base="https://www.optionalrule.com/2024/02/16/revised-exhausted-condition/"><![CDATA[<p>In Dungeons and Dragons 5th edition, the introduction of lasting injuries and effects promises to revitalize the way players approach the game. By infusing combat with the possibility of enduring consequences, this elevates the significance of each skirmish beyond the individual encounter. Health is no longer just hit points to be replenished with the wave of a hand or a nap; it becomes a strategic element of play managed through clever player choices. This shift introduces a layer of tactical depth missing in the vanilla game, requiring players to think critically about their characters actions and their potential long-term impacts on how the adventure plays out.</p>
 
 <p>An enhanced focus on increasing tension through lasting injuries does more than just increase stakes; it weaves a tighter bond between the player characters. Characters are encouraged build allies and actively participate in the healing and protection of their comrades, adding a rich layer of interdependence that was somewhat underdeveloped in the core rules. The sense of triumph following a narrowly won battle is exponentially heightened when the victory is hard-earned and comes with its own set of challenges to overcome. Through this approach, Dungeons and Dragons 5th edition rekindles the flame of classic sword and sorcery adventures, making every step of the journey feel impactful and every success a testament to the players’ strategic prowess and camaraderie.</p>
 
@@ -213,7 +298,7 @@
 
 <h2 id="conclusion">Conclusion</h2>
 
-<p>In conclusion, incorporating and expanding the exhaustion rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Explore gritty DnD 5e injuries, adding strategic depth and encouraging camaraderie without spiraling into defeat.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/wounded_ranger_480x600.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/wounded_ranger_480x600.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yes, if … the true secret of crafting adventures</title><link href="https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if/" rel="alternate" type="text/html" title="Yes, if … the true secret of crafting adventures" /><published>2023-12-20T14:00:00+00:00</published><updated>2023-12-20T14:00:00+00:00</updated><id>https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if</id><content type="html" xml:base="https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if/"><![CDATA[<p>In Dungeons &amp; Dragons, a common practice among Dungeon Masters (DMs) is to hand-wave new rulings for the sake of convenience, or with the belief that they’re enhancing the game by simply saying yes. However, I’ve come to realize that this approach, while seemingly beneficial, may actually be more limiting than many of us think. Simple answers keep things moving but ignore the fundamental truth about creating adventures. Running a TTRPG isn’t just about adjudicating the rules, it’s about creating opportunities for characters to risk it all to pursue their goals. Every question asked in a game is an opportunity to create a new adventure, so let’s talk a bit about this.</p>
+<p>In conclusion, incorporating and expanding the exhaustion rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Game Mechanics, Homebrew Content, DM Advice, Resources" /><summary type="html"><![CDATA[Explore gritty DnD 5e injuries, adding strategic depth and encouraging camaraderie without spiraling into defeat.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/wounded_ranger_480x600.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/wounded_ranger_480x600.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yes, if … the true secret of crafting adventures</title><link href="https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if/" rel="alternate" type="text/html" title="Yes, if … the true secret of crafting adventures" /><published>2023-12-20T14:00:00+00:00</published><updated>2023-12-20T14:00:00+00:00</updated><id>https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if</id><content type="html" xml:base="https://www.optionalrule.com/2023/12/20/the-magic-of-yes-if/"><![CDATA[<p>In Dungeons &amp; Dragons, a common practice among Dungeon Masters (DMs) is to hand-wave new rulings for the sake of convenience, or with the belief that they’re enhancing the game by simply saying yes. However, I’ve come to realize that this approach, while seemingly beneficial, may actually be more limiting than many of us think. Simple answers keep things moving but ignore the fundamental truth about creating adventures. Running a TTRPG isn’t just about adjudicating the rules, it’s about creating opportunities for characters to risk it all to pursue their goals. Every question asked in a game is an opportunity to create a new adventure, so let’s talk a bit about this.</p>
 
 <figure class="figure float-end ms-4">
     
@@ -411,91 +496,4 @@
 
 <h2 id="conclusion">Conclusion</h2>
 
-<p>Geography in TTRPGs is not merely a backdrop or obstacle course but a world ripe with potential adventures. Shifting our narrative focus from straightforward descriptions to providing context and implied adventures allows players to experience the landscape in a much more immersive and dynamic way. The key lies in treating the geography as an integral part of your world’s history and its future – a character in its own right with secrets to reveal, battles to recount, and adventures to offer. Your landscapes are not just set pieces; they’re a canvas for countless stories waiting to unfold.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Enhance your TTRPGs with immersive, narrative-driven travel. Transform landscapes from mere backdrops to catalysts for adventure and player engagement.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/narrative-terrain_480x679.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/narrative-terrain_480x679.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Summon the Unusual - 3 New Spells for DnD 5e</title><link href="https://www.optionalrule.com/2023/06/28/arcane-servant-spells/" rel="alternate" type="text/html" title="Summon the Unusual - 3 New Spells for DnD 5e" /><published>2023-06-28T09:40:00+00:00</published><updated>2023-06-28T09:40:00+00:00</updated><id>https://www.optionalrule.com/2023/06/28/arcane-servant-spells</id><content type="html" xml:base="https://www.optionalrule.com/2023/06/28/arcane-servant-spells/"><![CDATA[<p>As a fan of magically animated minions, I’ve always felt somewhat limited by the options available in the 5th edition of Dungeons and Dragons. If you’re intrigued by the idea of a “pet” class in D&amp;D, your primary option is to become a Necromancer and use Animate Dead. However, the image of a group of shambling undead isn’t always what players envision. Given the rich narrative tradition of casters animating objects, constructs, or elements, it’s perplexing that these options aren’t more prevalent in the game.</p>
-
-<p>To address this conundrum, I’ve incorporated three new spells into my games. They maintain balance with Animate Dead, offer compelling options for casters, and inject an element of arcane flavor into the gameplay. Allow me to share these additions with you.</p>
-
-<blockquote class="stat-block">
-  <h4 id="animated-weapon">Animated Weapon</h4>
-  <p><em>3rd-level Transmutation</em></p>
-
-  <hr />
-
-  <ul>
-    <li><strong>Casting Time:</strong> 1 minute</li>
-    <li><strong>Attack/Save:</strong> None</li>
-    <li><strong>Range:</strong> 10 ft</li>
-    <li><strong>Components:</strong> V, S, M (A target one-handed melee weapon)</li>
-    <li><strong>Duration:</strong>  24 hours</li>
-  </ul>
-
-  <hr />
-
-  <p>This spell imbues a mundane, one-handed melee weapon with potent magical energy, bringing it to life as an animated weapon. The weapon’s statistics and abilities are based on the Flying Sword as described in the Monster Manual, with the following exceptions: The damage and damage type of the animated weapon are determined by the mundane weapon type on which the spell is cast. Additionally, the caster may add their main casting ability modifier to the damage, and the weapon attacks using the caster’s melee spell attack bonus.</p>
-
-  <p>Once the spell is cast, the animated weapon becomes sentient and recognizes you as its master. It will dutifully follow your commands and fight on your behalf. As a bonus action on your turn, you can mentally command the weapon to move and attack a target within its reach. The weapon will continue attacking that target until it is defeated, it is given a new command, or your concentration on the spell ends. If the weapon’s hit points are reduced to 0, it is destroyed, and the spell ends.</p>
-
-  <p>The animated weapon remains under your control for the duration of the spell, but it requires your concentration while being commanded. If your concentration is broken, the weapon falls to the ground and becomes an ordinary inanimate weapon until you regain concentration to command it once more.</p>
-
-  <p>At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by one weapon die for every two slot levels above 3rd.</p>
-</blockquote>
-
-<blockquote class="stat-block">
-  <h4 id="clockwork-servant">Clockwork Servant</h4>
-  <p><em>3rd-level Conjuration</em></p>
-
-  <hr />
-
-  <ul>
-    <li><strong>Casting Time:</strong> 1 minute</li>
-    <li><strong>Attack/Save:</strong> None</li>
-    <li><strong>Range:</strong> 10 ft</li>
-    <li><strong>Components:</strong> V, S, M (10 gp scrap metal and parts)</li>
-    <li><strong>Duration:</strong>  24 hours</li>
-  </ul>
-
-  <hr />
-
-  <p>This spell creates a loyal clockwork servant, imbuing a significant source of scrap metal. The servant takes on the form and aesthetics determined by the caster’s wishes, while inheriting the abilities and characteristics of a Modron. Consult with the game master for the specific statistics of the construct servant.</p>
-
-  <p>On each of your turns, you can use a bonus action to mentally command any clockwork servant created by this spell, as long as it is within 60 feet of you. If you control multiple servants, you can command any or all of them simultaneously, issuing the same command to each one. You decide the construct’s actions and movement for its next turn, or you can give a general command, such as guarding a specific area. In the absence of specific commands, the construct defends itself against hostile creatures. Once a command is given, the servant continues to follow it until its task is complete.</p>
-
-  <p>The construct servant remains under your control for 24 hours. After this duration, it degrades into component parts. To maintain control of a construct servant for an additional 24 hours, you must cast this spell on it again before the current 24-hour period ends. When you do so, you can reassert your control over up to four servants you have created with this spell, instead of creating new ones.</p>
-
-  <p>If the spell expires, or when destroyed, a caster may recover 1d10 gp worth of material from the remnants of a servant.</p>
-
-  <p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 4th level or higher, you can create or reassert control over two additional construct servants for each slot level above 3rd.</p>
-</blockquote>
-
-<blockquote class="stat-block">
-  <h4 id="elemental-servant">Elemental Servant</h4>
-  <p><em>3rd-level Evocation</em></p>
-
-  <hr />
-
-  <ul>
-    <li><strong>Casting Time:</strong> 1 minute</li>
-    <li><strong>Attack/Save:</strong> None</li>
-    <li><strong>Range:</strong> 10 ft</li>
-    <li><strong>Components:</strong> V, S, M (source element of creature)</li>
-    <li><strong>Duration:</strong>  24 hours</li>
-  </ul>
-
-  <hr />
-
-  <p>This spell creates a loyal elemental servant, imbuing a significant source of earth, fire, air, or water within range with arcane animus and the semblance of life. The servant takes the form of a Mud, Steam, or Smoke Mephit, determined by the element used during the casting of the spell. Refer to the game master for the creature’s statistics.</p>
-
-  <p>On each of your turns, you can use a bonus action to mentally command any servant created by this spell as long as it is within 60 feet of you. If you control multiple servants, you can command any or all of them simultaneously, issuing the same command to each one. You decide the creature’s actions and movement for its next turn, or you can give a general command, such as guarding a specific chamber or corridor. In the absence of specific commands, the creature defends itself against hostile creatures. Once a command is given, the servant continues to follow it until its task is complete.</p>
-
-  <p>The servant remains under your control for 24 hours. After this duration, it no longer obeys your commands. To maintain control of a servant for an additional 24 hours, you must cast this spell on it again before the current 24-hour period ends. When you do so, you can reassert your control over up to four creatures you have animated with this spell, rather than creating new ones.</p>
-
-  <p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 4th level or higher, you can animate or reassert control over two additional creatures for each slot level above 3rd.</p>
-</blockquote>
-
-<h2 id="integration-and-discovery">Integration and Discovery:</h2>
-<p>To amplify the sense of adventure and discovery, I weave these spells into the fabric of the narrative instead of presenting them as standard spells accessible to all. I create opportunities for players to uncover these spells through their in-game actions. They might discover them as forgotten wisdom within a concealed library, earn them as accolades for gaining admission into a renowned wizard’s guild, or retrieve them from the ancient scrolls nestled in a formidable dragon’s treasure trove. By tying the procurement of these spells to the storyline, I instill an extra layer of intrigue and thrill, enriching my players’ journey. I think you can too.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-<p>These spells open some fun possibilities for arcane spellcasters, providing players the opportunity to control flavorful arcane servants. With a sprinkle of creativity, you could even extend these spells to encompass additional schools of magic. Remember to find fun ways to weave these into your campaign, making them a rewarding part of the adventure. If concerns about power creep arise, you can always introduce a material component cost or other means to regulate the spell’s use within the world. Ultimately, I believe players seeking this type of interaction will find these spells tremendously enjoyable.</p>
-
-<p>Now get out there and run some great games!</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Explore new servant summoning spells for DnD 5e! This post introduces three innovative spells, adding depth and fun to your arcane gameplay.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/young_adult_wizard_scribing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Geography in TTRPGs is not merely a backdrop or obstacle course but a world ripe with potential adventures. Shifting our narrative focus from straightforward descriptions to providing context and implied adventures allows players to experience the landscape in a much more immersive and dynamic way. The key lies in treating the geography as an integral part of your world’s history and its future – a character in its own right with secrets to reveal, battles to recount, and adventures to offer. Your landscapes are not just set pieces; they’re a canvas for countless stories waiting to unfold.</p>]]></content><author><name>Scott Turnbull</name></author><category term="RPG Resources" /><summary type="html"><![CDATA[Enhance your TTRPGs with immersive, narrative-driven travel. Transform landscapes from mere backdrops to catalysts for adventure and player engagement.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/narrative-terrain_480x679.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/narrative-terrain_480x679.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

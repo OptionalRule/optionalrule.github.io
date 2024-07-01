@@ -2,7 +2,7 @@
 layout: post
 title: Experience Still Matters - The Benefits of using XP in 5e.
 date: 2024-05-02 22:00
-category: RPG Resources
+category: DM Advice, Player Advice, Resources
 author: Scott Turnbull
 image: /assets/img/An_anxious_Dungeon_Master_480x480.jpg
 description: Uncover the benefits of XP-based advancement in D&D. Enhance player agency, pacing, and diverse gameplay. Learn to award XP for a well-rounded experience.
