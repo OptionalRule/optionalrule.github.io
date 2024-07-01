@@ -19,15 +19,15 @@ The new Players Handbook brings significant changes to the spell system, expandi
   width="480" height="642"
  %}
 
-1. Expanded spell chapter: The new spell chapter is larger, containing at least 30 more spells than the 2014 Players Handbook.
+1. Expanded spell chapter: The new spell chapter is larger, containing at least 30 more spells than the 2014 Players Handbook. (*However, you will still only cast the same 4 spells*)
 
 2. Spell revisions and upgrades:
-   - Many returning spells have been revisited and functionally upgraded.
+   - Many returning spells have been revisited and functionally upgraded. (*Flips right to True Strike?*)
    - Some spells deal more damage, heal more, have extended range, or have changes to concentration requirements.
 
 3. Improved clarity and usability:
-   - Common rules questions are now addressed within the spell descriptions.
-   - Spell descriptions have been tightened up, using fewer words to convey information more efficiently.
+   - Common rules questions are now addressed within the spell descriptions. (*Flips right to Counterspell?*)
+   - Spell descriptions have been tightened up, using fewer words to convey information more efficiently. (*Flips right to Simulacrum*)
 
 4. Presentation improvements:
    - More artwork showing spells in use.
@@ -35,11 +35,11 @@ The new Players Handbook brings significant changes to the spell system, expandi
    - The ritual tag has been moved to the casting timeline for clarity.
 
 5. New and imported spells:
-   - Brand new spells have been added.
-   - Some spells from other sourcebooks (like Xanathar's Guide and Tasha's Cauldron) have been incorporated and often upgraded.
+   - Brand new spells have been added. (*Goldeney Barbs?*)
+   - Some spells from other sourcebooks (like Xanathar's Guide and Tasha's Cauldron) have been incorporated and often upgraded. (*Not you Silvery Barbs!*)
 
 6. Summoning spells overhaul:
-   - New summoning spells with built-in stat blocks for summoned creatures.
+   - New summoning spells with built-in stat blocks for summoned creatures. (*Army of pixey summoning pixies is now a stat block?*)
    - Redesigned conjuration spells to focus on summoning spirits rather than concrete creatures.
 
 7. Specific spell changes:
@@ -49,10 +49,10 @@ The new Players Handbook brings significant changes to the spell system, expandi
    - Shape-shifting spells (like polymorph) now grant temporary hit points instead of a second pool of hit points.
 
 8. New spells tied to named spellcasters:
-   - Examples include Yan's Regal Presence and Jar's Storm of Radiance.
+   - Examples include Yan's Regal Presence and Jar's Storm of Radiance. (*Dave's Illusion of chiming... material component, a bell.*)
 
 9. Quality of life improvements:
-   - Some spells, like cloud of daggers, can now be moved after casting.
+   - Some spells, like cloud of daggers, can now be moved after casting. (*Please let it move with caster.*)
    - Produce flame has been redesigned to be easier to cast.
 
 10. Standardization:
@@ -60,7 +60,7 @@ The new Players Handbook brings significant changes to the spell system, expandi
     - Introduction of a new "emanation" area of effect.
 
 11. Easter eggs and flavor:
-    - Many spells have new flavor text or interesting details added.
+    - Many spells have new flavor text or interesting details added. (*Fun fact, Leomund's Tiny Hut was discovered after a disasterious misscast of Otiluke's Resilient Sphere*)
 
 You can see the entire video here on YouTube.
 

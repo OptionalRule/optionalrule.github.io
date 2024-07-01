@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-07-01T18:42:01+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Summary of DnD 2024 Spell Changes</title><link href="https://www.optionalrule.com/2024/07/01/dnd-2024-spell-changes/" rel="alternate" type="text/html" title="Summary of DnD 2024 Spell Changes" /><published>2024-07-01T14:00:00+00:00</published><updated>2024-07-01T14:00:00+00:00</updated><id>https://www.optionalrule.com/2024/07/01/dnd-2024-spell-changes</id><content type="html" xml:base="https://www.optionalrule.com/2024/07/01/dnd-2024-spell-changes/"><![CDATA[<p>The Dungeons &amp; Dragons 5th Edition ruleset is being revised and rereleased this year. Termed DnD 2024, there have been a series of videos on <a href="https://dndbeyond.com" target="_blank">DnDBeyond</a>, announcing and summarizing some of the changes in the latest revision. While each of those videos have a nice corresponding blog summary of changes, I couldn’t find one after the recent Spell change video. So I am summarizing the changes discussed below for easier reference, and so you don’t have to watch the 25 minute video just for 5 minutes of vague content. Enjoy.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-07-01T18:59:55+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Summary of DnD 2024 Spell Changes</title><link href="https://www.optionalrule.com/2024/07/01/dnd-2024-spell-changes/" rel="alternate" type="text/html" title="Summary of DnD 2024 Spell Changes" /><published>2024-07-01T14:00:00+00:00</published><updated>2024-07-01T14:00:00+00:00</updated><id>https://www.optionalrule.com/2024/07/01/dnd-2024-spell-changes</id><content type="html" xml:base="https://www.optionalrule.com/2024/07/01/dnd-2024-spell-changes/"><![CDATA[<p>The Dungeons &amp; Dragons 5th Edition ruleset is being revised and rereleased this year. Termed DnD 2024, there have been a series of videos on <a href="https://dndbeyond.com" target="_blank">DnDBeyond</a>, announcing and summarizing some of the changes in the latest revision. While each of those videos have a nice corresponding blog summary of changes, I couldn’t find one after the recent Spell change video. So I am summarizing the changes discussed below for easier reference, and so you don’t have to watch the 25 minute video just for 5 minutes of vague content. Enjoy.</p>
 
 <p>The new Players Handbook brings significant changes to the spell system, expanding and refining the magical options available to players and Dungeon Masters alike. The spell chapter has been greatly expanded, with at least 30 new spells added. Existing spells have been revisited and often upgraded, with improvements in damage, healing, range, or concentration requirements. The presentation of spells has been overhauled for better clarity and usability, addressing common rules questions within the descriptions themselves. New summoning spells, revamped conjuration magic, and spells tied to named spellcasters add fresh flavor to the magical landscape of D&amp;D. Let’s dive into the specific changes mentioned in the video below:</p>
 
@@ -11,18 +11,18 @@
 
 <ol>
   <li>
-    <p>Expanded spell chapter: The new spell chapter is larger, containing at least 30 more spells than the 2014 Players Handbook.</p>
+    <p>Expanded spell chapter: The new spell chapter is larger, containing at least 30 more spells than the 2014 Players Handbook. (<em>However, you will still only cast the same 4 spells</em>)</p>
   </li>
   <li>Spell revisions and upgrades:
     <ul>
-      <li>Many returning spells have been revisited and functionally upgraded.</li>
+      <li>Many returning spells have been revisited and functionally upgraded. (<em>Flips right to True Strike?</em>)</li>
       <li>Some spells deal more damage, heal more, have extended range, or have changes to concentration requirements.</li>
     </ul>
   </li>
   <li>Improved clarity and usability:
     <ul>
-      <li>Common rules questions are now addressed within the spell descriptions.</li>
-      <li>Spell descriptions have been tightened up, using fewer words to convey information more efficiently.</li>
+      <li>Common rules questions are now addressed within the spell descriptions. (<em>Flips right to Counterspell?</em>)</li>
+      <li>Spell descriptions have been tightened up, using fewer words to convey information more efficiently. (<em>Flips right to Simulacrum</em>)</li>
     </ul>
   </li>
   <li>Presentation improvements:
@@ -34,13 +34,13 @@
   </li>
   <li>New and imported spells:
     <ul>
-      <li>Brand new spells have been added.</li>
-      <li>Some spells from other sourcebooks (like Xanathar’s Guide and Tasha’s Cauldron) have been incorporated and often upgraded.</li>
+      <li>Brand new spells have been added. (<em>Goldeney Barbs?</em>)</li>
+      <li>Some spells from other sourcebooks (like Xanathar’s Guide and Tasha’s Cauldron) have been incorporated and often upgraded. (<em>Not you Silvery Barbs!</em>)</li>
     </ul>
   </li>
   <li>Summoning spells overhaul:
     <ul>
-      <li>New summoning spells with built-in stat blocks for summoned creatures.</li>
+      <li>New summoning spells with built-in stat blocks for summoned creatures. (<em>Army of pixey summoning pixies is now a stat block?</em>)</li>
       <li>Redesigned conjuration spells to focus on summoning spirits rather than concrete creatures.</li>
     </ul>
   </li>
@@ -54,12 +54,12 @@
   </li>
   <li>New spells tied to named spellcasters:
     <ul>
-      <li>Examples include Yan’s Regal Presence and Jar’s Storm of Radiance.</li>
+      <li>Examples include Yan’s Regal Presence and Jar’s Storm of Radiance. (<em>Dave’s Illusion of chiming… material component, a bell.</em>)</li>
     </ul>
   </li>
   <li>Quality of life improvements:
     <ul>
-      <li>Some spells, like cloud of daggers, can now be moved after casting.</li>
+      <li>Some spells, like cloud of daggers, can now be moved after casting. (<em>Please let it move with caster.</em>)</li>
       <li>Produce flame has been redesigned to be easier to cast.</li>
     </ul>
   </li>
@@ -71,7 +71,7 @@
   </li>
   <li>Easter eggs and flavor:
     <ul>
-      <li>Many spells have new flavor text or interesting details added.</li>
+      <li>Many spells have new flavor text or interesting details added. (<em>Fun fact, Leomund’s Tiny Hut was discovered after a disasterious misscast of Otiluke’s Resilient Sphere</em>)</li>
     </ul>
   </li>
 </ol>
