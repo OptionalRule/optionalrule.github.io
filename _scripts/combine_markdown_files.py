@@ -1,123 +1,135 @@
-import argparse
-import pathlib
+"""
+Utility script to combine Jekyll blog posts into a single markdown file.
+"""
+import os
 import re
-import html
+import argparse
+from datetime import datetime
+import yaml
 
-def extract_title_from_front_matter(content):
+def read_jekyll_post(file_path):
     """
-    Extract the title from Jekyll front matter in the markdown content.
+    Read a Jekyll post file and extract the front matter and content.
 
-    Parameters:
-    - content: A string containing the markdown content.
+    Args:
+        file_path (str): The path to the Jekyll post file.
 
     Returns:
-    - The title as a string, if found. None otherwise.
+        tuple: A tuple containing the metadata (front matter) as a dictionary and the content as a string.
     """
-    title_match = re.search(r'^title: (.*)$', content, re.MULTILINE)
-    if title_match:
-        return title_match.group(1)
-    return None
-
-def remove_jekyll_front_matter(content):
-    """
-    Remove Jekyll front matter from markdown content.
-
-    Parameters:
-    - content: A string containing the markdown content.
-
-    Returns:
-    - A string with the Jekyll front matter removed.
-    """
-    return re.sub(r'^---.*?---\s*', '', content, flags=re.DOTALL)
-
-def remove_liquid_tags(content):
-    """
-    Remove Liquid template tags from markdown content, including multiline tags.
-
-    Parameters:
-    - content: A string containing the markdown content.
-
-    Returns:
-    - A string with the Liquid template tags removed.
-    """
-    # Remove single-line and multiline Liquid tags
-    content = re.sub(r'\{\{.*?\}\}', '', content, flags=re.DOTALL)
-    content = re.sub(r'\{%.*?%\}', '', content, flags=re.DOTALL)
-    return content
-
-def clean_html_content(content):
-    """
-    Strip HTML tags and decode HTML entities in the content.
-
-    Parameters:
-    - content: A string containing the HTML content.
-
-    Returns:
-    - A string with HTML tags removed and HTML entities decoded.
-    """
-    # Remove HTML tags
-    tag_free_content = re.sub(r'<[^>]+>', '', content)
+    with open(file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
     
-    # Decode HTML entities
-    decoded_content = html.unescape(tag_free_content)
+    # Split the file into front matter and content
+    parts = content.split('---', 2)
+    if len(parts) < 3:
+        return {}, parts[-1].strip()
     
-    return decoded_content
-
-
-def combine_markdown_files(directory_path, output_file_path):
-    """
-    Combine the content of all markdown files in the given directory into a single file
-    after removing Jekyll front matter and Liquid template tags, and adding the extracted title at the start.
-
-    Parameters:
-    - directory_path: Path to the directory containing markdown files.
-    - output_file_path: Path to the output file where combined markdown will be written.
-    """
-    directory = pathlib.Path(directory_path)
-    output_file = pathlib.Path(output_file_path)
-
-    if not directory.is_dir():
-        print(f"Directory {directory_path} does not exist.")
-        return
-
+    # Parse the front matter
     try:
-        with output_file.open('w', encoding='utf-8') as outfile:
-            for file in directory.glob('*.md'):
-                with file.open('r', encoding='utf-8') as infile:
-                    content = infile.read()
-                    title = extract_title_from_front_matter(content)
-                    content_without_front_matter = remove_jekyll_front_matter(content)
-                    content_without_html_tags = clean_html_content(content_without_front_matter)
-                    cleaned_content = remove_liquid_tags(content_without_html_tags)
-                    if title:
-                        outfile.write(f"# {title}\n\n")
-                    outfile.write(cleaned_content + '\n\n')
-    except Exception as e:
-        print(f"An error occurred: {e}")
-    else:
-        print(f"Combined markdown file created at {output_file_path}")
+        metadata = yaml.safe_load(parts[1])
+    except yaml.YAMLError:
+        metadata = {}
+    
+    return metadata, parts[2].strip()
+
+def clean_markdown(content):
+    """
+    Cleans the given markdown content by removing HTML comments, liquid tags, extra whitespace, and newlines.
+
+    Args:
+        content (str): The markdown content to be cleaned.
+
+    Returns:
+        str: The cleaned markdown content.
+    """
+    # Remove HTML comments
+    content = re.sub(r'<!--.*?-->', '', content, flags=re.DOTALL)
+    
+    # Remove liquid tags
+    content = re.sub(r'{%.*?%}', '', content, flags=re.DOTALL)
+    
+    # Remove extra whitespace and newlines
+    content = re.sub(r'\n{3,}', '\n\n', content)
+    
+    return content.strip()
+
+def get_post_date(metadata, file_path):
+    """
+    Get the post date from the metadata or file creation time.
+
+    Args:
+        metadata (dict): The metadata dictionary containing the post information.
+        file_path (str): The path of the file.
+
+    Returns:
+        datetime: The post date as a datetime object.
+    """
+    if 'date' in metadata:
+        try:
+            return datetime.strptime(str(metadata['date']), "%Y-%m-%d %H:%M:%S %z")
+        except ValueError:
+            try:
+                return datetime.strptime(str(metadata['date']), "%Y-%m-%d")
+            except ValueError:
+                pass
+    
+    # If no valid date in metadata, use file creation time
+    return datetime.fromtimestamp(os.path.getctime(file_path))
+
+def process_posts(directory, output_file):
+    """
+    Process the markdown files in the specified directory and combine them into a single output file.
+
+    Args:
+        directory (str): The directory path where the markdown files are located.
+        output_file (str): The path of the output file where the combined content will be written.
+
+    Returns:
+        None
+    """
+    with open(output_file, 'w', encoding='utf-8') as outfile:
+        for filename in sorted(os.listdir(directory)):
+            if filename.endswith('.md') or filename.endswith('.markdown'):
+                file_path = os.path.join(directory, filename)
+                metadata, content = read_jekyll_post(file_path)
+                
+                # Write post title
+                title = metadata.get('title', 'Untitled')
+                outfile.write(f"# {title}\n\n")
+                
+                # Write post date
+                date = get_post_date(metadata, file_path)
+                outfile.write(f"*Posted on: {date.strftime('%B %d, %Y')}*\n\n")
+                
+                # Write cleaned content
+                cleaned_content = clean_markdown(content)
+                outfile.write(cleaned_content)
+                
+                # Add separator
+                outfile.write("\n\n---\n\n")
 
 def main():
     """
-    Execute the script to combine markdown files into a single file after cleanup.
+    Combine Jekyll blog posts into a single markdown file.
 
-    This script takes two command line arguments:
-    1. directory_path: The path to the directory containing markdown files.
-    2. output_file_path: The path for the output file where the combined markdown will be written.
-
-    Example execution:
-    python script_name.py ../_posts ./combined_markdown.md
-
-    This will combine all markdown files from '../__posts' into a single markdown file named 'combined_markdown.md',
-    with Jekyll front matter and Liquid tags removed, and each post's title added at the start.
+    Args:
+        posts_directory (str): Directory containing Jekyll blog posts.
+        output_file (str): Path to the output markdown file.
     """
-    parser = argparse.ArgumentParser(description="Combine markdown files from a directory into a single file after cleaning Jekyll front matter and Liquid tags, adding post titles.")
-    parser.add_argument("directory_path", type=str, help="Path to the directory containing markdown files.")
-    parser.add_argument("output_file_path", type=str, help="Path for the output combined markdown file.")
-
+    parser = argparse.ArgumentParser(description="Combine Jekyll blog posts into a single markdown file.")
+    parser.add_argument("posts_directory", help="Directory containing Jekyll blog posts")
+    parser.add_argument("output_file", help="Path to the output markdown file")
+    
     args = parser.parse_args()
-
-    combine_markdown_files(args.directory_path, args.output_file_path)
+    
+    if not os.path.isdir(args.posts_directory):
+        print(f"Error: {args.posts_directory} is not a valid directory.")
+        return
+    
+    process_posts(args.posts_directory, args.output_file)
+    print(f"All posts have been combined into {args.output_file}")
 
 if __name__ == "__main__":
+    # python combine_markdown_files.py ..\_posts combined_markdown.md
     main()
