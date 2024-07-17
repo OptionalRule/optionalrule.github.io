@@ -5,26 +5,25 @@ permalink: /popular-posts/
 ---
 
 {% assign view_counts = site.data.view_counts %}
-{% assign popular_posts = site.posts | sort: 'date' | reverse %}
 
 {% assign posts_with_views = '' | split: '' %}
-{% for post in popular_posts %}
+{% for post in site.posts %}
   {% assign post_url = post.url | relative_url %}
   {% assign post_url_alt = post_url | remove_first: '/' %}
   {% assign view_count = view_counts[post_url] | default: view_counts[post_url_alt] | default: 0 %}
-  {% assign post_with_views = view_count | append: ',' | append: post.url %}
-  {% assign posts_with_views = posts_with_views | push: post_with_views %}
+  {% capture post_info %}{{ view_count | plus: 1000000 }},{{ post.url }}{% endcapture %}
+  {% assign posts_with_views = posts_with_views | push: post_info %}
 {% endfor %}
 
 {% assign sorted_posts = posts_with_views | sort | reverse %}
 
 <div class="row">
   <div class="col">
-    {% for post_info in sorted_posts limit:25 %}
-        {% assign post_data = post_info | split: ',' %}
-        {% assign view_count = post_data[0] %}
-        {% assign post_url = post_data[1] %}
-        {% assign post = site.posts | where: "url", post_url | first %}
+{% for post_info in sorted_posts limit:25 %}
+    {% assign post_data = post_info | split: ',' %}
+    {% assign view_count = post_data[0] | minus: 1000000 %}
+    {% assign post_url = post_data[1] %}
+    {% assign post = site.posts | where: "url", post_url | first %}
         {% include post_preview.html %}
     {% endfor %}
   </div>
