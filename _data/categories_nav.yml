@@ -1,5 +1,7 @@
 - name: Popular Posts
   link: /popular-posts/
+- name: Best Posts
+  link: /best-posts/
 - name: RPG Resources
   link: /category/rpg%20resources/
 - name: Analysis

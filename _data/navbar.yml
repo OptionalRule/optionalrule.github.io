@@ -4,5 +4,7 @@
   link: /about/
 - name: Popular
   link: /popular-posts/
+- name: Best
+  link: /best-posts/
 - name: Feed
   link: /feed.xml
