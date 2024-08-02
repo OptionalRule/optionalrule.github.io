@@ -39,6 +39,8 @@ What if we could maintain the depth of the Runequest system while simplifying th
    - Multiples of 10 = Critical Failure
    - Numbers ending in 5 = Special Failure (a new concept we could introduce)
 
+Or in more simple terms:  A 10s value is always a Critical Success or Failure, and a 5s value is always a Special Success or Failure.  It's that simple.
+
 This system offers several advantages:
 
 1. **Ease of Use**: Players only need to remember a simple pattern rather than consulting individual skill ranges.
@@ -49,6 +51,8 @@ This system offers several advantages:
 ## Potential Impacts and Considerations
 
 It's worth noting that this system, while similar in spirit to the original rules, doesn't map exactly to the intended probabilities of the Runequest system. However, I believe the slight statistical differences would be a small price to pay for the significant boost in gameplay fluidity.
+
+Also, it's worth nothing that if a skill value is 9% or below, the character can't score a Critical Success.  To me this is fine because, at that point, be grateful you succeeded at all!
 
 Additionally, this system introduces the concept of a "Special Failure," which could add an interesting new dimension to gameplay. Perhaps these could represent near-misses or failures that still provide some benefit or information to the character.  For instance, if a game uses the "push" mechanic from Call of Cthulhu, the GM could rule that a Special Failure is the same a critical failure.  Alternatively, a GM could use Special Failure to mean only a partial failure.  For example, the character might have failed to make that jump but instead of falling they are holding on by their fingertips and about to fall.  This could add another intersting dimension to gameplay.
 
