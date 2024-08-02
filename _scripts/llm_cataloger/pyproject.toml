@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "llm-cataloger"
+version = "0.1.0"
+description = "A small script to recatalog jekyll blog posts via an LLM."
+authors = ["Scott Turnbull <streamweaver@gmail.com>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+PyYAML = "^6.0.1"
+langchain = "^0.2.9"
+python-dotenv = "^1.0.1"
+langchain-anthropic = "^0.1.20"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

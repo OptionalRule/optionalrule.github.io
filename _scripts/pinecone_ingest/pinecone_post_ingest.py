@@ -27,7 +27,24 @@ model_name = 'openai/clip-vit-base-patch32'
 tokenizer = CLIPTokenizer.from_pretrained(model_name)
 model = CLIPTextModel.from_pretrained(model_name)
 
+from typing import Dict, Any
+from datetime import datetime
+
 def parse_date(front_matter: Dict[str, Any], filename: str) -> datetime:
+    """
+    Parses the date from the front matter or filename and returns a datetime object.
+
+    Args:
+        front_matter (Dict[str, Any]): A dictionary containing the front matter data.
+        filename (str): The name of the file.
+
+    Returns:
+        datetime: The parsed date as a datetime object.
+
+    Raises:
+        ValueError: If the date format in the front matter is unexpected.
+
+    """
     if 'date' in front_matter:
         date = front_matter['date']
         if isinstance(date, datetime):
