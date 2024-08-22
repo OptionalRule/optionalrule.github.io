@@ -2348,9 +2348,9 @@ blockquote.stat-block { display: inline-block; padding-top: .9em; padding-bottom
 
 .stat-block.wide { width: 46.5%; min-width: 560px; }
 
-blockquote.stat-block table { margin-bottom: .5em; margin-top: .5em; }
+blockquote.stat-block table { margin-bottom: .5em; margin-top: .5em; width: 100%; text-align: center; }
 
-blockquote.stat-block table tbody tr td { vertical-align: bottom; padding-bottom: .3em; padding-right: .5em; padding-left: .5em; }
+blockquote.stat-block table tbody tr td th { vertical-align: middle; padding-bottom: .3em; padding-right: .5em; padding-left: .5em; }
 
 @media screen and (max-width: 675px) { .stat-block.wide { min-width: 100%; } .stat-block.wide .section-left, .stat-block.wide .section-right { display: block; width: 100%; } .stat-block.wide .section-left { margin: 0; } .stat-block.wide .section-right { margin: 0; } }
 

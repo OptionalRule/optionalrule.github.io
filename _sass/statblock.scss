@@ -24,9 +24,11 @@ Unsure if poser is creator, no licsese or attribution information given.
   blockquote.stat-block table{
     margin-bottom: .5em;
     margin-top: .5em;
+    width: 100%;
+    text-align: center;
   }
-  blockquote.stat-block table tbody tr td {
-    vertical-align: bottom;
+  blockquote.stat-block table tbody tr td th {
+    vertical-align: middle;
     padding-bottom: .3em;
     padding-right: .5em;
     padding-left: .5em;

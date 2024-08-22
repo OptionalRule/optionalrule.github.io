@@ -12,26 +12,27 @@
 > 
 > ___
 > 
-> - **Armor Class** 15 (natural armor)
-> - **Hit Points** 45 (6d10 + 12)
+> - **AC** 15 (natural armor)
+> - **Initiative** +3
+> - **HP** 38 (5d10 + 10)
 > - **Speed** 60 ft.
 > 
 > ___
 > 
-> |STR|DEX|CON|INT|WIS|CHA|
+> ||STR|DEX|CON|INT|WIS|CHA|
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> |18 (+4)|16 (+3)|15 (+2)|4 (-3)|14 (+2)|8 (-1)|
+> ||18|16|15|4|14|8|
+> |***MOD***|+4|+3|+2|-3|+2|-1|
+> |***SAVE***|+4|+3|+2|-3|+2|-1|
 > 
 > ___
 > 
-> - **Skills** Perception +6, Stealth +5, Survival +4
+> - **Skills** Perception +6, Stealth +5
 > - **Senses** darkvision 90 ft., passive Perception 16
 > - **Languages** None
-> - **Challenge** 4 (1,100 XP)
+> - **Challenge** 4 (1,100 XP, PB+2)
 > 
-> ### Abilities
-> 
-> **Keen Hearing and Smell.** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+> ### Traits
 > 
 > **Pack Tactics.** The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 > 
