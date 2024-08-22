@@ -2,9 +2,9 @@
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"
   src="/assets/img/monsters/dire_wolf_alpha_480x856.png"
-  alt="A large snarling wolf with a pack trailing behind them."
+  alt="A large snarling wolf with a pack trailing behind them. AI Image."
   width="480" height="856"
-  caption="It's the hope that kills you... and the teeth... okay, mostly the teeth."
+  caption="It's the hope that kills you... and the teeth... okay, mostly the teeth. (AI Image)"
  %}
 
 > ## Dire Wolf Alpha
