@@ -10,6 +10,8 @@ description: Streamline Runequest's critical system with a simple pattern. Boost
 ---
 I've always been drawn to systems that offer depth and engagement. [Runequest](https://www.chaosium.com/runequest-rpg/){:target="_blank"}, with its skills-based approach, certainly fits the bill. It encourages players to think creatively about their characters' abilities in every situation, rather than waiting for the perfect moment to use a class-specific power as in D&D. However, even the most beloved systems can have their quirks, and for me, Runequest's handling of criticals has always been a sticking point.
 
+I am taking inspiration from the way another percentile system I'm fond of does crticials, Harnmaster. The system is flows so naturally, I thought using something similar here could be very useful for Runequest any any of the systems under Chaosium's banner. 
+
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"
   src="/assets/img/Runequest_480x626.jpg"

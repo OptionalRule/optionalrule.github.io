@@ -1,4 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-08-02T15:29:39+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Simplifying Runequest’s Critical System</title><link href="https://www.optionalrule.com/2024/08/02/simplifying-runequests-critical-system/" rel="alternate" type="text/html" title="Simplifying Runequest’s Critical System" /><published>2024-08-02T11:03:00+00:00</published><updated>2024-08-02T11:03:00+00:00</updated><id>https://www.optionalrule.com/2024/08/02/simplifying-runequests-critical-system</id><content type="html" xml:base="https://www.optionalrule.com/2024/08/02/simplifying-runequests-critical-system/"><![CDATA[<p>I’ve always been drawn to systems that offer depth and engagement. <a href="https://www.chaosium.com/runequest-rpg/" target="_blank">Runequest</a>, with its skills-based approach, certainly fits the bill. It encourages players to think creatively about their characters’ abilities in every situation, rather than waiting for the perfect moment to use a class-specific power as in D&amp;D. However, even the most beloved systems can have their quirks, and for me, Runequest’s handling of criticals has always been a sticking point.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-08-22T14:42:40+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Analyzing the DnD 2024 Dire Wolf</title><link href="https://www.optionalrule.com/2024/08/22/dire-wolf-alpha/" rel="alternate" type="text/html" title="Analyzing the DnD 2024 Dire Wolf" /><published>2024-08-22T08:30:00+00:00</published><updated>2024-08-22T08:30:00+00:00</updated><id>https://www.optionalrule.com/2024/08/22/dire-wolf-alpha</id><content type="html" xml:base="https://www.optionalrule.com/2024/08/22/dire-wolf-alpha/"><![CDATA[<p><a href="https://www.dndbeyond.com/" target="_blank">Dungeons &amp; Dragons 5th edition</a> has long been criticized for having bland or poor monster design, and people have had high hopes that D&amp;D 2024 would resolve that. The Challenge Rating system has been unhelpful in building encounters, or creating challenging encounters, particularly at high level. The lack of variety in monster abilities and tactics has led to a bland and repetitive feeling in combat. Additionally, monsters lack a dynamic and interactive feeling that evokes a sense of adventure. Nothing demonstrates this so much as the success of the “<a href="https://shop.mcdmproductions.com/collections/flee-mortals-the-mcdm-monster-book" target="_blank">Flee Mortals</a>” supplement from MCDM, that reworked or added monsters in the game in a way that builds very exciting adventures.</p>
+
+<p>So when people started posting monster stat blocks from the upcoming D&amp;D 2024 Players Handbook, I was naturally curious to see where things are headed.</p>
+
+<h2 id="a-sheep-in-wolfs-clothing">A Sheep in Wolf’s Clothing</h2>
+
+<p>The <a href="https://x.com/optionalrule/status/1826621242323108240" target="_blank">Dire Wolf stat block</a> started making the rounds on social media yesterday to significant criticism. I will not show it here as WotC has gotten over-enthusiastic with takedown notices, but overall I felt like the stat block was watered down compared to the 5e version, a bit more streamlined but in no meaningful way. The 2024 Dire Wolf has only about half the hit points of the original 5e version, and does 20% less damage. The only significant improvement is knocking a foe prone is automatic on a bite now, reducing the number of rolls needed to resolve an attack. However, many have pointed out that prone isn’t as valuable a condition since pack tactics already grants them advantage when an ally is near.</p>
+
+<p>So overall, my assessment is this change feels more bland and less exciting than the original 5e version. One data point isn’t a trend, and I have no idea how much of an indicator this is toward the redesign of monsters across the entire 2024 edition, but it doesn’t make me hopeful.</p>
+
+<p>I thought this indicates a big missed opportunity. With just a few small tweaks, I think this could have been at least a bit more exciting. In my past 5e games, I’ve used the community optional rule that all monsters double their damage and half their hit points. In my groups this has led to much faster and much more exciting combats. However, I’m not going to get that extreme in my design suggestions here and stick to more simple changes in alignment with the direction the design seems to be going. So you understand my bias though, my group did enjoy the above change quite a bit and I may continue to use it in D&amp;D 2024 with the right players.</p>
+
+<h2 id="adding-a-bit-of-bite">Adding a bit of Bite</h2>
+
+<p>If I were to suggest some simple change to wolves overall, it would be to lean into fast encounters that showcase the dangers of the pack. So taking the Dire Wolf stat block as an example, it’s reasonable to guess that all wolves will automatically apply the Prone condition to a target on a successful bite. This is one of those effects that reads well in a book, but doesn’t result in a lot of difference in an encounter. The big advantage of Prone is that it grants advantage to an attacker, and disadvantage to the prone target on attacks. However, wolves already receive advantage if an ally is within 5 feet of the target, and the target is likely to stand up before the wolves’ next attack, meaning Prone doesn’t really add much to the encounter.</p>
+
+<p>So I suggest adding the following ability to all wolves:</p>
+
+<p><strong>Nimble Predator.</strong> The wolf doesn’t provoke opportunity attacks from prone creatures when it moves out of their reach.</p>
+
+<p>This is a simple change and lets wolves, or a pack, dart in, make an attack and dart away. Interaction with packs become interesting now, because the next attacker gets the advantage without needing their ally to stay in attack range. However, for targets the wolves can’t bring down, they have to surround and engage. This creates a bit of dynamic play to wolves in combat. Not earth-shattering but a bit of an improvement for sure.</p>
+
+<h2 id="adding-a-bit-of-spice">Adding a bit of Spice</h2>
+
+<p>What is a wolf pack without an Alpha to lead it? To spice things up, I designed this Dire Wolf Alpha you can add to any pack of Dire Wolves to create a real challenge for your group. Not only does the Nimble Predator ability apply to all wolves, but it adds a Howl ability to grant the pack temporary hit points, and let the pack coordinate their attacks better while they have those temporary hit points.</p>
+
+<p>Mix this creature in as the head of a regular pack of wolves to add some bite, or put them at the head of a pack of Dire Wolves for that extra thrill.</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/monsters/dire_wolf_alpha_480x856.png" alt="A large snarling wolf with a pack trailing behind them." height="856" width="480" />
+    
+    
+        <figcaption class="figure-caption text-center">It's the hope that kills you... and the teeth... okay, mostly the teeth.</figcaption>
+    
+</figure>
+
+<blockquote class="stat-block wide">
+  <h2 id="dire-wolf-alpha">Dire Wolf Alpha</h2>
+  <p><em>Large beast, unaligned</em></p>
+
+  <hr />
+
+  <ul>
+    <li><strong>Armor Class</strong> 15 (natural armor)</li>
+    <li><strong>Hit Points</strong> 45 (6d10 + 12)</li>
+    <li><strong>Speed</strong> 60 ft.</li>
+  </ul>
+
+  <hr />
+
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: center">STR</th>
+        <th style="text-align: center">DEX</th>
+        <th style="text-align: center">CON</th>
+        <th style="text-align: center">INT</th>
+        <th style="text-align: center">WIS</th>
+        <th style="text-align: center">CHA</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center">18 (+4)</td>
+        <td style="text-align: center">16 (+3)</td>
+        <td style="text-align: center">15 (+2)</td>
+        <td style="text-align: center">4 (-3)</td>
+        <td style="text-align: center">14 (+2)</td>
+        <td style="text-align: center">8 (-1)</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr />
+
+  <ul>
+    <li><strong>Skills</strong> Perception +6, Stealth +5, Survival +4</li>
+    <li><strong>Senses</strong> darkvision 90 ft., passive Perception 16</li>
+    <li><strong>Languages</strong> None</li>
+    <li><strong>Challenge</strong> 4 (1,100 XP)</li>
+  </ul>
+
+  <h3 id="abilities">Abilities</h3>
+
+  <p><strong>Keen Hearing and Smell.</strong> The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
+
+  <p><strong>Pack Tactics.</strong> The wolf has advantage on attack rolls against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.</p>
+
+  <p><strong>Relentless (Recharges after a Short or Long Rest).</strong> If the wolf takes damage that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>
+
+  <p><strong>Nimble Predator.</strong> The wolf doesn’t provoke opportunity attacks from prone creatures when it moves out of their reach.</p>
+
+  <p><strong>Leader of the Hunt.</strong> When the Dire Wolf Alpha knocks a target prone with a bite attack, any allies within 5 feet of the prone creature, who have temporary hit points, may make a single attack as a reaction.</p>
+
+  <h3 id="actions">Actions</h3>
+
+  <p><strong>Multiattack.</strong> The wolf makes two attacks: one with its bite and one with its claws.</p>
+
+  <p><strong>Bite.</strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (2d6 + 4) piercing damage, and the target has the Prone condition if it is Huge or smaller.</p>
+
+  <p><strong>Claws.</strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (2d4 + 4) slashing damage.</p>
+
+  <p><strong>Howl of the Pack (1/Day).</strong> The wolf lets out a chilling howl. Each allied wolf within 60 feet of this wolf that can hear it gains 10 temporary hit points and advantage on attack rolls until the start of the Dire Wolf Alpha’s next turn.</p>
+</blockquote>
+
+<h2 id="packing-it-together">Packing it Together</h2>
+<p>These changes add significantly more options and a dynamic flavor to wolf encounters. Under the old design, wolves basically rush in and bite, then stand in place to ensure they get the ally bonus. With Nimble Predator, however, their tactics become more fluid and interesting:</p>
+
+<ol>
+  <li>Wolves can dash in and bite.</li>
+  <li>If the target is knocked prone, they can dart out of danger, leaving advantage to their ally on the prone target.</li>
+  <li>If the target doesn’t get knocked prone, they stay in place to give the bonus instead.</li>
+</ol>
+
+<p>The Alpha’s “Leader of the Pack” ability adds an even broader dimension and tactical consideration to the fight. It increases the mobility and overall dynamic nature of a wolf encounter in an enjoyable way.</p>
+
+<p>These modifications transform wolf encounters from static, predictable affairs into dynamic, tactical challenges. Players will need to think more carefully about their positioning and actions, while DMs can create more engaging and memorable combat scenarios. The pack now feels more like a coordinated unit, reflecting the true nature of wolves in the wild.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Finding ways to make combat exciting is one of the biggest challenges a DM has when putting a D&amp;D game together. If the Dire Wolf stat block is any indication, we may have more work cut out for us in the 2024 edition of the game. With a bit of thought and some tweaking though, I think we can bring some excitement to the game and create engaging encounters for our parties.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Monsters" /><summary type="html"><![CDATA[Analyze the new D&D 2024 Dire Wolf stat block. Discover why it's a missed opportunity and how to improve it. Learn about a simple "Nimble Predator" ability and Dire Wolf Alpha to spice up your encounters.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/monsters/dire_wolf_alpha_480x856.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/monsters/dire_wolf_alpha_480x856.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Simplifying Runequest’s Critical System</title><link href="https://www.optionalrule.com/2024/08/02/simplifying-runequests-critical-system/" rel="alternate" type="text/html" title="Simplifying Runequest’s Critical System" /><published>2024-08-02T11:03:00+00:00</published><updated>2024-08-02T11:03:00+00:00</updated><id>https://www.optionalrule.com/2024/08/02/simplifying-runequests-critical-system</id><content type="html" xml:base="https://www.optionalrule.com/2024/08/02/simplifying-runequests-critical-system/"><![CDATA[<p>I’ve always been drawn to systems that offer depth and engagement. <a href="https://www.chaosium.com/runequest-rpg/" target="_blank">Runequest</a>, with its skills-based approach, certainly fits the bill. It encourages players to think creatively about their characters’ abilities in every situation, rather than waiting for the perfect moment to use a class-specific power as in D&amp;D. However, even the most beloved systems can have their quirks, and for me, Runequest’s handling of criticals has always been a sticking point.</p>
+
+<p>I am taking inspiration from the way another percentile system I’m fond of does crticials, Harnmaster. The system is flows so naturally, I thought using something similar here could be very useful for Runequest any any of the systems under Chaosium’s banner.</p>
 
 <figure class="figure float-end ms-4 clearfix">
     
@@ -523,23 +646,4 @@
 
 <p>Additionally, this shift underscores what many perceive as a troubling trend in the evolution of DnD in recent years. The core game, rather than uniting players, appears to be setting the community against itself, fostering an atmosphere of mutual suspicion and policing. While no single change in the game is solely responsible for this, there seems to be an aspect of DnD’s development that inadvertently caters to the ‘social point-scoring’ behavior rampant in online cultures. Although the underlying intentions behind these changes are commendable, it’s crucial to recognize how toxic elements of online culture can exploit these changes in ways detrimental to the hobby.</p>
 
-<p>Games are inherently about negotiation, but the initial idea must come from someone. Observing this rule and the evolving toxic behaviors on social media, I see a potential for harm. There’s a risk that some community segments might expect DMs to seek permission for their ideas, potentially stifling games before they begin.</p>]]></content><author><name>Scott Turnbull</name></author><category term="rpg resources" /><summary type="html"><![CDATA[Explore how the DM's role as the First Mover shapes DnD games, impacts player dynamics, and evolves with changing rules and online culture.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/A_group_playing_a_TTRPG_togeher_480x581.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/A_group_playing_a_TTRPG_togeher_480x581.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Statistical Mirage of Advantage in D&amp;amp;D 5th Edition</title><link href="https://www.optionalrule.com/2023/11/09/the-advantage-of-knowing-modifiers/" rel="alternate" type="text/html" title="The Statistical Mirage of Advantage in D&amp;amp;D 5th Edition" /><published>2023-11-09T14:00:00+00:00</published><updated>2023-11-09T14:00:00+00:00</updated><id>https://www.optionalrule.com/2023/11/09/the-advantage-of-knowing-modifiers</id><content type="html" xml:base="https://www.optionalrule.com/2023/11/09/the-advantage-of-knowing-modifiers/"><![CDATA[<p>Adventurers, gather ‘round the table as we delve into the often misunderstood mechanics of Advantage in Dungeons &amp; Dragons 5th Edition. Introduced as a streamlined method of bonus handling, Advantage allows players to roll a second d20 and choose the higher of the two. On the surface, it seems like a boon to the dice-rolling hopefuls, offering a second arrow in the quiver of chance. But does it truly elevate the players’ prospects, or is it a statistical sleight of hand?</p>
-
-<p>Let’s address the elephant in the room—the Gambler’s Fallacy. This is the mistaken belief that a second roll inherently increases the likelihood of a higher result. Players often fall victim to this misconception, envisioning that elusive natural 20 as just one more roll away. Yet, the truth lies in the principle of Regression to the Mean, which, stripped of its mathematical grandeur, implies that rolling additional d20s is more likely to yield a result closer to the average of 10.5 than the peaks of 20 or the valleys of 1.</p>
-<figure class="figure float-end ms-4 clearfix p-3 mb-3">
-    
-    <img class="img-fluid figure-img " src="/assets/img/PlayerWithDiceAndPaper.jpg" alt="A player confused by dice rolls." height="480" width="480" />
-    
-    
-</figure>
-<p>Imagine the collective sigh of disappointment if, instead of rolling for Advantage, we declared, “Assume you rolled a 10.” Not very heroic, is it? And yet, statistically, that’s closer to reality. Yes, Advantage provides a statistical bonus, but its impact is heavily skewed by the Difficulty Class (DC) of the task at hand. Lower DCs see an outsized benefit, inflating success rates on tasks that already favored the player, while the effect diminishes as the DC climbs. At a certain point, other bonuses, such as Bardic Inspiration, outshine Advantage, offering more consistent aid against the steeper challenges that heroes should face.</p>
-
-<p>This is precisely where the design of 5th Edition stumbles. By tailoring the system around a DC threshold that rarely exceeds 15, it inadvertently shackles Dungeon Masters, constraining the breadth of difficulty and tension that can be woven into the campaign narrative. We find ourselves in a narrow corridor of challenge, where the drama of high stakes is dulled by the statistical safety net of Advantage.</p>
-
-<p>Moreover, the non-stacking nature of Advantage and Disadvantage further complicates the battlefield. Once you’re locked in the grip of either, any additional factors that would normally tilt the scales become null and void. The result? A disincentive for players to seek creative solutions or take dynamic actions in combat. Why strive for that high ground or cunning feint if your current state of Disadvantage negates any potential benefits? Conversely, why not throw caution to the wind with a whimsical tactic if you’re already basking in the glow of Advantage?</p>
-
-<p>In my 2021 article, “<a href="/2021/01/02/tools-for-effecting-rolls-in-dd/">Tools for Effecting Rolls</a>,” I explored various mechanisms that can influence dice outcomes. The insights gleaned there are particularly pertinent when considering Advantage’s place within the broader spectrum of roll-affecting tools available to players and DMs alike.</p>
-
-<p>For the mathematically curious, the granular details of Advantage’s statistical effects are laid bare in an analysis I’ve set up on AnyDice, which you can explore <a href="https://anydice.com/program/32df7" target="_blank">here</a>. This model elucidates how Advantage impacts roll outcomes across different DCs, providing a clear visual representation of the mechanic’s limitations.</p>
-
-<p>In conclusion, while Advantage was conceived as a simplification, its implications reverberate through the game, subtly undermining both the thrill of chance and the strategic depth of combat. It’s a mechanic that promises heroics but often delivers predictability, a comfort blanket that smothers the flames of daring when it should be fanning them. As we continue to craft our tales of valor and villainy, it’s worth pondering how to elevate our encounters beyond the realm of the ordinary—where the roll of the die is as unpredictable and exciting as the adventures we imagine.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Analysis" /><summary type="html"><![CDATA[Adventurers, gather ‘round the table as we delve into the often misunderstood mechanics of Advantage in Dungeons &amp; Dragons 5th Edition. Introduced as a streamlined method of bonus handling, Advantage allows players to roll a second d20 and choose the higher of the two. On the surface, it seems like a boon to the dice-rolling hopefuls, offering a second arrow in the quiver of chance. But does it truly elevate the players’ prospects, or is it a statistical sleight of hand?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/PlayerWithDiceAndPaper.jpg" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/PlayerWithDiceAndPaper.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Games are inherently about negotiation, but the initial idea must come from someone. Observing this rule and the evolving toxic behaviors on social media, I see a potential for harm. There’s a risk that some community segments might expect DMs to seek permission for their ideas, potentially stifling games before they begin.</p>]]></content><author><name>Scott Turnbull</name></author><category term="rpg resources" /><summary type="html"><![CDATA[Explore how the DM's role as the First Mover shapes DnD games, impacts player dynamics, and evolves with changing rules and online culture.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/A_group_playing_a_TTRPG_togeher_480x581.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/A_group_playing_a_TTRPG_togeher_480x581.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
