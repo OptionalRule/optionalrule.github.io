@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Foraging for Herbs in Shadowdark
-date: 2024-08-26 08:03
+date: 2024-08-26 06:03
 category: Shadowdark
 author: Scott Turnbull
 image: /assets/img/herbalist_bench_480x240.png
