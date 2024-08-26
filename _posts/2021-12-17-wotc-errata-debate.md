@@ -6,7 +6,6 @@ category: Analysis
 author: Scott Turnbull
 tags: []
 description: My take on the recent Wizards of the Coast Dungeons and Dragons 5e errata.
-description: My take on teh recent Wizards of the Cost Dungeons and Dragons 5e errata.
 ---
 
 Greetings, adventurers! It's always exciting when the landscape of our beloved game, Dungeons & Dragons (D&D), shifts and morphs, opening up new pathways for our collective imagination. The [latest errata](https://media.wizards.com/2020/dnd/downloads/PH-Errata.pdf){:target="_blank"} issued for D&D 5E has brought such a change, one that holds significant implications for how we understand and play our favorite tabletop RPG. Among a host of clarifications, there is one change that stands out: the removal of alignment references for races in the Player's Handbook.

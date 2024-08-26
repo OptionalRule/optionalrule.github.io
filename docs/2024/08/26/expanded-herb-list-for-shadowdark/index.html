@@ -1,0 +1,716 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        
+        if(localStorage.getItem('consentMode') === null){
+            gtag('consent', 'default', {
+                'ad_storage': 'denied',
+                'analytics_storage': 'denied',
+                'personalization_storage': 'denied',
+                'functionality_storage': 'denied',
+                'security_storage': 'denied',
+            });
+        } else {
+            gtag('consent', 'default', JSON.parse(localStorage.getItem('consentMode')));
+        }
+    </script>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WD2ZH4W');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+    <!-- Atom Feed -->
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for optionalrule.com" href="/feed.xml" />
+
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/pygments/github.css">
+    <link rel="stylesheet" href="/assets/css/aos.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+
+
+
+    <!-- favicon stuff-->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Page Metadata -->
+    <title>Foraging for Herbs in Shadowdark</title>
+
+    <!-- SEO Plugin Stuff -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Foraging for Herbs in Shadowdark | Optional Rule</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Foraging for Herbs in Shadowdark" />
+<meta name="author" content="Scott Turnbull" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="An expanded guide to herb foraging rules for the Shadowdark TTRPG, with additional gameplay tips and customization options." />
+<meta property="og:description" content="An expanded guide to herb foraging rules for the Shadowdark TTRPG, with additional gameplay tips and customization options." />
+<link rel="canonical" href="https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/" />
+<meta property="og:url" content="https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/" />
+<meta property="og:site_name" content="Optional Rule" />
+<meta property="og:image" content="https://www.optionalrule.com/assets/img/herbalist_bench_480x240.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-08-26T08:03:00+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://www.optionalrule.com/assets/img/herbalist_bench_480x240.png" />
+<meta property="twitter:title" content="Foraging for Herbs in Shadowdark" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Scott Turnbull"},"dateModified":"2024-08-26T08:03:00+00:00","datePublished":"2024-08-26T08:03:00+00:00","description":"An expanded guide to herb foraging rules for the Shadowdark TTRPG, with additional gameplay tips and customization options.","headline":"Foraging for Herbs in Shadowdark","image":"https://www.optionalrule.com/assets/img/herbalist_bench_480x240.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.optionalrule.com/assets//brand/OptionalRuleIcon50x50XparentBG.png"},"name":"Scott Turnbull"},"url":"https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta itemprop="description" name="description" content="An expanded guide to herb foraging rules for the Shadowdark TTRPG, with additional gameplay tips and customization options." />
+
+    <!-- Analytics -->
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RXH8EZ5E8J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RXH8EZ5E8J');
+</script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WD2ZH4W"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="parallax-window overflow-hidden d-print-none pt-5 pb-5" data-parallax="scroll" data-image-src="/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg" 
+alt="A paper notebook laying open on top of a woodcut map of the world with magnifying glass and pencil nearby.  Fun is not optional is written on the open page.">
+    <div class="mb-5 mt-5 text-center d-print-none">
+        <h1>
+            <a href="/" class="site-title">Optional Rule</a>
+        </h1>
+        <p class="site-description"></p>
+    </div>
+</div>
+<!-- Navigation -->
+
+<div class="sticky-top bg-light shadow-sm border-top border-dark d-print-none">
+    <nav class="navbar navbar-light navbar-expand-md bg-light justify-content-center sticky-top container">
+        <a href="/" class="navbar-brand d-flex w-50 me-auto">
+            <img src="/assets/brand/OptionalRuleIcon50x50XparentBG.png" height="50" width="50"
+                alt="Optional Rule Logo, A dark hex with rainbow d20 in the center.">
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerMain"
+            aria-controls="navbarTogglerMain" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="navbar-collapse collapse w-100" id="navbarTogglerMain">
+            <ul class="navbar-nav w-100 justify-content-center">
+                
+                <li class="nav-item">
+                    <a class="nav-link fs-5 mx-3 " aria-current="page"
+                        href="/">Home</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link fs-5 mx-3 " aria-current="page"
+                        href="/about/">About</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link fs-5 mx-3 " aria-current="page"
+                        href="/popular-posts/">Popular</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link fs-5 mx-3 " aria-current="page"
+                        href="/best-posts/">Best</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link fs-5 mx-3 " aria-current="page"
+                        href="/feed.xml">Feed</a>
+                </li>
+                
+            </ul>
+            <ul class="nav navbar-nav ms-auto w-100 justify-content-end">
+                <li class="nav-item">
+                    
+                    <a class="nav-link d-inline" href="https://www.twitter.com/optionalrule" aria-label="Optional Rule on twitter" 
+                    target="_blank">
+                        <i class="fab fa-twitter"></i>
+                        <span class="d-none">Twitter</span>
+                    </a>
+                    
+                    <a class="nav-link d-inline" href="https://www.twitch.tv/optionalrule" aria-label="Optional Rule on twitch" 
+                    target="_blank">
+                        <i class="fab fa-twitch"></i>
+                        <span class="d-none">Twitch</span>
+                    </a>
+                    
+                    <a class="nav-link d-inline" href="https://www.youtube.com/channel/UCi7AoQ6KbaZQqhdO7heKPqw" aria-label="Optional Rule on youtube" 
+                    target="_blank">
+                        <i class="fab fa-youtube"></i>
+                        <span class="d-none">Youtube</span>
+                    </a>
+                    
+                    <a class="nav-link d-inline" href="https://www.instagram.com/optionalrule/" aria-label="Optional Rule on instagram" 
+                    target="_blank">
+                        <i class="fab fa-instagram"></i>
+                        <span class="d-none">Instagram</span>
+                    </a>
+                    
+                    <a class="nav-link d-inline" href="https://dice.camp/@Optionalrule" aria-label="Optional Rule on mastodon" 
+                    target="_blank">
+                        <i class="fab fa-mastodon"></i>
+                        <span class="d-none">Mastodon</span>
+                    </a>
+                    
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+
+<div class="container clearfix"><article id="expanded-herb-list-for-shadowdark">
+    <header class="post-header">
+
+            <div class="post-categories text-center mb-1">
+                
+                    <a href="/category/shadowdark" rel="category tag">Shadowdark</a>
+                    
+                
+            </div>
+
+        <h1 class="post-title text-center mb-2">Foraging for Herbs in Shadowdark</h1>
+        
+
+        <div class="post-meta clear-fix text-center fst-italic mb-3">
+            <span class="post-date">
+                
+                August
+                26th,
+                2024
+            </span>
+            
+                , by <span class="post-author">Scott Turnbull</span>
+            
+            <div id="share-bar" class="d-flex justify-content-center">
+    <div class="share-bar">
+        <a  href="https://www.facebook.com/sharer/sharer.php?u=https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Facebook"
+            class="facebook-share-link" >
+            <i class="fab fa-facebook facebook-blue"></i>
+        </a>
+
+        <a  href="https://twitter.com/intent/tweet?text=Foraging for Herbs in Shadowdark&url=https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Twitter" 
+            class="twitter-share-link" >
+            <i class="fab fa-twitter twitter-blue"></i>
+        </a>
+
+        <a  href="http://www.reddit.com/submit?url=https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Reddit" 
+            class="reddit-share-link" >
+            <i class="fab fa-reddit reddit-orange"></i>
+        </a>
+
+        <a  href="mailto:?subject=Foraging for Herbs in Shadowdark&amp;body=Check out this site https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/"
+            title="Share via Email"
+            class="email-share-link" >
+            <i class="fa fa-envelope email-red"></i>
+        </a>
+    </div>
+
+</div>
+        </div>
+
+        <div class="post-content">
+            <p>Foraging for herbs has long been a cherished aspect of the Old-School Renaissance (OSR) gaming experience, offering players the chance to interact with their environment in meaningful ways. In the spirit of this tradition, these Herb Foraging rules for <a href="https://www.thearcanelibrary.com/pages/shadowdark" target="_blank">Shadowdark</a> aim to add an option for strategic play and enhance the immersive nature of your campaigns.</p>
+
+<h2 id="what-is-shadowdark">What is Shadowdark?</h2>
+
+<p>For those unfamiliar, Shadowdark is a rules-light, OSR-inspired roleplaying game that emphasizes dungeon crawling, resource management, and player ingenuity. It’s designed to capture the feel of classic fantasy RPGs while streamlining mechanics for modern play. In this context, herbalism adds another layer of depth to character abilities and resource management.</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/herbalist_bench_480x240.png" alt="A black and white drawing of a bench with herbs, equipment, and books on it." height="240" width="480" />
+    
+    
+</figure>
+
+<h2 id="herbalism-in-shadowdark">Herbalism in Shadowdark</h2>
+
+<p>Herbalism is the skill of locating, identifying, and using naturally occurring plants, fungi, and roots from the environment. These rules are designed as an extension—rather than a replacement—of the Herbalism ability introduced with the <a href="https://www.dropbox.com/scl/fi/z58yei3n055mblyzp6p4n/Bard-and-Ranger-Classes-V1-2.pdf" target="_blank">Ranger</a> class, providing additional options and choices for players looking to gather valuable resources during their adventures.</p>
+
+<p>Game Masters should determine which classes or backgrounds may have access to this ability or allow characters to obtain the Herbalism skill, such as by spending money or trading a trait roll. Classes like the Witch, Priest of Nature, Seer, or others may have access to the ability. Likewise, the ability would fit well with backgrounds like Herbalist (of course), Ranger, Scholar, or Chirurgeon.</p>
+
+<h2 id="foraging-rules">Foraging Rules</h2>
+
+<p>Characters who wish to forage for herbs must spend 1 hour in-game and choose between two options:</p>
+
+<ol>
+  <li><strong>Focused Foraging:</strong> Search for a specific herb in the area.
+    <ul>
+      <li>Roll an INT check against the herb’s DC.</li>
+      <li>If successful, find a single dose, and an additional dose for every 3 points above the DC.</li>
+    </ul>
+  </li>
+  <li><strong>General Foraging:</strong> Search an area for any herbs you can find.
+    <ul>
+      <li>Roll an INT check. Anything less than a Normal result is a failure, otherwise note the success range Normal (12+), Hard (15+), or Extreme (18+).</li>
+      <li>Find 1 dose of a random herb of the rolled difficulty level, 1d3 herbs of the next lower difficulty, and 1d4 herbs from the lowest difficulty, as applicable.</li>
+    </ul>
+  </li>
+</ol>
+
+<p><em>Foraging Examples:</em></p>
+<blockquote class="text-bg-light mb-3 p-3 fst-italic">
+  <p><strong>Focused Foraging</strong>: Thorne, a skilled herbalist, is searching for Ghostweed (DC 13). He rolls a 16 on his INT check, succeeding by 3. Thorne finds 2 doses of Ghostweed.</p>
+
+  <p><strong>General Foraging</strong>: Joyclin searches a location for herbs and rolls a 17, a Hard success. She finds 1 herb from the Hard column, and 1d3 herbs from the Normal column.</p>
+</blockquote>
+
+<p>Any given area or location can only be searched once. A failure in either case means the character must complete a rest before searching again.</p>
+
+<h3 id="untrained-characters">Untrained Characters</h3>
+
+<p>Characters without the Herbalism ability can still attempt to forage for herbs, but:</p>
+<ul>
+  <li>Make INT checks at disadvantage</li>
+  <li>Limited to finding herbs of Normal difficulty (DC 14 and below)</li>
+  <li>Suffer 1d4 of poison damage if rolling a natural 1 due to encountering a “bad batch”</li>
+</ul>
+
+<h2 id="potency-and-preservation">Potency and Preservation</h2>
+
+<p>An herb retains its potency for <em>1 real-life hour</em> after being harvested. A character with the herbalism ability and an Herbalist Kit may attempt to extend an herb’s potency by spending 1 in-game hour and making another INT check agains the herb’s DC. On a success, the herb’s potency is extended indefinitly as determined by the Game Master.  On a failure, the dose of herb is lost and the character must complete a rest before trying to preserve an herb’s potency again.</p>
+
+<h2 id="herbalist-kit">Herbalist Kit</h2>
+
+<p>An herbalist kit is a small collection of tools essential for the practice of herbalism such as clippers, specialized knoves, pouches, grinding stones, and a mortar and pestle.</p>
+
+<blockquote class="text-bg-light mb-3 p-3 fst-italic">
+  <p><strong>Herbalist Kit</strong>: 10 gp, 1 Gear Slot.W</p>
+</blockquote>
+
+<h2 id="extended-list-of-herbs">Extended List of Herbs</h2>
+
+<p><strong>Table 1. Herb List</strong></p>
+
+<table class="table table-striped table-hover table-sm">
+  <thead>
+    <tr>
+      <th style="text-align: center">DC</th>
+      <th style="text-align: left">Herb Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">11</td>
+      <td style="text-align: left"><strong>Lifeleaf Jelly</strong>. Heal 1 HP or 2 HP fire damage; can’t smell or taste for 1 hour.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">12</td>
+      <td style="text-align: left"><strong>Darkroot</strong>. Gain darkvision (Near) for 1 hour; blinded in light.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">12</td>
+      <td style="text-align: left"><strong>Murkweed</strong>. Hold breath up to 10 minutes or until you breathe.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">12</td>
+      <td style="text-align: left"><strong>Shakewort</strong>. Can’t be surprised, DISADV on stealth for 1 hour.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13</td>
+      <td style="text-align: left"><strong>Foebane</strong>. ADV on attacks/damage vs one creature type; DISADV on death timer roll for 1d6.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13</td>
+      <td style="text-align: left"><strong>Ghostweed</strong>. See invisible; DISADV on other Spot checks for 10 minutes.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13</td>
+      <td style="text-align: left"><strong>Ghoul’s Cap</strong>. First attack in 10 min +2d6 Necrotic; DC 13 CON or take 1d4 Necrotic.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13</td>
+      <td style="text-align: left"><strong>Stonebark</strong>. AC +2, DISADV on DEX checks for 1 hour.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13</td>
+      <td style="text-align: left"><strong>Wraith’s Whisper</strong>. Speak with dead, but can’t understand living for 10 minutes.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13</td>
+      <td style="text-align: left"><strong>Yeti’s Crown</strong>. ADV to resist cold, can’t see color for 1 hour.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">14</td>
+      <td style="text-align: left"><strong>Demon’s Tongue</strong>. Understand all speech, but speak a random language for 10 minutes.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">14</td>
+      <td style="text-align: left"><strong>Lichlichen</strong>. Immune to fear and charm for 10 minutes; DISADV on CHA checks for 1 hour.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">14</td>
+      <td style="text-align: left"><strong>Purgeroot</strong>. Ends poison/disease; DISADV on all rolls for 1d4 rounds from retching.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">15</td>
+      <td style="text-align: left"><strong>Bloodmoss</strong>. ADV on death timer roll, DISADV on healing for 1 hour.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">15</td>
+      <td style="text-align: left"><strong>Creeping Lily</strong>. Speak only to plants and fungi for 10 minutes.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">15</td>
+      <td style="text-align: left"><strong>Everburn Moss</strong>. Emit bright light (Near), dim light (Far); ranged attacks have ADV to hit you for 1 hour.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">15</td>
+      <td style="text-align: left"><strong>Serpent’s Sap</strong>. Blood is 2d4 poison to others for 1 hour; take 1d4 damage after.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">15</td>
+      <td style="text-align: left"><strong>Slumberberry</strong>. Heals like Potion of Healing; adds hours to rest equal to half damage healed.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">16</td>
+      <td style="text-align: left"><strong>Halfling’s Foil</strong>. Invisible for 1d4 rounds or until wounded/attacking.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">17</td>
+      <td style="text-align: left"><strong>Shune’s Breath</strong>. Voice heard by one known person up to 1 mile for 10 minutes. Can only whisper for 1 hour.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">18</td>
+      <td style="text-align: left"><strong>Banshee’s Hair</strong>. Scream for 1d4 rounds, DC 13 CHA or 2d6 Necrotic to all Near. Mute for 1 hour.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">18</td>
+      <td style="text-align: left"><strong>Satyr’s Root</strong>. You cannot be paralyzed for 1 hour and cannot rest for 12 hours.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">19</td>
+      <td style="text-align: left"><strong>Medusa’s Foil</strong>. You cannot be petrified for 1 hour and cannot rest for 24 hours.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">19</td>
+      <td style="text-align: left"><strong>Dream Nettle</strong>. Read surface thoughts (Close) for 1d6 rounds; DISADV on INT and WIS checks for 1 hour.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">20</td>
+      <td style="text-align: left"><strong>Heartleaf</strong>. Extra action next turn; bleed for 1d4 if wounded in 10 minutes.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Table 2. Random Herbs</strong></p>
+
+<table class="table table-striped table-hover table-sm">
+  <thead>
+    <tr>
+      <th style="text-align: center">d12</th>
+      <th>Normal (12)</th>
+      <th>Hard (15)</th>
+      <th>Extreme (18)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td>Lifeleaf Jelly</td>
+      <td>Purgeroot</td>
+      <td>Satyr’s Root</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2</td>
+      <td>Darkroot</td>
+      <td>Bloodmoss</td>
+      <td>Banshee’s Hair</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3</td>
+      <td>Murkweed</td>
+      <td>Bloodmoss</td>
+      <td>Dream Nettle</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">4</td>
+      <td>Shakewort</td>
+      <td>Creeping Lily</td>
+      <td>Medusa’s Foil</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">5</td>
+      <td>Foebane</td>
+      <td>Shune’s Breath</td>
+      <td>Satyr’s Root</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">6</td>
+      <td>Ghostweed</td>
+      <td>Everburn Moss</td>
+      <td>Banshee’s Hair</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">7</td>
+      <td>Ghoul’s Cap</td>
+      <td>Serpent’s Sap</td>
+      <td>Dream Nettle</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">8</td>
+      <td>Stonebark</td>
+      <td>Serpent’s Sap</td>
+      <td>Medusa’s Foil</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">9</td>
+      <td>Wraith’s Whisper</td>
+      <td>Slumberberry</td>
+      <td>Satyr’s Root</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10</td>
+      <td>Yeti’s Crown</td>
+      <td>Slumberberry</td>
+      <td>Banshee’s Hair</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">11</td>
+      <td>Demon’s Tongue</td>
+      <td>Slumberberry</td>
+      <td>Dream Nettle</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">12</td>
+      <td>Lichlichen</td>
+      <td>Halfling’s Foil</td>
+      <td>Heartleaf</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>These tables are also <a href="/assets/downloads/shadowdar_extended_herblist_v1.pdf" target="_blank">available in PDF</a> form for easy reference at your table.</p>
+
+<h2 id="ranger-herbalism">Ranger Herbalism</h2>
+
+<p>This rule is not intended to supersede the Ranger Herbalism ability. Instead, it’s designed to complement and enhance the Ranger’s unique skills while providing options for other characters. Here’s how it maintains balance:</p>
+
+<ol>
+  <li>
+    <p><strong>Ranger’s Efficiency</strong>: Rangers can find and consume herbs as a multitask, which is significantly faster than the 1-hour foraging time for other characters.</p>
+  </li>
+  <li>
+    <p><strong>Ranger’s Expertise</strong>: The Ranger Herb list includes no drawbacks, maintaining their edge in herbalism.</p>
+  </li>
+  <li>
+    <p><strong>Expanded Options</strong>: Rangers can use their search ability on any herb of DC 15 or less from the expanded list, and do not suffer the drawbacks listed.</p>
+  </li>
+  <li>
+    <p><strong>Time Management</strong>: While other characters spend significant time foraging, Rangers can perform other tasks, maintaining their versatility.</p>
+  </li>
+</ol>
+
+<p>This design philosophy ensures that Rangers remain the masters of herbalism while allowing other characters to engage with the system in a meaningful way.</p>
+
+<h2 id="gameplay-tips-for-gms">Gameplay Tips for GMs</h2>
+
+<ol>
+  <li><strong>Narrative Integration</strong>: Describe the foraging process vividly. The snap of twigs underfoot, the earthy scent of overturned soil, or the vibrant colors of discovered herbs all add to the immersive experience.</li>
+  <li><strong>Random Encounters</strong>: Introduce a level of risk and reward to searching an environment. Classify the area as Unsafe, Risky, or Deadly as with normal random encounters.  Roll for random encounters at disadvantage for Unsafe areas, 1 check in a Risky area, and 2 checks in a Deadly area.</li>
+  <li><strong>Environmental Challenges</strong>: Introduce complications during foraging. Perhaps certain herbs only grow in dangerous locations, or weather conditions affect the difficulty of finding herbs.</li>
+  <li><strong>Herb-Related Quests</strong>: Create missions centered around rare herbs. A town might desperately need a cure that requires a legendary plant, or a noble might pay handsomely for a particularly rare specimen.</li>
+  <li><strong>Seasonal Variations</strong>: Consider making certain herbs more common or rare depending on the season, encouraging players to plan their expeditions carefully.</li>
+</ol>
+
+<h2 id="customization-creating-your-own-herbs">Customization: Creating Your Own Herbs</h2>
+
+<p>GMs are encouraged to create unique herbs tailored to their campaign settings. When designing new herbs, consider the following:</p>
+
+<ol>
+  <li><strong>Thematic Fit</strong>: Ensure the herb aligns with your world’s flora and magical properties.</li>
+  <li><strong>Balance</strong>: New herbs should offer interesting benefits with appropriate drawbacks or challenges to obtain.</li>
+  <li><strong>Rarity</strong>: Consider how common or rare the herb should be, and adjust its DC accordingly.</li>
+  <li><strong>Cultural Significance</strong>: Think about how different cultures or regions in your world might use or value the herb.</li>
+</ol>
+
+<p><em>Example Custom Herb</em>:</p>
+<blockquote class="text-bg-light mb-3 p-3 fst-italic">
+  <p><strong>Moonglow Moss (DC 13)</strong>: Glows with silvery light when touched by moonlight. Grants darkvision while under moonlight for 1 hour, but user glows faintly, giving disadvantage on Stealth checks in darkness.</p>
+</blockquote>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>These expanded Herbalism rules are designed to introduce new layers of strategy and risk management for your Shadowdark characters. Whether you’re a Ranger with the Herbalism ability or a character simply trying to scrape by, these options provide meaningful choices that can shape your adventure.</p>
+
+<p>As a GM, feel free to adapt these rules to fit your campaign—adjust herb availability based on region, introduce wandering encounters during foraging, or even offer rare herbs as rewards for daring quests. Remember, the ultimate goal is to enhance the game and the enjoyment of your players. Use these rules if they add to the experience, and don’t hesitate to set them aside if they don’t.</p>
+
+<p>We’d love to hear about your experiences with these herbalism rules! Have you created any unique herbs for your campaign? How have your players used herbalism to overcome challenges? Share your stories and suggestions in the comments below, and happy foraging!</p>
+
+        </div>
+        <hr />
+        <div id="sign-off">
+            That's my take, but what about yours?  Hit me up on <a href="https://twitter.com/optionalrule" target="_blank">Twitter</a> and do me a solid and <strong>please share this if you find it interesting!</strong> <div id="share-bar" class="d-flex justify-content-center">
+    <div class="share-bar">
+        <a  href="https://www.facebook.com/sharer/sharer.php?u=https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Facebook"
+            class="facebook-share-link" >
+            <i class="fab fa-facebook facebook-blue"></i>
+        </a>
+
+        <a  href="https://twitter.com/intent/tweet?text=Foraging for Herbs in Shadowdark&url=https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Twitter" 
+            class="twitter-share-link" >
+            <i class="fab fa-twitter twitter-blue"></i>
+        </a>
+
+        <a  href="http://www.reddit.com/submit?url=https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Reddit" 
+            class="reddit-share-link" >
+            <i class="fab fa-reddit reddit-orange"></i>
+        </a>
+
+        <a  href="mailto:?subject=Foraging for Herbs in Shadowdark&amp;body=Check out this site https://www.optionalrule.com/2024/08/26/expanded-herb-list-for-shadowdark/"
+            title="Share via Email"
+            class="email-share-link" >
+            <i class="fa fa-envelope email-red"></i>
+        </a>
+    </div>
+
+</div>
+        </div>
+    </header>
+</article>
+
+</div>
+
+<footer class="footer mt-5 py-3 bg-dark d-print-none">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <ul class="list-unstyled small text-muted">
+                    <li class="mb-2">Website by <a href="https://www.tech-tavern.com" target="_blank" rel="noopener">Tech Tavern</a>.</li>
+                    <li class="mb-2">Header Photo by <a href="https://unsplash.com/@dariuszsankowski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="noopener">Dariusz Sankowsk</a></li>
+                </ul>
+            </div>
+            <div class="col small text-muted">
+                <span>Copyright &copy; 2020-2023 Optional Rule Games.</span>
+            </div>
+
+        </div>
+
+
+    </div>
+</footer>
+<!-- Footer JavaScript -->
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="/assets/js/jquery-3.6.0.min.js"></script>
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap-5.2.3-js/bootstrap.min.js"></script>
+<script src="/assets/js/parallax.min.js"></script>
+<script src="/assets/js/aos.js"></script>
+<script>
+    AOS.init()
+</script>
+
+<!-- Google Tag Manager Concent Form -->
+<div id="cookie-consent-banner" class="cookie-consent-banner fs-6">
+    <h2 class="text-danger">Cookie Concent</h2>
+    <p>We use cookies to improve your experience on our site via Google Analytics. We don't collect personal info or share data with third parties.</p>
+
+    <p>By clicking "Accept", you agree to this use. You can change preferences at any time in your browser.</p>
+    <button id="btn-accept-all" class="btn btn-success">Accept All</button>
+    <!-- <button id="btn-accept-some" class="cookie-consent-button btn-outline">Accept Selection</button> -->
+    <button id="btn-reject-all" class="btn btn-light">Reject All</button>
+    <!-- <div class="cookie-consent-options">
+      <label><input id="consent-necessary" type="checkbox" value="Necessary" checked disabled>Necessary</label>
+      <label><input id="consent-analytics" type="checkbox" value="Analytics" checked>Analytics</label>
+      <label><input id="consent-preferences" type="checkbox" value="Preferences" checked>Preferences</label>
+      <label><input id="consent-marketing" type="checkbox" value="Marketing">Marketing</label>
+    </div> -->
+</div>
+
+<script>
+  
+  function hideBanner() {
+    document.getElementById('cookie-consent-banner').style.display = 'none';
+  }
+
+  if(localStorage.getItem('consentMode') === null) {
+    
+    document.getElementById('btn-accept-all').addEventListener('click', function() {
+      setConsent({
+        necessary: true,
+        analytics: true,
+        preferences: true,
+        marketing: true
+      });
+      hideBanner();
+    });
+    // document.getElementById('btn-accept-some').addEventListener('click', function() {
+    //   setConsent({
+    //     necessary: true,
+    //     analytics: document.getElementById('consent-analytics').checked,
+    //     preferences: document.getElementById('consent-preferences').checked,
+    //     marketing: document.getElementById('consent-marketing').checked
+    //   });
+    //   hideBanner();
+    // });
+    document.getElementById('btn-reject-all').addEventListener('click', function() {
+      setConsent({
+        necessary: false,
+        analytics: false,
+        preferences: false,
+        marketing: false
+      });
+      hideBanner();
+    });
+    document.getElementById('cookie-consent-banner').style.display = 'block';
+  }
+  
+  function setConsent(consent) {
+    const consentMode = {
+      'functionality_storage': consent.necessary ? 'granted' : 'denied',
+      'security_storage': consent.necessary ? 'granted' : 'denied',
+      'ad_storage': consent.marketing ? 'granted' : 'denied',
+      'analytics_storage': consent.analytics ? 'granted' : 'denied',
+      'personalization': consent.preferences ? 'granted' : 'denied',
+    };
+    gtag('consent', 'update', consent);  
+    localStorage.setItem('consentMode', JSON.stringify(consentMode));
+  }
+  
+</script>
+</body>
+</html>
