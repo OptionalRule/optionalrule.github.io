@@ -11,12 +11,12 @@ Foraging for herbs has long been a cherished aspect of the Old-School Renaissanc
 
 ## What is Shadowdark?
 
-For those unfamiliar, Shadowdark is a rules-light, OSR-inspired roleplaying game that emphasizes dungeon crawling, resource management, and player ingenuity. It's designed to capture the feel of classic fantasy RPGs while streamlining mechanics for modern play. In this context, herbalism adds another layer of depth to character abilities and resource management.
+For those unfamiliar, Shadowdark is a rules-light, OSR-inspired roleplaying game that emphasizes dungeon crawling, resource management, and player ingenuity. It's designed to capture the feel of classic fantasy RPGs while streamlining mechanics for modern play. I peronsally like it because it's evokative of a grim dark tone I enjoy, fast to play, and I like the high risk gameplay. In this context, herbalism adds another layer of depth to character abilities and resource management, in an otherwise dangerous world.
 
 {% include imageframe.html
   figure_class="float-end ms-4 clearfix"
   src="/assets/img/herbalist_bench_480x240.png"
-  alt="A black and white drawing of a bench with herbs, equipment, and books on it."
+  alt="A black and white drawing of a bench with herbs, equipment, and books on it. AI Image."
   width="480" height="240"
  %}
 
