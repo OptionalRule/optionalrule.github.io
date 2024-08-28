@@ -1,28 +1,20 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        
-        if(localStorage.getItem('consentMode') === null){
-            gtag('consent', 'default', {
-                'ad_storage': 'denied',
-                'analytics_storage': 'denied',
-                'personalization_storage': 'denied',
-                'functionality_storage': 'denied',
-                'security_storage': 'denied',
-            });
-        } else {
-            gtag('consent', 'default', JSON.parse(localStorage.getItem('consentMode')));
-        }
-    </script>
+
+
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-WD2ZH4W');</script>
+
+    <script>
+        gtag('config', 'GA_MEASUREMENT_ID', {
+        'storage': 'none'
+        });
+    </script>
     <!-- End Google Tag Manager -->
 
     <!-- Required meta tags -->
@@ -194,6 +186,39 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
 <div class="container clearfix"><div class="row">
   <div class="col">
     <!-- This loops through the paginated posts -->
+    
+      
+        <article class="my-2 py-3 border-bottom shadow-sm" data-aos="zoom-in-up">
+    <header class="post-header text-center">
+
+        <div class="post-categories text-center mb-1 fs-6 fw-bold">
+            
+                <a href="/category/encounters" rel="category tag">Encounters</a>
+                
+            
+        </div>
+
+        <h2 class="post-title mb-0"><a href="/2021/01/04/rotf-remix-heart-of-winter-supernatural-regions/">RotF Remix: Heart of Winter Supernatural Regions</a></h2>
+        <div class="post-meta clear-fix mt-1 mb-2">
+            <span class="post-date">
+                <i class="far fa-calendar-alt"></i> 
+                
+                January
+                4th,
+                2021
+            </span>,  
+            <span class="reading-time" title="Estimated read time">
+                <i class="far fa-clock"></i> 
+                
+                6 min read.
+            </span>
+        </div>
+    </header>
+    <div class="post-excerpt">With the publication of Tasha’s Caldron of Everything, the game introduced the concepts of Supernatural Regions to 5th edition Dungeons and Dragons. Areas that have variable and mysterious effects that might be invoked by specific actions or conditions. Within Icewind Dale are localized arcane phenomenon zones said to manifest The Heart of Winter, that is the conjunction of planar regions brought into alignment with Icewind Dale as a function of Auril’s ongoing enchantments. Small clusters of these supernatural phenomenon ebb and flow across the region and it has been growing in frequency, intensity, and size as time progresses.
+</div>
+    <div class="justify-content-center text-center mt-3"><a href="/2021/01/04/rotf-remix-heart-of-winter-supernatural-regions/" type="button" class="btn btn-outline-primary">Read More</a></div>
+</article>
+      
     
       
         <article class="my-2 py-3 border-bottom shadow-sm" data-aos="zoom-in-up">
@@ -492,39 +517,6 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
 </article>
       
     
-      
-        <article class="my-2 py-3 border-bottom shadow-sm" data-aos="zoom-in-up">
-    <header class="post-header text-center">
-
-        <div class="post-categories text-center mb-1 fs-6 fw-bold">
-            
-                <a href="/category/encounters" rel="category tag">Encounters</a>
-                
-            
-        </div>
-
-        <h2 class="post-title mb-0"><a href="/2020/11/30/icewind-dale-npc-beldora-nine-dogs/">Icewind Dale NPC: Beldora Nine-Dogs</a></h2>
-        <div class="post-meta clear-fix mt-1 mb-2">
-            <span class="post-date">
-                <i class="far fa-calendar-alt"></i> 
-                
-                November
-                30th,
-                2020
-            </span>,  
-            <span class="reading-time" title="Estimated read time">
-                <i class="far fa-clock"></i> 
-                
-                3 min read.
-            </span>
-        </div>
-    </header>
-    <div class="post-excerpt">An NPC I fleshed out for my Icewind Dale: Rime of the Frostmaiden campaign.  She is the silent and secretive leader of The Harpers in Icewind dale, dedicated to keeping the faction members safe in the wake of assassinations years ago.
-</div>
-    <div class="justify-content-center text-center mt-3"><a href="/2020/11/30/icewind-dale-npc-beldora-nine-dogs/" type="button" class="btn btn-outline-primary">Read More</a></div>
-</article>
-      
-    
 
     <!-- Pagination links -->
 
@@ -732,73 +724,5 @@ alt="A paper notebook laying open on top of a woodcut map of the world with magn
     AOS.init()
 </script>
 
-<!-- Google Tag Manager Concent Form -->
-<div id="cookie-consent-banner" class="cookie-consent-banner fs-6">
-    <h2 class="text-danger">Cookie Concent</h2>
-    <p>We use cookies to improve your experience on our site via Google Analytics. We don't collect personal info or share data with third parties.</p>
-
-    <p>By clicking "Accept", you agree to this use. You can change preferences at any time in your browser.</p>
-    <button id="btn-accept-all" class="btn btn-success">Accept All</button>
-    <!-- <button id="btn-accept-some" class="cookie-consent-button btn-outline">Accept Selection</button> -->
-    <button id="btn-reject-all" class="btn btn-light">Reject All</button>
-    <!-- <div class="cookie-consent-options">
-      <label><input id="consent-necessary" type="checkbox" value="Necessary" checked disabled>Necessary</label>
-      <label><input id="consent-analytics" type="checkbox" value="Analytics" checked>Analytics</label>
-      <label><input id="consent-preferences" type="checkbox" value="Preferences" checked>Preferences</label>
-      <label><input id="consent-marketing" type="checkbox" value="Marketing">Marketing</label>
-    </div> -->
-</div>
-
-<script>
-  
-  function hideBanner() {
-    document.getElementById('cookie-consent-banner').style.display = 'none';
-  }
-
-  if(localStorage.getItem('consentMode') === null) {
-    
-    document.getElementById('btn-accept-all').addEventListener('click', function() {
-      setConsent({
-        necessary: true,
-        analytics: true,
-        preferences: true,
-        marketing: true
-      });
-      hideBanner();
-    });
-    // document.getElementById('btn-accept-some').addEventListener('click', function() {
-    //   setConsent({
-    //     necessary: true,
-    //     analytics: document.getElementById('consent-analytics').checked,
-    //     preferences: document.getElementById('consent-preferences').checked,
-    //     marketing: document.getElementById('consent-marketing').checked
-    //   });
-    //   hideBanner();
-    // });
-    document.getElementById('btn-reject-all').addEventListener('click', function() {
-      setConsent({
-        necessary: false,
-        analytics: false,
-        preferences: false,
-        marketing: false
-      });
-      hideBanner();
-    });
-    document.getElementById('cookie-consent-banner').style.display = 'block';
-  }
-  
-  function setConsent(consent) {
-    const consentMode = {
-      'functionality_storage': consent.necessary ? 'granted' : 'denied',
-      'security_storage': consent.necessary ? 'granted' : 'denied',
-      'ad_storage': consent.marketing ? 'granted' : 'denied',
-      'analytics_storage': consent.analytics ? 'granted' : 'denied',
-      'personalization': consent.preferences ? 'granted' : 'denied',
-    };
-    gtag('consent', 'update', consent);  
-    localStorage.setItem('consentMode', JSON.stringify(consentMode));
-  }
-  
-</script>
 </body>
 </html>
