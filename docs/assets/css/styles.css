@@ -3,6 +3,7 @@
 /* links */
 /* colors */
 /*! Bootstrap  v5.2.3 (https://getbootstrap.com/) Copyright 2011-2022 The Bootstrap Authors Copyright 2011-2022 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE) */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&family=Special+Elite&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans&family=Playfair+Display&display=swap");
 :root { --bs-blue: #0d6efd; --bs-indigo: #6610f2; --bs-purple: #6f42c1; --bs-pink: #d63384; --bs-red: #dc3545; --bs-orange: #fd7e14; --bs-yellow: #ffc107; --bs-green: #198754; --bs-teal: #20c997; --bs-cyan: #0dcaf0; --bs-black: #000000; --bs-white: #fff; --bs-gray: #6c757d; --bs-gray-dark: #343a40; --bs-gray-100: #f8f9fa; --bs-gray-200: #e9ecef; --bs-gray-300: #dee2e6; --bs-gray-400: #ced4da; --bs-gray-500: #adb5bd; --bs-gray-600: #6c757d; --bs-gray-700: #495057; --bs-gray-800: #343a40; --bs-gray-900: #212529; --bs-primary: #6e3000; --bs-secondary: #6c757d; --bs-success: #566E3D; --bs-info: #e0e5c1; --bs-warning: #ffc107; --bs-danger: #440D13; --bs-light: #f8f9fa; --bs-dark: #333333; --bs-primary-rgb: 110, 48, 0; --bs-secondary-rgb: 108, 117, 125; --bs-success-rgb: 86, 110, 61; --bs-info-rgb: 224, 229, 193; --bs-warning-rgb: 255, 193, 7; --bs-danger-rgb: 68, 13, 19; --bs-light-rgb: 248, 249, 250; --bs-dark-rgb: 51, 51, 51; --bs-white-rgb: 255, 255, 255; --bs-black-rgb: 0, 0, 0; --bs-body-color-rgb: 70, 70, 70; --bs-body-bg-rgb: 255, 255, 255; --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", "Open Sans", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0)); --bs-body-font-family: var(--bs-font-sans-serif); --bs-body-font-size: 1rem; --bs-body-font-weight: 400; --bs-body-line-height: 1.5; --bs-body-color: #464646; --bs-body-bg: #fff; --bs-border-width: 1px; --bs-border-style: solid; --bs-border-color: #dee2e6; --bs-border-color-translucent: rgba(0, 0, 0, 0.175); --bs-border-radius: 0.375rem; --bs-border-radius-sm: 0.25rem; --bs-border-radius-lg: 0.5rem; --bs-border-radius-xl: 1rem; --bs-border-radius-2xl: 2rem; --bs-border-radius-pill: 50rem; --bs-link-color: #6e3000; --bs-link-hover-color: #582600; --bs-code-color: #d63384; --bs-highlight-bg: #fff3cd; }
 
@@ -2367,6 +2368,34 @@ blockquote.stat-block h3, blockquote.stat-block .h3 { margin-top: .2em; margin-b
 blockquote.stat-block p { display: block; margin-block-start: .35em; margin-block-end: .35em; margin-inline-start: 0px; margin-inline-end: 0px; line-height: 1.2em; }
 
 @media screen and (max-width: 575px) { .stat-block { margin: 20px 0; } }
+
+blockquote.sd-stat-block { max-width: 800px; background-color: #f0f0f0; color: #000; font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; padding: 30px 40px; border: 3px solid #525252; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3), inset 0 0 10px rgba(0, 0, 0, 0.2); position: relative; }
+
+.sd-stat-block strong { font-family: 'Playfair Display', serif; }
+
+.sd-stat-block.wide { width: 46.5%; min-width: 560px; }
+
+blockquote.sd-stat-block table { margin-bottom: .5em; margin-top: .5em; }
+
+blockquote.sd-stat-block table tbody tr td th { vertical-align: middle; padding-bottom: .3em; padding-right: .5em; padding-left: .5em; }
+
+blockquote.sd-stat-block td { padding: 0 10px; }
+
+@media screen and (max-width: 675px) { .sd-stat-block.wide { min-width: 100%; } .sd-stat-block.wide .section-left, .sd-stat-block.wide .section-right { display: block; width: 100%; } .sd-stat-block.wide .section-left { margin: 0; } .sd-stat-block.wide .section-right { margin: 0; } }
+
+blockquote.sd-stat-block ul { list-style-type: none; padding: 0; margin: 0; }
+
+blockquote.sd-stat-block hr { visibility: visible; height: 6px; margin: 4px 0; background-image: url(https://www.gmbinder.com/assets/img/arrow-right.png); background-size: 100% 100%; border: none; box-sizing: content-box; display: block; unicode-bidi: isolate; margin-block-start: 0.5em; margin-block-end: 0.5em; margin-inline-start: auto; margin-inline-end: auto; overflow: hidden; }
+
+blockquote.sd-stat-block h1, blockquote.sd-stat-block .h1 { font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif; line-height: 1.2em; margin: 10px 0 0; letter-spacing: 1px; font-variant: small-caps; font-weight: bold; }
+
+blockquote.sd-stat-block h2, blockquote.sd-stat-block .h2 { font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif; font-size: .705cm; margin-bottom: 0; font-weight: normal; color: #58180D; line-height: 1.1; }
+
+blockquote.sd-stat-block h3, blockquote.sd-stat-block .h3 { margin-top: .2em; margin-bottom: .2em; border-bottom: 1px solid #822000; color: #822000; font-size: 24px; font-weight: normal; line-height: 1.4; }
+
+blockquote.sd-stat-block p { display: block; margin-block-start: .35em; margin-block-end: .35em; margin-inline-start: 0px; margin-inline-end: 0px; line-height: 1.2em; }
+
+@media screen and (max-width: 575px) { .sd-stat-block { margin: 20px 0; } }
 
 /*! Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) */
 .fa, .fas, .far, .fal, .fad, .fab { -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; line-height: 1; }

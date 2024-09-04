@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&family=Special+Elite&display=swap');
+  
+blockquote.sd-stat-block {
+    max-width: 800px;
+    // margin: 40px auto;
+    background-color: #f0f0f0;
+    color: #000;
+    font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    padding: 30px 40px;
+    border: 3px solid #525252;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3), inset 0 0 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+  .sd-stat-block strong{
+    font-family: 'Playfair Display', serif;
+  }
+  .sd-stat-block.wide{
+    width: 46.5%;
+    min-width: 560px;
+  }
+  blockquote.sd-stat-block table{
+    margin-bottom: .5em;
+    margin-top: .5em;
+    // width: 100%;
+  }
+  blockquote.sd-stat-block table tbody tr td th {
+    vertical-align: middle;
+    padding-bottom: .3em;
+    padding-right: .5em;
+    padding-left: .5em;
+  }
+  blockquote.sd-stat-block td{
+    padding: 0 10px;
+  }
+  @media screen and (max-width: 675px){
+      .sd-stat-block.wide{
+          min-width: 100%;
+      }
+      .sd-stat-block.wide .section-left,
+      .sd-stat-block.wide .section-right{
+        display: block;
+        width: 100%;
+      }
+      .sd-stat-block.wide .section-left{
+        margin: 0;
+      }
+      .sd-stat-block.wide .section-right{
+          margin: 0;
+      }
+  }
+  blockquote.sd-stat-block ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  blockquote.sd-stat-block hr {
+    visibility: visible;
+    height: 6px;
+    margin: 4px 0;
+    background-image: url(https://www.gmbinder.com/assets/img/arrow-right.png);
+    background-size: 100% 100%;
+    border: none;
+    box-sizing: content-box;
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+  }
+
+  blockquote.sd-stat-block h1{
+    font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
+    // color: #922610;
+    
+    line-height: 1.2em;
+    margin: 10px 0 0;
+    letter-spacing: 1px;
+    font-variant: small-caps;
+    font-weight: bold;
+  }
+  blockquote.sd-stat-block h2{
+    font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
+    font-size: .705cm;
+    // margin-top: -8px;
+     margin-bottom: 0;
+    font-weight: normal;
+    color: #58180D;
+    line-height: 1.1;
+  }
+  blockquote.sd-stat-block h3{
+    margin-top: .2em;
+    margin-bottom: .2em;
+    border-bottom: 1px solid #822000;
+    color: #822000;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 1.4;
+  }
+  blockquote.sd-stat-block p{
+    display: block;
+    margin-block-start: .35em;
+    margin-block-end: .35em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 1.2em;
+  }
+  @media screen and (max-width: 575px){
+      .sd-stat-block{
+          margin: 20px 0;
+      }
+  }
+  
