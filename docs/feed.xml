@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-09-04T15:49:59+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Mounted Combat in Shadowdark TTRPG</title><link href="https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark/" rel="alternate" type="text/html" title="Mounted Combat in Shadowdark TTRPG" /><published>2024-09-04T11:03:00+00:00</published><updated>2024-09-04T11:03:00+00:00</updated><id>https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark</id><content type="html" xml:base="https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark/"><![CDATA[<p>Greetings, brave crawlers! Whether you’re charging into battle, making daring escapes, or simply looking for a reliable way to haul your hard-earned loot, mounts are an essential part of any fantasy adventurer’s toolkit. They add a thrilling dimension to gameplay, especially during overland adventures where a simple yet engaging mounted combat system can elevate the excitement of your <a href="https://www.thearcanelibrary.com/pages/shadowdark" target="_blank">Shadowdark</a> game.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-09-05T14:08:15+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Mounted Combat in Shadowdark TTRPG</title><link href="https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark/" rel="alternate" type="text/html" title="Mounted Combat in Shadowdark TTRPG" /><published>2024-09-04T11:03:00+00:00</published><updated>2024-09-04T11:03:00+00:00</updated><id>https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark</id><content type="html" xml:base="https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark/"><![CDATA[<p>Greetings, brave crawlers! Whether you’re charging into battle, making daring escapes, or simply looking for a reliable way to haul your hard-earned loot, mounts are an essential part of any fantasy adventurer’s toolkit. They add a thrilling dimension to gameplay, especially during overland adventures where a simple yet engaging mounted combat system can elevate the excitement of your <a href="https://www.thearcanelibrary.com/pages/shadowdark" target="_blank">Shadowdark</a> game.</p>
 
 <p>In the spirit of Shadowdark’s minimalist yet evocative style, I’ve crafted these concise rules for mounted combat and travel. They’re designed to seamlessly integrate with the Shadowdark TTRPG, offering a brief but descriptive framework that expands your options without bogging down gameplay.
 These mounted combat rules are part of a larger project, where I’m compiling various travel-related mechanics. In addition to what you’ll find here, I’ve posted some rules for <a href="/2024/08/26/expanded-herb-list-for-shadowdark/">hebs &amp; foraging</a>, and will be writing some rules on setting up camps, and interactive travel. The goal is to create a comprehensive supplement that enriches your overland adventures in the Shadowdark universe.</p>
@@ -60,8 +60,8 @@ These mounted combat rules are part of a larger project, where I’m compiling v
 <p>Horses are the most common mount or pack animal in most setting, but by no means the only.  In addition to the normal riding Horse presented on <em>p227</em> in the Shadowdark TTRPG, here are a few more options for your adventurer.</p>
 
 <blockquote class="sd-stat-block wide">
-  <h2 id="poneymule">Poney/Mule</h2>
-  <p><em>The Crawler’s Trusty Companion</em></p>
+  <h2 id="ponymule">Pony/Mule</h2>
+  <p><em>The Crawler’s Trusty Companion. Neutral</em></p>
 
   <ul>
     <li><strong>AC</strong> 12</li>
@@ -112,7 +112,7 @@ These mounted combat rules are part of a larger project, where I’m compiling v
     </tbody>
   </table>
 
-  <p><strong>Fearless.</strong> Advantage on Morale checks.</p>
+  <p><strong>Fearless.</strong> ADV on Morale checks.</p>
 
   <p><strong>Fury.</strong> Attack with hooves during rider’s turn.</p>
 </blockquote>

@@ -1,5 +1,5 @@
-> ## Poney/Mule
-> *The Crawler's Trusty Companion*
+> ## Pony/Mule
+> *The Crawler's Trusty Companion. Neutral*
 > 
 > - **AC** 12
 > - **HP** 11, **LV** 2

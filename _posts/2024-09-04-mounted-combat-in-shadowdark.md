@@ -60,9 +60,39 @@ Mounts are not just for riding; they're excellent pack animals too:
 
 Horses are the most common mount or pack animal in most setting, but by no means the only.  In addition to the normal riding Horse presented on *p227* in the Shadowdark TTRPG, here are a few more options for your adventurer. 
 
-{% include monsters/shadowdark/pony_mule.md %}
+> ## Pony/Mule
+> *The Crawler's Trusty Companion. Neutral*
+> 
+> - **AC** 12
+> - **HP** 11, **LV** 2
+> - **ATK** hooves +2 (1d6)
+> - **MV** Double Near, **AL** N
+> 
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> |**S:** +2|**D:** +2|**C:** +2|**I:** -3|**W:** +1|**C:** -2|
+> 
+> **Surefooted.** ADV on any roll to avoid tripping or falling.
+> 
+> **Stout.** (*Mules only*) Mules carry quadruple their normal Gear Slots when riderless.
+{:.sd-stat-block}
+{:.wide}
 
-{% include monsters/shadowdark/war_horse.md %}
+> ## War Horse
+> *Bred for battle and Fury. Neutral*
+> 
+> - **AC** 12
+> - **HP** 16, **LV** 3
+> - **ATK:** hooves +4 (1d8)
+> - **MV** Double Near
+> 
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> |**S:** +4|**D:** +2|**C:** +3|**I:** -3|**W:** +1|**C:** -2|
+> 
+> **Fearless.** ADV on Morale checks.
+> 
+> **Fury.** Attack with hooves during rider’s turn.
+{:.sd-stat-block}
+{:.wide}
 
 ## Gearing Up Your Mount
 
