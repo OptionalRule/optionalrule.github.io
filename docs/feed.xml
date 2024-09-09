@@ -1,4 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-09-05T14:08:15+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Mounted Combat in Shadowdark TTRPG</title><link href="https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark/" rel="alternate" type="text/html" title="Mounted Combat in Shadowdark TTRPG" /><published>2024-09-04T11:03:00+00:00</published><updated>2024-09-04T11:03:00+00:00</updated><id>https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark</id><content type="html" xml:base="https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark/"><![CDATA[<p>Greetings, brave crawlers! Whether you’re charging into battle, making daring escapes, or simply looking for a reliable way to haul your hard-earned loot, mounts are an essential part of any fantasy adventurer’s toolkit. They add a thrilling dimension to gameplay, especially during overland adventures where a simple yet engaging mounted combat system can elevate the excitement of your <a href="https://www.thearcanelibrary.com/pages/shadowdark" target="_blank">Shadowdark</a> game.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-09-09T01:53:44+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Crafting Cultural Depth Through Food in TTRPGs</title><link href="https://www.optionalrule.com/2024/09/08/worldbuilding-through-food/" rel="alternate" type="text/html" title="Crafting Cultural Depth Through Food in TTRPGs" /><published>2024-09-08T13:03:00+00:00</published><updated>2024-09-08T13:03:00+00:00</updated><id>https://www.optionalrule.com/2024/09/08/worldbuilding-through-food</id><content type="html" xml:base="https://www.optionalrule.com/2024/09/08/worldbuilding-through-food/"><![CDATA[<p>The recent artwork depicting the Hero’s Feast spell has sparked a heated debate within the TTRPG community. While some argue that the inclusion of modern dishes like sushi and tacos breaks immersion, others welcome this expansion of the game’s aesthetics to make the setting familiar to more people. However, this debate overlooks a powerful worldbuilding tool: using food to create a deeper sense of culture and tradition in our fantasy worlds.</p>
+
+<p>Food is a universal connector across cultures, and it can be an excellent vehicle for humanizing and adding depth to the communities in your TTRPG settings. This post will explore how to effectively use food descriptions to enhance your worldbuilding, providing concrete strategies and examples to implement in your games.</p>
+
+<h2 id="the-power-of-food-in-worldbuilding">The Power of Food in Worldbuilding</h2>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/heroes-feast_480x302.webp" alt="A group of adventurers enjoying a hearty feast." height="302" width="480" />
+    
+    
+        <figcaption class="figure-caption text-center">Heros Feast by Wizards of the Coast</figcaption>
+    
+</figure>
+
+<p>Food can instantly create a sense of verisimilitude about the communities in your world. It’s not just about what people eat, but the particular styles and traditions behind it, which can suggest a great deal about a culture. Here are some key reasons why food is an effective worldbuilding tool:</p>
+
+<ol>
+  <li>Universal relatability</li>
+  <li>Cultural signifier</li>
+  <li>Historical context</li>
+  <li>Social dynamics</li>
+  <li>Environmental indicators</li>
+</ol>
+
+<p>By incorporating food into your descriptions, you can subtly convey information about all these aspects of your world.</p>
+
+<h2 id="strategies-for-using-food-in-worldbuilding">Strategies for Using Food in Worldbuilding</h2>
+
+<h3 id="1-describe-dont-label">1. Describe, Don’t Label</h3>
+
+<p>The key to effective food-based worldbuilding is to let the player draw connections to the familiar without explicitly naming real-world dishes. Instead of saying “taco,” describe the dish:</p>
+
+<ul>
+  <li>“Spiced meats nestled in a warm, soft flatbread”</li>
+  <li>“Tender chunks of seasoned meat cradled in a folded, griddled cornmeal cake”</li>
+  <li>“Sliced cooked vegitables in a rich sauce of light oils and spices, with a spongy bread used to grab and eat the dish.”</li>
+</ul>
+
+<p>This approach allows players to make connections while maintaining the fantasy atmosphere.</p>
+
+<h3 id="2-use-food-to-hint-at-cultural-practices">2. Use Food to Hint at Cultural Practices</h3>
+
+<p>Food preparation and consumption can reveal a lot about a culture. Consider the following examples:</p>
+
+<ul>
+  <li>A culture that values community might have traditions of communal cooking and shared meals</li>
+  <li>A nomadic society might favor preserved foods and portable meals</li>
+  <li>A hierarchical society might have strict rules about who can eat certain foods</li>
+  <li>A society may have particular traditions about the use of animals as food</li>
+</ul>
+
+<h3 id="3-incorporate-food-into-religious-or-magical-practices">3. Incorporate Food into Religious or Magical Practices</h3>
+
+<p>Food often plays a role in religious rituals and magical practices. Some ideas to consider:</p>
+
+<ul>
+  <li>Sacred plants or animals that are never eaten</li>
+  <li>Medicinal plants or animals that are always eaten</li>
+  <li>Specific preparations required for magical ingredients</li>
+  <li>Fasting or feasting traditions tied to religious observances</li>
+</ul>
+
+<h3 id="4-use-food-to-indicate-social-status">4. Use Food to Indicate Social Status</h3>
+
+<p>What people eat can say a lot about their place in society. Think about:</p>
+
+<ul>
+  <li>Rare or expensive ingredients reserved for the elite</li>
+  <li>“Peasant foods” that become delicacies</li>
+  <li>Taboos around certain foods for different social classes</li>
+</ul>
+
+<h3 id="5-let-food-reflect-the-environment">5. Let Food Reflect the Environment</h3>
+
+<p>The available food can tell players a lot about the local environment. Consider:</p>
+
+<ul>
+  <li>Coastal regions with abundant seafood</li>
+  <li>Arid areas with drought-resistant grains and preserved foods</li>
+  <li>Lush forests with a variety of fruits and game meats</li>
+  <li>Hot climates using spices and drying techniques for food preservation</li>
+  <li>Cold climates relying on smoking, salting, and fermentation for food storage</li>
+  <li>Temperate regions developing cheese-making and curing methods for dairy and meat preservation</li>
+</ul>
+
+<h2 id="implementing-food-based-worldbuilding">Implementing Food-Based Worldbuilding</h2>
+
+<p>To effectively use these strategies in your game, consider the following steps:</p>
+
+<ol>
+  <li><strong>Create a food profile for each major culture in your world</strong>
+    <ul>
+      <li>List three staple ingredients used in most meals</li>
+      <li>Describe common cooking methods, unique tools, or how food is stored</li>
+      <li>Note any significant food-related traditions of who can eat, what, and why</li>
+    </ul>
+  </li>
+  <li><strong>Incorporate food descriptions into your scene-setting</strong>
+    <ul>
+      <li>Describe smells and sounds of cooking in market scenes</li>
+      <li>Mention what characters are eating during social interactions</li>
+      <li>Highlight an NPCs preferences through how they eat their food (greedy, cautious, supiciously smell every bite, etc)</li>
+    </ul>
+  </li>
+  <li><strong>Use food as a plot device</strong>
+    <ul>
+      <li>A rare ingredient as a quest item</li>
+      <li>Diplomatic incidents over unfamiliar food customs</li>
+      <li>Poisoned feasts as a dramatic set-piece</li>
+    </ul>
+  </li>
+  <li><strong>Encourage player engagement with food</strong>
+    <ul>
+      <li>Ask players what their characters typically eat</li>
+      <li>Allow cooking skill checks for mechanical benefits, like helping in negotiations</li>
+      <li>Use food preferences as character development opportunities</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>By thoughtfully incorporating food into your worldbuilding, you can create a richer, more immersive experience for your players. This approach allows you to subtly convey cultural information without resorting to direct real-world analogues or risking the trivialization of actual cultures.</p>
+
+<p>Remember, the goal is to create something new that feels familiar enough to be believable. By sprinkling in these culinary details, you’re not just describing food; you’re hinting at entire cultures and histories that can make your world come alive.</p>
+
+<p>Next time you’re describing a feast in your game, consider how you can use food to paint a picture of your world’s cultures. It’s an excellent way to add depth to your game without breaking immersion.</p>
+
+<h2 id="resources-for-further-exploration">Resources for Further Exploration</h2>
+
+<ul>
+  <li><a href="https://mythcreants.com/blog/podcasts/385-food-in-spec-fic/" target="_blank">Mythcreants ep385 - Food in Speculative Fiction</a> podcast</li>
+  <li><a href="https://www.amazon.com/Food-History-Reay-Tannahill/dp/0517884046" target="_blank">Food in History</a> Book by Reay Tannahill</li>
+  <li><a href="https://www.tumblr.com/inky-duchess/188520337528/fantasy-guide-to-feasts-food-and-drink" target="_blank">Fantasy Guide to Feasts</a> tumblr by inky-duchess</li>
+  <li><a href="https://www.innatthecrossroads.com/" target="_blank">The Inn at the Crossroads</a> blog on ficitional foods of all kinds.</li>
+</ul>
+
+<p>These resources can provide inspiration and depth to your food-based worldbuilding efforts. Remember, the key is to use these ideas as springboards for your own creativity, tailoring them to fit the unique aspects of your game world.</p>]]></content><author><name>Scott Turnbull</name></author><category term="rpg resources" /><summary type="html"><![CDATA[Learn how to use food descriptions in TTRPGs to create rich, immersive worlds. Practical tips for DMs to enhance cultural worldbuilding through cuisine.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/heroes-feast_1200x757.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/heroes-feast_1200x757.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mounted Combat in Shadowdark TTRPG</title><link href="https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark/" rel="alternate" type="text/html" title="Mounted Combat in Shadowdark TTRPG" /><published>2024-09-04T11:03:00+00:00</published><updated>2024-09-04T11:03:00+00:00</updated><id>https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark</id><content type="html" xml:base="https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark/"><![CDATA[<p>Greetings, brave crawlers! Whether you’re charging into battle, making daring escapes, or simply looking for a reliable way to haul your hard-earned loot, mounts are an essential part of any fantasy adventurer’s toolkit. They add a thrilling dimension to gameplay, especially during overland adventures where a simple yet engaging mounted combat system can elevate the excitement of your <a href="https://www.thearcanelibrary.com/pages/shadowdark" target="_blank">Shadowdark</a> game.</p>
 
 <p>In the spirit of Shadowdark’s minimalist yet evocative style, I’ve crafted these concise rules for mounted combat and travel. They’re designed to seamlessly integrate with the Shadowdark TTRPG, offering a brief but descriptive framework that expands your options without bogging down gameplay.
 These mounted combat rules are part of a larger project, where I’m compiling various travel-related mechanics. In addition to what you’ll find here, I’ve posted some rules for <a href="/2024/08/26/expanded-herb-list-for-shadowdark/">hebs &amp; foraging</a>, and will be writing some rules on setting up camps, and interactive travel. The goal is to create a comprehensive supplement that enriches your overland adventures in the Shadowdark universe.</p>
@@ -1141,69 +1279,4 @@ These mounted combat rules are part of a larger project, where I’m compiling v
 
 <p>No single tool is going to be a magic bullet, but by employing a variety of techniques - from in-world examples and debates to spotlight moments and the buddy system - we can start to build that shared understanding and sense of fun that makes for truly great gaming experiences.</p>
 
-<p>So let’s keep talking to each other, keep experimenting with different approaches, and most importantly, let’s keep remembering that at the heart of it all, we’re here to have a good time together. With the right tools in our kit, and the right attitude at the table, there’s no limit to the adventures we can have and the stories we can tell.</p>]]></content><author><name>Scott Turnbull</name></author><category term="DM Advice, Player Advice, Community Discussion, Resources" /><summary type="html"><![CDATA[Discover collaborative tools for aligning expectations and enhancing fun in your TTRPG and DnD games. Improve cooperation and enjoyment at your table.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/ToolsforCollaborationChangeTTRPGs_960x540.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/ToolsforCollaborationChangeTTRPGs_960x540.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gritty DnD Injuries - Expanding Exhaustion</title><link href="https://www.optionalrule.com/2024/02/16/revised-exhausted-condition/" rel="alternate" type="text/html" title="Gritty DnD Injuries - Expanding Exhaustion" /><published>2024-02-16T16:00:00+00:00</published><updated>2024-02-16T16:00:00+00:00</updated><id>https://www.optionalrule.com/2024/02/16/revised-exhausted-condition</id><content type="html" xml:base="https://www.optionalrule.com/2024/02/16/revised-exhausted-condition/"><![CDATA[<p>In Dungeons and Dragons 5th edition, the introduction of lasting injuries and effects promises to revitalize the way players approach the game. By infusing combat with the possibility of enduring consequences, this elevates the significance of each skirmish beyond the individual encounter. Health is no longer just hit points to be replenished with the wave of a hand or a nap; it becomes a strategic element of play managed through clever player choices. This shift introduces a layer of tactical depth missing in the vanilla game, requiring players to think critically about their characters actions and their potential long-term impacts on how the adventure plays out.</p>
-
-<p>An enhanced focus on increasing tension through lasting injuries does more than just increase stakes; it weaves a tighter bond between the player characters. Characters are encouraged build allies and actively participate in the healing and protection of their comrades, adding a rich layer of interdependence that was somewhat underdeveloped in the core rules. The sense of triumph following a narrowly won battle is exponentially heightened when the victory is hard-earned and comes with its own set of challenges to overcome. Through this approach, Dungeons and Dragons 5th edition rekindles the flame of classic sword and sorcery adventures, making every step of the journey feel impactful and every success a testament to the players’ strategic prowess and camaraderie.</p>
-
-<h2 id="exhaustion-condition-and-the-modern-adventurer">Exhaustion Condition and the Modern Adventurer</h2>
-
-<p>The D&amp;D design team presented an intriguing update to the exhaustion rules during their <a href="https://media.dndbeyond.com/compendium-images/one-dnd/expert-classes/kpx0MvyfBGHe0XKk/UA2022-Expert-Classes.pdf">Expert Class Unearthed Arcana Playtest</a> in 2022. In it, they replaced the confusing six-level exhaustion rules, which many thought were useless and confusing, with a more gradual system adding a simple -1 per level of exhaustion. A typical house rule in many D&amp;D games has been to add a level of exhaustion to each character who drops to 0 HP or fails a death save. Using a similar house rule with this new Exhaustion Condition, but requires a bit more thought and modification to make it enjoyable, manageable, and fit well into the game.</p>
-
-<p>Having never included the Exhausted Condition in subsequent UA releases, it looks like this may not be included in the DnD 2024 update, set to release later this year.  Possibly they may make it into the DMG as an optional rule, but this expansion adjusts to the rules change in a way that integrates better with class abilities and the intent of the overall rules. It also integrates with the natural and mechanical healing rules in a natural way.</p>
-
-<p>To that end, I suggest the following house rule I have been refining over the last year. (You may have seen some of my previous injury condition posts).</p>
-
-<figure class="figure float-end ms-4 clearfix">
-    
-    <img class="img-fluid figure-img " src="/assets/img/wounded_ranger_480x600.png" alt="A woman with bow and arrow, standing defiantly, with scrapes and bruises on her face." height="600" width="480" />
-    
-    
-</figure>
-
-<h3 id="exhausted-condition">Exhausted [Condition]</h3>
-
-<p>Characters accumulate exhaustion through various means that slowly reduce their effectiveness.</p>
-
-<ul>
-  <li>
-    <p><strong>Levels of Exhaustion.</strong> Exhaustion is cumulative. Each time a character receives the condition, they gain 1 level of exhaustion. A character may have a <strong><em>maximum of 10 levels</em></strong> of exhaustion and die once they exceed that. As an optional rule, the DM may choose to use the character’s CON score as the maximum level of exhaustion.</p>
-  </li>
-  <li>
-    <p><strong>d20 Rolls Affected.</strong> The character subtracts their levels of exhaustion from all d20 tests.</p>
-  </li>
-  <li>
-    <p><strong>Spell Save DCs Affected.</strong> The character subtracts their level of exhaustion from their spell save DCs for any spell they personally cast.</p>
-  </li>
-  <li>
-    <p><strong>Gaining the Condition.</strong> A character gains 1 level of exhaustion whenever they fail a death save or when they suffer a critical hit. Characters killed through the Massive Damage rules gain their maximum level of exhaustion. The DM may also rule a character acquires a level of exhaustion though other means like strenuous activity, difficult travel, or other circumstances.</p>
-  </li>
-  <li>
-    <p><strong>Recovering.</strong> A character removes 1 level of exhaustion per Long Rest.</p>
-  </li>
-  <li>
-    <p><strong>Recovering.</strong> (Optional Variant) Immediately after finishing a Long Rest, the character may make a DC 10 Constitution test, removing 1 level of exhaustion on a success. Characters who fail by rolling a 1 gain an additional exhaustion level. A character may gain advantage on a recovery roll if they are being provided medical care, provided hot meals, and in a restful environment, or other conditions as determined by the DM. Characters without adequate shelter or in a very stressful environment roll recovery at disadvantage. When their exhaustion level reaches 0, the character is no longer injured.</p>
-  </li>
-</ul>
-
-<h4 id="class-ability">Class Ability</h4>
-
-<p><strong>Shake It Off.</strong> Fighters, Paladins, Barbarians, Monks, and Rangers gain the ‘Shake It Off’ ability at 1st level. As a free action, the character can choose to tap their deep reserves of fortitude to prevent taking one level of exhaustion. They can use this ability once and regain the ability to do so after a Long Rest. These classes gain an additional use of Shake It Off each time they gain the Extra Attack ability.</p>
-
-<h4 id="magic">Magic</h4>
-
-<ul>
-  <li>
-    <p><strong>Healing Exhaustion with Magic.</strong> One level of exhaustion may be removed by casting Lesser Restoration. Greater Restoration removes all levels of exhaustion.</p>
-  </li>
-  <li>
-    <p><strong>Bring Out Your Dead.</strong> Any levels of exhaustion remain with a character brought back to life through Revivify or Raise Dead, up to their maximum. Resurrection, True Resurrection, and Wish bring characters back to life with 0 levels of exhaustion.</p>
-  </li>
-</ul>
-
-<h2 id="much-ado-about-death-spirals">Much Ado about Death Spirals</h2>
-
-<p>Some express a concern of creating a “Death Spiral” through cumulative injury rules, where penalties lead to further failures in a seemingly endless cycle, is valid yet potentially overstated in the context of these new exhaustion mechanics. The incremental nature of a -1 penalty per level of exhaustion allows for a gradual impact, delaying significant detriment until several levels are accumulated. Moreover, characters possess abilities such as Bardic Inspiration or Aid, offering strategic options to offset even several levels of penalties at a cost. Additionally, the game does not operate in isolation; DMs can incorporate downtime for recovery, and players can proactively seek rest, fostering deeper engagement with the game world. Thus, while vigilance is necessary to prevent overwhelming challenges, these rules are designed to enrich gameplay, not hinder it.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>In conclusion, incorporating and expanding the exhaustion rules in a Dungeons and Dragons game adds a whole new layer of strategic depth and emotional engagement. It elevates the stakes of every combat encounter, pushing players to think more critically about their actions and encouraging a greater sense of camaraderie within the party. This not only enhances the realism of the game but also enriches the storytelling, creating a more immersive and memorable experience. While it’s a more challenging way to play, the rewards are substantial, making each victory a testament to the players’ resilience and teamwork.</p>]]></content><author><name>Scott Turnbull</name></author><category term="Game Mechanics, Homebrew Content, DM Advice, Resources" /><summary type="html"><![CDATA[Explore gritty DnD 5e injuries, adding strategic depth and encouraging camaraderie without spiraling into defeat.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/wounded_ranger_480x600.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/wounded_ranger_480x600.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>So let’s keep talking to each other, keep experimenting with different approaches, and most importantly, let’s keep remembering that at the heart of it all, we’re here to have a good time together. With the right tools in our kit, and the right attitude at the table, there’s no limit to the adventures we can have and the stories we can tell.</p>]]></content><author><name>Scott Turnbull</name></author><category term="DM Advice, Player Advice, Community Discussion, Resources" /><summary type="html"><![CDATA[Discover collaborative tools for aligning expectations and enhancing fun in your TTRPG and DnD games. Improve cooperation and enjoyment at your table.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/ToolsforCollaborationChangeTTRPGs_960x540.png" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/ToolsforCollaborationChangeTTRPGs_960x540.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
