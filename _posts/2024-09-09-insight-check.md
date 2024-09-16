@@ -2,7 +2,7 @@
 layout: post
 title: Insight Check - TTRPG News & Events
 date: 2024-09-09 20:03
-category: Misc
+category: insight check
 author: Scott Turnbull
 image: /assets/img/InsightCheck.webp
 description: Latest TTRPG News and Trends for the week of September 7th 2024.
