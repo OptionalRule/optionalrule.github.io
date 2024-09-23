@@ -5,6 +5,7 @@ date: 2024-09-22 21:31
 category: insight check
 tags: [5E, Victorian Fantasy, Backerkit, Rolemaster, Roll20, D&D, Player's Handbook, Kobold Press, AI, Game Design]
 author: Scott Turnbull
+image: /assets/img/InsightCheck.webp
 description: "Weekly TTRPG news roundup: Victorian Fantasy, Rolemaster, D&D, Kobold Press, AI, Game Design"
 ---
 Welcome back, TTRPG enthusiasts! This week has been buzzing with exciting developments in the world of tabletop roleplaying games. Whether you're a Dungeon Master looking for new material or a player eager to dive into fresh adventures, we've got you covered. Let's dive into the latest trends and news from the TTRPG community.
