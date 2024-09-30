@@ -10,25 +10,18 @@ description: "Catch up on the latest TTRPG news, including new releases, classic
 As we dive into the latest developments in the tabletop RPG landscape, there's a wealth of exciting news that every TTRPG fan should be aware of. From significant releases in the Dungeons & Dragons universe to the resurgence of classic games, this week has proven to be pivotal for both new and seasoned players. Here’s a detailed look at the most relevant stories from September 22, 2024, to September 29, 2024.
 
 ### Drunkards, Druggies, & Delinquents: Titmouse, the Studio Behind Vox Machina, Launches a New TTRPG
-*September 24, 2024*, [Geek Native](https://www.geeknative.com/168668/drunkards-druggies-delinquents-titmouse-the-the-legend-of-vox-machina-studio-launch-a-ttrpg/); #TTRPG #LegendofVoxMachina #NewRelease
+*September 24, 2024*, [Geek Native](https://www.geeknative.com/168668/drunkards-druggies-delinquents-titmouse-the-the-legend-of-vox-machina-studio-launch-a-ttrpg/){:target="_blank"}; #TTRPG #LegendofVoxMachina #NewRelease
 
 Titmouse, the animation studio renowned for "The Legend of Vox Machina," has launched a new tabletop RPG titled "Drunkards, Druggies, & Delinquents." This game promises to deliver a unique blend of humor and adventure, reflecting the studio’s creative ethos.
 
-This introduction showcases the crossover potential between animation and tabletop gaming, appealing to fans of both mediums. For those interested in exploring this new game, more information can be found in the article at [Geek Native](https://www.geeknative.com/168668/drunkards-druggies-delinquents-titmouse-the-the-legend-of-vox-machina-studio-launch-a-ttrpg/).
+This introduction showcases the crossover potential between animation and tabletop gaming, appealing to fans of both mediums. For those interested in exploring this new game, more information can be found in the article at [Geek Native](https://www.geeknative.com/168668/drunkards-druggies-delinquents-titmouse-the-the-legend-of-vox-machina-studio-launch-a-ttrpg/){:target="_blank"}.
 
 ### WOTC Inflates Sales Numbers for Player’s Handbook
-*September 23, 2024*, [Tabletop Gaming News](https://www.tabletopgamingnews.com/wotc-inflates-sales-numbers-for-players-handbook-real-figures-might-be-shockingly-low/); #D&D #Sales #PlayersHandbook
+*September 23, 2024*, [Tabletop Gaming News](https://www.tabletopgamingnews.com/wotc-inflates-sales-numbers-for-players-handbook-real-figures-might-be-shockingly-low/){:target="_blank"}; #D&D #Sales #PlayersHandbook
 
 Recent reports suggest that Wizards of the Coast may have exaggerated sales figures for the new Player's Handbook, with real physical sales potentially falling short of expectations. This news raises concerns about the marketing strategies employed by WOTC and the overall health of tabletop RPG sales in an increasingly digital marketplace.
 
-Understanding these dynamics is crucial for fans and retailers alike, as it could impact future releases and the types of products that get prioritized. For a deeper dive into the implications of these sales figures, check out the full article on [Tabletop Gaming News](https://www.tabletopgamingnews.com/wotc-inflates-sales-numbers-for-players-handbook-real-figures-might-be-shockingly-low/).
-
-### Kickstarter Launches for Warlock Knight (DFRPG)
-*September 25, 2024*, [Tenkar's Tavern](https://www.tenkarstavern.com/2024/09/kickstarter-warlock-knight-dfrpg.html); #TTRPG #Kickstarter #DFRPG
-
-A new Kickstarter campaign has launched for "Warlock Knight," a game designed for the DFRPG system. This project promises thrilling adventures and unique gameplay mechanics, appealing to fans of the fantasy genre.
-
-Kickstarter has become a vital platform for indie developers to introduce innovative RPGs, and this campaign is no exception. Interested readers can find more about this project and how to support it on [Tenkar's Tavern](https://www.tenkarstavern.com/2024/09/kickstarter-warlock-knight-dfrpg.html).
+Understanding these dynamics is crucial for fans and retailers alike, as it could impact future releases and the types of products that get prioritized. For a deeper dive into the implications of these sales figures, check out the full article on [Tabletop Gaming News](https://www.tabletopgamingnews.com/wotc-inflates-sales-numbers-for-players-handbook-real-figures-might-be-shockingly-low/){:target="_blank"}.
 
 ## Conclusion
 
