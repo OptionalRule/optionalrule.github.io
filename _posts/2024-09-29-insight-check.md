@@ -5,6 +5,7 @@ date: 2024-09-29 20:00
 category: insight check
 author: Scott Turnbull
 tags: [DnD, Kickstarter, WOTC]
+image: /assets/img/InsightCheck.webp
 description: "Catch up on the latest TTRPG news, including new releases, classic revivals, and industry developments from September 22-29, 2024."
 ---
 As we dive into the latest developments in the tabletop RPG landscape, there's a wealth of exciting news that every TTRPG fan should be aware of. From significant releases in the Dungeons & Dragons universe to the resurgence of classic games, this week has proven to be pivotal for both new and seasoned players. Here’s a detailed look at the most relevant stories from September 22, 2024, to September 29, 2024.
