@@ -456,8 +456,12 @@ Your thoughts and queries are the lifeblood that fuels this chronicle. Don't hes
                 </ul>
             </div>
             <div class="col small text-muted">
-                <span>Copyright &copy; 2020-2023 Optional Rule Games.</span>
+                <span>Copyright &copy; 2020-<span id="currentYear"></span> Optional Rule Games.</span>
             </div>
+            <script>
+            // JavaScript to get the current year
+            document.getElementById("currentYear").textContent = new Date().getFullYear();
+            </script>
 
         </div>
 
