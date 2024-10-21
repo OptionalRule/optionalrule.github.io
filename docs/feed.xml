@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-10-13T18:05:55+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Insight Check - TTRPG News &amp;amp; Events</title><link href="https://www.optionalrule.com/2024/10/13/insight-check/" rel="alternate" type="text/html" title="Insight Check - TTRPG News &amp;amp; Events" /><published>2024-10-13T12:00:00+00:00</published><updated>2024-10-13T12:00:00+00:00</updated><id>https://www.optionalrule.com/2024/10/13/insight-check</id><content type="html" xml:base="https://www.optionalrule.com/2024/10/13/insight-check/"><![CDATA[<p>This week in the world of tabletop roleplaying games (TTRPGs) news you may have missed! We have stories about new resources that assist Game Masters (GMs) to significant announcements that bridge digital and tabletop realms, and other stories about how the TTRPG ecosystem continues to grow. Here’s a closer look at some of the most captivating stories from October 6 to October 13, 2024, that you may not have seen in your feeds.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-10-21T01:02:41+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Movement in Theater of the Mind for DnD 5e</title><link href="https://www.optionalrule.com/2024/10/20/theater-of-the-mind-movement-in-5e/" rel="alternate" type="text/html" title="Movement in Theater of the Mind for DnD 5e" /><published>2024-10-20T20:00:00+00:00</published><updated>2024-10-20T20:00:00+00:00</updated><id>https://www.optionalrule.com/2024/10/20/theater-of-the-mind-movement-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2024/10/20/theater-of-the-mind-movement-in-5e/"><![CDATA[<p>As a Dungeon Master, I’ve always been drawn to the flexibility and imagination-sparking nature of Theater of the Mind (TotM) gameplay. However, at least in grid based systems like D&amp;D 5e, it can be a challenge to account for various elements of the game designed for tactical combat. Additionally, it can be tempting to simply ignore movement when using TotM and miss out on the exciting and dynamic nature of swashbuckling adventures. Today, I want to share a system I’ve developed that keeps TotM combat dynamic and tactical while avoiding the need to track every 5-foot square.</p>
+
+<p>While this system is primarily designed with D&amp;D 5e in mind, its core principles can be easily adapted to any TTRPG. In fact, I think it would work particularly well in games like ShadowDark, which already emphasizes streamlined gameplay. The fundamental concept - declaring your intention and then rolling for the outcome - is universally applicable across various game systems. This flexibility allows you to bring more dynamic movement to your TotM sessions, regardless of the specific ruleset you’re using.</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/pitch_battle_ai_art_480x856.webp" alt="A pitch battle with warriors charging back and forth. AI generated art." height="856" width="480" />
+    
+    
+</figure>
+
+<h2 id="the-core-principle-intention-over-precision">The Core Principle: Intention Over Precision</h2>
+
+<p>The heart of this system is focusing on what characters are trying to achieve with their movement, rather than precisely where they are at any given moment. Here’s how it works:</p>
+
+<ol>
+  <li>Describe that the character is trying to achieve and select the appropriate maneuver.</li>
+  <li>If two opponents want the same thing (like engaging in melee), let it happen without a roll.</li>
+  <li>If opponents want different things, (like staying in cover or avoiding engagement) resolve it with an opposed skill check.</li>
+</ol>
+
+<p>This approach keeps the action flowing and puts the emphasis on the narrative rather than the mechanics.</p>
+
+<h2 id="simplified-movement-ranges">Simplified Movement Ranges</h2>
+
+<p>Instead of tracking exact distances, we use two primary ranges:</p>
+
+<ul>
+  <li><strong>Move Range</strong>: The character can reach the target in a single move action.</li>
+  <li><strong>Extended Range</strong>: The character is beyond a single move away  If nessisary define how many moves it would take to reach a target.</li>
+</ul>
+
+<p>This simplification allows for quick decision-making and keeps the focus on the action.</p>
+
+<h2 id="key-maneuvers">Key Maneuvers</h2>
+
+<p>To add tactical depth to combat, I’ve introduced several maneuvers that players can attempt:</p>
+
+<ol>
+  <li><strong>Engage</strong>: Move into melee range with an opponent or multiple opponents (up to their proficiency bonus).</li>
+  <li><strong>Close</strong>: Reduce the distance between you and a target so you may attempt an Engage or other maneuver next turn.  (Useful in chase scenes.)</li>
+  <li><strong>Avoid</strong>: Stay out of an opponent’s melee reach.</li>
+  <li><strong>Flee</strong>: Use a full action to move significantly away from combat. Because they are using a full action, the character gains advantage on any checks to avoid engagement.</li>
+  <li><strong>Line Up A Shot</strong>: Attempt to negate the cover bonus of an opponent for a clear ranged attack.</li>
+  <li><strong>Use Cover</strong>: Utilize an obstacle for protection.</li>
+  <li><strong>Intercept</strong>: Use a reaction to move and potentially make an attack of opportunity.</li>
+</ol>
+
+<p>These maneuvers give players clear options for positioning without needing a grid.</p>
+
+<h2 id="resolving-maneuvers">Resolving Maneuvers</h2>
+
+<p>When a player attempts a maneuver, here’s how we resolve it:</p>
+
+<ol>
+  <li>The player describes their intended movement.</li>
+  <li>If an opponent wants the same thing, let it happen.  If they want different things, the player rolls the chosen skill check and the opponent rolls their skill check.</li>
+  <li>Resolve the maneuver, ties to to the ‘defender’, the winning roll is the one that gets to do what they want.</li>
+</ol>
+
+<p>The most common skills used are Athletics, Acrobatics, and Deception, but I encourage players to think creatively about how other skills might apply.</p>
+
+<p>Some examples:</p>
+
+<p>The player characters are Ahmed the Fighter, Lora the Rogue, and Kaelin the Cleric.  They are engaged in combat with a group of 3 goblin archers and 2 goblin warriors.</p>
+
+<ul>
+  <li>Ahmed wants to Engage with one of the Goblin Archers.  All the archers want to Avoid engagement.  Ahmed rolls Athletics vs the all the archer’s Acrobatics.  If Ahmed beats any of the Gobin Archers roll, he can engage them. Any Goblin Archer that wins successfully avoids engagement.</li>
+  <li>Lora wants to Use Cover against the ranged attacks while shooting at a Goblin Fighter.  It just happens.  On the turn for a Goblin Archer, they try to Line up a Shot on Lora and roll Deception vs her Acrobatics.  If the Archer beats her roll, they get to shoot without Lora’s cover bonus.</li>
+  <li>A Goblin Warrior tries to engage Ahmed but Kaelin uses her reaction to Intercept them.  Kaelin rolls Athletics vs the Goblin Warrior’s Athletics.  If Kaelin beats the Goblin Warrior’s roll, she can make an opporunity attack. (Kalin indends to shove the Goblin Warrior and attempt to knock them prone.)</li>
+</ul>
+
+<h2 id="special-considerations">Special Considerations</h2>
+
+<p>To add even more depth and account for various D&amp;D rules, I’ve incorporated a few special considerations:</p>
+
+<ul>
+  <li><strong>Flanking</strong>: If you’re using flanking rules, any character attacking a target already engaged by another character gains advantage on their attack roll.</li>
+  <li><strong>Within 5 feet</strong>: Some character or monster ability uses the ‘within 5 feet’ qualfier. In this case any character that is engaged with someone is within 5 feet of them.  Moving to within 5 feet of an ally is automatic in most cases.</li>
+  <li><strong>Multiple Opponents</strong>: A character can attempt to use multi-attack on different opponents within range.</li>
+  <li><strong>Dodge Action</strong>: Grants advantage on all maneuver rolls and reactions to avoid engagement.</li>
+  <li><strong>Sentinel Feat</strong>: Allows the Intercept maneuver as a free action, once per round.</li>
+  <li><strong>Reach Weapons</strong>: Grant advantage on maneuvers to engage or intercept.</li>
+  <li><strong>Limited/Enhanced Movement</strong>: Some characters have limited movement or enhanced movement.  In most cases this should grant disadvantage/advantage on applicable maneuvers. This could include but not be limited to bonus action movement, being limited to half movmenet due to gettiing up from prone,haste, or other effects that grant extra movement.</li>
+  <li><strong>Opportunity Attack</strong>: If a character is engaged or with an opponent and attempts to move away, the opponent can make an opportunity attack as normal.</li>
+  <li><strong>Force Movement</strong>: This is not typically handled in these rules and proceed as normal.</li>
+</ul>
+
+<h2 id="keeping-it-fun-and-flexible">Keeping It Fun and Flexible</h2>
+
+<p>Remember, the goal of this system is to enhance the fun and tactical elements of combat without getting bogged down in rules. These rules can likely be twisted and work best when everyone enages them in good faith.  If a situation is unclear or some particular use of a maneuver does not make sense, the DM should make a ruling and keep things moving.  As a DM, I always prioritize the following:</p>
+
+<ol>
+  <li><strong>Narrative Flow</strong>: Use the system to enhance the story, not hinder it.</li>
+  <li><strong>Player Agency</strong>: Give players meaningful choices about their positioning and actions.</li>
+  <li><strong>Quick Resolution</strong>: Keep the action moving by making quick judgments rather than consulting tables.</li>
+  <li><strong>Fairness</strong>: Be consistent in your rulings, but be willing to adapt if something isn’t working.</li>
+</ol>
+
+<h2 id="wrapping-up">Wrapping Up</h2>
+
+<p>This system has brought new life to my TotM combat sessions, allowing for dynamic and engaging fights without the need for miniatures or a battle map. It’s flexible enough to work with various game systems and can be easily tweaked to fit your group’s style.</p>
+
+<p>Remember, the key is to keep things moving and fun. Don’t be afraid to make quick decisions and adjust on the fly. Your players will appreciate the added depth to combat, and you’ll enjoy the freedom of not having to track every little movement.</p>
+
+<p>Give this system a try in your next TotM session and let me know how it goes. Happy gaming, everyone!</p>]]></content><author><name>Scott Turnbull</name></author><category term="rpg" /><category term="resources" /><category term="DnD" /><category term="Theater of the Mind" /><category term="Combat" /><category term="House Rules" /><category term="Movement" /><summary type="html"><![CDATA[Discover a dynamic system for handling movement in Theater of the Mind gameplay, designed primarily for D&D 5e but adaptable to any TTRPG. This approach emphasizes narrative flow and player agency while maintaining tactical depth.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/pitch_battle_ai_art_800x418.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/pitch_battle_ai_art_800x418.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Insight Check - TTRPG News &amp;amp; Events</title><link href="https://www.optionalrule.com/2024/10/13/insight-check/" rel="alternate" type="text/html" title="Insight Check - TTRPG News &amp;amp; Events" /><published>2024-10-13T12:00:00+00:00</published><updated>2024-10-13T12:00:00+00:00</updated><id>https://www.optionalrule.com/2024/10/13/insight-check</id><content type="html" xml:base="https://www.optionalrule.com/2024/10/13/insight-check/"><![CDATA[<p>This week in the world of tabletop roleplaying games (TTRPGs) news you may have missed! We have stories about new resources that assist Game Masters (GMs) to significant announcements that bridge digital and tabletop realms, and other stories about how the TTRPG ecosystem continues to grow. Here’s a closer look at some of the most captivating stories from October 6 to October 13, 2024, that you may not have seen in your feeds.</p>
 
 <h3 id="free-rpg-resources---flextale-infinite-adventures-volume-1-western-realm-of-aquilae">Free RPG Resources - FlexTale Infinite Adventures Volume 1: Western Realm of Aquilae</h3>
 <p><em>October 8, 2024</em>, <a href="https://www.tenkarstavern.com" target="_blank">Tenkar’s Tavern</a>; #TTRPG</p>
@@ -550,253 +655,4 @@ The release of ‘Humans! Humans!’, designed as a companion for ‘Monsters! M
   <li><a href="https://www.innatthecrossroads.com/" target="_blank">The Inn at the Crossroads</a> blog on ficitional foods of all kinds.</li>
 </ul>
 
-<p>These resources can provide inspiration and depth to your food-based worldbuilding efforts. Remember, the key is to use these ideas as springboards for your own creativity, tailoring them to fit the unique aspects of your game world.</p>]]></content><author><name>Scott Turnbull</name></author><category term="rpg resources" /><summary type="html"><![CDATA[Learn how to use food descriptions in TTRPGs to create rich, immersive worlds. Practical tips for DMs to enhance cultural worldbuilding through cuisine.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/heroes-feast_1200x757.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/heroes-feast_1200x757.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mounted Combat in Shadowdark TTRPG</title><link href="https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark/" rel="alternate" type="text/html" title="Mounted Combat in Shadowdark TTRPG" /><published>2024-09-04T11:03:00+00:00</published><updated>2024-09-04T11:03:00+00:00</updated><id>https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark</id><content type="html" xml:base="https://www.optionalrule.com/2024/09/04/mounted-combat-in-shadowdark/"><![CDATA[<p>Greetings, brave crawlers! Whether you’re charging into battle, making daring escapes, or simply looking for a reliable way to haul your hard-earned loot, mounts are an essential part of any fantasy adventurer’s toolkit. They add a thrilling dimension to gameplay, especially during overland adventures where a simple yet engaging mounted combat system can elevate the excitement of your <a href="https://www.thearcanelibrary.com/pages/shadowdark" target="_blank">Shadowdark</a> game.</p>
-
-<p>In the spirit of Shadowdark’s minimalist yet evocative style, I’ve crafted these concise rules for mounted combat and travel. They’re designed to seamlessly integrate with the Shadowdark TTRPG, offering a brief but descriptive framework that expands your options without bogging down gameplay.
-These mounted combat rules are part of a larger project, where I’m compiling various travel-related mechanics. In addition to what you’ll find here, I’ve posted some rules for <a href="/2024/08/26/expanded-herb-list-for-shadowdark/">hebs &amp; foraging</a>, and will be writing some rules on setting up camps, and interactive travel. The goal is to create a comprehensive supplement that enriches your overland adventures in the Shadowdark universe.</p>
-
-<p>I’m excited to share these rules with you and eager to hear your thoughts! Please reach out to me on <a href="https://x.com/optionalrule" target="_blank">X (Twitter)</a> to share your feedback, experiences, or suggestions. I’m also in the Shadowdark Discord, so hit me up there. Your input is invaluable as we continue to expand and refine the Shadowdark experience.</p>
-
-<h2 id="the-power-of-a-trusty-steed">The Power of a Trusty Steed</h2>
-
-<p>Crawling in Shadowdark is dangerous buisness, but it’s not always delving underground. A reliable mount can be the difference between glory and a cold, lonely grave in the dark forests and dangerous countryside. But how exactly do these majestic beasts enhance your combat prowess? Let’s break it down.</p>
-
-<p>When you’re astride your mount, you gain a +1 bonus to hit with melee weapons. It’s amazing what a little extra height can do for your swing!</p>
-
-<h4 id="charge">Charge!</h4>
-
-<p>Wielding a polearm atop a charging mount? Add your mount’s Strength modifier to your damage. This devastating move requires a straight charge of at least Near distance.</p>
-
-<p>But beware, brave rider! This tactic cuts both ways. If you’re on the receiving end of a charging foe while wielding a polearm, you can add the enemy mount’s Strength modifier to your damage to an attack on any rider that has charged you. It’s a high-risk, high-reward situation!</p>
-
-<h4 id="mounted-movement">Mounted Movement</h4>
-
-<p>When mounted, you use your trusty steed’s movement as your own. This can significantly increase your tactical options on the battlefield or help you outrun that pesky goblin that’s been tailing you… Let’s just hope they don’t have shortbows.</p>
-
-<h4 id="the-perils-of-riding">The Perils of Riding</h4>
-
-<p>However, mounted combat isn’t all glory and triumph. There are risks to consider:</p>
-
-<ol>
-  <li>
-    <p><strong>Bolting</strong>: If your mount gets spooked (either by fright or by taking half its hit points in damage), you’ll need to make a Morale check. Fail, and your mount bolts, carrying you away from the fray—whether you like it or not!</p>
-  </li>
-  <li>
-    <p><strong>Staying Ahorse</strong>: When your mount rears or stumbles, you’ll need to make a hard Strength check to avoid being thrown. No proper saddle? You’re rolling with disadvantage, cowboy.</p>
-  </li>
-  <li>
-    <p><strong>Unseating a Rider</strong>: Enemies can try to knock you off your high horse with a contested Strength check. You get advantage on your roll, but if you fail, it’s a long way down.</p>
-  </li>
-</ol>
-
-<h3 id="burdens-carry-capacity-of-mounts">Burdens: Carry Capacity of Mounts</h3>
-
-<p>Mounts are not just for riding; they’re excellent pack animals too:</p>
-
-<ul>
-  <li>Riderless mounts can carry triple the normal Gear Slots.</li>
-  <li>Mounts with riders use standard Gear Slots.</li>
-</ul>
-
-<p><em>(For more details on Gear Slots, check out page 35 of the Shadowdark rulebook.)</em></p>
-
-<h2 id="meet-the-mounts">Meet the Mounts</h2>
-
-<figure class="figure float-end ms-4 clearfix">
-    
-    <img class="img-fluid figure-img " src="/assets/img/charing-warrior_480x782.png" alt="A black and white image of a warrior charging on a warhorse. AI Image." height="782" width="480" />
-    
-    
-</figure>
-
-<p>Horses are the most common mount or pack animal in most setting, but by no means the only.  In addition to the normal riding Horse presented on <em>p227</em> in the Shadowdark TTRPG, here are a few more options for your adventurer.</p>
-
-<blockquote class="sd-stat-block wide">
-  <h2 id="ponymule">Pony/Mule</h2>
-  <p><em>The Crawler’s Trusty Companion. Neutral</em></p>
-
-  <ul>
-    <li><strong>AC</strong> 12</li>
-    <li><strong>HP</strong> 11, <strong>LV</strong> 2</li>
-    <li><strong>ATK</strong> hooves +2 (1d6)</li>
-    <li><strong>MV</strong> Double Near, <strong>AL</strong> N</li>
-  </ul>
-
-  <table>
-    <tbody>
-      <tr>
-        <td><strong>S:</strong> +2</td>
-        <td><strong>D:</strong> +2</td>
-        <td><strong>C:</strong> +2</td>
-        <td><strong>I:</strong> -3</td>
-        <td><strong>W:</strong> +1</td>
-        <td><strong>C:</strong> -2</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p><strong>Surefooted.</strong> ADV on any roll to avoid tripping or falling.</p>
-
-  <p><strong>Stout.</strong> (<em>Mules only</em>) Mules carry quadruple their normal Gear Slots when riderless.</p>
-</blockquote>
-
-<blockquote class="sd-stat-block wide">
-  <h2 id="war-horse">War Horse</h2>
-  <p><em>Bred for battle and Fury. Neutral</em></p>
-
-  <ul>
-    <li><strong>AC</strong> 12</li>
-    <li><strong>HP</strong> 16, <strong>LV</strong> 3</li>
-    <li><strong>ATK:</strong> hooves +4 (1d8)</li>
-    <li><strong>MV</strong> Double Near</li>
-  </ul>
-
-  <table>
-    <tbody>
-      <tr>
-        <td><strong>S:</strong> +4</td>
-        <td><strong>D:</strong> +2</td>
-        <td><strong>C:</strong> +3</td>
-        <td><strong>I:</strong> -3</td>
-        <td><strong>W:</strong> +1</td>
-        <td><strong>C:</strong> -2</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p><strong>Fearless.</strong> ADV on Morale checks.</p>
-
-  <p><strong>Fury.</strong> Attack with hooves during rider’s turn.</p>
-</blockquote>
-
-<h2 id="gearing-up-your-mount">Gearing Up Your Mount</h2>
-
-<p>Mounts require a bit of gear and care. Tack is generally required to ride or guide a mount, and all actions are at disadvantage without it. Barding is available to safeguard your mount in battle, but only War horses can wear Chain or Plate. While most mounts can forage in a normal or wooded environment, they’ll need Feed to gain the benefits of a rest.</p>
-
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th style="text-align: left">Gear</th>
-      <th style="text-align: center">Cost</th>
-      <th style="text-align: center">Slots</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Tack (Saddle, stirrups, bridle, halter, rein, bit, and harness)</td>
-      <td style="text-align: center">15 gp</td>
-      <td style="text-align: center">2</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Barding (Leather, Chain, or Plate armor)</td>
-      <td style="text-align: center">4x</td>
-      <td style="text-align: center">2x</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Feed (3 days)</td>
-      <td style="text-align: center">2 sp</td>
-      <td style="text-align: center">1</td>
-    </tr>
-  </tbody>
-</table>
-
-<h4 id="buying-a-mount">Buying a Mount</h4>
-
-<table class="container table table-striped">
-  <thead>
-    <tr>
-      <th style="text-align: left">Mount</th>
-      <th style="text-align: center">Cost</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Horse</td>
-      <td style="text-align: center">100 gp</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Mule</td>
-      <td style="text-align: center">25 gp</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Pony</td>
-      <td style="text-align: center">20 gp</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">War Horse</td>
-      <td style="text-align: center">300 gp</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="adding-flavor-mount-coats">Adding Flavor: Mount Coats</h2>
-
-<p>Want to make your mount stand out? Roll a d10 and consult this table for your mount’s coat color:</p>
-
-<table class="table">
-  <thead>
-    <tr>
-      <th style="text-align: center">d10</th>
-      <th>Coat Color</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center">1</td>
-      <td>Midnight Black</td>
-      <td>A deep, lustrous black that seems to absorb light. Often associated with mysterious or powerful mounts.</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">2</td>
-      <td>Chestnut Brown</td>
-      <td>A rich, warm brown color reminiscent of polished wood. Common among sturdy, reliable steeds.</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">3</td>
-      <td>Dapple Gray</td>
-      <td>A mesmerizing pattern of dark spots on a light gray background, creating a cloudy effect. Often seen on elegant, mature horses.</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">4</td>
-      <td>Pure White</td>
-      <td>A brilliant, unblemished white coat that seems to glow. Rare and often associated with noble or magical mounts.</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">5</td>
-      <td>Golden Palomino</td>
-      <td>A shimmering golden body color with a white mane and tail. Prized for their beauty and often favored by nobles.</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">6</td>
-      <td>Roan</td>
-      <td>A striking mix of red-brown and white hairs, creating a speckled appearance. Known for their hardy nature.</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">7</td>
-      <td>Bay</td>
-      <td>A classic look with a red-brown body and black mane, tail, and lower legs. Versatile and common among various breeds.</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">8</td>
-      <td>Pinto</td>
-      <td>Dramatic large patches of white and dark colors (often black, brown, or chestnut). Each pattern is unique, like a living canvas.</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">9</td>
-      <td>Buckskin</td>
-      <td>A golden tan body with black mane, tail, and lower legs. Often associated with tough, enduring mounts of the frontier.</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">10</td>
-      <td>Appaloosa</td>
-      <td>Distinctive spotted pattern, often with a white or light-colored body covered in dark spots. Historically bred by the Nez Perce people and known for their intelligence and stamina.</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>So there you have it, brave adventurers! With these rules, you’re ready to thunder across the battlefield, charge down your foes, and explore the far reaches of your Shadowdark world on horseback. Remember, a well-trained mount is more than just a means of transportation—it’s a loyal companion and a formidable weapon in the right hands.</p>
-
-<p>Now, saddle up and ride forth to glory! May your steeds be swift, your aim be true, and your shadows less… er… darkly!</p>
-
-<p>Anyway, let me know what you think!</p>]]></content><author><name>Scott Turnbull</name></author><category term="Shadowdark" /><summary type="html"><![CDATA[Enhance your Shadowdark RPG adventures with new mounted combat rules. Learn about different mounts, gear, and tactics for thrilling horseback battles and travel.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/KnightsCharging.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/KnightsCharging.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>These resources can provide inspiration and depth to your food-based worldbuilding efforts. Remember, the key is to use these ideas as springboards for your own creativity, tailoring them to fit the unique aspects of your game world.</p>]]></content><author><name>Scott Turnbull</name></author><category term="rpg resources" /><summary type="html"><![CDATA[Learn how to use food descriptions in TTRPGs to create rich, immersive worlds. Practical tips for DMs to enhance cultural worldbuilding through cuisine.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/heroes-feast_1200x757.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/heroes-feast_1200x757.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
