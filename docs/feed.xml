@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-10-21T01:18:44+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Movement in Theater of the Mind for DnD 5e</title><link href="https://www.optionalrule.com/2024/10/20/theater-of-the-mind-movement-in-5e/" rel="alternate" type="text/html" title="Movement in Theater of the Mind for DnD 5e" /><published>2024-10-20T20:00:00+00:00</published><updated>2024-10-20T20:00:00+00:00</updated><id>https://www.optionalrule.com/2024/10/20/theater-of-the-mind-movement-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2024/10/20/theater-of-the-mind-movement-in-5e/"><![CDATA[<p>As a Dungeon Master, I’ve always been drawn to the flexibility and imagination-sparking nature of Theater of the Mind (TotM) gameplay. However, at least in grid based systems like D&amp;D 5e, it can be a challenge to account for various elements of the game designed for tactical combat. Additionally, it can be tempting to simply ignore movement when using TotM and miss out on the exciting and dynamic nature of swashbuckling adventures. Today, I want to share a system I’ve developed that keeps TotM combat dynamic and tactical while avoiding the need to track every 5-foot square.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-10-24T15:40:28+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">The DnD 2024 Launch and the Future of Hasbro</title><link href="https://www.optionalrule.com/2024/10/24/hasbro-q3-2024/" rel="alternate" type="text/html" title="The DnD 2024 Launch and the Future of Hasbro" /><published>2024-10-24T12:00:00+00:00</published><updated>2024-10-24T12:00:00+00:00</updated><id>https://www.optionalrule.com/2024/10/24/hasbro-q3-2024</id><content type="html" xml:base="https://www.optionalrule.com/2024/10/24/hasbro-q3-2024/"><![CDATA[<p>The financial health of Hasbro frequently sparks intense discussion among Dungeons &amp; Dragons fans. While speculation often trends toward the alarmist, the underlying concern is understandable. Fans have invested heavily in this hobby - not just financially, but with their time, creativity, and emotional energy. They want to understand the stability of the company behind their beloved game, whether the focus is on product quality over brand exploitation, and how corporate decisions might impact the future of their hobby. <a href="https://investor.hasbro.com/news-releases/news-release-details/hasbro-reports-third-quarter-2024-financial-results" target="_blank">Hasbro’s Q3 earnings report</a> offers us a chance to move beyond speculation and examine actual data.</p>
+
+<p>This analysis covers Hasbro’s financial position from July through September 2024, as reported to their investors. The timing is particularly significant as it encompasses the launch of the D&amp;D 2024 Player’s Handbook and should include pre-order data.</p>
+
+<p>For transparency: while this analysis was generated using AI, it’s worth noting that I work professionally in AI-driven analytics. This isn’t simply a matter of prompting and pasting - it’s a careful examination of the data through an informed lens.</p>
+
+<p>Looking at the broader picture, Hasbro appears stable but faces challenges. While carrying considerable debt, their aggressive inventory reduction has resulted in impressive margins (the percentage of revenue they retain as profit). Despite these high margins, debt reduction will likely remain a long-term process. However, their healthy cash reserves and continued dividend payments suggest stability and maintain investor confidence.</p>
+
+<p><strong>Key observations:</strong></p>
+<ul>
+  <li>Baldur’s Gate 3’s impact on last year’s numbers is stark. With that revenue stream now diminished, there’s clear pressure to find new ways to monetize the D&amp;D franchise.</li>
+  <li>The D&amp;D 2024 launch appears to have underperformed. If the Player’s Handbook hasn’t significantly moved the needle, it’s unlikely the DMG and MM will fare better. This suggests the 5e brand may be in decline.</li>
+  <li>Their strategic focus on digital gaming is evident, though the success of their VTT initiative remains uncertain. If they’re considering AI as a major strategy (though this isn’t clear from the report), that’s potentially problematic. In a world where AI can effectively run games, the value of traditional gaming brands and systems could be significantly diminished.</li>
+</ul>
+
+<p>Now, let’s examine the detailed analysis of the Q3 report.  Note, <em>I’ve added some commentary in italics to the report below.</em></p>
+
+<h2 id="hasbro-q3-2024-report-summary">Hasbro Q3 2024 Report Summary</h2>
+
+<p><strong>Major Findings:</strong></p>
+<ol>
+  <li>Overall revenue declined 15% year-over-year (9% excluding eOne divestiture) - <em>This is fairly dramatic to me, the eOne divestiture is a big deal but that they’re 9% down even after excluding it is significant.</em></li>
+  <li>Operating profit was $302 million with a margin of 23.6% - <em>Comparing this to the WotC margins below, it’s clear that MtG is floating the company right now.</em></li>
+  <li>Company is maintaining its full-year EBITDA guidance of $975M-$1.025B - <em>This is a big range, but it’s a good sign that they’re not revising their expectations for the year.</em></li>
+  <li>Company continues to pay quarterly dividends ($0.70 per share) - <em>This is a good sign, it shows that they’re still committed to rewarding shareholders even as they work to transition the business.</em></li>
+  <li>Inventory levels are down 39% versus prior year - <em>This is a good sign, it shows that they’re managing their inventory more effectively and can maintain their margins</em></li>
+  <li>Digital gaming business saw success with Monopoly Go! ($30M revenue in Q3) - <em>This should be seen as good but I believe this is the origin of a strategic mistake.  I believe they saw the development of the VTT to be the same as Monoboloy Go and I think they’ve bit off more than they can chew with the VTT.</em></li>
+</ol>
+
+<p><strong>Financial Position Overall:</strong>
+The company is in a period of strategic transition but maintaining stability. While revenues are down, they’ve improved their operational efficiency and maintain strong margins. Their cash position is healthy ($696.1M) and they’ve added short-term investments ($489.3M). The reduction in inventory levels (39% down) suggests better operational management. The maintenance of dividend payments indicates confidence in their cash flow position. However, they do carry significant debt ($3.96B total between current and long-term), which they’ve listed debt reduction as a priority. The company appears financially stable but in need of revenue growth to improve their position.</p>
+
+<p><strong>Wizards of the Coast Indicators:</strong></p>
+<ul>
+  <li>Revenue decreased 5% in Q3 2024 vs Q3 2023 - <em>Appears to be from lost BG3 revenue. I was hoping to see a softer decline with the release of the 2024 PHB.</em></li>
+  <li>Operating margin of 44.9% (down 3.1 points) - <em>Down yes, but 45% is insanely good.</em></li>
+  <li>MAGIC: THE GATHERING revenue increased 3%</li>
+  <li>Digital gaming affected by tough comparison to Baldur’s Gate 3 launch in Q3 2023</li>
+  <li>Year-to-date performance is strong: - <em>All of this incidates the changes at the end of 2023 had a strong positive impact on the business. Hate them if you like but business is unforgiving and they did what they needed to do IMO.</em>
+    <ul>
+      <li>Revenue up 7% for first nine months</li>
+      <li>Operating profit increased 30%</li>
+      <li>Operating margin of 47.0%</li>
+      <li>Tabletop revenue increased 3%</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Dungeons &amp; Dragons Product Line:</strong>
+The report doesn’t break out specific D&amp;D performance metrics, but there are some relevant indicators:</p>
+<ol>
+  <li>Listed as one of their “Franchise Brands” alongside MAGIC: THE GATHERING - <em>I take this as an affirmation of support for DnD but I don’t know how to take the term “Franchise Brands” as Core Brand is really the gold standard.</em></li>
+  <li>Digital gaming revenue decline was specifically attributed to comparing against Baldur’s Gate 3’s launch in Q3 2023, suggesting this was a significant revenue driver</li>
+  <li>D&amp;D is included in “Hasbro Total Gaming” category which saw: - <em>The take away here is they had a significant decline at the end of last year that is turing around.</em>
+    <ul>
+      <li>6% decline in Q3 2024 vs Q3 2023</li>
+      <li>3% growth year-to-date</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Strategy indicators:</strong></p>
+<ul>
+  <li>Company appears to be focusing on digital transformation</li>
+  <li>Pursuing licensing opportunities</li>
+  <li>Focus on product innovation</li>
+  <li>D&amp;D appears to be integrated into their broader digital gaming strategy</li>
+  <li>No specific new D&amp;D initiatives were announced in this report</li>
+</ul>]]></content><author><name>Scott Turnbull</name></author><category term="misc" /><summary type="html"><![CDATA[Hasbro's Q3 2024 report offers a detailed look at their financial performance and strategic direction and teases the future of the DnD brand.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/dnd_record_keeping_1200x600.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/dnd_record_keeping_1200x600.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Movement in Theater of the Mind for DnD 5e</title><link href="https://www.optionalrule.com/2024/10/20/theater-of-the-mind-movement-in-5e/" rel="alternate" type="text/html" title="Movement in Theater of the Mind for DnD 5e" /><published>2024-10-20T20:00:00+00:00</published><updated>2024-10-20T20:00:00+00:00</updated><id>https://www.optionalrule.com/2024/10/20/theater-of-the-mind-movement-in-5e</id><content type="html" xml:base="https://www.optionalrule.com/2024/10/20/theater-of-the-mind-movement-in-5e/"><![CDATA[<p>As a Dungeon Master, I’ve always been drawn to the flexibility and imagination-sparking nature of Theater of the Mind (TotM) gameplay. However, at least in grid based systems like D&amp;D 5e, it can be a challenge to account for various elements of the game designed for tactical combat. Additionally, it can be tempting to simply ignore movement when using TotM and miss out on the exciting and dynamic nature of swashbuckling adventures. Today, I want to share a system I’ve developed that keeps TotM combat dynamic and tactical while avoiding the need to track every 5-foot square.</p>
 
 <p>While this system is primarily designed with D&amp;D 5e in mind, its core principles can be easily adapted to any TTRPG. In fact, I think it would work particularly well in games like ShadowDark, which already emphasizes streamlined gameplay. The fundamental concept - declaring your intention and then rolling for the outcome - is universally applicable across various game systems. This flexibility allows you to bring more dynamic movement to your TotM sessions, regardless of the specific ruleset you’re using.</p>
 
@@ -517,142 +585,4 @@ The crowdfunding campaign for ‘Cyberpunk 2077: The Board Game’ has exceeded 
 The release of ‘Humans! Humans!’, designed as a companion for ‘Monsters! Monsters!’, expands the narrative options available to tabletop RPG enthusiasts. This new release is part of a growing trend towards creating interconnected games that enhance player experience by allowing different perspectives and gameplay styles. Historically, the RPG genre has thrived on the expansion of lore and mechanics, with numerous games branching off from established titles. The introduction of this new edition signifies the ongoing evolution of RPG systems, promoting diversity in storytelling and gameplay experiences for all types of players.<br />
 <a href="https://www.tenkarstavern.com/2024/09/new-release-humans-humans-1st-edition.html" target="_blank">Read more</a></p>
 
-<p>That’s it for the past week, ping me on twitter if you found anything interesting!</p>]]></content><author><name>Scott Turnbull</name></author><category term="insight check" /><summary type="html"><![CDATA[Latest TTRPG News and Trends for the week of September 7th 2024.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/InsightCheck.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/InsightCheck.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Crafting Cultural Depth Through Food in TTRPGs</title><link href="https://www.optionalrule.com/2024/09/08/worldbuilding-through-food/" rel="alternate" type="text/html" title="Crafting Cultural Depth Through Food in TTRPGs" /><published>2024-09-08T13:03:00+00:00</published><updated>2024-09-08T13:03:00+00:00</updated><id>https://www.optionalrule.com/2024/09/08/worldbuilding-through-food</id><content type="html" xml:base="https://www.optionalrule.com/2024/09/08/worldbuilding-through-food/"><![CDATA[<p>The recent artwork depicting the Hero’s Feast spell has sparked a heated debate within the TTRPG community. While some argue that the inclusion of modern dishes like sushi and tacos breaks immersion, others welcome this expansion of the game’s aesthetics to make the setting familiar to more people. However, this debate overlooks a powerful worldbuilding tool: using food to create a deeper sense of culture and tradition in our fantasy worlds.</p>
-
-<p>Food is a universal connector across cultures, and it can be an excellent vehicle for humanizing and adding depth to the communities in your TTRPG settings. This post will explore how to effectively use food descriptions to enhance your worldbuilding, providing concrete strategies and examples to implement in your games.</p>
-
-<h2 id="the-power-of-food-in-worldbuilding">The Power of Food in Worldbuilding</h2>
-
-<figure class="figure float-end ms-4 clearfix">
-    
-    <img class="img-fluid figure-img " src="/assets/img/heroes-feast_480x302.webp" alt="A group of adventurers enjoying a hearty feast." height="302" width="480" />
-    
-    
-        <figcaption class="figure-caption text-center">Heros Feast by Wizards of the Coast</figcaption>
-    
-</figure>
-
-<p>Food can instantly create a sense of verisimilitude about the communities in your world. It’s not just about what people eat, but the particular styles and traditions behind it, which can suggest a great deal about a culture. Here are some key reasons why food is an effective worldbuilding tool:</p>
-
-<ol>
-  <li>Universal relatability</li>
-  <li>Cultural signifier</li>
-  <li>Historical context</li>
-  <li>Social dynamics</li>
-  <li>Environmental indicators</li>
-</ol>
-
-<p>By incorporating food into your descriptions, you can subtly convey information about all these aspects of your world.</p>
-
-<h2 id="strategies-for-using-food-in-worldbuilding">Strategies for Using Food in Worldbuilding</h2>
-
-<h3 id="1-describe-dont-label">1. Describe, Don’t Label</h3>
-
-<p>The key to effective food-based worldbuilding is to let the player draw connections to the familiar without explicitly naming real-world dishes. Instead of saying “taco,” describe the dish:</p>
-
-<ul>
-  <li>“Spiced meats nestled in a warm, soft flatbread”</li>
-  <li>“Tender chunks of seasoned meat cradled in a folded, griddled cornmeal cake”</li>
-  <li>“Sliced cooked vegitables in a rich sauce of light oils and spices, with a spongy bread used to grab and eat the dish.”</li>
-</ul>
-
-<p>This approach allows players to make connections while maintaining the fantasy atmosphere.</p>
-
-<h3 id="2-use-food-to-hint-at-cultural-practices">2. Use Food to Hint at Cultural Practices</h3>
-
-<p>Food preparation and consumption can reveal a lot about a culture. Consider the following examples:</p>
-
-<ul>
-  <li>A culture that values community might have traditions of communal cooking and shared meals</li>
-  <li>A nomadic society might favor preserved foods and portable meals</li>
-  <li>A hierarchical society might have strict rules about who can eat certain foods</li>
-  <li>A society may have particular traditions about the use of animals as food</li>
-</ul>
-
-<h3 id="3-incorporate-food-into-religious-or-magical-practices">3. Incorporate Food into Religious or Magical Practices</h3>
-
-<p>Food often plays a role in religious rituals and magical practices. Some ideas to consider:</p>
-
-<ul>
-  <li>Sacred plants or animals that are never eaten</li>
-  <li>Medicinal plants or animals that are always eaten</li>
-  <li>Specific preparations required for magical ingredients</li>
-  <li>Fasting or feasting traditions tied to religious observances</li>
-</ul>
-
-<h3 id="4-use-food-to-indicate-social-status">4. Use Food to Indicate Social Status</h3>
-
-<p>What people eat can say a lot about their place in society. Think about:</p>
-
-<ul>
-  <li>Rare or expensive ingredients reserved for the elite</li>
-  <li>“Peasant foods” that become delicacies</li>
-  <li>Taboos around certain foods for different social classes</li>
-</ul>
-
-<h3 id="5-let-food-reflect-the-environment">5. Let Food Reflect the Environment</h3>
-
-<p>The available food can tell players a lot about the local environment. Consider:</p>
-
-<ul>
-  <li>Coastal regions with abundant seafood</li>
-  <li>Arid areas with drought-resistant grains and preserved foods</li>
-  <li>Lush forests with a variety of fruits and game meats</li>
-  <li>Hot climates using spices and drying techniques for food preservation</li>
-  <li>Cold climates relying on smoking, salting, and fermentation for food storage</li>
-  <li>Temperate regions developing cheese-making and curing methods for dairy and meat preservation</li>
-</ul>
-
-<h2 id="implementing-food-based-worldbuilding">Implementing Food-Based Worldbuilding</h2>
-
-<p>To effectively use these strategies in your game, consider the following steps:</p>
-
-<ol>
-  <li><strong>Create a food profile for each major culture in your world</strong>
-    <ul>
-      <li>List three staple ingredients used in most meals</li>
-      <li>Describe common cooking methods, unique tools, or how food is stored</li>
-      <li>Note any significant food-related traditions of who can eat, what, and why</li>
-    </ul>
-  </li>
-  <li><strong>Incorporate food descriptions into your scene-setting</strong>
-    <ul>
-      <li>Describe smells and sounds of cooking in market scenes</li>
-      <li>Mention what characters are eating during social interactions</li>
-      <li>Highlight an NPCs preferences through how they eat their food (greedy, cautious, supiciously smell every bite, etc)</li>
-    </ul>
-  </li>
-  <li><strong>Use food as a plot device</strong>
-    <ul>
-      <li>A rare ingredient as a quest item</li>
-      <li>Diplomatic incidents over unfamiliar food customs</li>
-      <li>Poisoned feasts as a dramatic set-piece</li>
-    </ul>
-  </li>
-  <li><strong>Encourage player engagement with food</strong>
-    <ul>
-      <li>Ask players what their characters typically eat</li>
-      <li>Allow cooking skill checks for mechanical benefits, like helping in negotiations</li>
-      <li>Use food preferences as character development opportunities</li>
-    </ul>
-  </li>
-</ol>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>By thoughtfully incorporating food into your worldbuilding, you can create a richer, more immersive experience for your players. This approach allows you to subtly convey cultural information without resorting to direct real-world analogues or risking the trivialization of actual cultures.</p>
-
-<p>Remember, the goal is to create something new that feels familiar enough to be believable. By sprinkling in these culinary details, you’re not just describing food; you’re hinting at entire cultures and histories that can make your world come alive.</p>
-
-<p>Next time you’re describing a feast in your game, consider how you can use food to paint a picture of your world’s cultures. It’s an excellent way to add depth to your game without breaking immersion.</p>
-
-<h2 id="resources-for-further-exploration">Resources for Further Exploration</h2>
-
-<ul>
-  <li><a href="https://mythcreants.com/blog/podcasts/385-food-in-spec-fic/" target="_blank">Mythcreants ep385 - Food in Speculative Fiction</a> podcast</li>
-  <li><a href="https://www.amazon.com/Food-History-Reay-Tannahill/dp/0517884046" target="_blank">Food in History</a> Book by Reay Tannahill</li>
-  <li><a href="https://www.tumblr.com/inky-duchess/188520337528/fantasy-guide-to-feasts-food-and-drink" target="_blank">Fantasy Guide to Feasts</a> tumblr by inky-duchess</li>
-  <li><a href="https://www.innatthecrossroads.com/" target="_blank">The Inn at the Crossroads</a> blog on ficitional foods of all kinds.</li>
-</ul>
-
-<p>These resources can provide inspiration and depth to your food-based worldbuilding efforts. Remember, the key is to use these ideas as springboards for your own creativity, tailoring them to fit the unique aspects of your game world.</p>]]></content><author><name>Scott Turnbull</name></author><category term="rpg resources" /><summary type="html"><![CDATA[Learn how to use food descriptions in TTRPGs to create rich, immersive worlds. Practical tips for DMs to enhance cultural worldbuilding through cuisine.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/heroes-feast_1200x757.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/heroes-feast_1200x757.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>That’s it for the past week, ping me on twitter if you found anything interesting!</p>]]></content><author><name>Scott Turnbull</name></author><category term="insight check" /><summary type="html"><![CDATA[Latest TTRPG News and Trends for the week of September 7th 2024.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/InsightCheck.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/InsightCheck.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
