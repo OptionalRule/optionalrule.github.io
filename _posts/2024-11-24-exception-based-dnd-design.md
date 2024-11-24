@@ -18,12 +18,12 @@ With the slow rollout of the 2024 edition of Duneon & Dragons 5e, there's been c
  %}
 
 >
-> *"If it pleases the court, your honor, I choose to rage, throw our rouge as an inprovised weapon with elemental damage, and have them return to my hand."*
+> *"If it pleases the court, your honor, I choose to rage, throw our rogue as an inprovised weapon with elemental damage, and have them return to my hand."*
 >
 
 ## The Exception That Proves the Rule
 
-Since its inception, D&D 5e operates on what I call an "exception-based" design philosophy. Rather than providing broad, flexible guidelines that empower creative play, the system builds character capabilities through stacks of specific exceptions to basic rules. Your fighter doesn't just "fight well" - they have Action Surge, Second Wind, and various fighting styles that each modify base rules in particular ways. So they're not just fighitng better than everyone else, they're operating under a complete different set of rules than anyone else. A unique set of exceptions just for them.
+Since its inception, D&D 5e operates on what I call an "exception-based" design philosophy. Rather than providing broad, flexible guidelines that empower creative play, the system builds character capabilities through stacks of specific exceptions to basic rules. Your fighter doesn't just "fight well" - they have Action Surge, Second Wind, and various fighting styles that each modify base rules in particular ways. So they're not just fighting better than everyone else, they're operating under a complete different set of rules than anyone else. A unique set of exceptions just for them.
 
 This might seem like a minor distinction, but it fundamentally shapes how players engage with the game:
 
