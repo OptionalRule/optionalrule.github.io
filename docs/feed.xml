@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-11-22T18:21:10+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">War and Warfare in TTRPGs - How to Bring Epic Conflicts to Life</title><link href="https://www.optionalrule.com/2024/11/22/warfare-in-ttrpgs/" rel="alternate" type="text/html" title="War and Warfare in TTRPGs - How to Bring Epic Conflicts to Life" /><published>2024-11-22T00:00:00+00:00</published><updated>2024-11-22T00:00:00+00:00</updated><id>https://www.optionalrule.com/2024/11/22/warfare-in-ttrpgs</id><content type="html" xml:base="https://www.optionalrule.com/2024/11/22/warfare-in-ttrpgs/"><![CDATA[<p>War. It’s the drumbeat of countless fantasy epics, a crucible that forges heroes and shapes kingdoms. From the sweeping battles of <em>The Lord of the Rings</em> to Conan’s gritty skirmishes, war has always been central to the fantasy genre. Even modern fantasy leans heavily on the backdrop of conflict, often zooming in on the personal stories of individuals caught in its tide.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.optionalrule.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.optionalrule.com/" rel="alternate" type="text/html" /><updated>2024-11-24T17:27:11+00:00</updated><id>https://www.optionalrule.com/feed.xml</id><title type="html">Optional Rule</title><subtitle>Optional Rule is a blog for DMs and Players alike of DnD 5e and any tabletop  roleplaying game. It offers rules, insight, analysis, and resources that help people run games and enhance their play.</subtitle><author><name>Scott Turnbull</name></author><entry><title type="html">Exception Based Design in D&amp;amp;D - When Rules Enable Rule Lawyers</title><link href="https://www.optionalrule.com/2024/11/24/exception-based-dnd-design/" rel="alternate" type="text/html" title="Exception Based Design in D&amp;amp;D - When Rules Enable Rule Lawyers" /><published>2024-11-24T00:00:00+00:00</published><updated>2024-11-24T00:00:00+00:00</updated><id>https://www.optionalrule.com/2024/11/24/exception-based-dnd-design</id><content type="html" xml:base="https://www.optionalrule.com/2024/11/24/exception-based-dnd-design/"><![CDATA[<p>With the slow rollout of the 2024 edition of Duneon &amp; Dragons 5e, there’s been considerable discussion about the game’s underlying design philosophy and how it shapes player behavior at the table. While every edition has had its share of rules lawyers, the current design trajectory might actually be encouraging more rules-focused play - and not always in ways that enhance the experience.</p>
+
+<figure class="figure float-end ms-4 clearfix">
+    
+    <img class="img-fluid figure-img " src="/assets/img/unfrozen_barbarian_lawyer_480x856.webp" alt="A barbarian holding a legal document." height="856" width="480" />
+    
+    
+        <figcaption class="figure-caption text-center">Unfrozen Barbarian Lawyer.</figcaption>
+    
+</figure>
+
+<blockquote>
+
+  <p><em>“If it pleases the court, your honor, I choose to rage, throw our rouge as an inprovised weapon with elemental damage, and have them return to my hand.”</em></p>
+
+</blockquote>
+
+<h2 id="the-exception-that-proves-the-rule">The Exception That Proves the Rule</h2>
+
+<p>Since its inception, D&amp;D 5e operates on what I call an “exception-based” design philosophy. Rather than providing broad, flexible guidelines that empower creative play, the system builds character capabilities through stacks of specific exceptions to basic rules. Your fighter doesn’t just “fight well” - they have Action Surge, Second Wind, and various fighting styles that each modify base rules in particular ways. So they’re not just fighitng better than everyone else, they’re operating under a complete different set of rules than anyone else. A unique set of exceptions just for them.</p>
+
+<p>This might seem like a minor distinction, but it fundamentally shapes how players engage with the game:</p>
+
+<ol>
+  <li>It trains players to think in terms of “what special rules apply here?” rather than “what makes sense in this situation?”</li>
+  <li>It creates an implicit promise that if something isn’t explicitly permitted by a rule exception, it might not be allowed</li>
+  <li>It rewards system mastery through finding and combining favorable exceptions</li>
+</ol>
+
+<h2 id="the-complexity-stack-of-5e-2024">The Complexity Stack of 5e 2024</h2>
+
+<p>The 5e 2024 revision appears to be doubling down on the exception-based design philosophy the edition started with in 2014. With more class features, more specific interactions, and more granular rules, we’re seeing what might be the most complex stack of exceptions yet in 5e’s history.</p>
+
+<p>This isn’t inherently bad - some players genuinely enjoy engaging with complex rule systems. However, it creates some challenging dynamics and can sometimes put a game at odds with itself when situations arise where a rules exception runs counter to the DMs attempt to run a cohesive game.  I want to be clear here that, were this to happen, it’s not the fault of the DM or a player.  DMs are trying to create smooth fast fun, and players want to naturally use the abilities that make their character unique.  It’s just a natural part of the game. But they do sometimes conflict in the best of cases, and can sometimes incentivize arguments over rules interpretations in the worse cases.</p>
+
+<h3 id="the-incentive-problem">The Incentive Problem</h3>
+
+<p>When your character’s capabilities are defined primarily through rules exceptions, you’re incentivized to:</p>
+<ul>
+  <li>Search for more exceptions</li>
+  <li>Find ways to combine exceptions favorably</li>
+  <li>Argue for beneficial interpretations of exception interactions</li>
+</ul>
+
+<p>This naturally leads to more rules discussions, more time spent debating edge cases, and potentially more friction at the table.</p>
+
+<h3 id="the-new-rule-0-problem">The New Rule 0 Problem</h3>
+
+<p>In almost every previous edition of D&amp;D, there was a Rule 0. This was the catch-all rule that allowed the DM to make decisions about how to handle situations that didn’t fit neatly into the rules as written. It was a narrative safety net that allowed the DM to weave a story that fit the theme of the adventure, even if it wasn’t spelled out in the rules.</p>
+
+<p>In 5e 2024, it seems that Rule 0 has been replaced by a well intentioned and good sounding version “Rule 0 of D&amp;D is simple: Have fun. It’s fine if everyone agrees to change the rules as long as doing so means the game is more fun for everyone.” and this works fine for many groups. However, for games with rules lawyers problems, it fuels the fire of delays and arguments over rules interpretations. First, fun is subjective so it jumps right past the idea of a conhesive experience and the DMs role in managing that to a sort of palementary process. Second, it abandon’s the idea of making quick rulings to keep the game moving and directly sets the expectation of stopping everything for a debate whenever someone wants to. Third, it firmly enforces the idea that D&amp;D is a game or rules, not rulings, and that things run like a computer program, not like a story unless the entire groups stops and debates every single thing. Last, it flips traditional games on it’s head and establishes for the DM to be overruled by the players, which is a powerful and dangerous idea.</p>
+
+<p>This is powerful because player input should be one of the most important things driving the game. However, it’s also dangerous because pushing this too far in a direction the DM isn’t interested is going to cause them to burn out and games to collapse. It can incentivize some very bad player behavior where they treat DMs like a low functioning gaming console they yell at whenever the game doesn’t go the way they want.</p>
+
+<h2 id="finding-balance-at-your-table">Finding Balance at Your Table</h2>
+
+<p>Despite these design considerations, it’s crucial to remember that system design influences but doesn’t determine player behavior. I’ve seen groups play highly tactical games using narrative systems, and groups play narrative-focused games using crunchy systems.</p>
+
+<p>The key is understanding these design influences so we can actively choose how to engage with them:</p>
+
+<ol>
+  <li><strong>Be Up Front</strong>: Everyone in the group should be up front about their play styles, what their deal breakers are, and what they expect from each other at the table. This is NOT just a DM responsibility, it’s the responsibility of everyone at the table to both communicate and listen to each other and to abide by any agreements made.</li>
+  <li><strong>Embrace The DM’s Role</strong>: The DM should be supported by everyone at the table. This means they will everyone will do their flat best to be mindful that the DM is doing their best to run the game smoothly and that we’re all in this together.</li>
+  <li><strong>Focus on Fun for Everyone</strong>: If a rules discussion is slowing down play, help everyone make a quick decision and move on. Anyone can offer a quick suggestin or alternative to keep things moving.The DM should be empowered to make these decisions and everyone should be mindful that the game is more important than any one ability or ruling.</li>
+</ol>
+
+<h2 id="moving-forward">Moving Forward</h2>
+
+<p>The 2024 edition of D&amp;D 5e is a good game, just as its predecessors have been. Understanding its design philosophy helps us engage with it more intentionally and adapt it to our preferred play styles. People can lose sight of this when commenting in this way and assuming I’m saying the game is bad. It’s not, but design does effect how we play and how we interact with each other at the table. It’s important to be aware of these things so we can make choices about how we play that enhance the experience for everyone.</p>
+
+<p>Remember that every game system has its strengths and weaknesses. The goal isn’t to find a perfect system, but to understand how to work with the system you’re using to create the best experience for your group.</p>
+
+<h3 id="tips-for-dms">Tips for DMs</h3>
+
+<ol>
+  <li>Set aside time between sessions to review any “rulings over rules” you made during the last session</li>
+  <li>Be confident in making rulings that prioritize game flow over perfect rule accuracy, and don’t feel shy about asking players to help you keep the game moving</li>
+  <li>Consider house rules that simplify exception chains that commonly cause confusion and write them down</li>
+  <li>Unless something is going to wreck the game for everyone, let it slide and say yes. Remember you can revisit the decision in between sessions.</li>
+</ol>
+
+<h3 id="tips-for-players">Tips for Players</h3>
+
+<ol>
+  <li>Focus on understanding your character’s capabilities thoroughly, not just on the letter of the ability but the spirit of the rules</li>
+  <li>Consider the greater flow of the game, the style you’ve all agreed on, and what the DM is trying to do at the table</li>
+  <li>Save complex rules discussions for between sessions and trust the DM to make the call when needed. However, don’t just forget about it until the next session. Actively discuss things between sessions and don’t just leave it until the next situation.</li>
+  <li>Remember that D&amp;D is collaborative, not competitive.  Also keep in mind that once something is decided, accept it and move on.</li>
+</ol>
+
+<p>By understanding these design elements, we can better navigate their influence and focus on what truly matters: creating memorable stories and having fun with friends around the table.</p>]]></content><author><name>Scott Turnbull</name></author><category term="rpg resources" /><summary type="html"><![CDATA[Explore how D&D 5e's exception-based design affects table dynamics and player behavior, with tips for better game flow and group harmony]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/unfrozen_barbarian_lawyer_480x856.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/unfrozen_barbarian_lawyer_480x856.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">War and Warfare in TTRPGs - How to Bring Epic Conflicts to Life</title><link href="https://www.optionalrule.com/2024/11/22/warfare-in-ttrpgs/" rel="alternate" type="text/html" title="War and Warfare in TTRPGs - How to Bring Epic Conflicts to Life" /><published>2024-11-22T00:00:00+00:00</published><updated>2024-11-22T00:00:00+00:00</updated><id>https://www.optionalrule.com/2024/11/22/warfare-in-ttrpgs</id><content type="html" xml:base="https://www.optionalrule.com/2024/11/22/warfare-in-ttrpgs/"><![CDATA[<p>War. It’s the drumbeat of countless fantasy epics, a crucible that forges heroes and shapes kingdoms. From the sweeping battles of <em>The Lord of the Rings</em> to Conan’s gritty skirmishes, war has always been central to the fantasy genre. Even modern fantasy leans heavily on the backdrop of conflict, often zooming in on the personal stories of individuals caught in its tide.</p>
 
 <p>In TTRPGs like <em>Dungeons &amp; Dragons</em>, war seems like an obvious theme to explore. But translating epic wartime narratives into compelling, player-driven experiences can be tricky. After all, TTRPGs are fundamentally about personal choices and agency, while war is a massive, impersonal machine that often renders individual actions insignificant. Balancing these conflicting dynamics is no small task.</p>
 
@@ -671,44 +761,4 @@ The report doesn’t break out specific D&amp;D performance metrics, but there a
 
 <p>It’s important to note that while AI can greatly enhance our ability to manage and access game information, it doesn’t replace the need for human decision-making and creativity. The AI serves as a powerful tool to support and streamline the game, allowing us to spend more time on the aspects of TTRPGs that we truly enjoy.</p>
 
-<p>What are your thoughts on AI in TTRPGs? Are there other applications you think could be beneficial? Hit me on on X and let me know!</p>]]></content><author><name>Scott Turnbull</name></author><category term="rpg resources" /><summary type="html"><![CDATA[Explore positive AI applications in TTRPGs. Discover how AI can enhance gameplay, streamline admin tasks, and support creativity without replacing human input.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/ttrpg_players_and_robot_1200x600.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/ttrpg_players_and_robot_1200x600.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Insight Check - TTRPG News &amp;amp; Events</title><link href="https://www.optionalrule.com/2024/09/15/insight-check/" rel="alternate" type="text/html" title="Insight Check - TTRPG News &amp;amp; Events" /><published>2024-09-15T20:03:00+00:00</published><updated>2024-09-15T20:03:00+00:00</updated><id>https://www.optionalrule.com/2024/09/15/insight-check</id><content type="html" xml:base="https://www.optionalrule.com/2024/09/15/insight-check/"><![CDATA[<p>Welcome back to Insight Check! This is my experiment in a weekly roundup of TTRPG news and trends you may have missed. From nostalgic franchises making their tabletop debut to beloved indie darlings expanding their realms, we’ve got a little magic for every gaming group. This week’s roundup covers everything from a transformative bundle that’s more than meets the eye to Root’s woodland creatures delving into dungeons, community highlights from Tabletop Scotland, and even a liminal deal that bridges our world and the next. So, grab your character sheets and settle into your comfiest chair (I’ve got my trusty tankard of coffee right here) as we explore the latest happenings in the TTRPG world. Whether you’re a dungeon master looking for new tools or a player seeking your next great campaign, I promise there’s something here to spark your imagination and fuel your next adventure.</p>
-
-<p>Ready to roll? Let’s dive into stories for the week of September 15th 2024!</p>
-
-<h3 id="humble-bundle---transformers-rpg">Humble Bundle - Transformers RPG</h3>
-<p><em>September 8, 2024</em>, <a href="https://www.tenkarstavern.com/2024/09/humble-bundle-transformers-rpg.html" target="_blank">Tenkar’s Tavern</a>, #HumbleBundle #Transformers #RPG #Deals</p>
-
-<p>A new Humble Bundle featuring a Transformers RPG has been launched, providing fans with a unique gaming experience. This bundle offers a range of materials and resources that can help you dive deep into the world of Transformers, making it a must-have for fans of the franchise. If you’re a Transformers fan or just looking for a new RPG to explore, this bundle offers excellent value. Check out the <a href="https://www.tenkarstavern.com/2024/09/humble-bundle-transformers-rpg.html" target="_blank">full article here</a>.</p>
-
-<h3 id="root-the-roleplaying-game--ruins-and-expeditions-adds-dungeons-and-delves-and-monsters">‘Root: The Roleplaying Game’ – “Ruins and Expeditions” Adds Dungeons and Delves and Monsters</h3>
-<p><em>September 9, 2024</em>, <a href="https://www.belloflostsouls.net/2024/09/root-the-roleplaying-game-ruins-and-expeditions-adds-dungeons-and-delves-and-monsters.html" target="_blank">Bell of Lost Souls</a>, #RootRPG #Expansion #Dungeons #Monsters</p>
-
-<p>The latest expansion for ‘Root: The Roleplaying Game’ introduces new adventures, including dungeons, delves, and monsters, expanding the gameplay for fans. This addition brings a fresh layer of excitement and complexity to an already beloved game. If you’re a fan of Root, this expansion is a game-changer. Discover more about the new features <a href="https://www.belloflostsouls.net/2024/09/root-the-roleplaying-game-ruins-and-expeditions-adds-dungeons-and-delves-and-monsters.html" target="_blank">here</a>.</p>
-
-<h3 id="audio-exp-podcast-253--the-tabletop-scotland-download">Audio EXP Podcast: #253 – The Tabletop Scotland download</h3>
-<p><em>September 10, 2024</em>, <a href="https://www.geeknative.com/168503/audio-exp-podcast-253-the-tabletop-scotland-download/" target="_blank">Geek Native</a>, #Podcast #TabletopScotland #Community</p>
-
-<p>The latest episode of the Audio EXP Podcast discusses recent developments in the tabletop gaming community, including highlights from Tabletop Scotland. This episode is packed with insights and updates that are sure to interest any TTRPG fan. Stay updated with the latest community news and events by listening to this episode. Find out more <a href="https://www.geeknative.com/168503/audio-exp-podcast-253-the-tabletop-scotland-download/" target="_blank">here</a>.</p>
-
-<h3 id="voting-open-for-the-rpg-publisher-spotlight-october-2024">Voting open for the RPG Publisher Spotlight October 2024</h3>
-<p><em>September 11, 2024</em>, <a href="https://www.geeknative.com/168249/voting-open-for-the-rpg-publisher-spotlight-october-2024/" target="_blank">Geek Native</a>, #RPGPublisher #Voting #Community</p>
-
-<p>Voting has opened for the RPG Publisher Spotlight, allowing fans to recognize their favorite publishers in the industry. This is a fantastic opportunity to support the creators who bring your favorite games to life. Show your support for your favorite RPG publishers by participating in the voting. Learn how you can cast your vote <a href="https://www.geeknative.com/168249/voting-open-for-the-rpg-publisher-spotlight-october-2024/" target="_blank">here</a>.</p>
-
-<h3 id="kickstarter---warlock-knight-dfrpg">Kickstarter - Warlock Knight (DFRPG)</h3>
-<p><em>September 12, 2024</em>, <a href="https://www.tenkarstavern.com/2024/09/kickstarter-warlock-knight-dfrpg.html" target="_blank">Tenkar’s Tavern</a>, #Kickstarter #WarlockKnight #DFRPG</p>
-
-<p>A new Kickstarter campaign for ‘Warlock Knight’ has launched, aiming to bring fresh content and adventures to the DFRPG community. This campaign promises to add exciting new elements to the game, making it a worthwhile investment for fans. Support the Kickstarter and be among the first to experience the new content. Check out the campaign details <a href="https://www.tenkarstavern.com/2024/09/kickstarter-warlock-knight-dfrpg.html" target="_blank">here</a>.</p>
-
-<h3 id="bundle-of-holding---liminal-modiphius">Bundle of Holding - Liminal (Modiphius)</h3>
-<p><em>September 13, 2024</em>, <a href="https://www.tenkarstavern.com/2024/09/bundle-of-holding-liminal-modiphius.html" target="_blank">Tenkar’s Tavern</a>, #BundleOfHolding #Liminal #Modiphius #Deals</p>
-
-<p>A new Bundle of Holding featuring the Liminal RPG from Modiphius is available, providing great deals for players looking to explore new settings. This bundle offers a rich and immersive experience at a fraction of the cost. Don’t miss out on this fantastic deal. Learn more about what’s included in the bundle <a href="https://www.tenkarstavern.com/2024/09/bundle-of-holding-liminal-modiphius.html" target="_blank">here</a>.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>This week has been a whirlwind of exciting news and developments in the TTRPG world. Whether you’re a fan of Transformers, Root, or looking to support new projects on Kickstarter, there’s something for everyone. Stay tuned to OptionalRules.com for more updates and insights into the ever-evolving world of tabletop roleplaying games.</p>
-
-<p>Happy gaming!</p>
-
-<p>I hope this roundup helps you stay informed and inspired for your next gaming session. Don’t forget to check out the links for more detailed information and consider supporting the creators who make our favorite games possible. Until next time, roll those dice and embark on new adventures!</p>]]></content><author><name>Scott Turnbull</name></author><category term="insight check" /><summary type="html"><![CDATA[TTRPG News and Trends you may have missed for the week ending of September 15th 2024.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/InsightCheck.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/InsightCheck.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>What are your thoughts on AI in TTRPGs? Are there other applications you think could be beneficial? Hit me on on X and let me know!</p>]]></content><author><name>Scott Turnbull</name></author><category term="rpg resources" /><summary type="html"><![CDATA[Explore positive AI applications in TTRPGs. Discover how AI can enhance gameplay, streamline admin tasks, and support creativity without replacing human input.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.optionalrule.com/assets/img/ttrpg_players_and_robot_1200x600.webp" /><media:content medium="image" url="https://www.optionalrule.com/assets/img/ttrpg_players_and_robot_1200x600.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
